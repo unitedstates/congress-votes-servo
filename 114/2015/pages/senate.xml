@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><vote_summary>
+  <congress>114</congress>
+  <session>1</session>
+  <congress_year>2015</congress_year>
+  <votes>
+    <vote>
+      <vote_number>00002</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00026:">H.R. 26</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>H.R. 26; A bill to extend the termination date of the Terrorism Insurance Program established under the Terrorism Risk Insurance Act of 2002, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00001</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00026:">H.R. 26</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00001:">S.Amdt. 1</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>31</yeas>
+        <nays>66</nays>
+      </vote_tally>
+      <title>Warren Amdt. No. 1; In the nature of a substitute.</title>
+    </vote>
+  </votes>
+</vote_summary>
