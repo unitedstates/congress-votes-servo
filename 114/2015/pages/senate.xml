@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00003</vote_number>
+      <vote_date>12-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>63</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S.1; A bill to approve the Keystone XL Pipeline.</title>
+    </vote>
+    <vote>
       <vote_number>00002</vote_number>
       <vote_date>08-Jan</vote_date>
       <issue>
