@@ -30,7 +30,7 @@
 <yea-total>0</yea-total>
 <nay-total>242</nay-total>
 <present-total>0</present-total>
-<not-voting-total>2</not-voting-total>
+<not-voting-total>3</not-voting-total>
 </totals-by-party>
 <totals-by-party>
 <party>Democratic</party>
@@ -51,7 +51,7 @@
 <yea-total>176</yea-total>
 <nay-total>249</nay-total>
 <present-total>0</present-total>
-<not-voting-total>7</not-voting-total>
+<not-voting-total>8</not-voting-total>
 </totals-by-vote>
 </vote-totals>
 </vote-metadata>
@@ -343,6 +343,7 @@
 <recorded-vote><legislator name-id="N000188" sort-field="Norcross" unaccented-name="Norcross" party="D" state="NJ" role="legislator">Norcross</legislator><vote>Aye</vote></recorded-vote>
 <recorded-vote><legislator name-id="N000185" sort-field="Nugent" unaccented-name="Nugent" party="R" state="FL" role="legislator">Nugent</legislator><vote>No</vote></recorded-vote>
 <recorded-vote><legislator name-id="N000181" sort-field="Nunes" unaccented-name="Nunes" party="R" state="CA" role="legislator">Nunes</legislator><vote>No</vote></recorded-vote>
+<recorded-vote><legislator name-id="N000186" sort-field="Nunnelee" unaccented-name="Nunnelee" party="R" state="MS" role="legislator">Nunnelee</legislator><vote>Not Voting</vote></recorded-vote>
 <recorded-vote><legislator name-id="O000170" sort-field="O'Rourke" unaccented-name="O'Rourke" party="D" state="TX" role="legislator">O'Rourke</legislator><vote>Aye</vote></recorded-vote>
 <recorded-vote><legislator name-id="O000168" sort-field="Olson" unaccented-name="Olson" party="R" state="TX" role="legislator">Olson</legislator><vote>Not Voting</vote></recorded-vote>
 <recorded-vote><legislator name-id="P000601" sort-field="Palazzo" unaccented-name="Palazzo" party="R" state="MS" role="legislator">Palazzo</legislator><vote>No</vote></recorded-vote>
