@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00006</vote_number>
+      <vote_date>20-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00003:">S.Amdt. 3</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Portman Amdt. No. 3 As Modified; To promote energy efficiency.</title>
+    </vote>
+    <vote>
       <vote_number>00005</vote_number>
       <vote_date>20-Jan</vote_date>
       <issue>
