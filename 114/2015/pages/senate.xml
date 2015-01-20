@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00005</vote_number>
+      <vote_date>20-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00017:">S.Amdt. 17</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Table Franken Amdt. No. 17; To require the use of iron, steel, and manufactured goods produced in the United States in the construction of the Keystone XL Pipeline and facilities.</title>
+    </vote>
+    <vote>
+      <vote_number>00004</vote_number>
+      <vote_date>20-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00013:">S.Amdt. 13</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Table Markey Amdt. No. 13; To ensure that oil transported through the Keystone XL pipeline into the United States is used to reduce United States dependence on Middle Eastern oil.</title>
+    </vote>
+    <vote>
       <vote_number>00003</vote_number>
       <vote_date>12-Jan</vote_date>
       <issue>
