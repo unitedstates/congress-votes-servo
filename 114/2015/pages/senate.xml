@@ -4,6 +4,62 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00010</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00029:">S.Amdt. 29</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Whitehouse Amdt. No. 29; To express the sense of the Senate that climate change is real and not a hoax.</title>
+    </vote>
+    <vote>
+      <vote_number>00009</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00041:">S.Amdt. 41</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Toomey Amdt. No. 41; To continue cleaning up fields and streams while protecting neighborhoods, generating affordable energy, and creating jobs.</title>
+    </vote>
+    <vote>
+      <vote_number>00008</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00069:">S.Amdt. 69</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>58</nays>
+      </vote_tally>
+      <title>Durbin Amdt. No. 69; To ensure that the storage and transportation of petroleum coke is regulated in a manner that ensures the protection of public and ecological health.</title>
+    </vote>
+    <vote>
+      <vote_number>00007</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00033:">S.Amdt. 33</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 33; To conform citizen suits under the Endangered Species Act of 1973.</title>
+    </vote>
+    <vote>
       <vote_number>00006</vote_number>
       <vote_date>20-Jan</vote_date>
       <issue>
