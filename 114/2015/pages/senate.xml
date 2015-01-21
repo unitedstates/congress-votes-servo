@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00011</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00087:">S.Amdt. 87</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Hoeven Amdt. No. 87, As Modified; To express the sense of Congress regarding climate change.</title>
+    </vote>
+    <vote>
       <vote_number>00010</vote_number>
       <vote_date>21-Jan</vote_date>
       <issue>
