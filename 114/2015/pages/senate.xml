@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00013</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00113:">S.Amdt. 113</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Boxer Amdt. No. 113; To express the sense of Congress regarding federally protected land.</title>
+    </vote>
+    <vote>
       <vote_number>00012</vote_number>
       <vote_date>21-Jan</vote_date>
       <issue>
