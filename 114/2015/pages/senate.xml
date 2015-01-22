@@ -4,6 +4,62 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00017</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00071:">S.Amdt. 71</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 71; To require a procedure for issuing permits to drill.</title>
+    </vote>
+    <vote>
+      <vote_number>00016</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00024:">S.Amdt. 24</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Table Sanders Amdt. No. 24; To express the sense of Congress regarding climate change.</title>
+    </vote>
+    <vote>
+      <vote_number>00015</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00099:">S.Amdt. 99</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Table Manchin Amdt. No. 99; To express the sense of Congress regarding climate change.</title>
+    </vote>
+    <vote>
+      <vote_number>00014</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00018:">S.Amdt. 18</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Fischer Amdt. No. 18, As Amended.; To provide limits on the designation of new federally protected land.</title>
+    </vote>
+    <vote>
       <vote_number>00013</vote_number>
       <vote_date>22-Jan</vote_date>
       <issue>
