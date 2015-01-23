@@ -4,6 +4,90 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00028</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00074:">S.Amdt. 74</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Table Reed Amdt. No. 74; To express the sense of the Senate that the Low-Income Home Energy Assistance Program should be funded at not less than $4,700,000,000 annually.</title>
+    </vote>
+    <vote>
+      <vote_number>00027</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00030:">S.Amdt. 30</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Table Leahy Amdt. No. 30; To strike a provision relating to judicial review.</title>
+    </vote>
+    <vote>
+      <vote_number>00026</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00028:">S.Amdt. 28</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Table Whitehouse Amdt. No. 28; To require campaign finance disclosures for certain persons benefitting from tar sands development.</title>
+    </vote>
+    <vote>
+      <vote_number>00025</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00121:">S.Amdt. 121</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Table Carper Amdt. No. 121; To impose a fee of 8 cents per barrel on oil transported through the pipeline.</title>
+    </vote>
+    <vote>
+      <vote_number>00024</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00025:">S.Amdt. 25</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Table Markey Amdt. No. 25; To ensure that products derived from tar sands are treated as crude oil for purposes of the Federal excise tax on petroleum.</title>
+    </vote>
+    <vote>
+      <vote_number>00023</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Motion for Attendance</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Instruct the Sgt. at Arms; A bill to approve the Keystone XL Pipeline.</title>
+    </vote>
+    <vote>
       <vote_number>00022</vote_number>
       <vote_date>22-Jan</vote_date>
       <issue>
