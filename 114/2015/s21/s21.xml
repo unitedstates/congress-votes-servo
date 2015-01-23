@@ -2,16 +2,16 @@
   <congress>114</congress>
   <session>1</session>
   <congress_year>2015</congress_year>
-  <vote_number>14</vote_number>
-  <vote_date>January 22, 2015,  04:30 PM</vote_date>
-  <modify_date>January 22, 2015,  07:19 PM</modify_date>
-  <vote_question_text>On the Amendment S.Amdt. 18 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act)</vote_question_text>
-  <vote_document_text>To provide limits on the designation of new federally protected land.</vote_document_text>
-  <vote_result_text>Amendment Rejected (54-45, 3/5 majority required)</vote_result_text>
+  <vote_number>21</vote_number>
+  <vote_date>January 22, 2015,  06:53 PM</vote_date>
+  <modify_date>January 22, 2015,  07:27 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 126 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act)</vote_question_text>
+  <vote_document_text>To ensure private property is protected as guaranteed by the United States Constitution.</vote_document_text>
+  <vote_result_text>Amendment Agreed to (64-33)</vote_result_text>
   <question>On the Amendment</question>
-  <vote_title>Fischer Amdt. No. 18, As Modified</vote_title>
-  <majority_requirement>3/5</majority_requirement>
-  <vote_result>Amendment Rejected</vote_result>
+  <vote_title>Cornyn Amdt. No. 126 As Modified</vote_title>
+  <majority_requirement>1/2</majority_requirement>
+  <vote_result>Amendment Agreed to</vote_result>
   <document>
     <document_congress>114</document_congress>
     <document_type/>
@@ -21,18 +21,18 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 18</amendment_number>
+    <amendment_number>S.Amdt. 126</amendment_number>
     <amendment_to_amendment_number>S.Amdt. 2</amendment_to_amendment_number>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>S. 1</amendment_to_document_number>
     <amendment_to_document_short_title>Keystone XL Pipeline Act</amendment_to_document_short_title>
-    <amendment_purpose>To provide limits on the designation of new federally protected land.</amendment_purpose>
+    <amendment_purpose>To ensure private property is protected as guaranteed by the United States Constitution.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>54</yeas>
-    <nays>45</nays>
+    <yeas>64</yeas>
+    <nays>33</nays>
     <present/>
-    <absent>1</absent>
+    <absent>3</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -54,7 +54,7 @@
       <first_name>Kelly</first_name>
       <party>R</party>
       <state>NH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S340</lis_member_id>
     </member>
     <member>
@@ -90,7 +90,7 @@
       <first_name>Richard</first_name>
       <party>D</party>
       <state>CT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S341</lis_member_id>
     </member>
     <member>
@@ -144,7 +144,7 @@
       <first_name>Richard</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S300</lis_member_id>
     </member>
     <member>
@@ -180,7 +180,7 @@
       <first_name>Thomas</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S277</lis_member_id>
     </member>
     <member>
@@ -189,7 +189,7 @@
       <first_name>Bob</first_name>
       <party>D</party>
       <state>PA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S309</lis_member_id>
     </member>
     <member>
@@ -225,7 +225,7 @@
       <first_name>Susan</first_name>
       <party>R</party>
       <state>ME</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S252</lis_member_id>
     </member>
     <member>
@@ -297,7 +297,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>IN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S356</lis_member_id>
     </member>
     <member>
@@ -387,7 +387,7 @@
       <first_name>Lindsey</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S293</lis_member_id>
     </member>
     <member>
@@ -414,7 +414,7 @@
       <first_name>Martin</first_name>
       <party>D</party>
       <state>NM</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S359</lis_member_id>
     </member>
     <member>
@@ -495,7 +495,7 @@
       <first_name>Angus</first_name>
       <party>I</party>
       <state>ME</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S363</lis_member_id>
     </member>
     <member>
@@ -513,7 +513,7 @@
       <first_name>Amy</first_name>
       <party>D</party>
       <state>MN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S311</lis_member_id>
     </member>
     <member>
@@ -540,7 +540,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S346</lis_member_id>
     </member>
     <member>
@@ -576,7 +576,7 @@
       <first_name>Claire</first_name>
       <party>D</party>
       <state>MO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S312</lis_member_id>
     </member>
     <member>
@@ -657,7 +657,7 @@
       <first_name>Bill</first_name>
       <party>D</party>
       <state>FL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S282</lis_member_id>
     </member>
     <member>
@@ -900,7 +900,7 @@
       <first_name>Mark</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S327</lis_member_id>
     </member>
     <member>

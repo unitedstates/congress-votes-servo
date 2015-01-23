@@ -2,14 +2,14 @@
   <congress>114</congress>
   <session>1</session>
   <congress_year>2015</congress_year>
-  <vote_number>14</vote_number>
-  <vote_date>January 22, 2015,  04:30 PM</vote_date>
-  <modify_date>January 22, 2015,  07:19 PM</modify_date>
-  <vote_question_text>On the Amendment S.Amdt. 18 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act)</vote_question_text>
-  <vote_document_text>To provide limits on the designation of new federally protected land.</vote_document_text>
-  <vote_result_text>Amendment Rejected (54-45, 3/5 majority required)</vote_result_text>
+  <vote_number>20</vote_number>
+  <vote_date>January 22, 2015,  06:35 PM</vote_date>
+  <modify_date>January 22, 2015,  07:11 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 78 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act)</vote_question_text>
+  <vote_document_text>To express the sense of the Senate regarding the conditions for the President entering into bilateral or other international agreements regarding greenhouse gas emissions without proper study of any adverse economic effects, including job losses and harm to the industrial sector, and without the approval of the Senate.</vote_document_text>
+  <vote_result_text>Amendment Rejected (51-46, 3/5 majority required)</vote_result_text>
   <question>On the Amendment</question>
-  <vote_title>Fischer Amdt. No. 18, As Modified</vote_title>
+  <vote_title>Blunt Amdt. No. 78 As Modified</vote_title>
   <majority_requirement>3/5</majority_requirement>
   <vote_result>Amendment Rejected</vote_result>
   <document>
@@ -21,18 +21,18 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 18</amendment_number>
+    <amendment_number>S.Amdt. 78</amendment_number>
     <amendment_to_amendment_number>S.Amdt. 2</amendment_to_amendment_number>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>S. 1</amendment_to_document_number>
     <amendment_to_document_short_title>Keystone XL Pipeline Act</amendment_to_document_short_title>
-    <amendment_purpose>To provide limits on the designation of new federally protected land.</amendment_purpose>
+    <amendment_purpose>To express the sense of the Senate regarding the conditions for the President entering into bilateral or other international agreements regarding greenhouse gas emissions without proper study of any adverse economic effects, including job losses and harm to the industrial sector, and without the approval of the Senate.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>54</yeas>
-    <nays>45</nays>
+    <yeas>51</yeas>
+    <nays>46</nays>
     <present/>
-    <absent>1</absent>
+    <absent>3</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -144,7 +144,7 @@
       <first_name>Richard</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S300</lis_member_id>
     </member>
     <member>
@@ -387,7 +387,7 @@
       <first_name>Lindsey</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S293</lis_member_id>
     </member>
     <member>
@@ -423,7 +423,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -486,7 +486,7 @@
       <first_name>Timothy</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S362</lis_member_id>
     </member>
     <member>
@@ -495,7 +495,7 @@
       <first_name>Angus</first_name>
       <party>I</party>
       <state>ME</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S363</lis_member_id>
     </member>
     <member>
@@ -540,7 +540,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S346</lis_member_id>
     </member>
     <member>

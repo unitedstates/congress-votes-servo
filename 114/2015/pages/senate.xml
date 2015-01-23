@@ -4,6 +4,76 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00022</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00072:">S.Amdt. 72</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Menendez Amdt. No. 72 As Modified; To ensure private property cannot be seized through condemnation or eminent domain for the private gain of a foreign-owned business entity.</title>
+    </vote>
+    <vote>
+      <vote_number>00021</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00126:">S.Amdt. 126</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 126 As Modified; To ensure private property is protected as guaranteed by the United States Constitution.</title>
+    </vote>
+    <vote>
+      <vote_number>00020</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00078:">S.Amdt. 78</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Blunt Amdt. No. 78 As Modified; To express the sense of the Senate regarding the conditions for the President entering into bilateral or other international agreements regarding greenhouse gas emissions without proper study of any adverse economic effects, including job losses and harm to the industrial sector, and without the approval of the Senate.</title>
+    </vote>
+    <vote>
+      <vote_number>00019</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00027:">S.Amdt. 27</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Wyden Amdt. No. 27; To amend the Internal Revenue Code of 1986 to clarify that products derived from tar sands are crude oil for purposes of the Federal excise tax on petroleum.</title>
+    </vote>
+    <vote>
+      <vote_number>00018</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00123:">S.Amdt. 123</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Murkowski Amdt. No. 123; To express the sense of the Senate that all forms of unrefined and unprocessed petroleum should be subject to the nominal per-barrel excise tax associated with the Oil Spill Liability Trust Fund.</title>
+    </vote>
+    <vote>
       <vote_number>00017</vote_number>
       <vote_date>22-Jan</vote_date>
       <issue>
@@ -57,7 +127,7 @@
         <yeas>54</yeas>
         <nays>45</nays>
       </vote_tally>
-      <title>Fischer Amdt. No. 18, As Amended.; To provide limits on the designation of new federally protected land.</title>
+      <title>Fischer Amdt. No. 18, As Modified; To provide limits on the designation of new federally protected land.</title>
     </vote>
     <vote>
       <vote_number>00013</vote_number>
