@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00030</vote_number>
+      <vote_date>26-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S. 1; A bill to approve the Keystone XL Pipeline.</title>
+    </vote>
+    <vote>
+      <vote_number>00029</vote_number>
+      <vote_date>26-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00002:">S.Amdt. 2</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Murkowski Amdt. No. 2; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00028</vote_number>
       <vote_date>22-Jan</vote_date>
       <issue>
@@ -65,7 +93,7 @@
       <issue>
         <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
       </issue>
-      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00025:">S.Amdt. 25</A></question>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00025:">S.Amdt. 25</A></question>
       <result>Agreed to</result>
       <vote_tally>
         <yeas>53</yeas>
