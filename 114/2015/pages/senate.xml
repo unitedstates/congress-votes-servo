@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00033</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00023:">S.Amdt. 23</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>40</yeas>
+        <nays>58</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 23; To increase the quantity of solar photovoltaic electricity by providing rebates for the purchase and installation of an additional 10,000,000 photovoltaic systems by 2025.</title>
+    </vote>
+    <vote>
       <vote_number>00032</vote_number>
       <vote_date>28-Jan</vote_date>
       <issue>
