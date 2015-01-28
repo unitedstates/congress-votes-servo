@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00036</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00148:">S.Amdt. 148</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Whitehouse Amdt. No. 148; To require campaign finance disclosures for certain persons benefitting from tar sands development.</title>
+    </vote>
+    <vote>
+      <vote_number>00035</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00073:">S.Amdt. 73</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Moran Amdt. No. 73; To delist the lesser prairie-chicken as a threatened species under the Endangered Species Act of 1973.</title>
+    </vote>
+    <vote>
+      <vote_number>00034</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00015:">S.Amdt. 15</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Cruz Amdt. No 15; To promote economic growth and job creation by increasing exports.</title>
+    </vote>
+    <vote>
       <vote_number>00033</vote_number>
       <vote_date>28-Jan</vote_date>
       <issue>
