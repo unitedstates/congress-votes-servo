@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00039</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00166:">S.Amdt. 166</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Murkowski Amdt. No. 166; To release certain wilderness study areas from management for preservation as wilderness.</title>
+    </vote>
+    <vote>
+      <vote_number>00038</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00115:">S.Amdt. 115</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Coons Amdt. No. 115; To express the sense of Congress regarding climate change and infrastructure.</title>
+    </vote>
+    <vote>
+      <vote_number>00037</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00132:">S.Amdt. 132</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Daines Amdt. No. 132; To express the sense of Congress regarding the designation of National Monuments.</title>
+    </vote>
+    <vote>
       <vote_number>00036</vote_number>
       <vote_date>28-Jan</vote_date>
       <issue>
