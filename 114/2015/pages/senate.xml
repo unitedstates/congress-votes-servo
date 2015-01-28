@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00032</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00070:">S.Amdt. 70</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>40</yeas>
+        <nays>58</nays>
+      </vote_tally>
+      <title>Peters Amdt. No. 70; To require that the Administrator of the Pipeline and Hazardous Materials Safety Administration make a certification and submit to Congress the results of a study before the pipeline may be constructed, connected, operated, or maintained.</title>
+    </vote>
+    <vote>
+      <vote_number>00031</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00075:">S.Amdt. 75</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>37</yeas>
+        <nays>61</nays>
+      </vote_tally>
+      <title>Cardin Amdt. No. 75; To provide communities that rely on drinking water from a source that may be affected by a tar sands spill from the Keystone XL pipeline an analysis of the potential risks to public health and the environment from a leak or rupture of the pipeline.</title>
+    </vote>
+    <vote>
       <vote_number>00030</vote_number>
       <vote_date>26-Jan</vote_date>
       <issue>
