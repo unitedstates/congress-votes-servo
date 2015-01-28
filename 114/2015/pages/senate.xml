@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00040</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00133:">S.Amdt. 133</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Heitkamp Amdt. No. 133; To express the sense of Congress that the Internal Revenue Code of 1986 should be amended to extend the credit with respect to facilities producing energy from certain renewable resources.</title>
+    </vote>
+    <vote>
       <vote_number>00039</vote_number>
       <vote_date>28-Jan</vote_date>
       <issue>
