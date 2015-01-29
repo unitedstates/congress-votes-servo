@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00046</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00155:">S.Amdt. 155</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Booker Amdt. No. 155; To allow permitting agencies to consider new circumstances and new information.</title>
+    </vote>
+    <vote>
       <vote_number>00045</vote_number>
       <vote_date>29-Jan</vote_date>
       <issue>
