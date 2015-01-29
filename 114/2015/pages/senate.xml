@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00045</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Motion to Invoke Cloture on S.1; A bill to approve the Keystone XL Pipeline.</title>
+    </vote>
+    <vote>
+      <vote_number>00044</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00077:">S.Amdt. 77</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Udall Amdt. No. 77; To establish a renewable electricity standard, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00043</vote_number>
       <vote_date>29-Jan</vote_date>
       <issue>
