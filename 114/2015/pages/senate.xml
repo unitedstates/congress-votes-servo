@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00049</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>S.1 As Amended; A bill to approve the Keystone XL Pipeline.</title>
+    </vote>
+    <vote>
+      <vote_number>00048</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00178:">S.Amdt. 178</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Markey Amdt. No. 178; To ensure that products derived from tar sands are treated as crude oil for purposes of the Federal excise tax on petroleum.</title>
+    </vote>
+    <vote>
       <vote_number>00047</vote_number>
       <vote_date>29-Jan</vote_date>
       <issue>
