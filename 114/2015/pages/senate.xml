@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00047</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00141:">S.Amdt. 141</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>36</yeas>
+        <nays>62</nays>
+      </vote_tally>
+      <title>Markey Amdt. No. 141; To delay the effective date until the President determines that the pipeline will not have certain negative impacts.</title>
+    </vote>
+    <vote>
       <vote_number>00046</vote_number>
       <vote_date>29-Jan</vote_date>
       <issue>
