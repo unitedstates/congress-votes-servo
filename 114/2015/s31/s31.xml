@@ -4,10 +4,10 @@
   <congress_year>2015</congress_year>
   <vote_number>31</vote_number>
   <vote_date>January 28, 2015,  02:33 PM</vote_date>
-  <modify_date>January 28, 2015,  03:07 PM</modify_date>
+  <modify_date>January 29, 2015,  09:49 AM</modify_date>
   <vote_question_text>On the Amendment S.Amdt. 75 to S.Amdt. 2 to S. 1 (Keystone XL Pipeline Act)</vote_question_text>
   <vote_document_text>To provide communities that rely on drinking water from a source that may be affected by a tar sands spill from the Keystone XL pipeline an analysis of the potential risks to public health and the environment from a leak or rupture of the pipeline.</vote_document_text>
-  <vote_result_text>Amendment Rejected (37-61, 3/5 majority required)</vote_result_text>
+  <vote_result_text>Amendment Rejected (36-62, 3/5 majority required)</vote_result_text>
   <question>On the Amendment</question>
   <vote_title>Cardin Amdt. No. 75</vote_title>
   <majority_requirement>3/5</majority_requirement>
@@ -29,8 +29,8 @@
     <amendment_purpose>To provide communities that rely on drinking water from a source that may be affected by a tar sands spill from the Keystone XL pipeline an analysis of the potential risks to public health and the environment from a leak or rupture of the pipeline.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>37</yeas>
-    <nays>61</nays>
+    <yeas>36</yeas>
+    <nays>62</nays>
     <present/>
     <absent>2</absent>
   </count>
@@ -423,7 +423,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
