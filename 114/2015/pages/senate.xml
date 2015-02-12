@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00056</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>PN1</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Confirmation Ashton B. Carter, of Massachusetts, to be Secretary of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00055</vote_number>
       <vote_date>11-Feb</vote_date>
       <issue>
