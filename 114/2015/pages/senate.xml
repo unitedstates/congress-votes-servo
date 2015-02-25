@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00058</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00240:">H.R. 240</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 240; A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00057</vote_number>
       <vote_date>23-Feb</vote_date>
       <issue>
