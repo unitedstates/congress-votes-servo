@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00060</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00240:">H.R. 240</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00258:">S.Amdt. 258</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>34</yeas>
+        <nays>65</nays>
+      </vote_tally>
+      <title>Motion to Table Amdt. No. 258; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00059</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00240:">H.R. 240</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on H.R. 240; A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00058</vote_number>
       <vote_date>25-Feb</vote_date>
       <issue>
