@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00063</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00534:">S. 534</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S.534; A bill to prohibit funds from being used to carry out certain Executive actions related to immigration and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00062</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00240:">H.R. 240</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>H.R. 240, As Amended; A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00061</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00240:">H.R. 240</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00255:">S.Amdt. 255</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Cochran Amdt. No. 255; Of a perfecting nature.</title>
+    </vote>
+    <vote>
       <vote_number>00060</vote_number>
       <vote_date>27-Feb</vote_date>
       <issue>
