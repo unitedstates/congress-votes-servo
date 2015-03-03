@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00065</vote_number>
+      <vote_date>02-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00240:">H.R. 240</A>
+      </issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Table the House Message to Accompany H.R. 240; A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00064</vote_number>
+      <vote_date>02-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00240:">H.R. 240</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Insist on Senate Amdt., Agree to a Conference, and Authorize Appointment of Conferees Re: H.R. 240; A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00063</vote_number>
       <vote_date>27-Feb</vote_date>
       <issue>
