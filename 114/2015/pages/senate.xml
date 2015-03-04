@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00068</vote_number>
+      <vote_date>04-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00001:">S. 1</A>
+      </issue>
+      <question>On Overriding the Veto</question>
+      <result>Veto Sustained</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Shall the Bill S.1 Pass, Over the Objections of the President; A bill to approve the Keystone XL Pipeline.</title>
+    </vote>
+    <vote>
       <vote_number>00067</vote_number>
       <vote_date>04-Mar</vote_date>
       <issue>
