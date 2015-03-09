@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00069</vote_number>
+      <vote_date>09-Mar</vote_date>
+      <issue>PN62</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation of Daniel Henry Marti, of Virginia, to be Intellectual Property Enforcement Coordinator</title>
+    </vote>
+    <vote>
       <vote_number>00068</vote_number>
       <vote_date>04-Mar</vote_date>
       <issue>
