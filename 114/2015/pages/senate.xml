@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00070</vote_number>
+      <vote_date>12-Mar</vote_date>
+      <issue>PN173</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Christopher A. Hart, of Colorado, to be Chairman of the National Transportation Safety Board</title>
+    </vote>
+    <vote>
       <vote_number>00069</vote_number>
       <vote_date>09-Mar</vote_date>
       <issue>PN62</issue>
