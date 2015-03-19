@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00076</vote_number>
+      <vote_date>19-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S.178; A bill to provide justice for the victims of trafficking.</title>
+    </vote>
+    <vote>
+      <vote_number>00075</vote_number>
+      <vote_date>19-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Committee Reported Substitute Amdt. to S. 178; A bill to provide justice for the victims of trafficking.</title>
+    </vote>
+    <vote>
       <vote_number>00074</vote_number>
       <vote_date>18-Mar</vote_date>
       <issue>
