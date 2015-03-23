@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00077</vote_number>
+      <vote_date>23-Mar</vote_date>
+      <issue>PN130</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation of William P. Doyle, of Pennsylvania, to be a Federal Maritime Commissioner</title>
+    </vote>
+    <vote>
       <vote_number>00076</vote_number>
       <vote_date>19-Mar</vote_date>
       <issue>
