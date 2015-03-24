@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00078</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00323:">S.Amdt. 323</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 323 As Modified; To create millions of middle class jobs by investing in our nation's infrastructure paid for by raising revenue through closing loopholes in the corporate and international tax system.</title>
+    </vote>
+    <vote>
       <vote_number>00077</vote_number>
       <vote_date>23-Mar</vote_date>
       <issue>PN130</issue>
