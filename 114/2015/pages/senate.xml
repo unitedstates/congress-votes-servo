@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00083</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00498:">S.Amdt. 498</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Hatch Amdt. No. 498; To establish a deficit-neutral reserve fund relating to legislation submitted to Congress by President Obama to protect and strengthen Social Security.</title>
+    </vote>
+    <vote>
+      <vote_number>00082</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00362:">S.Amdt. 362</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Mikulski Amdt. No. 362; To establish a deficit-neutral reserve fund relating to amending the Equal Pay Act of 1963 to allow for punitive damages, limit the any factor "other than sex" exception, and prohibit retaliation against employees who share salary information.</title>
+    </vote>
+    <vote>
+      <vote_number>00081</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00409:">S.Amdt. 409</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Fischer Amdt. No. 409; To establish a deficit-neutral reserve fund relating to promoting equal pay, which may include preventing discrimination on the basis of sex and preventing retaliation against employees for seeking or discussing wage information.</title>
+    </vote>
+    <vote>
       <vote_number>00080</vote_number>
       <vote_date>24-Mar</vote_date>
       <issue>
