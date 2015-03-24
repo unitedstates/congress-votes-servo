@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00080</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00349:">S.Amdt. 349</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Portman Amdt. No. 349; To establish a deficit-neutral reserve fund to improve health outcomes and lower the costs of caring for medically complex children in Medicaid.</title>
+    </vote>
+    <vote>
+      <vote_number>00079</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00386:">S.Amdt. 386</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 386; To establish a deficit-neutral reserve fund to protect Medicaid beneficiaries from benefit cuts.</title>
+    </vote>
+    <vote>
       <vote_number>00078</vote_number>
       <vote_date>24-Mar</vote_date>
       <issue>
