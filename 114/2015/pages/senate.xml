@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00085</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00357:">S.Amdt. 357</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>1</yeas>
+        <nays>98</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 357; To raise taxes and spending by enacting President Obama's fiscal year 2016 budget.</title>
+    </vote>
+    <vote>
+      <vote_number>00084</vote_number>
+      <vote_date>24-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00471:">S.Amdt. 471</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Wyden Amdt. No. 471; To create a point of order against legislation that would cut benefits, raise the retirement age, or privatize social security.</title>
+    </vote>
+    <vote>
       <vote_number>00083</vote_number>
       <vote_date>24-Mar</vote_date>
       <issue>
