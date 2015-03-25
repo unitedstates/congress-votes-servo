@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00090</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00601:">S.Amdt. 601</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Bennet Amdt. No. 601; To create a point of order against legislation that would privatize Medicare, cut guaranteed benefits, increase out-of-pocket spending, or turn Medicare into a premium support plan.</title>
+    </vote>
+    <vote>
+      <vote_number>00089</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00777:">S.Amdt. 777</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 777 As Modified; To establish a deficit-neutral reserve fund to recognize that climate change is real and caused by human activity and that Congress needs to take action to cut carbon pollution.</title>
+    </vote>
+    <vote>
       <vote_number>00088</vote_number>
       <vote_date>25-Mar</vote_date>
       <issue>
