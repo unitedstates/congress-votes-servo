@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00086</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00652:">S.Amdt. 652</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Warren Amdt. No. 652; To make college more affordable for middle-class families by allowing borrowers with outstanding Federal and private student loans to refinance at the equivalent interest rates that were offered to Federal student loan borrowers during the 2013-2014 school year and to fully offset the cost of such a program by requiring millionaires to pay at least a 30 percent effective Federal tax rate.</title>
+    </vote>
+    <vote>
       <vote_number>00085</vote_number>
       <vote_date>24-Mar</vote_date>
       <issue>
