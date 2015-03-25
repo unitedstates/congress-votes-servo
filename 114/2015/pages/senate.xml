@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00088</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00347:">S.Amdt. 347</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Barrasso Amdt. No. 347; To establish a spending-neutral reserve fund to keep the Federal Water Pollution Control Act focused on protection of water equality, to establish bright lines for Federal jurisdiction, and to create clear and unambiguous exemptions for features that the Administrator of the Environmental Protection Agency or the Secretary of the Army, acting through the Chief of Engineers, claim they are not seeking to regulate.</title>
+    </vote>
+    <vote>
+      <vote_number>00087</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00755:">S.Amdt. 755</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Stabenow Amdt. No. 755; To establish a deficit-neutral reserve fund relating to keeping the Federal Water Pollution Control Act focused on protection of water quality, to establish bright lines for Federal jurisdiction, and to create clear and unambiguous exemptions for features that the Administrator of the Environmental Protection Agency or the Secretary of the Army, acting through the Chief of Engineers, claim they are not seeking to regulate.</title>
+    </vote>
+    <vote>
       <vote_number>00086</vote_number>
       <vote_date>25-Mar</vote_date>
       <issue>
