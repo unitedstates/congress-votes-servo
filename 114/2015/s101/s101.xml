@@ -2,16 +2,16 @@
   <congress>114</congress>
   <session>1</session>
   <congress_year>2015</congress_year>
-  <vote_number>98</vote_number>
-  <vote_date>March 26, 2015,  01:50 PM</vote_date>
-  <modify_date>March 26, 2015,  02:51 PM</modify_date>
-  <vote_question_text>On the Amendment S.Amdt. 798 to S.Con.Res. 11 (No short title on file)</vote_question_text>
-  <vote_document_text>To establish a deficit-neutral reserve fund for legislation to allow Americans to earn paid sick time.</vote_document_text>
-  <vote_result_text>Amendment Agreed to (60-40)</vote_result_text>
+  <vote_number>101</vote_number>
+  <vote_date>March 26, 2015,  02:45 PM</vote_date>
+  <modify_date>March 26, 2015,  03:12 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 828 to S.Con.Res. 11 (No short title on file)</vote_question_text>
+  <vote_document_text>To provide additional resources to save student financial aid and keep college affordable for more than 8,000,000 low- and middle-income students by restoring the $89,000,000,000 in cuts to Federal Pell Grants in the Republican budget.</vote_document_text>
+  <vote_result_text>Amendment Rejected (46-54)</vote_result_text>
   <question>On the Amendment</question>
-  <vote_title>Murray Amdt. No. 798</vote_title>
+  <vote_title>Franken Amdt. No. 828</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Amendment Agreed to</vote_result>
+  <vote_result>Amendment Rejected</vote_result>
   <document>
     <document_congress>114</document_congress>
     <document_type/>
@@ -21,16 +21,16 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 798</amendment_number>
+    <amendment_number>S.Amdt. 828</amendment_number>
     <amendment_to_amendment_number/>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>S.Con.Res. 11</amendment_to_document_number>
     <amendment_to_document_short_title>No short title on file</amendment_to_document_short_title>
-    <amendment_purpose>To establish a deficit-neutral reserve fund for legislation to allow Americans to earn paid sick time.</amendment_purpose>
+    <amendment_purpose>To provide additional resources to save student financial aid and keep college affordable for more than 8,000,000 low- and middle-income students by restoring the $89,000,000,000 in cuts to Federal Pell Grants in the Republican budget.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>60</yeas>
-    <nays>40</nays>
+    <yeas>46</yeas>
+    <nays>54</nays>
     <present/>
     <absent/>
   </count>
@@ -45,7 +45,7 @@
       <first_name>Lamar</first_name>
       <party>R</party>
       <state>TN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S289</lis_member_id>
     </member>
     <member>
@@ -54,7 +54,7 @@
       <first_name>Kelly</first_name>
       <party>R</party>
       <state>NH</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S340</lis_member_id>
     </member>
     <member>
@@ -144,7 +144,7 @@
       <first_name>Richard</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S300</lis_member_id>
     </member>
     <member>
@@ -198,7 +198,7 @@
       <first_name>Bill</first_name>
       <party>R</party>
       <state>LA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S373</lis_member_id>
     </member>
     <member>
@@ -225,7 +225,7 @@
       <first_name>Susan</first_name>
       <party>R</party>
       <state>ME</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S252</lis_member_id>
     </member>
     <member>
@@ -243,7 +243,7 @@
       <first_name>Bob</first_name>
       <party>R</party>
       <state>TN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S310</lis_member_id>
     </member>
     <member>
@@ -450,7 +450,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>ND</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S344</lis_member_id>
     </member>
     <member>
@@ -468,7 +468,7 @@
       <first_name>Johnny</first_name>
       <party>R</party>
       <state>GA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S305</lis_member_id>
     </member>
     <member>
@@ -504,7 +504,7 @@
       <first_name>Mark</first_name>
       <party>R</party>
       <state>IL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S339</lis_member_id>
     </member>
     <member>
@@ -567,7 +567,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S197</lis_member_id>
     </member>
     <member>
@@ -630,7 +630,7 @@
       <first_name>Lisa</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S288</lis_member_id>
     </member>
     <member>
@@ -693,7 +693,7 @@
       <first_name>Rob</first_name>
       <party>R</party>
       <state>OH</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S349</lis_member_id>
     </member>
     <member>
@@ -855,7 +855,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>SD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S303</lis_member_id>
     </member>
     <member>
@@ -873,7 +873,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>PA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S351</lis_member_id>
     </member>
     <member>

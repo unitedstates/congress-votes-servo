@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00102</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00692:">S.Amdt. 692</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Scott Amdt. No. 692; To establish a deficit-neutral reserve fund relating to transparency in health premium billing.</title>
+    </vote>
+    <vote>
+      <vote_number>00101</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00828:">S.Amdt. 828</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Franken Amdt. No. 828; To provide additional resources to save student financial aid and keep college affordable for more than 8,000,000 low- and middle-income students by restoring the $89,000,000,000 in cuts to Federal Pell Grants in the Republican budget.</title>
+    </vote>
+    <vote>
       <vote_number>00100</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
