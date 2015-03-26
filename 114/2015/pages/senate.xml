@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00105</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00515:">S.Amdt. 515</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 515; To establish a spending-neutral reserve fund relating to requiring the Federal Government to allow states to opt out of Common Core without penalty.</title>
+    </vote>
+    <vote>
+      <vote_number>00104</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00817:">S.Amdt. 817</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Durbin Amdt. No. 817; To establish a deficit-neutral reserve fund to provide tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers and to eliminate tax benefits for corporations that ship jobs overseas.</title>
+    </vote>
+    <vote>
       <vote_number>00103</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>

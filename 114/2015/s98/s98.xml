@@ -4,10 +4,10 @@
   <congress_year>2015</congress_year>
   <vote_number>98</vote_number>
   <vote_date>March 26, 2015,  01:50 PM</vote_date>
-  <modify_date>March 26, 2015,  02:51 PM</modify_date>
+  <modify_date>March 26, 2015,  03:58 PM</modify_date>
   <vote_question_text>On the Amendment S.Amdt. 798 to S.Con.Res. 11 (No short title on file)</vote_question_text>
   <vote_document_text>To establish a deficit-neutral reserve fund for legislation to allow Americans to earn paid sick time.</vote_document_text>
-  <vote_result_text>Amendment Agreed to (60-40)</vote_result_text>
+  <vote_result_text>Amendment Agreed to (61-39)</vote_result_text>
   <question>On the Amendment</question>
   <vote_title>Murray Amdt. No. 798</vote_title>
   <majority_requirement>1/2</majority_requirement>
@@ -29,8 +29,8 @@
     <amendment_purpose>To establish a deficit-neutral reserve fund for legislation to allow Americans to earn paid sick time.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>60</yeas>
-    <nays>40</nays>
+    <yeas>61</yeas>
+    <nays>39</nays>
     <present/>
     <absent/>
   </count>
@@ -477,7 +477,7 @@
       <first_name>Ron</first_name>
       <party>R</party>
       <state>WI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S345</lis_member_id>
     </member>
     <member>
