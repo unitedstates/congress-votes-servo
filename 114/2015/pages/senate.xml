@@ -4,6 +4,62 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00109</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00545:">S.Amdt. 545</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Kirk Amdt. No. 545 As Modified; To establish a deficit-neutral reserve fund relating to reimposing waived sanctions and imposing new sanctions against Iran for violations of the Joint Plan of Action or a comprehensive nuclear agreement.</title>
+    </vote>
+    <vote>
+      <vote_number>00108</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00649:">S.Amdt. 649</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Inhofe Amdt. No. 649 As Modified; To establish a spending-neutral reserve fund relating to prohibiting funding of international organizations during the implementation of the United Nations Arms Trade Treaty prior to Senate ratification and adoption of implementing legislation.</title>
+    </vote>
+    <vote>
+      <vote_number>00107</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00867:">S.Amdt. 867</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Whitehouse Amdt No. 867; To establish a deficit-neutral reserve fund relating to making it more difficult for corporations and billionaires to secretly influence elections by making unlimited undisclosed campaign expenditures, and to prevent such entities from evading campaign finance law, including through making false statements to government agencies.</title>
+    </vote>
+    <vote>
+      <vote_number>00106</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00838:">S.Amdt. 838</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Murkowski Amdt. No. 838; To establish a spending-neutral reserve fund relating to the disposal of certain Federal land.</title>
+    </vote>
+    <vote>
       <vote_number>00105</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
