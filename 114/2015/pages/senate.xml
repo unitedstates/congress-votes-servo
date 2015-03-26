@@ -4,6 +4,62 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00100</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00432:">S.Amdt. 432</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Baldwin Amdt. No. 432; To provide additional resources to create the opportunity for more Americans to obtain a higher education and advanced job skills by supporting two free years of community college paid for by raising revenue through requiring millionaires and billionaires to pay their fair share.</title>
+    </vote>
+    <vote>
+      <vote_number>00099</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00356:">S.Amdt. 356</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Moran Amdt. No. 356; To establish a deficit-neutral reserve fund relating to providing health care to veterans who reside more than 40 miles driving distance from the closest medical facility of the Department of Veterans Affairs that provides the care sought by the veterans.</title>
+    </vote>
+    <vote>
+      <vote_number>00098</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00798:">S.Amdt. 798</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Murray Amdt. No. 798; To establish a deficit-neutral reserve fund for legislation to allow Americans to earn paid sick time.</title>
+    </vote>
+    <vote>
+      <vote_number>00097</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00940:">S.Amdt. 940</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>4</yeas>
+        <nays>96</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Paul Amdt. No. 940 As Modified; To increase new budget authority for fiscal years 2016 and 2017 and modify outlays for fiscal years 2016 through 2022 for National Defense (budget function 050) with offsets.</title>
+    </vote>
+    <vote>
       <vote_number>00096</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
@@ -15,7 +71,7 @@
         <yeas>32</yeas>
         <nays>68</nays>
       </vote_tally>
-      <title>Motion to Waive All Applicable Budget Points of Order Rubio Amdt. No. 423 As Modified; To increase new budget authority fiscal years 2016 and 2017 and modify outlays for fiscal years 2016 through 2022 for National Defense (budget function 050).</title>
+      <title>Motion to Waive All Applicable Budgetary Discipline Rubio Amdt. No. 423 As Modified; To increase new budget authority fiscal years 2016 and 2017 and modify outlays for fiscal years 2016 through 2022 for National Defense (budget function 050).</title>
     </vote>
     <vote>
       <vote_number>00095</vote_number>
