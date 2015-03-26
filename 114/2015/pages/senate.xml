@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00092</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00481:">S.Amdt. 481</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Cotton Amdt. No. 481; To establish a deficit-neutral fund relating to supporting Israel.</title>
+    </vote>
+    <vote>
+      <vote_number>00091</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00801:">S.Amdt. 801</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Murray Amdt. No. 801; To build on the Bipartisan Budget Act of 2013 by restoring a below-sequester level cut of $9,000,000,000 to nondefense discretionary spending in 2017, replacing sequestration in 2016 and 2017 and increasing funding above sequester levels by a total of $148,000,000,000 for the 2 years, increasing defense and nondefense discretionary spending above sequester levels by equal amounts, eliminating the overseas contingency operations gimmick contained in the committee-reported resolution, and offsetting the net increase in defense and nondefense discretionary spending by closing tax loopholes.</title>
+    </vote>
+    <vote>
       <vote_number>00090</vote_number>
       <vote_date>25-Mar</vote_date>
       <issue>
