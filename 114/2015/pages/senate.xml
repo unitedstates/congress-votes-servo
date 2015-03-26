@@ -4,6 +4,62 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00096</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00423:">S.Amdt. 423</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>32</yeas>
+        <nays>68</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budget Points of Order Rubio Amdt. No. 423 As Modified; To increase new budget authority fiscal years 2016 and 2017 and modify outlays for fiscal years 2016 through 2022 for National Defense (budget function 050).</title>
+    </vote>
+    <vote>
+      <vote_number>00095</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01012:">S.Amdt. 1012</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Wyden Admt. No. 1012; To strike more than $1.2 trillion in cuts to Medicaid, preserving a critical source of comprehensive, affordable health and long-term care coverage for millions of otherwise uninsured low-income adults, parents, and seniors, including millions of nonelderly low-income adults in States that expanded Medicaid as part of health reform.</title>
+    </vote>
+    <vote>
+      <vote_number>00094</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00523:">S.Amdt. 523</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Stabenow Amdt. No. 523; To prevent United States companies from getting tax benefits for moving jobs overseas, to end offshore tax loopholes including inversions, and to provide incentives for United States companies to relocate overseas jobs to the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00093</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00881:">S.Amdt. 881</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 881; To establish a deficit-neutral reserve fund relating to promoting a substantial increase in the minimum wage.</title>
+    </vote>
+    <vote>
       <vote_number>00092</vote_number>
       <vote_date>25-Mar</vote_date>
       <issue>
