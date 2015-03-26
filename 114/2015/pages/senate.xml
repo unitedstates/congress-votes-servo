@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00110</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00966:">S.Amdt. 966</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Coons Amdt. No. 966 As Modified; To establish a deficit-neutral reserve fund relating to offsetting the costs of operations against the Islamic State.</title>
+    </vote>
+    <vote>
       <vote_number>00109</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
