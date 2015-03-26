@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00103</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00928:">S.Amdt. 928</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Blunt Amdt. No. 928; To establish a deficit-neutral reserve fund to protect the United States from an energy tax.</title>
+    </vote>
+    <vote>
       <vote_number>00102</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
@@ -57,7 +71,7 @@
         <yeas>100</yeas>
         <nays>0</nays>
       </vote_tally>
-      <title>Moran Amdt. No. 356; To establish a deficit-neutral reserve fund relating to providing health care to veterans who reside more than 40 miles driving distance from the closest medical facility of the Department of Veterans Affairs that provides the care sought by the veterans.</title>
+      <title>Moran Amdt. No. 356; To establish a deficit-neutral reserve fund relating to providing health care to veterans who reside more than 40 miles driving distance from the closest medical facility of the Department of Veterans Affairs that provides the care sought by the veteran.</title>
     </vote>
     <vote>
       <vote_number>00098</vote_number>
@@ -68,8 +82,8 @@
       <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00798:">S.Amdt. 798</A></question>
       <result>Agreed to</result>
       <vote_tally>
-        <yeas>60</yeas>
-        <nays>40</nays>
+        <yeas>61</yeas>
+        <nays>39</nays>
       </vote_tally>
       <title>Murray Amdt. No. 798; To establish a deficit-neutral reserve fund for legislation to allow Americans to earn paid sick time.</title>
     </vote>
@@ -211,7 +225,7 @@
         <yeas>59</yeas>
         <nays>40</nays>
       </vote_tally>
-      <title>Barrasso Amdt. No. 347; To establish a spending-neutral reserve fund to keep the Federal Water Pollution Control Act focused on protection of water equality, to establish bright lines for Federal jurisdiction, and to create clear and unambiguous exemptions for features that the Administrator of the Environmental Protection Agency or the Secretary of the Army, acting through the Chief of Engineers, claim they are not seeking to regulate.</title>
+      <title>Barrasso Amdt. No. 347; To establish a spending-neutral reserve fund to keep the Federal Water Pollution Control Act focused on protection of water quality, to establish bright lines for Federal jurisdiction, and to create clear and unambiguous exemptions for features that the Administrator of the Environmental Protection Agency or the Secretary of the Army, acting through the Chief of Engineers, claim they are not seeking to regulate.</title>
     </vote>
     <vote>
       <vote_number>00087</vote_number>
