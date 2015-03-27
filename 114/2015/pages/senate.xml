@@ -4,6 +4,104 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00126</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00750:">S.Amdt. 750</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 750 As Modified; To modify the spending-neutral reserve fund reauthorizing funding for payments to counties and other units of local government to include the option of payment at levels roughly equivalent to property tax revenues lost due to the presence of Federal land.</title>
+    </vote>
+    <vote>
+      <vote_number>00125</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00968:">S.Amdt. 968</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>27</nays>
+      </vote_tally>
+      <title>Wyden Amdt. No. 968; To establish a deficit-neutral reserve fund relating to enacting middle class tax relief, including extending and expanding refundable tax credits, such as tax provisions and policies included in legislation like the Working Families Tax Relief Act, American Opportunity Tax Credit Permanence and Consolidation Act, Helping Working Families Afford Child Care Act, or the 21st Century Worker Tax Cut Act, among other legislation.</title>
+    </vote>
+    <vote>
+      <vote_number>00124</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00360:">S.Amdt. 360</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>McCain Amdt. No. 360 As Modified; To establish a deficit-neutral reserve fund relating to deterring the migration of unaccompanied children from El Salvador, Guatemala, and Honduras.</title>
+    </vote>
+    <vote>
+      <vote_number>00123</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00944:">S.Amdt. 944</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Nelson Amdt. No 944; To create a point of order against legislation that would use tax dollars to censor publicly-funded climate science.</title>
+    </vote>
+    <vote>
+      <vote_number>00122</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01038:">S.Amdt. 1038</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Kirk Amdt. No. 1038; To establish a deficit-neutral reserve fund to increase wages for American workers.</title>
+    </vote>
+    <vote>
+      <vote_number>00121</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01063:">S.Amdt. 1063</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Schatz Amdt. No. 1063 As Modified; To establish a deficit-neutral reserve fund relating to ensuring all legally married same-sex spouses have equal access to the Social Security and veterans benefits they have earned and receive equal treatment under the law pursuant to the Constitution of the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00120</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00665:">S.Amdt. 665</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Flake Amdt. No. 665; To establish a spending-neutral reserve fund relating to prohibiting awarding of construction contracts based on awardees entering or not entering into agreements with labor organizations.</title>
+    </vote>
+    <vote>
       <vote_number>00119</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
