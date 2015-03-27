@@ -4,6 +4,132 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00119</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00951:">S.Amdt. 951</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Murray Amdt. No. 951; To establish and fund a new Federal-State partnership to expand access to high-quality preschool programs for children from low- and moderate-income families, offset with revenue from closing loopholes.</title>
+    </vote>
+    <vote>
+      <vote_number>00118</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00443:">S.Amdt. 443</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Gardner Amdt. No. 443; To establish a deficit-neutral reserve fund relating to protecting privately held water rights and permits.</title>
+    </vote>
+    <vote>
+      <vote_number>00117</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00842:">S.Amdt. 842</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Merkley Amdt. No. 842; To establish a deficit-neutral reserve fund relating to consumer fiancial protection.</title>
+    </vote>
+    <vote>
+      <vote_number>00116</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00836:">S.Amdt. 836</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>McConnell Amdt. No. 836; To establish a deficit-neutral reserve fund relating to the regulation by the Environmental Protection Agency of greenhouse gas emissions, which may include a prohibition on withholding highway funds from States that refuse to submit State Implementation Plans required under the Clean Power Plan of the Agency.</title>
+    </vote>
+    <vote>
+      <vote_number>00115</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01014:">S.Amdt. 1014</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Bennet Amdt. No. 1014; To establish a deficit-neutral reserve fund relating to responding to the economic and national security threats posed by human-induced climate change, as highlighted by the Secretary of Defense, the Director of National Intelligence, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the National Oceanic and Atmospheric Administration.</title>
+    </vote>
+    <vote>
+      <vote_number>00114</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00607:">S.Amdt. 607</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Thune Amdt. No. 607; To establish a deficit-neutral reserve fund to allow for the permanent elimination of the Federal estate tax.</title>
+    </vote>
+    <vote>
+      <vote_number>00113</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00632:">S.Amdt. 632</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Casey Amdt. No. 632; To establish a deficit-neutral reserve fund relating to providing reasonable accommodations for pregnant workers.</title>
+    </vote>
+    <vote>
+      <vote_number>00112</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00689:">S.Amdt. 689</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Portman Amdt. No. 689; To improve the dynamic scoring provision.</title>
+    </vote>
+    <vote>
+      <vote_number>00111</vote_number>
+      <vote_date>26-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01072:">S.Amdt. 1072</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Stabenow Amdt. No. 1072; To provide additional resources to reject the Senate Republicans' proposed $435 billion in cuts to Medicare.</title>
+    </vote>
+    <vote>
       <vote_number>00110</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
