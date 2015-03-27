@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00129</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00664:">S.Amdt. 664</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Waive Applicable Budgetary Discipline Cotton Amdt. No. 664; To establish a deficit-neutral reserve fund relating to construction of new facilities and improvements to existing facilities at the detention facilities at United States Naval Station, Guantanamo Bay, Cuba.</title>
+    </vote>
+    <vote>
+      <vote_number>00128</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00659:">S.Amdt. 659</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Cotton Amdt. No. 659; To establish a spending-neutral reserve fund relating to prohibiting the designation of critical habitat.</title>
+    </vote>
+    <vote>
+      <vote_number>00127</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00919:">S.Amdt. 919</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Reed Amdt. No. 919; To establish a deficit-neutral reserve fund relating to eliminating deductions for corporate compensation in excess of $1,000,000.</title>
+    </vote>
+    <vote>
       <vote_number>00126</vote_number>
       <vote_date>26-Mar</vote_date>
       <issue>
