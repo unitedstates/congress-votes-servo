@@ -4,6 +4,90 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00135</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Concurrent Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>S.Con.Res. 11 As Amended; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.</title>
+    </vote>
+    <vote>
+      <vote_number>00134</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01047:">S.Amdt. 1047</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Kaine Amdt. No. 1047 As Modified ; To provide for sequestration replacement.</title>
+    </vote>
+    <vote>
+      <vote_number>00133</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00367:">S.Amdt. 367</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Cardin Amdt. No. 367; To establish a deficit-neutral reserve fund relating to providing a funding stream for a voter reinfranchisement initiative.</title>
+    </vote>
+    <vote>
+      <vote_number>00132</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00855:">S.Amdt. 855</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 855; To prohibit increasing the public debt limit under reconciliation.</title>
+    </vote>
+    <vote>
+      <vote_number>00131</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01094:">S.Amdt. 1094</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>42</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Warren Amdt. No. 1094 As Modified; To establish a deficit-neutral reserve fund relating to expanding social security.</title>
+    </vote>
+    <vote>
+      <vote_number>00130</vote_number>
+      <vote_date>27-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00811:">S.Amdt. 811</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 811; To establish a deficit-neutral reserve fund relating to ending Washington's illegal exemption from Patient Protection and Affordable Care Act.</title>
+    </vote>
+    <vote>
       <vote_number>00129</vote_number>
       <vote_date>27-Mar</vote_date>
       <issue>
