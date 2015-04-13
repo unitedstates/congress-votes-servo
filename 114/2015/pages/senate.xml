@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00136</vote_number>
+      <vote_date>13-Apr</vote_date>
+      <issue>PN21</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Alfred H. Bennett, of Texas, to be U.S. District Judge for the Southern District of Texas</title>
+    </vote>
+    <vote>
       <vote_number>00135</vote_number>
       <vote_date>27-Mar</vote_date>
       <issue>
@@ -71,7 +83,7 @@
         <yeas>42</yeas>
         <nays>56</nays>
       </vote_tally>
-      <title>Warren Amdt. No. 1094 As Modified; To establish a deficit-neutral reserve fund relating to expanding social security.</title>
+      <title>Warren Amdt. No. 1094 As Modified; To establish a deficit-neutral reserve fund relating to expanding Social Security.</title>
     </vote>
     <vote>
       <vote_number>00130</vote_number>
@@ -267,7 +279,7 @@
         <yeas>46</yeas>
         <nays>54</nays>
       </vote_tally>
-      <title>Merkley Amdt. No. 842; To establish a deficit-neutral reserve fund relating to consumer fiancial protection.</title>
+      <title>Merkley Amdt. No. 842; To establish a deficit-neutral reserve fund relating to consumer financial protection.</title>
     </vote>
     <vote>
       <vote_number>00116</vote_number>
@@ -295,7 +307,7 @@
         <yeas>53</yeas>
         <nays>47</nays>
       </vote_tally>
-      <title>Bennet Amdt. No. 1014; To establish a deficit-neutral reserve fund relating to responding to the economic and national security threats posed by human-induced climate change, as highlighted by the Secretary of Defense, the Director of National Intelligence, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the National Oceanic and Atmospheric Administration.</title>
+      <title>Bennet Amdt. No. 1014; To establish a deficit-neutral reserve fund relating to responding to the economic and national security threats posed by human-induced climate change, as highlighted by the Secretary of Defense, the Director of National Intelligence, the Administrator of the National Aeronautics and Space Administration, and the Administrator of National Oceanic and Atmospheric Administration.</title>
     </vote>
     <vote>
       <vote_number>00114</vote_number>
@@ -449,7 +461,7 @@
         <yeas>46</yeas>
         <nays>54</nays>
       </vote_tally>
-      <title>Durbin Amdt. No. 817; To establish a deficit-neutral reserve fund to provide tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers and to eliminate tax benefits for corporations that ship jobs overseas.</title>
+      <title>Durbin Amdt. No. 817; To establish a deficit-neutral reserve fund to provide tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers and to eliminate tax benefits for corporations that ship jobs or profits overseas.</title>
     </vote>
     <vote>
       <vote_number>00103</vote_number>
