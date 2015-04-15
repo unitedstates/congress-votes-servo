@@ -4,6 +4,104 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00143</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>71</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Motion to Waive Applicable Budgetary Discipline Re: H.R. 2; A bill to amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and strengthen Medicare access by improving physician payments and making other improvements, to reauthorize the Children's Health Insurance Program, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00142</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01119:">S.Amdt. 1119</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Cardin Amdt. No. 1119; To repeal the therapy cap and provide for medical review of outpatient therapy services.</title>
+    </vote>
+    <vote>
+      <vote_number>00141</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01118:">S.Amdt. 1118</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>11</yeas>
+        <nays>89</nays>
+      </vote_tally>
+      <title>Cotton Amdt. No. 1118; To provide steady updates of payment rates under the Medicare physician fee schedule.</title>
+    </vote>
+    <vote>
+      <vote_number>00140</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01117:">S.Amdt. 1117</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Motion to Waive Applicable Budgetary Discipline Murray Amdt. No. 1117; To improve women's access to quality health care.</title>
+    </vote>
+    <vote>
+      <vote_number>00139</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01116:">S.Amdt. 1116</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>42</yeas>
+        <nays>58</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 1116; To strike the provision excluding the budgetary effects of the Act from PAYGO requirements.</title>
+    </vote>
+    <vote>
+      <vote_number>00138</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01115:">S.Amdt. 1115</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive Applicable Budgetary Discipline Bennet Amdt. No. 1115; To protect and retain our Children's Health Insurance Program for 4 years (PRO-CHIP).</title>
+    </vote>
+    <vote>
+      <vote_number>00137</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01114:">S.Amdt. 1114</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 1114; To repeal the individual mandate.</title>
+    </vote>
+    <vote>
       <vote_number>00136</vote_number>
       <vote_date>13-Apr</vote_date>
       <issue>PN21</issue>
