@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00144</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00002:">H.R. 2</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>H.R. 2; A bill to amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and strengthen Medicare access by improving physician payments and making other improvements, to reauthorize the Children's Health Insurance Program, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00143</vote_number>
       <vote_date>14-Apr</vote_date>
       <issue>
