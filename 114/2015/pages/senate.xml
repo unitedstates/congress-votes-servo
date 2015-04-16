@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00153</vote_number>
+      <vote_date>15-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Stabenow Motion to Instruct (Medicare Cuts) RE: S.Con.Res. 11; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.</title>
+    </vote>
+    <vote>
+      <vote_number>00152</vote_number>
+      <vote_date>15-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Mikulski Motion to Instruct (Equal Pay) Re: S.Con.Res. 11; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.</title>
+    </vote>
+    <vote>
+      <vote_number>00151</vote_number>
+      <vote_date>15-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00011:">S.Con.Res. 11</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Fischer Motion to Instruct (Equal Pay) re: S.Con.Res. 11; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.</title>
+    </vote>
+    <vote>
       <vote_number>00150</vote_number>
       <vote_date>15-Apr</vote_date>
       <issue>
