@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00154</vote_number>
+      <vote_date>16-Apr</vote_date>
+      <issue>PN56</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Confirmation Russell C. Deyo, of New Jersey, to be Under Secretary for Management, Department of Homeland Security</title>
+    </vote>
+    <vote>
       <vote_number>00153</vote_number>
       <vote_date>15-Apr</vote_date>
       <issue>
