@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00155</vote_number>
+      <vote_date>20-Apr</vote_date>
+      <issue>PN16</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation George C. Hanks, Jr., of Texas, to be U.S. District Judge for the Southern District</title>
+    </vote>
+    <vote>
       <vote_number>00154</vote_number>
       <vote_date>16-Apr</vote_date>
       <issue>PN56</issue>
