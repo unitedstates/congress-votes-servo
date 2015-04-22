@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00157</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01124:">S.Amdt. 1124</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 1124; To strengthen the Justice for Victims of Trafficking Act by incorporating additional bipartisan amendments.</title>
+    </vote>
+    <vote>
+      <vote_number>00156</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00301:">S.Amdt. 301</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Leahy Amdt. No. 301; To improve the bill.</title>
+    </vote>
+    <vote>
       <vote_number>00155</vote_number>
       <vote_date>20-Apr</vote_date>
       <issue>PN16</issue>
