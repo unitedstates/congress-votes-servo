@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00163</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. 178 As Amended; A bill to provide justice for the victims of trafficking.</title>
+    </vote>
+    <vote>
+      <vote_number>00162</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00273:">S.Amdt. 273</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Kirk Amdt. No. 273 As Modified; To amend title 18, United States Code, to provide a penalty for knowingly selling advertising that offers certain commercial sex acts.</title>
+    </vote>
+    <vote>
       <vote_number>00161</vote_number>
       <vote_date>22-Apr</vote_date>
       <issue>
