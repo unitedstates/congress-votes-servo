@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00158</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01127:">S.Amdt. 1127</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 1127; To reauthorize the Runaway and Homeless Youth Act, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00157</vote_number>
       <vote_date>22-Apr</vote_date>
       <issue>
