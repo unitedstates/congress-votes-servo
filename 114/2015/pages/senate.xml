@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00161</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01121:">S.Amdt. 1121</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Burr Amdt. No. 1121; To require the Secretary of Defense to inform the Attorney General of persons required to register as sex offenders.</title>
+    </vote>
+    <vote>
+      <vote_number>00160</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00311:">S.Amdt. 311</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Brown Amdt. No. 311; To direct the Attorney General to increase the amount provided under certain formula grants to States that have in place laws that terminate the parental rights of men who father children through rape.</title>
+    </vote>
+    <vote>
+      <vote_number>00159</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00178:">S. 178</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP00290:">S.Amdt. 290</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Leahy Amdt. No. 290; To reauthorize the Runaway and Homeless Youth Act.</title>
+    </vote>
+    <vote>
       <vote_number>00158</vote_number>
       <vote_date>22-Apr</vote_date>
       <issue>
