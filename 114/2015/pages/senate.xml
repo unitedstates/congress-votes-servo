@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00164</vote_number>
+      <vote_date>23-Apr</vote_date>
+      <issue>PN4</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Loretta Lynch, to be Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00163</vote_number>
       <vote_date>22-Apr</vote_date>
       <issue>
