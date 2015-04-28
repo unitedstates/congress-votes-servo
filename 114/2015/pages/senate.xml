@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00166</vote_number>
+      <vote_date>27-Apr</vote_date>
+      <issue>PN43</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Dava J. Newman, of Massachusetts, to be Deputy Administrator of the NASA</title>
+    </vote>
+    <vote>
       <vote_number>00165</vote_number>
       <vote_date>23-Apr</vote_date>
       <issue>PN4</issue>
