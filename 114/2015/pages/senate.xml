@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00168</vote_number>
+      <vote_date>29-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01191:">H.R. 1191</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01147:">S.Amdt. 1147</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Barrasso Amdt. No. 1147; To require a certification that Iran has not directly supported or carried out an act of terrorism against the United States or a United States person anywhere in the world.</title>
+    </vote>
+    <vote>
       <vote_number>00167</vote_number>
       <vote_date>28-Apr</vote_date>
       <issue>
