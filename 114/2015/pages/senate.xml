@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00167</vote_number>
+      <vote_date>28-Apr</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01191:">H.R. 1191</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01150:">S.Amdt. 1150</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Johnson Amdt. No. 1150; To declare that any agreement reached by the President relating to the nuclear program of Iran is deemed a treaty that is subject to the advice and consent of the Senate.</title>
+    </vote>
+    <vote>
       <vote_number>00166</vote_number>
       <vote_date>27-Apr</vote_date>
       <issue>PN43</issue>
