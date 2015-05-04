@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00169</vote_number>
+      <vote_date>04-May</vote_date>
+      <issue>PN209</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Willie E. May, of Maryland, to be Under Secretary of Commerce for Standards and Technology</title>
+    </vote>
+    <vote>
       <vote_number>00168</vote_number>
       <vote_date>29-Apr</vote_date>
       <issue>
