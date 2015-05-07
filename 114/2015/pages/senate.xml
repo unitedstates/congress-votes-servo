@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00174</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01191:">H.R. 1191</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>H.R. 1191 As Amended; A bill to provide for congressional review and oversight of agreements relating to Iran's nuclear program, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00173</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01191:">H.R. 1191</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01140:">S.Amdt. 1140</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 1140 to H.R. 1191; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00172</vote_number>
       <vote_date>05-May</vote_date>
       <issue>
