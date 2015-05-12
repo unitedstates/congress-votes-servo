@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00175</vote_number>
+      <vote_date>11-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SC00016:">S.Con.Res. 16</A>
+      </issue>
+      <question>On the Concurrent Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. Con. Res. 16; A concurrent resolution stating the policy of the United States regarding the release of United States citizens in Iran.</title>
+    </vote>
+    <vote>
       <vote_number>00174</vote_number>
       <vote_date>07-May</vote_date>
       <issue>
