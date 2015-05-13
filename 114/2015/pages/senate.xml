@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00177</vote_number>
+      <vote_date>13-May</vote_date>
+      <issue>PN31</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation Sally Quinn Yates, of Georgia, to be Deputy Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00176</vote_number>
       <vote_date>12-May</vote_date>
       <issue>
