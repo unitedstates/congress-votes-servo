@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00182</vote_number>
+      <vote_date>18-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01237:">S.Amdt. 1237</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Lankford Amdt. No. 1237 As Modified; To establish consideration of the conditions relating to religious freedom of parties to trade negotiations as an overall negotiating objective of the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00181</vote_number>
+      <vote_date>18-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01242:">S.Amdt. 1242</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Brown Amdt. No. 1242; To restore funding for the trade adjustment assistance program to the level established by the Trade Adjustment Assistance Extension Act of 2011.</title>
+    </vote>
+    <vote>
       <vote_number>00180</vote_number>
       <vote_date>14-May</vote_date>
       <issue>
