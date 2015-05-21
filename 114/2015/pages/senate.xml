@@ -4,6 +4,30 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00185</vote_number>
+      <vote_date>21-May</vote_date>
+      <issue>PN19</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Jose Rolando Olvera, Jr., of Texas, to be U.S. District Judge for the Southern District of Texas</title>
+    </vote>
+    <vote>
+      <vote_number>00184</vote_number>
+      <vote_date>21-May</vote_date>
+      <issue>PN20</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Jill N. Parrish, of Utah, to be United States District Judge</title>
+    </vote>
+    <vote>
       <vote_number>00183</vote_number>
       <vote_date>21-May</vote_date>
       <issue>
