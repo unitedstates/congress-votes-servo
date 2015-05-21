@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00183</vote_number>
+      <vote_date>21-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01221:">S.Amdt. 1221</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Hatch Amdt. No. 1221 to H.R. 1314; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00182</vote_number>
       <vote_date>18-May</vote_date>
       <issue>
