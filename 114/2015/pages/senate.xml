@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00186</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01411:">S.Amdt. 1411</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Hatch Amdt. No. 1411 As Modified; Of a perfecting nature.</title>
+    </vote>
+    <vote>
       <vote_number>00185</vote_number>
       <vote_date>21-May</vote_date>
       <issue>PN19</issue>
