@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00188</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01327:">S.Amdt. 1327</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>60</nays>
+      </vote_tally>
+      <title>Warren Amdt. No. 1327; To prohibit the application of the trade authorities procedures to an implementing bill submitted with respect to a trade agreement that includes investor-state dispute settlement.</title>
+    </vote>
+    <vote>
+      <vote_number>00187</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01299:">S.Amdt. 1299</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Portman Amdt. No. 1299; To make it a principal negotiating objective of the United States to address currency manipulation in trade agreements.</title>
+    </vote>
+    <vote>
       <vote_number>00186</vote_number>
       <vote_date>22-May</vote_date>
       <issue>
