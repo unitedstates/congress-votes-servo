@@ -2,36 +2,36 @@
   <congress>114</congress>
   <session>1</session>
   <congress_year>2015</congress_year>
-  <vote_number>190</vote_number>
-  <vote_date>May 22, 2015,  06:42 PM</vote_date>
-  <modify_date>May 22, 2015,  09:34 PM</modify_date>
-  <vote_question_text>On the Amendment S.Amdt. 1243 to S.Amdt. 1221 to H.R. 1314 (Ensuring Tax Exempt Organizations the Right to Appeal Act)</vote_question_text>
-  <vote_document_text>To strike the extension of the trade adjustment assistance program.</vote_document_text>
-  <vote_result_text>Amendment Rejected (36-62)</vote_result_text>
-  <question>On the Amendment</question>
-  <vote_title>Flake Amdt. No. 1243</vote_title>
+  <vote_number>193</vote_number>
+  <vote_date>May 22, 2015,  08:51 PM</vote_date>
+  <modify_date>May 22, 2015,  09:30 PM</modify_date>
+  <vote_question_text>On Passage of the Bill H.R. 1314</vote_question_text>
+  <vote_document_text>A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</vote_document_text>
+  <vote_result_text>Bill Passed (62-37)</vote_result_text>
+  <question>On Passage of the Bill</question>
+  <vote_title>H.R. 1314 As Amended</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Amendment Rejected</vote_result>
+  <vote_result>Bill Passed</vote_result>
   <document>
     <document_congress>114</document_congress>
-    <document_type/>
-    <document_number/>
-    <document_name/>
-    <document_title/>
-    <document_short_title/>
+    <document_type>H.R.</document_type>
+    <document_number>1314</document_number>
+    <document_name>H.R. 1314</document_name>
+    <document_title>A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</document_title>
+    <document_short_title>Ensuring Tax Exempt Organizations the Right to Appeal Act</document_short_title>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 1243</amendment_number>
-    <amendment_to_amendment_number>S.Amdt. 1221</amendment_to_amendment_number>
+    <amendment_number/>
+    <amendment_to_amendment_number/>
     <amendment_to_amendment_to_amendment_number/>
-    <amendment_to_document_number>H.R. 1314</amendment_to_document_number>
-    <amendment_to_document_short_title>Ensuring Tax Exempt Organizations the Right to Appeal Act</amendment_to_document_short_title>
-    <amendment_purpose>To strike the extension of the trade adjustment assistance program.</amendment_purpose>
+    <amendment_to_document_number/>
+    <amendment_to_document_short_title/>
+    <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>36</yeas>
-    <nays>62</nays>
-    <present>1</present>
+    <yeas>62</yeas>
+    <nays>37</nays>
+    <present/>
     <absent>1</absent>
   </count>
   <tie_breaker>
@@ -54,7 +54,7 @@
       <first_name>Kelly</first_name>
       <party>R</party>
       <state>NH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S340</lis_member_id>
     </member>
     <member>
@@ -81,7 +81,7 @@
       <first_name>Michael</first_name>
       <party>D</party>
       <state>CO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S330</lis_member_id>
     </member>
     <member>
@@ -99,7 +99,7 @@
       <first_name>Roy</first_name>
       <party>R</party>
       <state>MO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S342</lis_member_id>
     </member>
     <member>
@@ -144,7 +144,7 @@
       <first_name>Richard</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S300</lis_member_id>
     </member>
     <member>
@@ -153,7 +153,7 @@
       <first_name>Maria</first_name>
       <party>D</party>
       <state>WA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S275</lis_member_id>
     </member>
     <member>
@@ -162,7 +162,7 @@
       <first_name>Shelley</first_name>
       <party>R</party>
       <state>WV</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S372</lis_member_id>
     </member>
     <member>
@@ -171,7 +171,7 @@
       <first_name>Ben</first_name>
       <party>D</party>
       <state>MD</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S308</lis_member_id>
     </member>
     <member>
@@ -180,7 +180,7 @@
       <first_name>Thomas</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S277</lis_member_id>
     </member>
     <member>
@@ -207,7 +207,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>IN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S212</lis_member_id>
     </member>
     <member>
@@ -216,7 +216,7 @@
       <first_name>Thad</first_name>
       <party>R</party>
       <state>MS</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S136</lis_member_id>
     </member>
     <member>
@@ -234,7 +234,7 @@
       <first_name>Christopher</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S337</lis_member_id>
     </member>
     <member>
@@ -243,7 +243,7 @@
       <first_name>Bob</first_name>
       <party>R</party>
       <state>TN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S310</lis_member_id>
     </member>
     <member>
@@ -333,7 +333,7 @@
       <first_name>Dianne</first_name>
       <party>D</party>
       <state>CA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S221</lis_member_id>
     </member>
     <member>
@@ -387,7 +387,7 @@
       <first_name>Lindsey</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S293</lis_member_id>
     </member>
     <member>
@@ -405,7 +405,7 @@
       <first_name>Orrin</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Present</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S118</lis_member_id>
     </member>
     <member>
@@ -423,7 +423,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -432,7 +432,7 @@
       <first_name>Dean</first_name>
       <party>R</party>
       <state>NV</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S352</lis_member_id>
     </member>
     <member>
@@ -450,7 +450,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>ND</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S344</lis_member_id>
     </member>
     <member>
@@ -486,7 +486,7 @@
       <first_name>Timothy</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S362</lis_member_id>
     </member>
     <member>
@@ -504,7 +504,7 @@
       <first_name>Mark</first_name>
       <party>R</party>
       <state>IL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S339</lis_member_id>
     </member>
     <member>
@@ -540,7 +540,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S346</lis_member_id>
     </member>
     <member>
@@ -576,7 +576,7 @@
       <first_name>Claire</first_name>
       <party>D</party>
       <state>MO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S312</lis_member_id>
     </member>
     <member>
@@ -630,7 +630,7 @@
       <first_name>Lisa</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S288</lis_member_id>
     </member>
     <member>
@@ -648,7 +648,7 @@
       <first_name>Patty</first_name>
       <party>D</party>
       <state>WA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S229</lis_member_id>
     </member>
     <member>
@@ -657,7 +657,7 @@
       <first_name>Bill</first_name>
       <party>D</party>
       <state>FL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S282</lis_member_id>
     </member>
     <member>
@@ -666,7 +666,7 @@
       <first_name>Rand</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S348</lis_member_id>
     </member>
     <member>
@@ -693,7 +693,7 @@
       <first_name>Rob</first_name>
       <party>R</party>
       <state>OH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S349</lis_member_id>
     </member>
     <member>
@@ -801,7 +801,7 @@
       <first_name>Jefferson</first_name>
       <party>R</party>
       <state>AL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S261</lis_member_id>
     </member>
     <member>
@@ -810,7 +810,7 @@
       <first_name>Jeanne</first_name>
       <party>D</party>
       <state>NH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S324</lis_member_id>
     </member>
     <member>
@@ -819,7 +819,7 @@
       <first_name>Richard</first_name>
       <party>R</party>
       <state>AL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S184</lis_member_id>
     </member>
     <member>
@@ -837,7 +837,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S383</lis_member_id>
     </member>
     <member>
@@ -873,7 +873,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>PA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S351</lis_member_id>
     </member>
     <member>
@@ -900,7 +900,7 @@
       <first_name>Mark</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S327</lis_member_id>
     </member>
     <member>
@@ -936,7 +936,7 @@
       <first_name>Ron</first_name>
       <party>D</party>
       <state>OR</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S247</lis_member_id>
     </member>
   </members>
