@@ -4,6 +4,76 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00193</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>H.R. 1314 As Amended; A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+    </vote>
+    <vote>
+      <vote_number>00192</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on H.R. 1314; A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+    </vote>
+    <vote>
+      <vote_number>00191</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01221:">S.Amdt. 1221</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Hatch Amdt. No. 1221 As Amended; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00190</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01243:">S.Amdt. 1243</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>36</yeas>
+        <nays>62</nays>
+      </vote_tally>
+      <title>Flake Amdt. No. 1243; To strike the extension of the trade adjustment assistance program.</title>
+    </vote>
+    <vote>
+      <vote_number>00189</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01251:">S.Amdt. 1251</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Brown Amdt. No. 1251; To require the approval of Congress before additional countries may join the Trans-Pacific Partnership Agreement.</title>
+    </vote>
+    <vote>
       <vote_number>00188</vote_number>
       <vote_date>22-May</vote_date>
       <issue>
