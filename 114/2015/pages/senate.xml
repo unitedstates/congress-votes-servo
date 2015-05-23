@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00195</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01357:">S. 1357</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 1357; A bill to extend authority relating to roving surveillance, access to business records, and individual terrorists as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978 until July 31, 2015, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00194</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02048:">H.R. 2048</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 2048; A bill to reform the authorities of the Federal Government to require the production of certain business records, conduct electronic surveillance, use pen registers and trap and trace devices, and use other forms of information gathering for foreign intelligence, counterterrorism, and criminal purposes, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00193</vote_number>
       <vote_date>22-May</vote_date>
       <issue>
