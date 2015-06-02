@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00197</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02048:">H.R. 2048</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on H.R. 2048; A bill to reform the authorities of the Federal Government to require the production of certain business records, conduct electronic surveillance, use pen registers and trap and trace devices, and use other forms of information gathering for foreign intelligence, counterterrorism, and criminal purposes, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00196</vote_number>
       <vote_date>31-May</vote_date>
       <issue>
