@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00199</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02048:">H.R. 2048</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01450:">S.Amdt. 1450</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>McConnell Amdt. No. 1450; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00198</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02048:">H.R. 2048</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01451:">S.Amdt. 1451</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>42</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>McConnell Amdt. No. 1451; Of a perfecting nature.</title>
+    </vote>
+    <vote>
       <vote_number>00197</vote_number>
       <vote_date>02-Jun</vote_date>
       <issue>
