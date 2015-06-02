@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00200</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02048:">H.R. 2048</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01449:">S.Amdt. 1449</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>McConnell Amdt. No. 1449; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00199</vote_number>
       <vote_date>02-Jun</vote_date>
       <issue>
