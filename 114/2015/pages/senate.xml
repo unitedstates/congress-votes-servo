@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00204</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01506:">S.Amdt. 1506</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Tillis Amdt. No. 1506; To provide for the stationing of C-130 H aircraft avionics previously modified by the Avionics Modernization Program (AMP) in support of daily training and contingency requirements for Airborne and Special Operations Forces.</title>
+    </vote>
+    <vote>
+      <vote_number>00203</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01494:">S.Amdt. 1494</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Shaheen Amdt. No. 1494; To revise the definition of spouse for purposes of veterans benefits in recognition of new State definitions of spouse.</title>
+    </vote>
+    <vote>
       <vote_number>00202</vote_number>
       <vote_date>04-Jun</vote_date>
       <issue>
