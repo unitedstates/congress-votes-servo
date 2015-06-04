@@ -4,10 +4,10 @@
   <congress_year>2015</congress_year>
   <vote_number>204</vote_number>
   <vote_date>June 4, 2015,  02:19 PM</vote_date>
-  <modify_date>June 4, 2015,  02:52 PM</modify_date>
+  <modify_date>June 4, 2015,  04:26 PM</modify_date>
   <vote_question_text>On the Amendment S.Amdt. 1506 to S.Amdt. 1463 to H.R. 1735 (Military Construction Authorization Act for Fiscal Year 2016)</vote_question_text>
   <vote_document_text>To provide for the stationing of C-130 H aircraft avionics previously modified by the Avionics Modernization Program (AMP) in support of daily training and contingency requirements for Airborne and Special Operations Forces.</vote_document_text>
-  <vote_result_text>Amendment Agreed to (50-42)</vote_result_text>
+  <vote_result_text>Amendment Agreed to (48-44)</vote_result_text>
   <question>On the Amendment</question>
   <vote_title>Tillis Amdt. No. 1506</vote_title>
   <majority_requirement>1/2</majority_requirement>
@@ -29,8 +29,8 @@
     <amendment_purpose>To provide for the stationing of C-130 H aircraft avionics previously modified by the Avionics Modernization Program (AMP) in support of daily training and contingency requirements for Airborne and Special Operations Forces.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>50</yeas>
-    <nays>42</nays>
+    <yeas>48</yeas>
+    <nays>44</nays>
     <present/>
     <absent>8</absent>
   </count>
@@ -117,7 +117,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>AR</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S343</lis_member_id>
     </member>
     <member>
@@ -261,7 +261,7 @@
       <first_name>Tom</first_name>
       <party>R</party>
       <state>AR</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S374</lis_member_id>
     </member>
     <member>
