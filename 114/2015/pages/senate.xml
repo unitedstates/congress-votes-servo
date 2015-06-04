@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00202</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01522:">S.Amdt. 1522</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Portman Amdt. No. 1522; To provide additional amounts for procurement and for research, development, test, and evaluation for Stryker Lethality Upgrades, and to provide an offset.</title>
+    </vote>
+    <vote>
       <vote_number>00201</vote_number>
       <vote_date>02-Jun</vote_date>
       <issue>
