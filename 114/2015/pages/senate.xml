@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00206</vote_number>
+      <vote_date>10-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01986:">S.Amdt. 1986</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>31</yeas>
+        <nays>65</nays>
+      </vote_tally>
+      <title>Motion to Table Kirk Amdt. No. 1986; To reauthorize and reform the Export-Import Bank of the United States.</title>
+    </vote>
+    <vote>
       <vote_number>00205</vote_number>
       <vote_date>09-Jun</vote_date>
       <issue>
