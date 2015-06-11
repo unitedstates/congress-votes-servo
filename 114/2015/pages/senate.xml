@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00207</vote_number>
+      <vote_date>11-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01569:">S.Amdt. 1569</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Burr Amdt. No. 1569 As Modified; To improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats.</title>
+    </vote>
+    <vote>
       <vote_number>00206</vote_number>
       <vote_date>10-Jun</vote_date>
       <issue>
