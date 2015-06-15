@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00208</vote_number>
+      <vote_date>15-Jun</vote_date>
+      <issue>PN88</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Confirmation Matthew T. McGuire, of the District of Columbia, to be U.S. Executive Director of the International Bank for Reconstruction and Development</title>
+    </vote>
+    <vote>
       <vote_number>00207</vote_number>
       <vote_date>11-Jun</vote_date>
       <issue>
