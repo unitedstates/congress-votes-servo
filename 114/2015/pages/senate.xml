@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00211</vote_number>
+      <vote_date>16-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01578:">S.Amdt. 1578</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Gillibrand Amdt. No. 1578; To reform procedures for determinations to proceed to trial by court-martial for certain offenses under the Uniform Code of Military Justice.</title>
+    </vote>
+    <vote>
       <vote_number>00210</vote_number>
       <vote_date>16-Jun</vote_date>
       <issue>
