@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00212</vote_number>
+      <vote_date>16-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01463:">S.Amdt. 1463</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on McCain Amdt. No. 1463; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00211</vote_number>
       <vote_date>16-Jun</vote_date>
       <issue>
