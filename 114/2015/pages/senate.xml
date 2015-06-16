@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00213</vote_number>
+      <vote_date>16-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01735:">H.R. 1735</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP01473:">S.Amdt. 1473</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>26</yeas>
+        <nays>73</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 1473 As Further Modified; To limit the retirement of Army combat units, and to provide an offset.</title>
+    </vote>
+    <vote>
       <vote_number>00212</vote_number>
       <vote_date>16-Jun</vote_date>
       <issue>
