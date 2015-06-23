@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00218</vote_number>
+      <vote_date>23-Jun</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02146:">H.R. 2146</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2146; A bill to amend the Internal Revenue Code of 1986 to allow Federal law enforcement officers, firefighters, and air traffic controllers to make penalty-free withdrawals from governmental plans after age 50, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00217</vote_number>
       <vote_date>22-Jun</vote_date>
       <issue>PN414</issue>
