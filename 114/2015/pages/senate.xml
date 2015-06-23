@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00217</vote_number>
+      <vote_date>22-Jun</vote_date>
+      <issue>PN414</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Confirmation Peter V. Neffenger, of Ohio, to be an Assistant Secretary of Homeland Security</title>
+    </vote>
+    <vote>
       <vote_number>00216</vote_number>
       <vote_date>18-Jun</vote_date>
       <issue>
