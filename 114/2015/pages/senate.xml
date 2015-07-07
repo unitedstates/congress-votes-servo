@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00221</vote_number>
+      <vote_date>07-Jul</vote_date>
+      <issue>PN12</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Kara Farnandez Stoll, of Virginia, to be U.S. Circuit Judge for the Federal Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00220</vote_number>
       <vote_date>24-Jun</vote_date>
       <issue>
