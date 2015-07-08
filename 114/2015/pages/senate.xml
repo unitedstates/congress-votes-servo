@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00224</vote_number>
+      <vote_date>08-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02107:">S.Amdt. 2107</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Tester Amdt. No. 2107; To restore sections of the Elementary and Secondary Education Act of 1965.</title>
+    </vote>
+    <vote>
+      <vote_number>00223</vote_number>
+      <vote_date>08-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02109:">S.Amdt. 2109</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Hirono Amdt. No. 2109; To amend section 1111(b)(2)(B)(xi) to provide for additional disaggregation for local educational agencies with a total of not less than 1,000 Asian and Native Hawaiian or Pacific Islander students.</title>
+    </vote>
+    <vote>
       <vote_number>00222</vote_number>
       <vote_date>08-Jul</vote_date>
       <issue>
