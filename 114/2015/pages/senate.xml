@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00225</vote_number>
+      <vote_date>08-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02139:">S.Amdt. 2139</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Alexander Amdt. No. 2139; To allow States to let Federal funds for the education of disadvantaged children follow low-income children to the accredited or otherwise State-approved public school, private school, or supplemental educational services program they attend.</title>
+    </vote>
+    <vote>
       <vote_number>00224</vote_number>
       <vote_date>08-Jul</vote_date>
       <issue>
