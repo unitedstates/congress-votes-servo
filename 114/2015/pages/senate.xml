@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00222</vote_number>
+      <vote_date>08-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02085:">S.Amdt. 2085</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Reed. Amdt. No. 2085; To amend the Elementary and Secondary Education Act of 1965 regarding school librarians and effective school library programs.</title>
+    </vote>
+    <vote>
       <vote_number>00221</vote_number>
       <vote_date>07-Jul</vote_date>
       <issue>PN12</issue>
