@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00228</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02094:">S.Amdt. 2094</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Toomey Amdt. No. 2094 As Modified; To ensure that States have policies or procedures that prohibit aiding or abetting of sexual abuse, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00227</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02099:">S.Amdt. 2099</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Brown Amdt. No. 2099; To amend part A of title IV of the Elementary and Secondary Education Act of 1965 to allow funds provided under such part to be used for a site resource coordinator.</title>
+    </vote>
+    <vote>
+      <vote_number>00226</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02110:">S.Amdt. 2110</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Daines Amdt. No. 2110; To allow a State to submit a declaration of intent to the Secretary of Education to combine certain funds to improve the academic achievement of students.</title>
+    </vote>
+    <vote>
       <vote_number>00225</vote_number>
       <vote_date>08-Jul</vote_date>
       <issue>
