@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00235</vote_number>
+      <vote_date>14-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02162:">S.Amdt. 2162</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>32</yeas>
+        <nays>64</nays>
+      </vote_tally>
+      <title>Lee Amdt No. 2162; To amend the Elementary and Secondary Education Act of 1965 relating to parental notification and opt-out of assessments.</title>
+    </vote>
+    <vote>
+      <vote_number>00234</vote_number>
+      <vote_date>14-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02194:">S.Amdt. 2194</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Isakson Amdt. No. 2194; To require local educational agencies to inform parents of any State or local educational agency policy, procedure, or parental right regarding student participation in any mandated assessments for that school year.</title>
+    </vote>
+    <vote>
       <vote_number>00233</vote_number>
       <vote_date>14-Jul</vote_date>
       <issue>
