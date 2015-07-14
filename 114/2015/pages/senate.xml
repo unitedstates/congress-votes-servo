@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00233</vote_number>
+      <vote_date>14-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02169:">S.Amdt. 2169</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Booker Amdt. No. 2169; To require a State's report card to include information on the graduation rates of homeless children and children in foster care.</title>
+    </vote>
+    <vote>
+      <vote_number>00232</vote_number>
+      <vote_date>14-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02132:">S.Amdt. 2132</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Scott Amdt. No. 2132; To expand opportunity by allowing Title I funds to follow low-income children.</title>
+    </vote>
+    <vote>
       <vote_number>00231</vote_number>
       <vote_date>13-Jul</vote_date>
       <issue>
