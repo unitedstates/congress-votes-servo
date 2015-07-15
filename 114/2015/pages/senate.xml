@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00241</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02241:">S.Amdt. 2241</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Murphy Amdt. No. 2241; To amend the accountability provisions.</title>
+    </vote>
+    <vote>
+      <vote_number>00240</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02161:">S.Amdt. 2161</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Kirk Amdt. No. 2161; To ensure that States measure and report on indicators of student access to critical educational resources and identify disparities in such resources, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00239</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02171:">S.Amdt. 2171</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Heitkamp Amdt. No. 2171; To reinstate grants to improve the mental health of children.</title>
+    </vote>
+    <vote>
       <vote_number>00238</vote_number>
       <vote_date>15-Jul</vote_date>
       <issue>
