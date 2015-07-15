@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00238</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02176:">S.Amdt. 2176</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Markey Amdt. No. 2176; To establish a climate change education program.</title>
+    </vote>
+    <vote>
       <vote_number>00237</vote_number>
       <vote_date>15-Jul</vote_date>
       <issue>
