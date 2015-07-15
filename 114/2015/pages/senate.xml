@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00237</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02089:">S.Amdt. 2089</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Alexander Amdt. No. 2089; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00236</vote_number>
       <vote_date>14-Jul</vote_date>
       <issue>
