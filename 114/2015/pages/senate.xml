@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00249</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>S. 1177 As Amended; An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.</title>
+    </vote>
+    <vote>
+      <vote_number>00248</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S. 1177; An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.</title>
+    </vote>
+    <vote>
       <vote_number>00247</vote_number>
       <vote_date>16-Jul</vote_date>
       <issue>
