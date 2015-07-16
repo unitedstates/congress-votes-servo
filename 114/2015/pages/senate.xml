@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00245</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02247:">S.Amdt. 2247</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Burr Amdt. No. 2247 As Modified; To amend the allocation of funds under subpart 2 of part A of title I of the Elementary and Secondary Education Act of 1965.</title>
+    </vote>
+    <vote>
+      <vote_number>00244</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02243:">S.Amdt. 2243</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Coons Amdt. No. 2243; To authorize the establishment of American Dream Accounts.</title>
+    </vote>
+    <vote>
       <vote_number>00243</vote_number>
       <vote_date>16-Jul</vote_date>
       <issue>
