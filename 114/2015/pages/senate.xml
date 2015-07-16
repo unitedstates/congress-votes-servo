@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00246</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02100:">S.Amdt. 2100</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Brown Amdt. No. 2100; To amend title V of the Elementary and Secondary Education Act of 1965 to establish a full-service community schools grant program.</title>
+    </vote>
+    <vote>
       <vote_number>00245</vote_number>
       <vote_date>16-Jul</vote_date>
       <issue>
