@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00247</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02242:">S.Amdt. 2242</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Casey Amdt. No. 2242; To establish a Federal-State partnership to provide access to high-quality public prekindergarten programs from low-income and moderate-income families to ensure that they enter kindergarten prepared for success, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00246</vote_number>
       <vote_date>16-Jul</vote_date>
       <issue>
