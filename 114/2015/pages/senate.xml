@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00243</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02177:">S.Amdt. 2177</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 2177; To provide for youth jobs, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00242</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02180:">S.Amdt. 2180</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>40</yeas>
+        <nays>58</nays>
+      </vote_tally>
+      <title>Cruz Amdt. No. 2180; To provide for State-determined assessment and accountability systems, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00241</vote_number>
       <vote_date>15-Jul</vote_date>
       <issue>
