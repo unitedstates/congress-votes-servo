@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00250</vote_number>
+      <vote_date>21-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 22; A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.</title>
+    </vote>
+    <vote>
       <vote_number>00249</vote_number>
       <vote_date>16-Jul</vote_date>
       <issue>
