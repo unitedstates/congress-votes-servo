@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00254</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02327:">S.Amdt. 2327</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Kirk Amdt. No. 2327; To reauthorize and reform the Export-Import Bank of the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00253</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02328:">S.Amdt. 2328</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on McConnell Amdt. No. 2328; To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 entirely.</title>
+    </vote>
+    <vote>
       <vote_number>00252</vote_number>
       <vote_date>24-Jul</vote_date>
       <issue>
