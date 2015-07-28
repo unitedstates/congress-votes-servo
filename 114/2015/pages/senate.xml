@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00257</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02266:">S.Amdt. 2266</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on McConnell Amdt. No. 2266, As Modified; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00256</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02327:">S.Amdt. 2327</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Kirk Amdt. No. 2327; To reauthorize and reform the Export-Import Bank of the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00255</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Motion for Attendance</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Instruct the Sergeant at Arms; A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.</title>
+    </vote>
+    <vote>
       <vote_number>00254</vote_number>
       <vote_date>26-Jul</vote_date>
       <issue>
