@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00259</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on H.R. 22 As Amended; A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.</title>
+    </vote>
+    <vote>
+      <vote_number>00258</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02266:">S.Amdt. 2266</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>McConnell Amdt. No. 2266 As Amended; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00257</vote_number>
       <vote_date>27-Jul</vote_date>
       <issue>
