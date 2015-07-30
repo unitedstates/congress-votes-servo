@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00261</vote_number>
+      <vote_date>30-Jul</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03236:">H.R. 3236</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>H.R. 3236; A bill to provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00260</vote_number>
       <vote_date>30-Jul</vote_date>
       <issue>
