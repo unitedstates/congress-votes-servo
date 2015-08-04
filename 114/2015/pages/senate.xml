@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00262</vote_number>
+      <vote_date>03-Aug</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01881:">S. 1881</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 1881; A bill to prohibit Federal funding of Planned Parenthood Federation of America.</title>
+    </vote>
+    <vote>
       <vote_number>00261</vote_number>
       <vote_date>30-Jul</vote_date>
       <issue>
