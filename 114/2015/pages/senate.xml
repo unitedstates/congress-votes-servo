@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00263</vote_number>
+      <vote_date>08-Sep</vote_date>
+      <issue>PN17</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Roseann A. Ketchmark, of Missouri, to be U.S. District Judge for the Western District</title>
+    </vote>
+    <vote>
       <vote_number>00262</vote_number>
       <vote_date>03-Aug</vote_date>
       <issue>
