@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00265</vote_number>
+      <vote_date>15-Sep</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HJ00061:">H.J.Res. 61</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02640:">S.Amdt. 2640</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on McConnell Amdt. No. 2640; Of a perfecting nature.</title>
+    </vote>
+    <vote>
       <vote_number>00264</vote_number>
       <vote_date>10-Sep</vote_date>
       <issue>
