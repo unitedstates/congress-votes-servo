@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00268</vote_number>
+      <vote_date>22-Sep</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00036:">H.R. 36</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 36; A bill to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00267</vote_number>
       <vote_date>17-Sep</vote_date>
       <issue>
