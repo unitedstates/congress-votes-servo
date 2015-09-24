@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00270</vote_number>
+      <vote_date>24-Sep</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HJ00061:">H.J.Res. 61</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02669:">S.Amdt. 2669</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Cochran Amdt. No. 2669; Making continuing appropriations for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00269</vote_number>
       <vote_date>22-Sep</vote_date>
       <issue>
