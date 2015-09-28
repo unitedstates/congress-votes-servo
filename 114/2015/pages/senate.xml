@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00271</vote_number>
+      <vote_date>28-Sep</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00719:">H.R. 719</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment with Further Amendment to H.R. 719; A bill to require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00270</vote_number>
       <vote_date>24-Sep</vote_date>
       <issue>
