@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00272</vote_number>
+      <vote_date>30-Sep</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00719:">H.R. 719</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>20</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 719 with Further Amendment; A bill to require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00271</vote_number>
       <vote_date>28-Sep</vote_date>
       <issue>
