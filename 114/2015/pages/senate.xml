@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00274</vote_number>
+      <vote_date>05-Oct</vote_date>
+      <issue>PN14</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Confirmation Dale A. Drozd, of California, to be U.S. District Judge for the Eastern District</title>
+    </vote>
+    <vote>
       <vote_number>00273</vote_number>
       <vote_date>01-Oct</vote_date>
       <issue>
