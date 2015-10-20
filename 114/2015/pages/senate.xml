@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00280</vote_number>
+      <vote_date>20-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02146:">S. 2146</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 2146; A bill to hold sanctuary jurisdictions accountable for defying Federal law, to increase penalties for individuals who illegally reenter the United States after being removed, and to provide liability protection for State and local law enforcement who cooperate with Federal law enforcement and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00279</vote_number>
       <vote_date>20-Oct</vote_date>
       <issue>PN13</issue>
