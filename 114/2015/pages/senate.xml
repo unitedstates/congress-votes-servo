@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00279</vote_number>
+      <vote_date>20-Oct</vote_date>
+      <issue>PN13</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Confirmation Ann Donnelly, of New York, to be U.S. District Judge for the Eastern District</title>
+    </vote>
+    <vote>
       <vote_number>00278</vote_number>
       <vote_date>08-Oct</vote_date>
       <issue>
