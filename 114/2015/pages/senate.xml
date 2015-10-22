@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00282</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02564:">S.Amdt. 2564</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>32</yeas>
+        <nays>65</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 2564 As Modified; To prohibit liability immunity to applying to private entities that break user or privacy agreements with customers.</title>
+    </vote>
+    <vote>
+      <vote_number>00281</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02716:">S.Amdt. 2716</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Burr Amdt. No. 2716; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00280</vote_number>
       <vote_date>20-Oct</vote_date>
       <issue>
