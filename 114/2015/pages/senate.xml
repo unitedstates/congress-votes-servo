@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00283</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>PN581</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Nomination Julie Furta-Toy, of Wyoming, to be Ambassador to the Republic of Equatorial Guinea</title>
+    </vote>
+    <vote>
       <vote_number>00282</vote_number>
       <vote_date>22-Oct</vote_date>
       <issue>
