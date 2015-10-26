@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00284</vote_number>
+      <vote_date>26-Oct</vote_date>
+      <issue>PN154</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Lawrence Joseph Vilardo, of New York, to be U.S. District Judge for the Western District</title>
+    </vote>
+    <vote>
       <vote_number>00283</vote_number>
       <vote_date>22-Oct</vote_date>
       <issue>PN581</issue>
