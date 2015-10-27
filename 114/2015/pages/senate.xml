@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00291</vote_number>
+      <vote_date>27-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>S. 754, As Amended; An original bill to improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00290</vote_number>
+      <vote_date>27-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02581:">S.Amdt. 2581</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>22</yeas>
+        <nays>73</nays>
+      </vote_tally>
+      <title>Cotton Amdt. No. 2581, As Modified; To exempt from the capability and process within the Department of Homeland Security communication between a private entity and the Federal Bureau of Investigation or the United States Secret Service regarding cybersecurity threats.</title>
+    </vote>
+    <vote>
       <vote_number>00289</vote_number>
       <vote_date>27-Oct</vote_date>
       <issue>
