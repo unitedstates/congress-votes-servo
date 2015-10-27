@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00285</vote_number>
+      <vote_date>27-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02621:">S.Amdt. 2621</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Wyden Amdt. No. 2621, As Modified; To improve the requirements relating to removal of personal information from cyber threat indicators before sharing.</title>
+    </vote>
+    <vote>
       <vote_number>00284</vote_number>
       <vote_date>26-Oct</vote_date>
       <issue>PN154</issue>
