@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00288</vote_number>
+      <vote_date>27-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02612:">S.Amdt. 2612</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>35</yeas>
+        <nays>60</nays>
+      </vote_tally>
+      <title>Franken Amdt. No. 2612 As Further Modified; To improve the definitions of cybersecurity threat and cyber threat indicator.</title>
+    </vote>
+    <vote>
       <vote_number>00287</vote_number>
       <vote_date>27-Oct</vote_date>
       <issue>
