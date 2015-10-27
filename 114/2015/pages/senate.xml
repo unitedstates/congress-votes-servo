@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00287</vote_number>
+      <vote_date>27-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02587:">S.Amdt. 2587</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>37</yeas>
+        <nays>59</nays>
+      </vote_tally>
+      <title>Leahy Amdt. No. 2587, As Modified; To strike the FOIA exemption.</title>
+    </vote>
+    <vote>
+      <vote_number>00286</vote_number>
+      <vote_date>27-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00754:">S. 754</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02548:">S.Amdt. 2548</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Heller Amdt. No. 2548, As Modified; To protect information that is reasonably believed to be personal information or information that identifies a specific person.</title>
+    </vote>
+    <vote>
       <vote_number>00285</vote_number>
       <vote_date>27-Oct</vote_date>
       <issue>
