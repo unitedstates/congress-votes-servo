@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00292</vote_number>
+      <vote_date>30-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>63</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture in the House Amendment to the Senate Amendment to H.R. 1314; A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+    </vote>
+    <vote>
       <vote_number>00291</vote_number>
       <vote_date>27-Oct</vote_date>
       <issue>
@@ -43,7 +57,7 @@
         <yeas>41</yeas>
         <nays>54</nays>
       </vote_tally>
-      <title>Coons Amdt. No. 2552, As Further Modified; To modify section105 to require DHS to review all cyber threat indicators and countermeasures in order to remove certain personal information.</title>
+      <title>Coons Amdt. No. 2552, As Further Modified; To modify section 105 to require DHS to review all cyber threat indicators and countermeasures in order to remove certain personal information.</title>
     </vote>
     <vote>
       <vote_number>00288</vote_number>
