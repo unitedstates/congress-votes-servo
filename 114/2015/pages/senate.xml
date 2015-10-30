@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00294</vote_number>
+      <vote_date>30-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1314; A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+    </vote>
+    <vote>
+      <vote_number>00293</vote_number>
+      <vote_date>30-Oct</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR01314:">H.R. 1314</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1314; A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.</title>
+    </vote>
+    <vote>
       <vote_number>00292</vote_number>
       <vote_date>30-Oct</vote_date>
       <issue>
