@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00295</vote_number>
+      <vote_date>03-Nov</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01140:">S. 1140</A>
+      </issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 1140; A bill to require the Secretary of the Army and the Administrator of the Environmental Protection Agency to propose a regulation revising the definition of the term "waters of the United States", and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00294</vote_number>
       <vote_date>30-Oct</vote_date>
       <issue>
