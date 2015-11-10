@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00301</vote_number>
+      <vote_date>10-Nov</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01356:">S. 1356</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to S. 1356; A bill to clarify that certain provisions of the Border Patrol Agent Pay Reform Act of 2014 will not take effect until after the Director of the Office of Personnel Management promulgates and makes effective regulations relating to such provisions.</title>
+    </vote>
+    <vote>
       <vote_number>00300</vote_number>
       <vote_date>09-Nov</vote_date>
       <issue>PN569</issue>
