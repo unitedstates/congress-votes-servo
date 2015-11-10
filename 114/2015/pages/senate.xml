@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00300</vote_number>
+      <vote_date>09-Nov</vote_date>
+      <issue>PN569</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Scott Allen, of Maryland, to be Director of the European Bank for Reconstruction and Development</title>
+    </vote>
+    <vote>
       <vote_number>00299</vote_number>
       <vote_date>05-Nov</vote_date>
       <issue>
