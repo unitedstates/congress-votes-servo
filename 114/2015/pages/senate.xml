@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00304</vote_number>
+      <vote_date>10-Nov</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Wicker Motion to Instruct Conferees (Re: Combination Length Limitations); An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00303</vote_number>
       <vote_date>10-Nov</vote_date>
       <issue>
