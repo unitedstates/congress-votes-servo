@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00303</vote_number>
+      <vote_date>10-Nov</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Disagree to the House Amendment to the Senate Amendment to H.R. 22, Agree to the Request for Conference, and Authorize Conferees to be Appointed; An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00302</vote_number>
       <vote_date>10-Nov</vote_date>
       <issue>
