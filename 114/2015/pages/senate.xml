@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00305</vote_number>
+      <vote_date>16-Nov</vote_date>
+      <issue>PN15</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Nomination LaShann Moutique DeArcy Hall, of New York, to be U.S. District Judge for the Eastern District</title>
+    </vote>
+    <vote>
       <vote_number>00304</vote_number>
       <vote_date>10-Nov</vote_date>
       <issue>
