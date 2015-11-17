@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00307</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SJ00023:">S.J.Res. 23</A>
+      </issue>
+      <question>On the Joint Resolution</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>S.J.Res. 23; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to "Standards of Performance for Greenhouse Gas Emissions from New, Modified, and Reconstructed Stationary Sources: Electric Utility Generating Units".</title>
+    </vote>
+    <vote>
+      <vote_number>00306</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SJ00024:">S.J.Res. 24</A>
+      </issue>
+      <question>On the Joint Resolution</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>S.J.Res. 24; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to "Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units".</title>
+    </vote>
+    <vote>
       <vote_number>00305</vote_number>
       <vote_date>16-Nov</vote_date>
       <issue>PN15</issue>
@@ -69,7 +97,7 @@
         <yeas>91</yeas>
         <nays>3</nays>
       </vote_tally>
-      <title>Motion to Concur in the House Amendment to S. 1356; A bill to clarify that certain provisions of the Border Patrol Agent Pay Reform Act of 2014 will not take effect until after the Director of the Office of Personnel Management promulgates and makes effective regulations relating to such provisions.</title>
+      <title>Motion to Concur in the House Amendment to S. 1356; An act to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00300</vote_number>
