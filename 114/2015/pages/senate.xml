@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00308</vote_number>
+      <vote_date>18-Nov</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Disagree to the House Amendment, Agree to the Request for Conference, and Authorize the Presiding Officer to Appoint Conferees Re: S. 1177; An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.</title>
+    </vote>
+    <vote>
       <vote_number>00307</vote_number>
       <vote_date>17-Nov</vote_date>
       <issue>
