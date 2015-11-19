@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00309</vote_number>
+      <vote_date>19-Nov</vote_date>
+      <issue>PN629</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Nomination Peter William Bodde, of Maryland, to be Ambassador to Libya</title>
+    </vote>
+    <vote>
       <vote_number>00308</vote_number>
       <vote_date>18-Nov</vote_date>
       <issue>
