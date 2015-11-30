@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00310</vote_number>
+      <vote_date>30-Nov</vote_date>
+      <issue>PN420</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Nomination Gayle Smith, of Ohio, to be Administrator of the United States Agency for International Development</title>
+    </vote>
+    <vote>
       <vote_number>00309</vote_number>
       <vote_date>19-Nov</vote_date>
       <issue>PN629</issue>
