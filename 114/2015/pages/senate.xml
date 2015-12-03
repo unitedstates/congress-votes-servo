@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00321</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02908:">S.Amdt. 2908</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Manchin Amdt. No. 2908; To protect Second Amendment rights, ensure that all individuals who should be prohibited from buying a firearm are listed in the National Instant Criminal Background Check System, and provide a responsible and consistent background check process.</title>
+    </vote>
+    <vote>
+      <vote_number>00320</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02914:">S.Amdt. 2914</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Grassley Amdt. No. 2914; To address gun violence, improve the availability of records to the National Instant Criminal background Check System, address mental illness in the criminal justice system, and end straw purchases and trafficking of illegal firearms, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00319</vote_number>
       <vote_date>03-Dec</vote_date>
       <issue>
