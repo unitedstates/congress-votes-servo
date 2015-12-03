@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00319</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02910:">S.Amdt. 2910</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Feinstein Amdt. No. 2910; To increase public safety by permitting the Attorney General to deny the transfer of firearms or the issuance of firearms and explosives licenses to known or suspected dangerous terrorists.</title>
+    </vote>
+    <vote>
+      <vote_number>00318</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02912:">S.Amdt. 2912</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Cornyn Amdt. No. 2912; Relating to the Protect America Act of 2015.</title>
+    </vote>
+    <vote>
+      <vote_number>00317</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02892:">S.Amdt. 2892</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Shaheen Amdt. No. 2892; To improve mental health and substance use prevention and treatment.</title>
+    </vote>
+    <vote>
       <vote_number>00316</vote_number>
       <vote_date>03-Dec</vote_date>
       <issue>
