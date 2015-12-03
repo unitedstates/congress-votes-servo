@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00323</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02899:">S.Amdt. 2899</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>10</yeas>
+        <nays>89</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 2899; To prevent the entry of extremists into the United States under the refugee program, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00322</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02907:">S.Amdt. 2907</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Bennet Amdt. No. 2907; To provide additional amounts to the Department of Veterans Affairs to increase the access of veterans to care and improve the physical infrastructure of the Department of Veterans Affairs and to impose a fair share tax on high-income taxpayers.</title>
+    </vote>
+    <vote>
       <vote_number>00321</vote_number>
       <vote_date>03-Dec</vote_date>
       <issue>
