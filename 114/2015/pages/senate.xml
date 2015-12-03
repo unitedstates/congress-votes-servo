@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00316</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02882:">S.Amdt. 2882</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Heller Amdt. No. 2882; To strike the reinstatement of the tax on employee health insurance premiums and health plan benefits.</title>
+    </vote>
+    <vote>
       <vote_number>00315</vote_number>
       <vote_date>03-Dec</vote_date>
       <issue>
