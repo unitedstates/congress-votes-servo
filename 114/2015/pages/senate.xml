@@ -4,6 +4,34 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00315</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02893:">S.Amdt. 2893</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Casey Amdt. No. 2893; To amend the Internal Revenue Code of 1986 to establish a credit for married couples who are both employed and have young children, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00314</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02885:">S.Amdt. 2885</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Collins Amdt. No. 2885; To improve the bill.</title>
+    </vote>
+    <vote>
       <vote_number>00313</vote_number>
       <vote_date>03-Dec</vote_date>
       <issue>
