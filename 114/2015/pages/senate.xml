@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00313</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02883:">S.Amdt. 2883</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Brown Amdt. No. 2883; To maintain the 100 percent FMAP for the Medicaid expansion population.</title>
+    </vote>
+    <vote>
+      <vote_number>00312</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02875:">S.Amdt. 2875</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Johnson Amdt. No. 2875; To amend the Patient Protection and Affordable Care Act to ensure that individuals can keep their health insurance coverage.</title>
+    </vote>
+    <vote>
+      <vote_number>00311</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion to Table <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02876:">S.Amdt. 2876</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Table Murray Amdt. No. 2876; To ensure that this Act does not increase the number of uninsured women or increase the number of unintended pregnancies by establishing a women's health care and clinic security and safety fund.</title>
+    </vote>
+    <vote>
       <vote_number>00310</vote_number>
       <vote_date>30-Nov</vote_date>
       <issue>PN420</issue>
