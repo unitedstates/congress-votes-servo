@@ -4,6 +4,118 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00331</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 22; An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00330</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00022:">H.R. 22</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>22</nays>
+      </vote_tally>
+      <title>Motion to Waive Rule XXVIII Relative to Section 32205 Re: the Conference Report to Accompany H.R. 22; An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00329</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>H.R. 3762 As Amended; A bill to provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.</title>
+    </vote>
+    <vote>
+      <vote_number>00328</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02918:">S.Amdt. 2918</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Murphy Amdt. No. 2918; To protect victims of violence or disease, veterans, workers who have lost their health insurance and their jobs, and other vulnerable populations from the repeal of the advanced premium tax credit.</title>
+    </vote>
+    <vote>
+      <vote_number>00327</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02919:">S.Amdt. 2919</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Baldwin Amdt. No. 2919; To ensure that individuals can keep their health insurance coverage.</title>
+    </vote>
+    <vote>
+      <vote_number>00326</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02916:">S.Amdt. 2916</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: McConnell Amdt. No. 2916; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00325</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02915:">S.Amdt. 2915</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 2915; To restore Second Amendment rights in the District of Columbia.</title>
+    </vote>
+    <vote>
+      <vote_number>00324</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR03762:">H.R. 3762</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02888:">S.Amdt. 2888</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Coats Amdt. No. 2888; To amend the Internal Revenue Code of 1986 to extend the special rule for seniors relating to the income level for deduction of medical care expenses, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00323</vote_number>
       <vote_date>03-Dec</vote_date>
       <issue>
