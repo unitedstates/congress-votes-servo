@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00332</vote_number>
+      <vote_date>07-Dec</vote_date>
+      <issue>PN18</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Travis Randall McDonough, of Tennessee, to be U.S. District Judge for the Eastern District</title>
+    </vote>
+    <vote>
       <vote_number>00331</vote_number>
       <vote_date>03-Dec</vote_date>
       <issue>
@@ -169,7 +181,7 @@
         <yeas>53</yeas>
         <nays>46</nays>
       </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Grassley Amdt. No. 2914; To address gun violence, improve the availability of records to the National Instant Criminal background Check System, address mental illness in the criminal justice system, and end straw purchases and trafficking of illegal firearms, and for other purposes.</title>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Grassley Amdt. No. 2914; To address gun violence, improve the availability of records to the National Instant Criminal Background Check System, address mental illness in the criminal justice system, and end straw purchases and trafficking of illegal firearms, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00319</vote_number>
