@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00333</vote_number>
+      <vote_date>08-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Conference Report to Accompany S. 1177; A bill to authorize the Secretary of Defense to transport to any country, without charge, supplies that have been furnished by a nonprofit organization and that are intended for distribution to members of the Armed Forces, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00332</vote_number>
       <vote_date>07-Dec</vote_date>
       <issue>PN18</issue>
