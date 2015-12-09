@@ -4,30 +4,14 @@
   <congress_year>2015</congress_year>
   <vote_number>333</vote_number>
   <vote_date>December 8, 2015,  11:30 AM</vote_date>
-  <modify_date>December 8, 2015,  12:13 PM</modify_date>
-  <vote_question_text>On the Cloture Motion S. 1177 and H.R. 1177</vote_question_text>
-  <vote_document_text>An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves; and A bill to authorize the Secretary of Defense to transport to any country, without charge, supplies that have been furnished by a nonprofit organization and that are intended for distribution to members of the Armed Forces, and for other purposes.</vote_document_text>
+  <modify_date>December 9, 2015,  09:43 AM</modify_date>
+  <vote_question_text>On the Cloture Motion S. 1177</vote_question_text>
+  <vote_document_text>An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.</vote_document_text>
   <vote_result_text>Cloture Motion Agreed to (84-12, 3/5 majority required)</vote_result_text>
   <question>On the Cloture Motion</question>
   <vote_title>Motion to Invoke Cloture Re: Conference Report to Accompany S. 1177</vote_title>
   <majority_requirement>3/5</majority_requirement>
   <vote_result>Cloture Motion Agreed to</vote_result>
-  <document>
-    <document_congress>114</document_congress>
-    <document_type>H.R.</document_type>
-    <document_number>1177</document_number>
-    <document_name>H.R. 1177</document_name>
-    <document_title>A bill to authorize the Secretary of Defense to transport to any country, without charge, supplies that have been furnished by a nonprofit organization and that are intended for distribution to members of the Armed Forces, and for other purposes.</document_title>
-    <document_short_title>Deployed Troops Support Act of 2015</document_short_title>
-  </document>
-  <amendment>
-    <amendment_number/>
-    <amendment_to_amendment_number/>
-    <amendment_to_amendment_to_amendment_number/>
-    <amendment_to_document_number/>
-    <amendment_to_document_short_title/>
-    <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
-  </amendment>
   <document>
     <document_congress>114</document_congress>
     <document_type>S.</document_type>
