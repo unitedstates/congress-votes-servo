@@ -4,6 +4,20 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00334</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN01177:">S. 1177</A>
+      </issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany S.1177; An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.</title>
+    </vote>
+    <vote>
       <vote_number>00333</vote_number>
       <vote_date>08-Dec</vote_date>
       <issue>
