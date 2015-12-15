@@ -4,6 +4,18 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00335</vote_number>
+      <vote_date>14-Dec</vote_date>
+      <issue>PN64</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Confirmation Alissa M. Starzak, of New York, to be General Counsel of the Department of the Army</title>
+    </vote>
+    <vote>
       <vote_number>00334</vote_number>
       <vote_date>09-Dec</vote_date>
       <issue>
