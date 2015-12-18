@@ -4,6 +4,48 @@
   <congress_year>2015</congress_year>
   <votes>
     <vote>
+      <vote_number>00338</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02029:">H.R. 2029</A>
+      </issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Motion to Concur in the House Amendments to the Senate Amendment to H.R. 2029; A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00337</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02029:">H.R. 2029</A>
+      </issue>
+      <question>On the Motion to Table</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>31</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Motion to Table the First House Amendment to the Senate Amendment to H.R. 2029; A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00336</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR02029:">H.R. 2029</A>
+      </issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendments to the Senate Amendment to H.R. 2029; A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00335</vote_number>
       <vote_date>14-Dec</vote_date>
       <issue>PN64</issue>
