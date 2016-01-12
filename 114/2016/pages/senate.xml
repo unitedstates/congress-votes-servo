@@ -3,5 +3,17 @@
   <session>2</session>
   <congress_year>2016</congress_year>
   <votes>
+    <vote>
+      <vote_number>00001</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>PN11</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Nomination Luis Felipe Restrepo, of Pennsylvania, to be U.S. Circuit Judge for the Third Circuit</title>
+    </vote>
   </votes>
 </vote_summary>
