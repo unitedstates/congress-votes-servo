@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rollcall-vote PUBLIC "-//US Congress//DTDs/vote v1.0 20031119 //EN" "http://clerk.house.gov/evs/vote.dtd">
+<?xml-stylesheet type="text/xsl" href="http://clerk.house.gov/evs/vote.xsl"?>
+<rollcall-vote>
+<vote-metadata>
+<majority>R</majority>
+<congress>114</congress>
+<session>2nd</session>
+<chamber>U.S. House of Representatives</chamber>
+<rollcall-num>44</rollcall-num>
+<legis-num></legis-num>
+<vote-question></vote-question>
+<vote-type></vote-type>
+<vote-result></vote-result>
+<action-date>13-Jan-2016</action-date>
+<action-time></action-time>
+<vote-correction>See Congressional record of 13-Jan-2016, for explanation.</vote-correction>
+<vote-desc>This vote was vacated by unanimous consent on 13-Jan-2016.</vote-desc>
+<vote-totals>
+<totals-by-party-header>
+<party-header>Party</party-header>
+<yea-header>Yeas</yea-header>
+<nay-header>Nays</nay-header>
+<present-header>Answered “Present”</present-header>
+<not-voting-header>Not Voting</not-voting-header>
+</totals-by-party-header>
+<totals-by-party>
+<party>Republican</party>
+<yea-total>0</yea-total>
+<nay-total>0</nay-total>
+<present-total>0</present-total>
+<not-voting-total>0</not-voting-total>
+</totals-by-party>
+<totals-by-party>
+<party>Democratic</party>
+<yea-total>0</yea-total>
+<nay-total>0</nay-total>
+<present-total>0</present-total>
+<not-voting-total>0</not-voting-total>
+</totals-by-party>
+<totals-by-party>
+<party>Independent</party>
+<yea-total>0</yea-total>
+<nay-total>0</nay-total>
+<present-total>0</present-total>
+<not-voting-total>0</not-voting-total>
+</totals-by-party>
+<totals-by-vote>
+<total-stub>Totals</total-stub>
+<yea-total>0</yea-total>
+<nay-total>0</nay-total>
+<present-total>0</present-total>
+<not-voting-total>0</not-voting-total>
+</totals-by-vote>
+</vote-totals>
+</vote-metadata>
+<vote-data>
+</vote-data>
+</rollcall-vote>
