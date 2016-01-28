@@ -4,6 +4,20 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00007</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03021:">S.Amdt. 3021</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Crapo Amdt. No. 3021; To enable civilian research and development of advanced nuclear energy technologies by private and public institutions, to expand theoretical and practical knowledge of nuclear physics, chemistry, and materials science.</title>
+    </vote>
+    <vote>
       <vote_number>00006</vote_number>
       <vote_date>27-Jan</vote_date>
       <issue>PN326</issue>
