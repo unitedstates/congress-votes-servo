@@ -4,6 +4,34 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00015</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03125:">S.Amdt. 3125</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Whitehouse Amdt. No. 3125; To require campaign finance disclosures for certain persons benefiting from fossil fuel activities.</title>
+    </vote>
+    <vote>
+      <vote_number>00014</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03176:">S.Amdt. 3176</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Schatz Amdt. No. 3176; To amend the Internal Revenue Code of 1986 to phase out tax preferences for fossil fuels on the same schedule as the phase out of the tax credits for wind facilities.</title>
+    </vote>
+    <vote>
       <vote_number>00013</vote_number>
       <vote_date>02-Feb</vote_date>
       <issue>
