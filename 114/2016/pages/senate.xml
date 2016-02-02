@@ -4,6 +4,48 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00013</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02996:">S.Amdt. 2996</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Sullivan Amdt. No. 2996; To require each agency to repeal or amend 1 or more rules before issuing or amending a rule.</title>
+    </vote>
+    <vote>
+      <vote_number>00012</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03030:">S.Amdt. 3030</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Barrasso Amdt. No. 3030; To establish deadlines and expedite permits for certain natural gas gathering lines on Federal land and Indian land.</title>
+    </vote>
+    <vote>
+      <vote_number>00011</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03115:">S.Amdt. 3115</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Franken Amdt. No. 3115; To establish a Federal energy efficiency resource standard for electricity and natural gas suppliers.</title>
+    </vote>
+    <vote>
       <vote_number>00010</vote_number>
       <vote_date>02-Feb</vote_date>
       <issue>

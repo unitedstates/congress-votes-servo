@@ -2,14 +2,14 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>10</vote_number>
-  <vote_date>February 2, 2016,  02:33 PM</vote_date>
-  <modify_date>February 2, 2016,  04:27 PM</modify_date>
-  <vote_question_text>On the Amendment S.Amdt. 3023 to S.Amdt. 2953 to S. 2012 (Energy Policy Modernization Act of 2015)</vote_question_text>
-  <vote_document_text>To modify the authority of the President of the United States to declare national monuments.</vote_document_text>
-  <vote_result_text>Amendment Rejected (47-48, 3/5 majority required)</vote_result_text>
+  <vote_number>12</vote_number>
+  <vote_date>February 2, 2016,  03:21 PM</vote_date>
+  <modify_date>February 2, 2016,  04:44 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 3030 to S.Amdt. 2953 to S. 2012 (Energy Policy Modernization Act of 2015)</vote_question_text>
+  <vote_document_text>To establish deadlines and expedite permits for certain natural gas gathering lines on Federal land and Indian land.</vote_document_text>
+  <vote_result_text>Amendment Rejected (52-43, 3/5 majority required)</vote_result_text>
   <question>On the Amendment</question>
-  <vote_title>Lee Amdt. No. 3023</vote_title>
+  <vote_title>Barrasso Amdt. No. 3030</vote_title>
   <majority_requirement>3/5</majority_requirement>
   <vote_result>Amendment Rejected</vote_result>
   <document>
@@ -21,16 +21,16 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 3023</amendment_number>
+    <amendment_number>S.Amdt. 3030</amendment_number>
     <amendment_to_amendment_number>S.Amdt. 2953</amendment_to_amendment_number>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>S. 2012</amendment_to_document_number>
     <amendment_to_document_short_title>Energy Policy Modernization Act of 2015</amendment_to_document_short_title>
-    <amendment_purpose>To modify the authority of the President of the United States to declare national monuments.</amendment_purpose>
+    <amendment_purpose>To establish deadlines and expedite permits for certain natural gas gathering lines on Federal land and Indian land.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>47</yeas>
-    <nays>48</nays>
+    <yeas>52</yeas>
+    <nays>43</nays>
     <present/>
     <absent>5</absent>
   </count>
@@ -45,7 +45,7 @@
       <first_name>Lamar</first_name>
       <party>R</party>
       <state>TN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S289</lis_member_id>
     </member>
     <member>
@@ -54,7 +54,7 @@
       <first_name>Kelly</first_name>
       <party>R</party>
       <state>NH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S340</lis_member_id>
     </member>
     <member>
@@ -369,7 +369,7 @@
       <first_name>Cory</first_name>
       <party>R</party>
       <state>CO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S377</lis_member_id>
     </member>
     <member>
@@ -423,7 +423,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -504,7 +504,7 @@
       <first_name>Mark</first_name>
       <party>R</party>
       <state>IL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S339</lis_member_id>
     </member>
     <member>
