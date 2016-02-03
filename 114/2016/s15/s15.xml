@@ -6,7 +6,7 @@
   <vote_date>February 2, 2016,  04:23 PM</vote_date>
   <modify_date>February 2, 2016,  05:13 PM</modify_date>
   <vote_question_text>On the Amendment S.Amdt. 3125 to S.Amdt. 2953 to S. 2012 (Energy Policy Modernization Act of 2015)</vote_question_text>
-  <vote_document_text>To require campaign finance disclosures for certain persons benefiting from fossil fuel activities.</vote_document_text>
+  <vote_document_text>To require campaign finance disclosures for certain persons benefitting from fossil fuel activities.</vote_document_text>
   <vote_result_text>Amendment Rejected (43-52, 3/5 majority required)</vote_result_text>
   <question>On the Amendment</question>
   <vote_title>Whitehouse Amdt. No. 3125</vote_title>
@@ -26,7 +26,7 @@
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>S. 2012</amendment_to_document_number>
     <amendment_to_document_short_title>Energy Policy Modernization Act of 2015</amendment_to_document_short_title>
-    <amendment_purpose>To require campaign finance disclosures for certain persons benefiting from fossil fuel activities.</amendment_purpose>
+    <amendment_purpose>To require campaign finance disclosures for certain persons benefitting from fossil fuel activities.</amendment_purpose>
   </amendment>
   <count>
     <yeas>43</yeas>
