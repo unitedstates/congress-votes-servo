@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00018</vote_number>
+      <vote_date>08-Feb</vote_date>
+      <issue>PN831</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Rebecca Goodgame Ebinger, of Iowa, to be U.S. District Judge for the Southern District of Iowa</title>
+    </vote>
+    <vote>
       <vote_number>00017</vote_number>
       <vote_date>04-Feb</vote_date>
       <issue>
