@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00019</vote_number>
+      <vote_date>09-Feb</vote_date>
+      <issue>PN915</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Scot Alan Marciel, of California, to be Ambassador to the Union of Burma</title>
+    </vote>
+    <vote>
       <vote_number>00018</vote_number>
       <vote_date>08-Feb</vote_date>
       <issue>PN831</issue>
