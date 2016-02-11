@@ -4,6 +4,20 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00022</vote_number>
+      <vote_date>11-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00644:">H.R. 644</A>
+      </issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>20</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 644; An act to reauthorize trade facilitation and trade enforcement functions and activities, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00021</vote_number>
       <vote_date>11-Feb</vote_date>
       <issue>
