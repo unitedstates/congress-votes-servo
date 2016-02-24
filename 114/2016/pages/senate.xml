@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00025</vote_number>
+      <vote_date>24-Feb</vote_date>
+      <issue>PN849</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Confirmation Robert McKinnon Califf, of South Carolina, to be Commissioner of Food and Drugs</title>
+    </vote>
+    <vote>
       <vote_number>00024</vote_number>
       <vote_date>22-Feb</vote_date>
       <issue>PN849</issue>
