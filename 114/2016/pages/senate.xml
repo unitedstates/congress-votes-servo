@@ -4,6 +4,20 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00026</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SE00374:">S.Res. 374</A>
+      </issue>
+      <question>On the Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. Res. 374; A resolution relating to the death of Antonin Scalia, Associate Justice of the Supreme Court of the United States.</title>
+    </vote>
+    <vote>
       <vote_number>00025</vote_number>
       <vote_date>24-Feb</vote_date>
       <issue>PN849</issue>
