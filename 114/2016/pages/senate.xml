@@ -4,6 +4,34 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00029</vote_number>
+      <vote_date>02-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
+      </issue>
+      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03395:">S.Amdt. 3395</A></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Wyden Amdt. No. 3395; To provide for comprehensive provisions for the prevention and enforcement of opioid abuse and treatment of opioid addiction.</title>
+    </vote>
+    <vote>
+      <vote_number>00028</vote_number>
+      <vote_date>02-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03362:">S.Amdt. 3362</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Feinstein Amdt. No. 3362; To provide the Department of Justice with additional tools to target extraterritorial drug trafficking activity, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00027</vote_number>
       <vote_date>29-Feb</vote_date>
       <issue>
