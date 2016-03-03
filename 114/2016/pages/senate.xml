@@ -4,6 +4,20 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00031</vote_number>
+      <vote_date>03-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
+      </issue>
+      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03420:">S.Amdt. 3420</A></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Manchin Amdt. No. 3420; To strengthen consumer education about the risks of opioid abuse and addiction.</title>
+    </vote>
+    <vote>
       <vote_number>00030</vote_number>
       <vote_date>02-Mar</vote_date>
       <issue>
