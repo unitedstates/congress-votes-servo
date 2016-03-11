@@ -4,9 +4,9 @@
   <congress_year>2016</congress_year>
   <vote_number>35</vote_number>
   <vote_date>March 10, 2016,  01:41 PM</vote_date>
-  <modify_date>March 10, 2016,  04:44 PM</modify_date>
-  <vote_question_text>On the Motion to Table S.J.Res. 21 and S.J.Res. 31</vote_question_text>
-  <vote_document_text>A joint resolution proposing an amendment to the Constitution of the United States authorizing the Congress to prohibit the physical desecration of the flag of the United States; and A joint resolution relating to the disapproval of the proposed foreign military sale to the Government of Pakistan of F-16 Block 52 aircraft.</vote_document_text>
+  <modify_date>March 11, 2016,  08:46 AM</modify_date>
+  <vote_question_text>On the Motion to Table S.J.Res. 31</vote_question_text>
+  <vote_document_text>A joint resolution relating to the disapproval of the proposed foreign military sale to the Government of Pakistan of F-16 Block 52 aircraft.</vote_document_text>
   <vote_result_text>Motion to Table Agreed to (71-24)</vote_result_text>
   <question>On the Motion to Table</question>
   <vote_title>Motion to Table the Motion to Discharge S.J. Res. 31</vote_title>
@@ -18,22 +18,6 @@
     <document_number>31</document_number>
     <document_name>S.J.Res. 31</document_name>
     <document_title>A joint resolution relating to the disapproval of the proposed foreign military sale to the Government of Pakistan of F-16 Block 52 aircraft.</document_title>
-    <document_short_title/>
-  </document>
-  <amendment>
-    <amendment_number/>
-    <amendment_to_amendment_number/>
-    <amendment_to_amendment_to_amendment_number/>
-    <amendment_to_document_number/>
-    <amendment_to_document_short_title/>
-    <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
-  </amendment>
-  <document>
-    <document_congress>114</document_congress>
-    <document_type>S.J.Res.</document_type>
-    <document_number>21</document_number>
-    <document_name>S.J.Res. 21</document_name>
-    <document_title>A joint resolution proposing an amendment to the Constitution of the United States authorizing the Congress to prohibit the physical desecration of the flag of the United States.</document_title>
     <document_short_title/>
   </document>
   <amendment>
