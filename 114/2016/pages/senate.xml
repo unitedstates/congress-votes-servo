@@ -4,6 +4,20 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00038</vote_number>
+      <vote_date>17-Mar</vote_date>
+      <issue>
+        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SE00377:">S.Res. 377</A>
+      </issue>
+      <question>On the Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. Res. 377; An original resolution directing the Senate Legal Counsel to bring a civil action to enforce a subpoena of the Permanent Subcommittee on Investigations.</title>
+    </vote>
+    <vote>
       <vote_number>00037</vote_number>
       <vote_date>16-Mar</vote_date>
       <issue>
