@@ -6,9 +6,7 @@
     <vote>
       <vote_number>00038</vote_number>
       <vote_date>17-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SE00377:">S.Res. 377</A>
-      </issue>
+      <issue>S.Res. 377</issue>
       <question>On the Resolution</question>
       <result>Agreed to</result>
       <vote_tally>
@@ -20,9 +18,7 @@
     <vote>
       <vote_number>00037</vote_number>
       <vote_date>16-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00764:">S. 764</A>
-      </issue>
+      <issue>S. 764</issue>
       <question>On the Cloture Motion</question>
       <result>Rejected</result>
       <vote_tally>
@@ -46,9 +42,7 @@
     <vote>
       <vote_number>00035</vote_number>
       <vote_date>10-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SJ00031:">S.J.Res. 31</A>
-      </issue>
+      <issue>S.J.Res. 31</issue>
       <question>On the Motion to Table</question>
       <result>Agreed to</result>
       <vote_tally>
@@ -60,9 +54,7 @@
     <vote>
       <vote_number>00034</vote_number>
       <vote_date>10-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
+      <issue>S. 524</issue>
       <question>On Passage of the Bill</question>
       <result>Passed</result>
       <vote_tally>
@@ -74,9 +66,7 @@
     <vote>
       <vote_number>00033</vote_number>
       <vote_date>09-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
+      <issue>S. 524</issue>
       <question>On the Cloture Motion</question>
       <result>Agreed to</result>
       <vote_tally>
@@ -88,10 +78,8 @@
     <vote>
       <vote_number>00032</vote_number>
       <vote_date>07-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
-      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03378:">S.Amdt. 3378</A></question>
+      <issue>S. 524</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3378</measure></question>
       <result>Agreed to</result>
       <vote_tally>
         <yeas>86</yeas>
@@ -102,10 +90,8 @@
     <vote>
       <vote_number>00031</vote_number>
       <vote_date>03-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03420:">S.Amdt. 3420</A></question>
+      <issue>S. 524</issue>
+      <question>On the Amendment <measure>S.Amdt. 3420</measure></question>
       <result>Agreed to</result>
       <vote_tally>
         <yeas>90</yeas>
@@ -116,10 +102,8 @@
     <vote>
       <vote_number>00030</vote_number>
       <vote_date>02-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
-      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03345:">S.Amdt. 3345</A></question>
+      <issue>S. 524</issue>
+      <question>On the Motion <measure>S.Amdt. 3345</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>48</yeas>
@@ -130,10 +114,8 @@
     <vote>
       <vote_number>00029</vote_number>
       <vote_date>02-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
-      <question>On the Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03395:">S.Amdt. 3395</A></question>
+      <issue>S. 524</issue>
+      <question>On the Motion <measure>S.Amdt. 3395</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>46</yeas>
@@ -144,10 +126,8 @@
     <vote>
       <vote_number>00028</vote_number>
       <vote_date>02-Mar</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03362:">S.Amdt. 3362</A></question>
+      <issue>S. 524</issue>
+      <question>On the Amendment <measure>S.Amdt. 3362</measure></question>
       <result>Agreed to</result>
       <vote_tally>
         <yeas>94</yeas>
@@ -158,9 +138,7 @@
     <vote>
       <vote_number>00027</vote_number>
       <vote_date>29-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN00524:">S. 524</A>
-      </issue>
+      <issue>S. 524</issue>
       <question>On Cloture on the Motion to Proceed</question>
       <result>Agreed to</result>
       <vote_tally>
@@ -172,9 +150,7 @@
     <vote>
       <vote_number>00026</vote_number>
       <vote_date>25-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SE00374:">S.Res. 374</A>
-      </issue>
+      <issue>S.Res. 374</issue>
       <question>On the Resolution</question>
       <result>Agreed to</result>
       <vote_tally>
@@ -222,9 +198,7 @@
     <vote>
       <vote_number>00022</vote_number>
       <vote_date>11-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00644:">H.R. 644</A>
-      </issue>
+      <issue>H.R. 644</issue>
       <question>On the Conference Report</question>
       <result>Agreed to</result>
       <vote_tally>
@@ -236,9 +210,7 @@
     <vote>
       <vote_number>00021</vote_number>
       <vote_date>11-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00644:">H.R. 644</A>
-      </issue>
+      <issue>H.R. 644</issue>
       <question>On the Cloture Motion</question>
       <result>Agreed to</result>
       <vote_tally>
@@ -250,9 +222,7 @@
     <vote>
       <vote_number>00020</vote_number>
       <vote_date>10-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR00757:">H.R. 757</A>
-      </issue>
+      <issue>H.R. 757</issue>
       <question>On Passage of the Bill</question>
       <result>Passed</result>
       <vote_tally>
@@ -288,9 +258,7 @@
     <vote>
       <vote_number>00017</vote_number>
       <vote_date>04-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
+      <issue>S. 2012</issue>
       <question>On the Cloture Motion</question>
       <result>Rejected</result>
       <vote_tally>
@@ -302,10 +270,8 @@
     <vote>
       <vote_number>00016</vote_number>
       <vote_date>04-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Cloture Motion <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02953:">S.Amdt. 2953</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 2953</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>46</yeas>
@@ -316,10 +282,8 @@
     <vote>
       <vote_number>00015</vote_number>
       <vote_date>02-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03125:">S.Amdt. 3125</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 3125</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>43</yeas>
@@ -330,10 +294,8 @@
     <vote>
       <vote_number>00014</vote_number>
       <vote_date>02-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03176:">S.Amdt. 3176</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 3176</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>45</yeas>
@@ -344,10 +306,8 @@
     <vote>
       <vote_number>00013</vote_number>
       <vote_date>02-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02996:">S.Amdt. 2996</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 2996</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>49</yeas>
@@ -358,10 +318,8 @@
     <vote>
       <vote_number>00012</vote_number>
       <vote_date>02-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03030:">S.Amdt. 3030</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 3030</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>52</yeas>
@@ -372,10 +330,8 @@
     <vote>
       <vote_number>00011</vote_number>
       <vote_date>02-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03115:">S.Amdt. 3115</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 3115</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>43</yeas>
@@ -386,10 +342,8 @@
     <vote>
       <vote_number>00010</vote_number>
       <vote_date>02-Feb</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03023:">S.Amdt. 3023</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 3023</measure></question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>47</yeas>
@@ -400,10 +354,8 @@
     <vote>
       <vote_number>00009</vote_number>
       <vote_date>28-Jan</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02965:">S.Amdt. 2965</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 2965</measure></question>
       <result>Agreed to</result>
       <vote_tally>
         <yeas>55</yeas>
@@ -414,10 +366,8 @@
     <vote>
       <vote_number>00008</vote_number>
       <vote_date>28-Jan</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP02982:">S.Amdt. 2982</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 2982</measure></question>
       <result>Agreed to</result>
       <vote_tally>
         <yeas>62</yeas>
@@ -428,10 +378,8 @@
     <vote>
       <vote_number>00007</vote_number>
       <vote_date>28-Jan</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02012:">S. 2012</A>
-      </issue>
-      <question>On the Amendment <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SP03021:">S.Amdt. 3021</A></question>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 3021</measure></question>
       <result>Agreed to</result>
       <vote_tally>
         <yeas>87</yeas>
@@ -454,9 +402,7 @@
     <vote>
       <vote_number>00005</vote_number>
       <vote_date>21-Jan</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SJ00022:">S.J.Res. 22</A>
-      </issue>
+      <issue>S.J.Res. 22</issue>
       <question>On the Cloture Motion</question>
       <result>Rejected</result>
       <vote_tally>
@@ -468,9 +414,7 @@
     <vote>
       <vote_number>00004</vote_number>
       <vote_date>20-Jan</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:HR04038:">H.R. 4038</A>
-      </issue>
+      <issue>H.R. 4038</issue>
       <question>On the Cloture Motion</question>
       <result>Rejected</result>
       <vote_tally>
@@ -494,9 +438,7 @@
     <vote>
       <vote_number>00002</vote_number>
       <vote_date>12-Jan</vote_date>
-      <issue>
-        <A HREF="http://thomas.loc.gov/cgi-bin/bdquery/z?d114:SN02232:">S. 2232</A>
-      </issue>
+      <issue>S. 2232</issue>
       <question>On Cloture on the Motion to Proceed</question>
       <result>Rejected</result>
       <vote_tally>
