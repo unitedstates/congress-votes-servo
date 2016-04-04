@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00039</vote_number>
+      <vote_date>04-Apr</vote_date>
+      <issue>S. 1890</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. 1890 As Amended; A bill to amend chapter 90 of title 18, United States Code, to provide Federal jurisdiction for the theft of trade secrets, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00038</vote_number>
       <vote_date>17-Mar</vote_date>
       <issue>S.Res. 377</issue>
