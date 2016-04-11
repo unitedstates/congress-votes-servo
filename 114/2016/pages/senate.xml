@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00044</vote_number>
+      <vote_date>11-Apr</vote_date>
+      <issue>PN153</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Waverly D. Crenshaw, Jr., of Tennessee, to be U.S. District Judge for the Middle District of Tennessee</title>
+    </vote>
+    <vote>
       <vote_number>00043</vote_number>
       <vote_date>07-Apr</vote_date>
       <issue>H.R. 636</issue>
