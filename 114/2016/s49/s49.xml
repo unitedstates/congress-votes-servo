@@ -2,14 +2,14 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>48</vote_number>
-  <vote_date>April 19, 2016,  04:17 PM</vote_date>
-  <modify_date>April 19, 2016,  04:51 PM</modify_date>
-  <vote_question_text>On the Amendment S.Amdt. 3234 to S.Amdt. 2953 to S. 2012 (Energy Policy Modernization Act of 2015)</vote_question_text>
-  <vote_document_text>To add certain provisions relating to natural resources.</vote_document_text>
-  <vote_result_text>Amendment Agreed to (97-0, 3/5 majority required)</vote_result_text>
+  <vote_number>49</vote_number>
+  <vote_date>April 19, 2016,  04:48 PM</vote_date>
+  <modify_date>April 19, 2016,  05:15 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 3202 to S.Amdt. 2953 to S. 2012 (Energy Policy Modernization Act of 2015)</vote_question_text>
+  <vote_document_text>To improve the accuracy of mortgage underwriting used by the Federal Housing Administration by ensuring that energy costs are included in the underwriting process, to reduce the amount of energy consumed by homes, to facilitate the creation of energy efficiency retrofit and construction jobs, and for other purposes.</vote_document_text>
+  <vote_result_text>Amendment Agreed to (66-31, 3/5 majority required)</vote_result_text>
   <question>On the Amendment</question>
-  <vote_title>Murkowski Amdt. No. 3234 As Modified</vote_title>
+  <vote_title>Isakson Amdt. No. 3202</vote_title>
   <majority_requirement>3/5</majority_requirement>
   <vote_result>Amendment Agreed to</vote_result>
   <document>
@@ -21,16 +21,16 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 3234</amendment_number>
+    <amendment_number>S.Amdt. 3202</amendment_number>
     <amendment_to_amendment_number>S.Amdt. 2953</amendment_to_amendment_number>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>S. 2012</amendment_to_document_number>
     <amendment_to_document_short_title>Energy Policy Modernization Act of 2015</amendment_to_document_short_title>
-    <amendment_purpose>To add certain provisions relating to natural resources.</amendment_purpose>
+    <amendment_purpose>To improve the accuracy of mortgage underwriting used by the Federal Housing Administration by ensuring that energy costs are included in the underwriting process, to reduce the amount of energy consumed by homes, to facilitate the creation of energy efficiency retrofit and construction jobs, and for other purposes.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>97</yeas>
-    <nays>0</nays>
+    <yeas>66</yeas>
+    <nays>31</nays>
     <present/>
     <absent>3</absent>
   </count>
@@ -72,7 +72,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S317</lis_member_id>
     </member>
     <member>
@@ -117,7 +117,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>AR</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S343</lis_member_id>
     </member>
     <member>
@@ -207,7 +207,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>IN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S212</lis_member_id>
     </member>
     <member>
@@ -243,7 +243,7 @@
       <first_name>Bob</first_name>
       <party>R</party>
       <state>TN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S310</lis_member_id>
     </member>
     <member>
@@ -261,7 +261,7 @@
       <first_name>Tom</first_name>
       <party>R</party>
       <state>AR</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S374</lis_member_id>
     </member>
     <member>
@@ -270,7 +270,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>ID</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S266</lis_member_id>
     </member>
     <member>
@@ -288,7 +288,7 @@
       <first_name>Steve</first_name>
       <party>R</party>
       <state>MT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S375</lis_member_id>
     </member>
     <member>
@@ -315,7 +315,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S254</lis_member_id>
     </member>
     <member>
@@ -324,7 +324,7 @@
       <first_name>Joni</first_name>
       <party>R</party>
       <state>IA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S376</lis_member_id>
     </member>
     <member>
@@ -342,7 +342,7 @@
       <first_name>Deb</first_name>
       <party>R</party>
       <state>NE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S357</lis_member_id>
     </member>
     <member>
@@ -351,7 +351,7 @@
       <first_name>Jeff</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S358</lis_member_id>
     </member>
     <member>
@@ -369,7 +369,7 @@
       <first_name>Cory</first_name>
       <party>R</party>
       <state>CO</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S377</lis_member_id>
     </member>
     <member>
@@ -396,7 +396,7 @@
       <first_name>Chuck</first_name>
       <party>R</party>
       <state>IA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S153</lis_member_id>
     </member>
     <member>
@@ -459,7 +459,7 @@
       <first_name>Jim</first_name>
       <party>R</party>
       <state>OK</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S236</lis_member_id>
     </member>
     <member>
@@ -522,7 +522,7 @@
       <first_name>James</first_name>
       <party>R</party>
       <state>OK</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S378</lis_member_id>
     </member>
     <member>
@@ -540,7 +540,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S346</lis_member_id>
     </member>
     <member>
@@ -567,7 +567,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S197</lis_member_id>
     </member>
     <member>
@@ -585,7 +585,7 @@
       <first_name>Mitch</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S174</lis_member_id>
     </member>
     <member>
@@ -621,7 +621,7 @@
       <first_name>Jerry</first_name>
       <party>R</party>
       <state>KS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S347</lis_member_id>
     </member>
     <member>
@@ -666,7 +666,7 @@
       <first_name>Rand</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S348</lis_member_id>
     </member>
     <member>
@@ -720,7 +720,7 @@
       <first_name>James </first_name>
       <party>R</party>
       <state>ID</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S323</lis_member_id>
     </member>
     <member>
@@ -729,7 +729,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>KS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S260</lis_member_id>
     </member>
     <member>
@@ -747,7 +747,7 @@
       <first_name>Marco</first_name>
       <party>R</party>
       <state>FL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S350</lis_member_id>
     </member>
     <member>
@@ -765,7 +765,7 @@
       <first_name>Ben</first_name>
       <party>R</party>
       <state>NE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S382</lis_member_id>
     </member>
     <member>
@@ -792,7 +792,7 @@
       <first_name>Timothy</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S365</lis_member_id>
     </member>
     <member>
@@ -801,7 +801,7 @@
       <first_name>Jefferson</first_name>
       <party>R</party>
       <state>AL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S261</lis_member_id>
     </member>
     <member>
@@ -819,7 +819,7 @@
       <first_name>Richard</first_name>
       <party>R</party>
       <state>AL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S184</lis_member_id>
     </member>
     <member>
@@ -855,7 +855,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>SD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S303</lis_member_id>
     </member>
     <member>
@@ -873,7 +873,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>PA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S351</lis_member_id>
     </member>
     <member>
@@ -891,7 +891,7 @@
       <first_name>David</first_name>
       <party>R</party>
       <state>LA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S299</lis_member_id>
     </member>
     <member>
@@ -927,7 +927,7 @@
       <first_name>Roger</first_name>
       <party>R</party>
       <state>MS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S318</lis_member_id>
     </member>
     <member>
