@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00047</vote_number>
+      <vote_date>19-Apr</vote_date>
+      <issue>H.R. 636</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>H.R. 636 As Amended; A bill to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00046</vote_number>
       <vote_date>18-Apr</vote_date>
       <issue>H.R. 636</issue>
