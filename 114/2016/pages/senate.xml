@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00053</vote_number>
+      <vote_date>19-Apr</vote_date>
+      <issue>S. 2012</issue>
+      <question>On the Motion <measure>S.Amdt. 3787</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>34</yeas>
+        <nays>63</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Paul Amdt. No. 3787; To provide for the establishment of free market enterprise zones in order to help facilitate the creation of new jobs, entrepreneurial opportunities, enhanced and renewed educational opprotunities, and increased community involvement in bankrupt or economically distressed areas.</title>
+    </vote>
+    <vote>
+      <vote_number>00052</vote_number>
+      <vote_date>19-Apr</vote_date>
+      <issue>S. 2012</issue>
+      <question>On the Amendment <measure>S.Amdt. 3312</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Udall Amdt. No. 3312; To require the Secretary of the Treasury to develop a plan for issuance of Clean Energy Victory Bonds.</title>
+    </vote>
+    <vote>
       <vote_number>00051</vote_number>
       <vote_date>19-Apr</vote_date>
       <issue>S. 2012</issue>
