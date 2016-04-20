@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00056</vote_number>
+      <vote_date>20-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3803</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>25</yeas>
+        <nays>71</nays>
+      </vote_tally>
+      <title>Ernst Amdt. No. 3803; To eliminate funding for the Appalachian Regional Commission, the Delta Regional Authority, the Denali Commission, and the Northern Border Regional Commission.</title>
+    </vote>
+    <vote>
+      <vote_number>00055</vote_number>
+      <vote_date>20-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3802</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Schatz Amdt. No. 3802; To modify funding for certain projects of the Department of Energy.</title>
+    </vote>
+    <vote>
       <vote_number>00054</vote_number>
       <vote_date>20-Apr</vote_date>
       <issue>S. 2012</issue>

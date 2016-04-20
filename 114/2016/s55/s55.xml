@@ -2,37 +2,37 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>54</vote_number>
-  <vote_date>April 20, 2016,  10:01 AM</vote_date>
-  <modify_date>April 20, 2016,  10:37 AM</modify_date>
-  <vote_question_text>On Passage of the Bill S. 2012</vote_question_text>
-  <vote_document_text>An original bill to provide for the modernization of the energy policy of the United States, and for other purposes.</vote_document_text>
-  <vote_result_text>Bill Passed (85-12)</vote_result_text>
-  <question>On Passage of the Bill</question>
-  <vote_title>S. 2012, As Amended</vote_title>
+  <vote_number>55</vote_number>
+  <vote_date>April 20, 2016,  04:54 PM</vote_date>
+  <modify_date>April 20, 2016,  05:28 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 3802 to S.Amdt. 3801 to H.R. 2028 (Energy and Water Development and Related Agencies Appropriations Act, 2016)</vote_question_text>
+  <vote_document_text>To modify funding for certain projects of the Department of Energy.</vote_document_text>
+  <vote_result_text>Amendment Agreed to (70-26)</vote_result_text>
+  <question>On the Amendment</question>
+  <vote_title>Schatz Amdt. No. 3802</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Bill Passed</vote_result>
+  <vote_result>Amendment Agreed to</vote_result>
   <document>
     <document_congress>114</document_congress>
-    <document_type>S.</document_type>
-    <document_number>2012</document_number>
-    <document_name>S. 2012</document_name>
-    <document_title>An original bill to provide for the modernization of the energy policy of the United States, and for other purposes.</document_title>
-    <document_short_title>Energy Policy Modernization Act of 2015</document_short_title>
+    <document_type/>
+    <document_number/>
+    <document_name/>
+    <document_title/>
+    <document_short_title/>
   </document>
   <amendment>
-    <amendment_number/>
-    <amendment_to_amendment_number/>
+    <amendment_number>S.Amdt. 3802</amendment_number>
+    <amendment_to_amendment_number>S.Amdt. 3801</amendment_to_amendment_number>
     <amendment_to_amendment_to_amendment_number/>
-    <amendment_to_document_number/>
-    <amendment_to_document_short_title/>
-    <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
+    <amendment_to_document_number>H.R. 2028</amendment_to_document_number>
+    <amendment_to_document_short_title>Energy and Water Development and Related Agencies Appropriations Act, 2016</amendment_to_document_short_title>
+    <amendment_purpose>To modify funding for certain projects of the Department of Energy.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>85</yeas>
-    <nays>12</nays>
+    <yeas>70</yeas>
+    <nays>26</nays>
     <present/>
-    <absent>3</absent>
+    <absent>4</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -72,7 +72,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S317</lis_member_id>
     </member>
     <member>
@@ -117,7 +117,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>AR</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S343</lis_member_id>
     </member>
     <member>
@@ -144,7 +144,7 @@
       <first_name>Richard</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S300</lis_member_id>
     </member>
     <member>
@@ -189,7 +189,7 @@
       <first_name>Bob</first_name>
       <party>D</party>
       <state>PA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S309</lis_member_id>
     </member>
     <member>
@@ -270,7 +270,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>ID</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S266</lis_member_id>
     </member>
     <member>
@@ -288,7 +288,7 @@
       <first_name>Steve</first_name>
       <party>R</party>
       <state>MT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S375</lis_member_id>
     </member>
     <member>
@@ -315,7 +315,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S254</lis_member_id>
     </member>
     <member>
@@ -324,7 +324,7 @@
       <first_name>Joni</first_name>
       <party>R</party>
       <state>IA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S376</lis_member_id>
     </member>
     <member>
@@ -342,7 +342,7 @@
       <first_name>Deb</first_name>
       <party>R</party>
       <state>NE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S357</lis_member_id>
     </member>
     <member>
@@ -351,7 +351,7 @@
       <first_name>Jeff</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S358</lis_member_id>
     </member>
     <member>
@@ -396,7 +396,7 @@
       <first_name>Chuck</first_name>
       <party>R</party>
       <state>IA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S153</lis_member_id>
     </member>
     <member>
@@ -432,7 +432,7 @@
       <first_name>Dean</first_name>
       <party>R</party>
       <state>NV</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S352</lis_member_id>
     </member>
     <member>
@@ -567,7 +567,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S197</lis_member_id>
     </member>
     <member>
@@ -585,7 +585,7 @@
       <first_name>Mitch</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S174</lis_member_id>
     </member>
     <member>
@@ -621,7 +621,7 @@
       <first_name>Jerry</first_name>
       <party>R</party>
       <state>KS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S347</lis_member_id>
     </member>
     <member>
@@ -675,7 +675,7 @@
       <first_name>David</first_name>
       <party>R</party>
       <state>GA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S379</lis_member_id>
     </member>
     <member>
@@ -720,7 +720,7 @@
       <first_name>James </first_name>
       <party>R</party>
       <state>ID</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S323</lis_member_id>
     </member>
     <member>
@@ -729,7 +729,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>KS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S260</lis_member_id>
     </member>
     <member>
@@ -855,7 +855,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>SD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S303</lis_member_id>
     </member>
     <member>
@@ -864,7 +864,7 @@
       <first_name>Thomas</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S384</lis_member_id>
     </member>
     <member>
@@ -873,7 +873,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>PA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S351</lis_member_id>
     </member>
     <member>
