@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00054</vote_number>
+      <vote_date>20-Apr</vote_date>
+      <issue>S. 2012</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>S. 2012, As Amended; An original bill to provide for the modernization of the energy policy of the United States, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00053</vote_number>
       <vote_date>19-Apr</vote_date>
       <issue>S. 2012</issue>
