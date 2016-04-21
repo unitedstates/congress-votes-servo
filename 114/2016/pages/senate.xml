@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00059</vote_number>
+      <vote_date>21-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3833</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Franken Amdt. No. 3833; To provide funding for the Tribal Energy Loan Guarantee Program.</title>
+    </vote>
+    <vote>
       <vote_number>00058</vote_number>
       <vote_date>21-Apr</vote_date>
       <issue>H.R. 2028</issue>
@@ -73,7 +85,7 @@
         <yeas>33</yeas>
         <nays>64</nays>
       </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Paul Amdt. No. 3787; To provide for the establishment of free market enterprise zones in order to help facilitate the creation of new jobs, entrepreneurial opportunities, enhanced and renewed educational opprotunities, and increased community involvement in bankrupt or economically distressed areas.</title>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Paul Amdt. No. 3787; To provide for the establishment of free market enterprise zones in order to help facilitate the creation of new jobs, entrepreneurial opportunities, enhanced and renewed educational opportunities, and increased community involvement in bankrupt or economically distressed areas.</title>
     </vote>
     <vote>
       <vote_number>00052</vote_number>
