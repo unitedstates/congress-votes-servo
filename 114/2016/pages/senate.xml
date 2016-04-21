@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00058</vote_number>
+      <vote_date>21-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3814</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Coats Amdt. No. 3814; To limit the use of funds made available for the Advanced Technology Vehicles Manufacturing Loan Program.</title>
+    </vote>
+    <vote>
+      <vote_number>00057</vote_number>
+      <vote_date>21-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3811</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Hoeven Amdt. No. 3811; To prohibit the use of funds relating to a certain definition.</title>
+    </vote>
+    <vote>
       <vote_number>00056</vote_number>
       <vote_date>20-Apr</vote_date>
       <issue>H.R. 2028</issue>
