@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00060</vote_number>
+      <vote_date>25-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3813</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Murray Amdt. No. 3813; To add a provision relating to certain requirements in the acquisition of welded shipboard anchor and mooring chain.</title>
+    </vote>
+    <vote>
       <vote_number>00059</vote_number>
       <vote_date>21-Apr</vote_date>
       <issue>H.R. 2028</issue>
