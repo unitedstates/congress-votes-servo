@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00063</vote_number>
+      <vote_date>26-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3820</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>12</yeas>
+        <nays>84</nays>
+      </vote_tally>
+      <title>Flake Amdt. No. 3820; To withhold certain funds for the construction of environmental infrastructure.</title>
+    </vote>
+    <vote>
+      <vote_number>00062</vote_number>
+      <vote_date>26-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3805</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Reid Amdt. No. 3805; To make funding for water management improvement subject to a condition.</title>
+    </vote>
+    <vote>
       <vote_number>00061</vote_number>
       <vote_date>26-Apr</vote_date>
       <issue>H.R. 2028</issue>
