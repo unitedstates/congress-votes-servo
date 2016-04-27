@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00064</vote_number>
+      <vote_date>27-Apr</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3801</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Alexander Amdt. No. 3801; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00063</vote_number>
       <vote_date>26-Apr</vote_date>
       <issue>H.R. 2028</issue>
