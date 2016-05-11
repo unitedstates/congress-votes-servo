@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00070</vote_number>
+      <vote_date>11-May</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3888</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Fischer Amdt. No. 3888; To provide for the operation of reservoir projects by the Bureau of Reclamation.</title>
+    </vote>
+    <vote>
+      <vote_number>00069</vote_number>
+      <vote_date>11-May</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Amendment <measure>S.Amdt. 3871</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>60</nays>
+      </vote_tally>
+      <title>Cardin Amdt. No. 3871; To use Federal and State expertise to mitigate fish and wildlife impacts at Corps of Engineers projects.</title>
+    </vote>
+    <vote>
       <vote_number>00068</vote_number>
       <vote_date>11-May</vote_date>
       <issue>H.R. 2028</issue>
