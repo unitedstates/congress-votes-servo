@@ -4,10 +4,10 @@
   <congress_year>2016</congress_year>
   <vote_number>70</vote_number>
   <vote_date>May 11, 2016,  05:00 PM</vote_date>
-  <modify_date>May 11, 2016,  05:51 PM</modify_date>
+  <modify_date>May 12, 2016,  12:16 PM</modify_date>
   <vote_question_text>On the Amendment S.Amdt. 3888 to S.Amdt. 3801 to H.R. 2028 (Energy and Water Development and Related Agencies Appropriations Act, 2016)</vote_question_text>
   <vote_document_text>To provide for the operation of reservoir projects by the Bureau of Reclamation.</vote_document_text>
-  <vote_result_text>Amendment Rejected (52-47, 3/5 majority required)</vote_result_text>
+  <vote_result_text>Amendment Rejected (51-48, 3/5 majority required)</vote_result_text>
   <question>On the Amendment</question>
   <vote_title>Fischer Amdt. No. 3888</vote_title>
   <majority_requirement>3/5</majority_requirement>
@@ -29,8 +29,8 @@
     <amendment_purpose>To provide for the operation of reservoir projects by the Bureau of Reclamation.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>52</yeas>
-    <nays>47</nays>
+    <yeas>51</yeas>
+    <nays>48</nays>
     <present/>
     <absent>1</absent>
   </count>
@@ -297,7 +297,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>IN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S356</lis_member_id>
     </member>
     <member>
