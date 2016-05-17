@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00074</vote_number>
+      <vote_date>17-May</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3899</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Cornyn Amdt. No. 3899; Making emergency supplemental appropriations for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00073</vote_number>
+      <vote_date>17-May</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3898</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Nelson Amdt. No. 3898; Making supplemental appropriations for fiscal year 2016 to respond to Zika virus.</title>
+    </vote>
+    <vote>
       <vote_number>00072</vote_number>
       <vote_date>16-May</vote_date>
       <issue>PN327</issue>
