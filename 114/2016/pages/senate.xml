@@ -4,6 +4,42 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00078</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3896</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 3896 to H.R. 2577; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00077</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Amendment <measure>S.Amdt. 3900</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Blunt Amdt. No. 3900 As Modified and Amended; Zika response and preparedness.</title>
+    </vote>
+    <vote>
+      <vote_number>00076</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Motion <measure>S.Amdt. 3900</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 3900 As Modified; Zika response and preparedness.</title>
+    </vote>
+    <vote>
       <vote_number>00075</vote_number>
       <vote_date>17-May</vote_date>
       <issue>H.R. 2577</issue>
