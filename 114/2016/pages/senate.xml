@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00081</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 3897</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Motion to Table Lee Amdt. No. 3897; To prohibit the use of funds to carry out a rule and notice of the Department of Housing and Urban Development.</title>
+    </vote>
+    <vote>
+      <vote_number>00080</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Amendment <measure>S.Amdt. 3970</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>9</nays>
+      </vote_tally>
+      <title>Collins Amdt. No. 3970; To prohibit the use of funds to carry out a final rule and notice of the Department of Housing and Urban Development.</title>
+    </vote>
+    <vote>
       <vote_number>00079</vote_number>
       <vote_date>19-May</vote_date>
       <issue>H.R. 2577</issue>
