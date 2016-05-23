@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00083</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>S. 2613</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. 2613 As Amended; A bill to reauthorize certain programs established by the Adam Walsh Child Protection and Safety Act of 2006.</title>
+    </vote>
+    <vote>
       <vote_number>00082</vote_number>
       <vote_date>19-May</vote_date>
       <issue>H.R. 2577</issue>
