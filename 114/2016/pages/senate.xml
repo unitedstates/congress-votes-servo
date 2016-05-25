@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00087</vote_number>
+      <vote_date>25-May</vote_date>
+      <issue>S. 2943</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 2943; An original bill to authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00086</vote_number>
+      <vote_date>25-May</vote_date>
+      <issue>S.J.Res. 28</issue>
+      <question>On the Joint Resolution</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>S.J. Res. 28; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Secretary of Agriculture relating to inspection of fish of the order Siluriformes.</title>
+    </vote>
+    <vote>
       <vote_number>00085</vote_number>
       <vote_date>24-May</vote_date>
       <issue>S.J.Res. 28</issue>
