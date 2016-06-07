@@ -2,14 +2,14 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>90</vote_number>
-  <vote_date>June 7, 2016,  03:59 PM</vote_date>
-  <modify_date>June 7, 2016,  05:28 PM</modify_date>
-  <vote_question_text>On the Amendment S.Amdt. 4369 to S. 2943 (National Defense Authorization Act for Fiscal Year 2017)</vote_question_text>
-  <vote_document_text>To provide that certain provisions in this Act relating to limitations, transparency, and oversight regarding medical research conducted by the Department of Defense shall have mo force or effect.</vote_document_text>
-  <vote_result_text>Amendment Agreed to (66-32)</vote_result_text>
+  <vote_number>91</vote_number>
+  <vote_date>June 7, 2016,  04:36 PM</vote_date>
+  <modify_date>June 7, 2016,  05:31 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 4204 to S. 2943 (National Defense Authorization Act for Fiscal Year 2017)</vote_question_text>
+  <vote_document_text>To strike the provision relating to the pilot program on privatization of the Defense Commissary System.</vote_document_text>
+  <vote_result_text>Amendment Agreed to (70-28)</vote_result_text>
   <question>On the Amendment</question>
-  <vote_title>Durbin Amdt. No. 4369</vote_title>
+  <vote_title>Inhofe Amdt. No. 4204</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Amendment Agreed to</vote_result>
   <document>
@@ -21,16 +21,16 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 4369</amendment_number>
+    <amendment_number>S.Amdt. 4204</amendment_number>
     <amendment_to_amendment_number/>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>S. 2943</amendment_to_document_number>
     <amendment_to_document_short_title>National Defense Authorization Act for Fiscal Year 2017</amendment_to_document_short_title>
-    <amendment_purpose>To provide that certain provisions in this Act relating to limitations, transparency, and oversight regarding medical research conducted by the Department of Defense shall have mo force or effect.</amendment_purpose>
+    <amendment_purpose>To strike the provision relating to the pilot program on privatization of the Defense Commissary System.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>66</yeas>
-    <nays>32</nays>
+    <yeas>70</yeas>
+    <nays>28</nays>
     <present/>
     <absent>2</absent>
   </count>
@@ -72,7 +72,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S317</lis_member_id>
     </member>
     <member>
@@ -180,7 +180,7 @@
       <first_name>Thomas</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S277</lis_member_id>
     </member>
     <member>
@@ -198,7 +198,7 @@
       <first_name>Bill</first_name>
       <party>R</party>
       <state>LA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S373</lis_member_id>
     </member>
     <member>
@@ -252,7 +252,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>TX</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S287</lis_member_id>
     </member>
     <member>
@@ -315,7 +315,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S254</lis_member_id>
     </member>
     <member>
@@ -405,7 +405,7 @@
       <first_name>Orrin</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S118</lis_member_id>
     </member>
     <member>
@@ -450,7 +450,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>ND</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S344</lis_member_id>
     </member>
     <member>
@@ -459,7 +459,7 @@
       <first_name>Jim</first_name>
       <party>R</party>
       <state>OK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S236</lis_member_id>
     </member>
     <member>
@@ -468,7 +468,7 @@
       <first_name>Johnny</first_name>
       <party>R</party>
       <state>GA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S305</lis_member_id>
     </member>
     <member>
@@ -477,7 +477,7 @@
       <first_name>Ron</first_name>
       <party>R</party>
       <state>WI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S345</lis_member_id>
     </member>
     <member>
@@ -495,7 +495,7 @@
       <first_name>Angus</first_name>
       <party>I</party>
       <state>ME</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S363</lis_member_id>
     </member>
     <member>
@@ -522,7 +522,7 @@
       <first_name>James</first_name>
       <party>R</party>
       <state>OK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S378</lis_member_id>
     </member>
     <member>
@@ -549,7 +549,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>WV</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S338</lis_member_id>
     </member>
     <member>
@@ -693,7 +693,7 @@
       <first_name>Rob</first_name>
       <party>R</party>
       <state>OH</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S349</lis_member_id>
     </member>
     <member>
@@ -702,7 +702,7 @@
       <first_name>John</first_name>
       <party>D</party>
       <state>RI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S259</lis_member_id>
     </member>
     <member>
@@ -729,7 +729,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>KS</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S260</lis_member_id>
     </member>
     <member>
@@ -738,7 +738,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>SD</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S381</lis_member_id>
     </member>
     <member>
@@ -747,7 +747,7 @@
       <first_name>Marco</first_name>
       <party>R</party>
       <state>FL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S350</lis_member_id>
     </member>
     <member>
@@ -792,7 +792,7 @@
       <first_name>Timothy</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S365</lis_member_id>
     </member>
     <member>
@@ -801,7 +801,7 @@
       <first_name>Jefferson</first_name>
       <party>R</party>
       <state>AL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S261</lis_member_id>
     </member>
     <member>
@@ -837,7 +837,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S383</lis_member_id>
     </member>
     <member>
@@ -855,7 +855,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>SD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S303</lis_member_id>
     </member>
     <member>
@@ -864,7 +864,7 @@
       <first_name>Thomas</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S384</lis_member_id>
     </member>
     <member>
@@ -891,7 +891,7 @@
       <first_name>David</first_name>
       <party>R</party>
       <state>LA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S299</lis_member_id>
     </member>
     <member>
