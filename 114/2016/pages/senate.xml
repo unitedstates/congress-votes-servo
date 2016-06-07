@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00089</vote_number>
+      <vote_date>06-Jun</vote_date>
+      <issue>S. 2943</issue>
+      <question>On the Amendment <measure>S.Amdt. 4206</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Fischer Amdt. No. 4206; To modify the requirement that the Secretary of Defense implement measures to maintain the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces.</title>
+    </vote>
+    <vote>
       <vote_number>00088</vote_number>
       <vote_date>26-May</vote_date>
       <issue>PN771</issue>
