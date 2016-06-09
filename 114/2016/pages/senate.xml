@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00096</vote_number>
+      <vote_date>09-Jun</vote_date>
+      <issue>S. 2943</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4229</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on McCain Amdt. No. 4229; To address unfunded priorities of the Armed Forces.</title>
+    </vote>
+    <vote>
+      <vote_number>00095</vote_number>
+      <vote_date>09-Jun</vote_date>
+      <issue>S. 2943</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4549</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Reed Amdt. No. 4549; To authorize parity for defense and nondefense spending pursuant to the Bipartisan Budget Act of 2015.</title>
+    </vote>
+    <vote>
       <vote_number>00094</vote_number>
       <vote_date>08-Jun</vote_date>
       <issue>H.R. 2577</issue>
