@@ -2,14 +2,14 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>101</vote_number>
-  <vote_date>June 16, 2016,  02:19 PM</vote_date>
-  <modify_date>June 16, 2016,  02:45 PM</modify_date>
-  <vote_question_text>On the Motion (Shaheen Motion to Instruct Conferees to S. 524)</vote_question_text>
+  <vote_number>102</vote_number>
+  <vote_date>June 16, 2016,  02:39 PM</vote_date>
+  <modify_date>June 16, 2016,  03:18 PM</modify_date>
+  <vote_question_text>On the Motion (Whitehouse Motion to Instruct Conferees to S. 524)</vote_question_text>
   <vote_document_text>To authorize the Attorney General and Secretary of Health and Human Services to award grants to address the national epidemics of prescription opioid abuse and heroin use, and to provide for the establishment of an inter-agency task force to review, modify, and update best practices for pain management and prescribing pain medication, and for other purposes.</vote_document_text>
-  <vote_result_text>Motion Agreed to (66-29)</vote_result_text>
+  <vote_result_text>Motion Agreed to (70-24)</vote_result_text>
   <question>On the Motion</question>
-  <vote_title>Shaheen Motion to Instruct Conferees to S. 524</vote_title>
+  <vote_title>Whitehouse Motion to Instruct Conferees to S. 524</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Motion Agreed to</vote_result>
   <document>
@@ -29,10 +29,10 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>66</yeas>
-    <nays>29</nays>
+    <yeas>70</yeas>
+    <nays>24</nays>
     <present/>
-    <absent>5</absent>
+    <absent>6</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -99,7 +99,7 @@
       <first_name>Roy</first_name>
       <party>R</party>
       <state>MO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S342</lis_member_id>
     </member>
     <member>
@@ -117,7 +117,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>AR</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S343</lis_member_id>
     </member>
     <member>
@@ -207,7 +207,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>IN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S212</lis_member_id>
     </member>
     <member>
@@ -216,7 +216,7 @@
       <first_name>Thad</first_name>
       <party>R</party>
       <state>MS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S136</lis_member_id>
     </member>
     <member>
@@ -342,7 +342,7 @@
       <first_name>Deb</first_name>
       <party>R</party>
       <state>NE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S357</lis_member_id>
     </member>
     <member>
@@ -405,7 +405,7 @@
       <first_name>Orrin</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S118</lis_member_id>
     </member>
     <member>
@@ -459,7 +459,7 @@
       <first_name>Jim</first_name>
       <party>R</party>
       <state>OK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S236</lis_member_id>
     </member>
     <member>
@@ -477,7 +477,7 @@
       <first_name>Ron</first_name>
       <party>R</party>
       <state>WI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S345</lis_member_id>
     </member>
     <member>
@@ -585,7 +585,7 @@
       <first_name>Mitch</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S174</lis_member_id>
     </member>
     <member>
@@ -729,7 +729,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>KS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S260</lis_member_id>
     </member>
     <member>
@@ -837,7 +837,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S383</lis_member_id>
     </member>
     <member>
@@ -864,7 +864,7 @@
       <first_name>Thomas</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S384</lis_member_id>
     </member>
     <member>
@@ -873,7 +873,7 @@
       <first_name>Pat</first_name>
       <party>R</party>
       <state>PA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S351</lis_member_id>
     </member>
     <member>
@@ -891,7 +891,7 @@
       <first_name>David</first_name>
       <party>R</party>
       <state>LA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S299</lis_member_id>
     </member>
     <member>
@@ -927,7 +927,7 @@
       <first_name>Roger</first_name>
       <party>R</party>
       <state>MS</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S318</lis_member_id>
     </member>
     <member>
