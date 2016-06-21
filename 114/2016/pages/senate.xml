@@ -4,6 +4,54 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00107</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 2578</issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Commit with Instructions; A bill making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00106</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 2578</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4720</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 4720; To authorize the Attorney General to deny requests to transfer a firearm to known or suspected terrorists.</title>
+    </vote>
+    <vote>
+      <vote_number>00105</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 2578</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4749</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 4749; To Secure our Homeland from radical Islamists by Enhancing Law enforcement Detection ("SHIELD").</title>
+    </vote>
+    <vote>
+      <vote_number>00104</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 2578</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Commit H.R. 2578 with instructions (Amdt. No. 4750); A bill making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00103</vote_number>
       <vote_date>20-Jun</vote_date>
       <issue>H.R. 2578</issue>
