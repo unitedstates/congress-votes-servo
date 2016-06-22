@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00108</vote_number>
+      <vote_date>22-Jun</vote_date>
+      <issue>H.R. 2578</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4787</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 4787; To amend section 2709 of title 18, United States Code, to clarify that the Government may obtain a specified set of electronic communication transactional records under that section, and to make permanent the authority for individual terrorists to be treated as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978.</title>
+    </vote>
+    <vote>
       <vote_number>00107</vote_number>
       <vote_date>20-Jun</vote_date>
       <issue>H.R. 2578</issue>
