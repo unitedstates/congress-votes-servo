@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00110</vote_number>
+      <vote_date>23-Jun</vote_date>
+      <issue>H.R. 2578</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 4859</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Table Johnson Amdt No 4859; To authorize the Attorney General to delay or deny the transfer of firearms and explosives and issuance of Federal firearms and explosives licenses and permits to known or suspected terrorists.</title>
+    </vote>
+    <vote>
+      <vote_number>00109</vote_number>
+      <vote_date>23-Jun</vote_date>
+      <issue>H.R. 2578</issue>
+      <question>On the Motion to Table</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Commit H.R. 2578 with Instructions (Amdt. No. 4858); A bill making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00108</vote_number>
       <vote_date>22-Jun</vote_date>
       <issue>H.R. 2578</issue>
