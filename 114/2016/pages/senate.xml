@@ -4,6 +4,54 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00117</vote_number>
+      <vote_date>29-Jun</vote_date>
+      <issue>S. 764</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Motion to Lay Before the Senate a Message From the House to Accompany S. 764; A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00116</vote_number>
+      <vote_date>29-Jun</vote_date>
+      <issue>S. 2328</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to S. 2328; A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00115</vote_number>
+      <vote_date>29-Jun</vote_date>
+      <issue>S. 2328</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: the Motion to Concur in the House Amdt. to S. 2328; A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00114</vote_number>
+      <vote_date>29-Jun</vote_date>
+      <issue>S. 2328</issue>
+      <question>On the Motion to Table</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Concur in the House Amendment with Amendment No. 4865 to S. 2328; A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00113</vote_number>
       <vote_date>29-Jun</vote_date>
       <issue>S. 2328</issue>
