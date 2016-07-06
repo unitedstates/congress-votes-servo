@@ -2,23 +2,23 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>119</vote_number>
-  <vote_date>July 6, 2016,  03:17 PM</vote_date>
-  <modify_date>July 6, 2016,  04:25 PM</modify_date>
-  <vote_question_text>On Cloture on the Motion to Proceed S. 3100</vote_question_text>
-  <vote_document_text>A bill to ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</vote_document_text>
-  <vote_result_text>Cloture on the Motion to Proceed Rejected (53-44, 3/5 majority required)</vote_result_text>
+  <vote_number>120</vote_number>
+  <vote_date>July 6, 2016,  03:36 PM</vote_date>
+  <modify_date>July 6, 2016,  04:29 PM</modify_date>
+  <vote_question_text>On Cloture on the Motion to Proceed S. 2193</vote_question_text>
+  <vote_document_text>A bill to amend the Immigration and Nationality Act to increase penalties for individuals who illegally reenter the United States after being removed and for other purposes.</vote_document_text>
+  <vote_result_text>Cloture on the Motion to Proceed Rejected (55-42, 3/5 majority required)</vote_result_text>
   <question>On Cloture on the Motion to Proceed</question>
-  <vote_title>Motion to Invoke Cloture on the Motion to Proceed to S. 3100</vote_title>
+  <vote_title>Motion to Invoke Cloture on the Motion to Proceed to S. 2193</vote_title>
   <majority_requirement>3/5</majority_requirement>
   <vote_result>Cloture on the Motion to Proceed Rejected</vote_result>
   <document>
     <document_congress>114</document_congress>
     <document_type>S.</document_type>
-    <document_number>3100</document_number>
-    <document_name>S. 3100</document_name>
-    <document_title>A bill to ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</document_title>
-    <document_short_title>Stop Dangerous Sanctuary Cities Act</document_short_title>
+    <document_number>2193</document_number>
+    <document_name>S. 2193</document_name>
+    <document_title>A bill to amend the Immigration and Nationality Act to increase penalties for individuals who illegally reenter the United States after being removed and for other purposes.</document_title>
+    <document_short_title>Kate's Law</document_short_title>
   </document>
   <amendment>
     <amendment_number/>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>53</yeas>
-    <nays>44</nays>
+    <yeas>55</yeas>
+    <nays>42</nays>
     <present/>
     <absent>3</absent>
   </count>
@@ -423,7 +423,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -504,7 +504,7 @@
       <first_name>Mark</first_name>
       <party>R</party>
       <state>IL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S339</lis_member_id>
     </member>
     <member>

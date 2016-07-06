@@ -4,10 +4,34 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00121</vote_number>
+      <vote_date>06-Jul</vote_date>
+      <issue>S. 764</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment with an Amendment to S. 764; A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00120</vote_number>
+      <vote_date>06-Jul</vote_date>
+      <issue>S. 2193</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 2193; A bill to amend the Immigration and Nationality Act to increase penalties for individuals who illegally reenter the United States after being removed and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00119</vote_number>
       <vote_date>06-Jul</vote_date>
       <issue>S. 3100</issue>
-      <question>On the Cloture Motion</question>
+      <question>On Cloture on the Motion to Proceed</question>
       <result>Rejected</result>
       <vote_tally>
         <yeas>53</yeas>
@@ -25,7 +49,7 @@
         <yeas>92</yeas>
         <nays>5</nays>
       </vote_tally>
-      <title>Confirmation: Brian R. Martinotti, of New Jersey, to be United States District Judge</title>
+      <title>Confirmation Brian R. Martinotti, of New Jersey, to be United States District Judge</title>
     </vote>
     <vote>
       <vote_number>00117</vote_number>

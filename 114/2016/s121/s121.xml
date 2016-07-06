@@ -2,23 +2,23 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>119</vote_number>
-  <vote_date>July 6, 2016,  03:17 PM</vote_date>
-  <modify_date>July 6, 2016,  04:25 PM</modify_date>
-  <vote_question_text>On Cloture on the Motion to Proceed S. 3100</vote_question_text>
-  <vote_document_text>A bill to ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</vote_document_text>
-  <vote_result_text>Cloture on the Motion to Proceed Rejected (53-44, 3/5 majority required)</vote_result_text>
-  <question>On Cloture on the Motion to Proceed</question>
-  <vote_title>Motion to Invoke Cloture on the Motion to Proceed to S. 3100</vote_title>
+  <vote_number>121</vote_number>
+  <vote_date>July 6, 2016,  04:00 PM</vote_date>
+  <modify_date>July 6, 2016,  04:35 PM</modify_date>
+  <vote_question_text>On the Cloture Motion S. 764</vote_question_text>
+  <vote_document_text>A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</vote_document_text>
+  <vote_result_text>Cloture Motion Agreed to (65-32, 3/5 majority required)</vote_result_text>
+  <question>On the Cloture Motion</question>
+  <vote_title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment with an Amendment to S. 764</vote_title>
   <majority_requirement>3/5</majority_requirement>
-  <vote_result>Cloture on the Motion to Proceed Rejected</vote_result>
+  <vote_result>Cloture Motion Agreed to</vote_result>
   <document>
     <document_congress>114</document_congress>
     <document_type>S.</document_type>
-    <document_number>3100</document_number>
-    <document_name>S. 3100</document_name>
-    <document_title>A bill to ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</document_title>
-    <document_short_title>Stop Dangerous Sanctuary Cities Act</document_short_title>
+    <document_number>764</document_number>
+    <document_name>S. 764</document_name>
+    <document_title>A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</document_title>
+    <document_short_title>Defund Planned Parenthood Act of 2015</document_short_title>
   </document>
   <amendment>
     <amendment_number/>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>53</yeas>
-    <nays>44</nays>
+    <yeas>65</yeas>
+    <nays>32</nays>
     <present/>
     <absent>3</absent>
   </count>
@@ -63,7 +63,7 @@
       <first_name>Tammy</first_name>
       <party>D</party>
       <state>WI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S354</lis_member_id>
     </member>
     <member>
@@ -81,7 +81,7 @@
       <first_name>Michael</first_name>
       <party>D</party>
       <state>CO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S330</lis_member_id>
     </member>
     <member>
@@ -180,7 +180,7 @@
       <first_name>Thomas</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S277</lis_member_id>
     </member>
     <member>
@@ -189,7 +189,7 @@
       <first_name>Bob</first_name>
       <party>D</party>
       <state>PA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S309</lis_member_id>
     </member>
     <member>
@@ -225,7 +225,7 @@
       <first_name>Susan</first_name>
       <party>R</party>
       <state>ME</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S252</lis_member_id>
     </member>
     <member>
@@ -234,7 +234,7 @@
       <first_name>Christopher</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S337</lis_member_id>
     </member>
     <member>
@@ -333,7 +333,7 @@
       <first_name>Dianne</first_name>
       <party>D</party>
       <state>CA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S221</lis_member_id>
     </member>
     <member>
@@ -360,7 +360,7 @@
       <first_name>Al</first_name>
       <party>D</party>
       <state>MN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S332</lis_member_id>
     </member>
     <member>
@@ -423,7 +423,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -486,7 +486,7 @@
       <first_name>Timothy</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S362</lis_member_id>
     </member>
     <member>
@@ -504,7 +504,7 @@
       <first_name>Mark</first_name>
       <party>R</party>
       <state>IL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S339</lis_member_id>
     </member>
     <member>
@@ -513,7 +513,7 @@
       <first_name>Amy</first_name>
       <party>D</party>
       <state>MN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S311</lis_member_id>
     </member>
     <member>
@@ -576,7 +576,7 @@
       <first_name>Claire</first_name>
       <party>D</party>
       <state>MO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S312</lis_member_id>
     </member>
     <member>
@@ -594,7 +594,7 @@
       <first_name>Robert</first_name>
       <party>D</party>
       <state>NJ</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S306</lis_member_id>
     </member>
     <member>
@@ -630,7 +630,7 @@
       <first_name>Lisa</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S288</lis_member_id>
     </member>
     <member>
@@ -666,7 +666,7 @@
       <first_name>Rand</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S348</lis_member_id>
     </member>
     <member>
@@ -684,7 +684,7 @@
       <first_name>Gary</first_name>
       <party>D</party>
       <state>MI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S380</lis_member_id>
     </member>
     <member>
@@ -765,7 +765,7 @@
       <first_name>Ben</first_name>
       <party>R</party>
       <state>NE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S382</lis_member_id>
     </member>
     <member>
@@ -810,7 +810,7 @@
       <first_name>Jeanne</first_name>
       <party>D</party>
       <state>NH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S324</lis_member_id>
     </member>
     <member>
@@ -828,7 +828,7 @@
       <first_name>Debbie</first_name>
       <party>D</party>
       <state>MI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S284</lis_member_id>
     </member>
     <member>
@@ -837,7 +837,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S383</lis_member_id>
     </member>
     <member>
@@ -900,7 +900,7 @@
       <first_name>Mark</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S327</lis_member_id>
     </member>
     <member>
