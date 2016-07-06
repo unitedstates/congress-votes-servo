@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00119</vote_number>
+      <vote_date>06-Jul</vote_date>
+      <issue>S. 3100</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 3100; A bill to ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00118</vote_number>
+      <vote_date>06-Jul</vote_date>
+      <issue>PN575</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Confirmation: Brian R. Martinotti, of New Jersey, to be United States District Judge</title>
+    </vote>
+    <vote>
       <vote_number>00117</vote_number>
       <vote_date>29-Jun</vote_date>
       <issue>S. 764</issue>
