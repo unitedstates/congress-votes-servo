@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00125</vote_number>
+      <vote_date>12-Jul</vote_date>
+      <issue>S. 2012</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Disagree to the House Amdt., Agree to the Request for Conference, and Appoint Conferees to S. 2012; An original bill to provide for the modernization of the energy policy of the United States, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00124</vote_number>
       <vote_date>07-Jul</vote_date>
       <issue>H.R. 5293</issue>
