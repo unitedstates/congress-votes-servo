@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00127</vote_number>
+      <vote_date>13-Jul</vote_date>
+      <issue>H.R. 636</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendments to the Senate Amendments Re: H.R. 636; An act to amend title 49, United States Code, to extend authorizations for the airport improvement program, to amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00126</vote_number>
       <vote_date>13-Jul</vote_date>
       <issue>S. 524</issue>
@@ -961,7 +973,7 @@
         <yeas>95</yeas>
         <nays>3</nays>
       </vote_tally>
-      <title>H.R. 636 As Amended; An act to amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2016 through 2017, and for other purposes.</title>
+      <title>H.R. 636 As Amended; An act to amend title 49, United States Code, to extend authorizations for the airport improvement program, to amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00046</vote_number>
@@ -973,7 +985,7 @@
         <yeas>89</yeas>
         <nays>5</nays>
       </vote_tally>
-      <title>Motion to Invoke Cloture on H.R. 636; An act to amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2016 through 2017, and for other purposes.</title>
+      <title>Motion to Invoke Cloture on H.R. 636; An act to amend title 49, United States Code, to extend authorizations for the airport improvement program, to amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00045</vote_number>
@@ -1045,7 +1057,7 @@
         <yeas>98</yeas>
         <nays>0</nays>
       </vote_tally>
-      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 636; An act to amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2016 through 2017, and for other purposes.</title>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 636; An act to amend title 49, United States Code, to extend authorizations for the airport improvement program, to amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00039</vote_number>
