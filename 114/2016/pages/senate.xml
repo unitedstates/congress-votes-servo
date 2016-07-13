@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00128</vote_number>
+      <vote_date>13-Jul</vote_date>
+      <issue>PN1180</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Confirmation: Carla D. Hayden, of Maryland, to be Librarian of Congress</title>
+    </vote>
+    <vote>
       <vote_number>00127</vote_number>
       <vote_date>13-Jul</vote_date>
       <issue>H.R. 636</issue>
