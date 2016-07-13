@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00129</vote_number>
+      <vote_date>13-Jul</vote_date>
+      <issue>S. 524</issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany S. 524; To authorize the Attorney General and Secretary of Health and Human Services to award grants to address the national epidemics of prescription opioid abuse and heroin use, and to provide for the establishment of an inter-agency task force to review, modify, and update best practices for pain management and prescribing pain medication, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00128</vote_number>
       <vote_date>13-Jul</vote_date>
       <issue>PN1180</issue>
