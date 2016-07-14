@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00133</vote_number>
+      <vote_date>14-Jul</vote_date>
+      <issue>H.R. 5293</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Motion to Invoke Cloture on the Motion to Proceed to H.R. 5293; A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00132</vote_number>
       <vote_date>14-Jul</vote_date>
       <issue>S. 2943</issue>
@@ -13,7 +25,7 @@
         <yeas>85</yeas>
         <nays>12</nays>
       </vote_tally>
-      <title>Sullivan Motion to Instruct Conferees Re: 2943; An original bill to authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+      <title>Sullivan Motion to Instruct Conferees Re: S. 2943; An original bill to authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00131</vote_number>
