@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00135</vote_number>
+      <vote_date>06-Sep</vote_date>
+      <issue>H.R. 2577</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Conference Report to Accompany H.R. 2577; A bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00134</vote_number>
       <vote_date>14-Jul</vote_date>
       <issue>H.R. 2577</issue>
