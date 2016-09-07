@@ -2,23 +2,23 @@
   <congress>114</congress>
   <session>2</session>
   <congress_year>2016</congress_year>
-  <vote_number>135</vote_number>
-  <vote_date>September 6, 2016,  05:32 PM</vote_date>
-  <modify_date>September 6, 2016,  06:46 PM</modify_date>
-  <vote_question_text>On the Cloture Motion H.R. 2577</vote_question_text>
-  <vote_document_text>A bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</vote_document_text>
-  <vote_result_text>Cloture Motion Rejected (52-46, 3/5 majority required)</vote_result_text>
+  <vote_number>136</vote_number>
+  <vote_date>September 6, 2016,  06:09 PM</vote_date>
+  <modify_date>September 6, 2016,  06:50 PM</modify_date>
+  <vote_question_text>On the Cloture Motion H.R. 5293</vote_question_text>
+  <vote_document_text>A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.</vote_document_text>
+  <vote_result_text>Cloture Motion Rejected (55-43, 3/5 majority required)</vote_result_text>
   <question>On the Cloture Motion</question>
-  <vote_title>Motion to Invoke Cloture on the Conference Report to Accompany H.R. 2577</vote_title>
+  <vote_title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 5293</vote_title>
   <majority_requirement>3/5</majority_requirement>
   <vote_result>Cloture Motion Rejected</vote_result>
   <document>
     <document_congress>114</document_congress>
     <document_type>H.R.</document_type>
-    <document_number>2577</document_number>
-    <document_name>H.R. 2577</document_name>
-    <document_title>A bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</document_title>
-    <document_short_title>Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2017</document_short_title>
+    <document_number>5293</document_number>
+    <document_name>H.R. 5293</document_name>
+    <document_title>A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.</document_title>
+    <document_short_title>Department of Defense Appropriations Act, 2017</document_short_title>
   </document>
   <amendment>
     <amendment_number/>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>52</yeas>
-    <nays>46</nays>
+    <yeas>55</yeas>
+    <nays>43</nays>
     <present/>
     <absent>2</absent>
   </count>
@@ -522,7 +522,7 @@
       <first_name>James</first_name>
       <party>R</party>
       <state>OK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S378</lis_member_id>
     </member>
     <member>
@@ -540,7 +540,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S346</lis_member_id>
     </member>
     <member>
@@ -549,7 +549,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>WV</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S338</lis_member_id>
     </member>
     <member>
