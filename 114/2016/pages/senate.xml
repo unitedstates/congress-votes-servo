@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00137</vote_number>
+      <vote_date>08-Sep</vote_date>
+      <issue>PN1500</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Peter Michael McKinley, of Virginia, to be Ambassador to the Federative Republic of Brazil</title>
+    </vote>
+    <vote>
       <vote_number>00136</vote_number>
       <vote_date>06-Sep</vote_date>
       <issue>H.R. 5293</issue>
