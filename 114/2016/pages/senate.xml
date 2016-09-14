@@ -4,6 +4,30 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00140</vote_number>
+      <vote_date>14-Sep</vote_date>
+      <issue>S. 2848</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S. 2848; A bill to provide for the conservation and development of water and related resources, to authorize the Secretary of the Army to construct various projects for improvements to rivers and harbors of the United States, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00139</vote_number>
+      <vote_date>14-Sep</vote_date>
+      <issue>S. 2848</issue>
+      <question>On the Motion <measure>S.Amdt. 4979</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 4979; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00138</vote_number>
       <vote_date>12-Sep</vote_date>
       <issue>S. 2848</issue>
