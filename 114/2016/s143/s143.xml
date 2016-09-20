@@ -4,7 +4,7 @@
   <congress_year>2016</congress_year>
   <vote_number>143</vote_number>
   <vote_date>September 19, 2016,  05:31 PM</vote_date>
-  <modify_date>September 19, 2016,  06:26 PM</modify_date>
+  <modify_date>September 20, 2016,  10:41 AM</modify_date>
   <vote_question_text>On Passage of the Bill H.R. 5985</vote_question_text>
   <vote_document_text>A bill to amend title 38, United States Code, to extend certain expiring provisions of law administered by the Secretary of Veterans Affairs, and for other purposes.</vote_document_text>
   <vote_result_text>Bill Passed (89-0)</vote_result_text>
@@ -828,7 +828,7 @@
       <first_name>Debbie</first_name>
       <party>D</party>
       <state>MI</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S284</lis_member_id>
     </member>
     <member>
@@ -837,7 +837,7 @@
       <first_name>Dan</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S383</lis_member_id>
     </member>
     <member>
