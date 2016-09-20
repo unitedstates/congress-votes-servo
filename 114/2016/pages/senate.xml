@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00144</vote_number>
+      <vote_date>20-Sep</vote_date>
+      <issue>H.R. 5325</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 5325; A bill making appropriations for the Legislative Branch for the fiscal year ending September 30, 2017, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00143</vote_number>
       <vote_date>19-Sep</vote_date>
       <issue>H.R. 5985</issue>
