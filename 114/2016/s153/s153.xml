@@ -4,14 +4,14 @@
   <congress_year>2016</congress_year>
   <vote_number>153</vote_number>
   <vote_date>November 17, 2016,  12:05 PM</vote_date>
-  <modify_date>November 17, 2016,  12:54 PM</modify_date>
-  <vote_question_text>On the Cloture Motion S. 3110</vote_question_text>
+  <modify_date>November 17, 2016,  01:15 PM</modify_date>
+  <vote_question_text>On Cloture on the Motion to Proceed S. 3110</vote_question_text>
   <vote_document_text>A bill to provide for reforms of the administration of the outer Continental Shelf of the United States, to provide for the development of geothermal, solar, and wind energy on public land, and for other purposes.</vote_document_text>
-  <vote_result_text>Cloture Motion Rejected (51-47, 3/5 majority required)</vote_result_text>
-  <question>On the Cloture Motion</question>
+  <vote_result_text>Cloture on the Motion to Proceed Rejected (51-47, 3/5 majority required)</vote_result_text>
+  <question>On Cloture on the Motion to Proceed</question>
   <vote_title>Motion to Invoke Cloture on the Motion to Proceed to S. 3110</vote_title>
   <majority_requirement>3/5</majority_requirement>
-  <vote_result>Cloture Motion Rejected</vote_result>
+  <vote_result>Cloture on the Motion to Proceed Rejected</vote_result>
   <document>
     <document_congress>114</document_congress>
     <document_type>S.</document_type>
