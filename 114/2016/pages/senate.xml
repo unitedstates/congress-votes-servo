@@ -4,6 +4,18 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00158</vote_number>
+      <vote_date>07-Dec</vote_date>
+      <issue>S. 2943</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Conference Report to Accompany S. 2943; An original bill to authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00157</vote_number>
       <vote_date>07-Dec</vote_date>
       <issue>H.R. 34</issue>
