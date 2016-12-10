@@ -4,6 +4,54 @@
   <congress_year>2016</congress_year>
   <votes>
     <vote>
+      <vote_number>00163</vote_number>
+      <vote_date>10-Dec</vote_date>
+      <issue>S. 612</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to S. 612; A bill to designate the Federal building and United States courthouse located at 1300 Victoria Street in Laredo, Texas, as the "George P. Kazen Federal Building and United States Courthouse".</title>
+    </vote>
+    <vote>
+      <vote_number>00162</vote_number>
+      <vote_date>10-Dec</vote_date>
+      <issue>S. 612</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 612; A bill to designate the Federal building and United States courthouse located at 1300 Victoria Street in Laredo, Texas, as the "George P. Kazen Federal Building and United States Courthouse".</title>
+    </vote>
+    <vote>
+      <vote_number>00161</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>63</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2028; A bill making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00160</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>H.R. 2028</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2028; A bill making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00159</vote_number>
       <vote_date>08-Dec</vote_date>
       <issue>S. 2943</issue>
