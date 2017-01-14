@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><vote_summary>
+  <congress>115</congress>
+  <session>1</session>
+  <congress_year>2017</congress_year>
+  <votes>
+    <vote>
+      <vote_number>00027</vote_number>
+      <vote_date>12-Jan</vote_date>
+      <issue>S. 84</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>S. 84; A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.</title>
+    </vote>
+    <vote>
+      <vote_number>00026</vote_number>
+      <vote_date>12-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Concurrent Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>S. Con. Res. 3; A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.</title>
+    </vote>
+    <vote>
+      <vote_number>00025</vote_number>
+      <vote_date>12-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 86</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Waive the C.B.A. Re: Brown Amdt. No. 86; To create a point of order against legislation that would undermine the historic coverage gains the United States has made in children's health, which have resulted in the lowest uninsured rate for children in the Nation's history.</title>
+    </vote>
+    <vote>
+      <vote_number>00024</vote_number>
+      <vote_date>12-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 180</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Hatch Amdt. No. 180; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with reforms that strengthen Medicaid and the Children's Health Insurance Program without prioritizing able-bodied adults over the disabled or children and lead to patient-centered step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans and their families by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections that Americans support.</title>
+    </vote>
+    <vote>
+      <vote_number>00023</vote_number>
+      <vote_date>12-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 82</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Waive the C.B.A. Re: Gillibrand Amdt. No. 82; To create a point of order against legislation that makes women sick again.</title>
+    </vote>
+    <vote>
+      <vote_number>00022</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 184</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Fischer Amdt. No. 184; To establish a deficit-neutral reserve fund relating to strengthening Social Security or health care for women, which may include strengthening community health centers, and repealing and replacing Obamacare.</title>
+    </vote>
+    <vote>
+      <vote_number>00021</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 188</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Waive the C.B.A. Re: Wyden Amdt. No. 188; To create a point of order against legislation that does not lower drug prices.</title>
+    </vote>
+    <vote>
+      <vote_number>00020</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Amendment <measure>S.Amdt. 178</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Klobuchar Amdt. No. 178; To establish a deficit-neutral reserve fund relating to lower prescription drug prices for Americans by importing drugs from Canada.</title>
+    </vote>
+    <vote>
+      <vote_number>00019</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 174</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Alexander Amdt. No. 174; To strengthen Social Security and Medicare without raiding them to pay for new government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to ensure that any importation does not increase risk to public health according to the Secretary of Health and Human Services.</title>
+    </vote>
+    <vote>
+      <vote_number>00018</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 83</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Menendez Amdt. No. 83; To create a point of order against legislation that would eliminate or reduce Federal funding to States under the Medicaid expansion.</title>
+    </vote>
+    <vote>
+      <vote_number>00017</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 179</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Hatch Amdt. No. 179; To establish a deficit-neutral reserve fund relating to reforming housing and Medicaid without prioritizing able-bodied adults over the disabled or raiding the Medicare Trust Funds to pay for new government programs, like Obamacare, which has failed Americans by increasing premiums and reducing affordable health care options.</title>
+    </vote>
+    <vote>
+      <vote_number>00016</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 181</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Barrasso Amdt. No. 181; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle class families, reduced access to high-quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing Obamacare with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans, including people with disabilities and chronic conditions, and their families, by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections, such as a ban on lifetime limits, that Americans support.</title>
+    </vote>
+    <vote>
+      <vote_number>00015</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 61</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Waive the C.B.A. Re: Casey Amdt. No. 61; To create a point of order against legislation that would make people with disabilities and chronic conditions sick again.</title>
+    </vote>
+    <vote>
+      <vote_number>00014</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 104</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive the C.B.A. Re: Tester Amdt. No. 104; To create a point of order against legislation that would limit veterans' ability to choose VA health care.</title>
+    </vote>
+    <vote>
+      <vote_number>00013</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 176</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Flake Amdt. No. 176; To establish a deficit-neutral reserve fund relating to enhancing health care and housing for veterans and their dependents by repealing Obamacare, facilitating medical facility leases, and prohibiting the Secretary of Veterans Affairs from employing individuals who have been convicted of a felony and medical personnel who have ever had their medical licenses or credentials revoked or suspended.</title>
+    </vote>
+    <vote>
+      <vote_number>00012</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 81</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive the CBA Re: Baldwin Amdt. No. 81; To create a point of order against legislation that makes young people sick again.</title>
+    </vote>
+    <vote>
+      <vote_number>00011</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 167</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Heller Amdt. No. 167; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all American's and their families by increasing competition, State flexibility and individual choice, and safeguarding consumer protections that Americans support.</title>
+    </vote>
+    <vote>
+      <vote_number>00010</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 64</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Waive the C.B.A. Re: Manchin Amdt. No. 64; To create a point of order against legislation that would harm rural hospitals and health care providers.</title>
+    </vote>
+    <vote>
+      <vote_number>00009</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 173</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Barrasso Amdt. No. 173; To establish a deficit-neutral reserve fund relating to rural health and repealing and replacing Obamacare.</title>
+    </vote>
+    <vote>
+      <vote_number>00008</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 60</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: King Amdt. No. 60; To create a point of order against legislation that would reduce health insurance access and affordability for individuals based on their occupation.</title>
+    </vote>
+    <vote>
+      <vote_number>00007</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 13</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Nelson Amdt. No. 13; To create a point of order against legislation that would repeal health reforms that closed the prescription drug coverage gap under Medicare.</title>
+    </vote>
+    <vote>
+      <vote_number>00006</vote_number>
+      <vote_date>10-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 19</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Sanders Amdt. No. 19; To prevent the Senate from breaking Donald Trump's promise that "there will be no cuts to Social Security, Medicare, and Medicaid".</title>
+    </vote>
+    <vote>
+      <vote_number>00005</vote_number>
+      <vote_date>10-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 52</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>31</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Flake Amdt. No. 52; To strengthen Social Security and Medicare without raiding it to pay for new Government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to return regulation of insurance to State governments.</title>
+    </vote>
+    <vote>
+      <vote_number>00004</vote_number>
+      <vote_date>09-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 20</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Re: Germaneness Re: Hirono Amdt. No. 20; To protect the Medicare and Medicaid programs.</title>
+    </vote>
+    <vote>
+      <vote_number>00003</vote_number>
+      <vote_date>09-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Amendment <measure>S.Amdt. 1</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>14</yeas>
+        <nays>83</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 1; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00002</vote_number>
+      <vote_date>05-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion <measure>S.Amdt. 8</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Waive Section 305(b)(2) of the C.B.A. re: Kaine Amdt. No. 8; To prohibit legislation that makes America sick again.</title>
+    </vote>
+    <vote>
+      <vote_number>00001</vote_number>
+      <vote_date>04-Jan</vote_date>
+      <issue>S.Con.Res. 3</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Proceed to S. Con. Res. 3; A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.</title>
+    </vote>
+  </votes>
+</vote_summary>
