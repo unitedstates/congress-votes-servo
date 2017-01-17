@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00028</vote_number>
+      <vote_date>17-Jan</vote_date>
+      <issue>H.R. 72</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>H.R. 72; A bill to ensure the Government Accountability Office has adequate access to information.</title>
+    </vote>
+    <vote>
       <vote_number>00027</vote_number>
       <vote_date>12-Jan</vote_date>
       <issue>S. 84</issue>
