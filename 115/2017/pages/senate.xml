@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00031</vote_number>
+      <vote_date>20-Jan</vote_date>
+      <issue>PN43</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency</title>
+    </vote>
+    <vote>
+      <vote_number>00030</vote_number>
+      <vote_date>20-Jan</vote_date>
+      <issue>PN40</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Confirmation: John F. Kelly, of VA, to be Secretary of Homeland Security</title>
+    </vote>
+    <vote>
+      <vote_number>00029</vote_number>
+      <vote_date>20-Jan</vote_date>
+      <issue>PN29</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Confirmation: James N. Mattis, of WA, to be Secretary of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00028</vote_number>
       <vote_date>17-Jan</vote_date>
       <issue>H.R. 72</issue>
