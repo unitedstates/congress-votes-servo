@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00032</vote_number>
+      <vote_date>23-Jan</vote_date>
+      <issue>PN43</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Confirmation: Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency</title>
+    </vote>
+    <vote>
       <vote_number>00031</vote_number>
       <vote_date>20-Jan</vote_date>
       <issue>PN43</issue>
