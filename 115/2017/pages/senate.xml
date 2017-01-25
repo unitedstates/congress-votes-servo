@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00033</vote_number>
+      <vote_date>24-Jan</vote_date>
+      <issue>PN51</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Confirmation Nikki R. Haley, of South Carolina, to be Representative of the United States of America to the United Nations, in the Security Council and to the Sessions of the General Assembly</title>
+    </vote>
+    <vote>
       <vote_number>00032</vote_number>
       <vote_date>23-Jan</vote_date>
       <issue>PN43</issue>
