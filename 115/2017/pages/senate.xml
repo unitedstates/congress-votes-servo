@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00038</vote_number>
+      <vote_date>01-Feb</vote_date>
+      <issue>PN25</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Legislative Session</title>
+    </vote>
+    <vote>
+      <vote_number>00037</vote_number>
+      <vote_date>01-Feb</vote_date>
+      <issue>PN25</issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Reconsider the Vote on Confirmation of Rex W. Tillerson</title>
+    </vote>
+    <vote>
+      <vote_number>00036</vote_number>
+      <vote_date>01-Feb</vote_date>
+      <issue>PN25</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation: Rex W. Tillerson, of Texas, to be Secretary of State</title>
+    </vote>
+    <vote>
       <vote_number>00035</vote_number>
       <vote_date>31-Jan</vote_date>
       <issue>PN35</issue>
