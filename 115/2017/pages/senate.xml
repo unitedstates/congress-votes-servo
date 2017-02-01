@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00040</vote_number>
+      <vote_date>01-Feb</vote_date>
+      <issue>PN37</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Executive Session to Consider Elisabeth DeVos to be Secretary of Education</title>
+    </vote>
+    <vote>
+      <vote_number>00039</vote_number>
+      <vote_date>01-Feb</vote_date>
+      <issue>PN25</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Shall the Journal Stand Approved to Date?</title>
+    </vote>
+    <vote>
       <vote_number>00038</vote_number>
       <vote_date>01-Feb</vote_date>
       <issue>PN25</issue>
