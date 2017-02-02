@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00045</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>PN30</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Legislative Session</title>
+    </vote>
+    <vote>
+      <vote_number>00044</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>PN30</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Executive Session to consider the Nomination of Jeff Sessions to be Attorney General</title>
+    </vote>
+    <vote>
+      <vote_number>00043</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>H.J.Res. 38</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>H.J.Res. 38; A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
+    </vote>
+    <vote>
       <vote_number>00042</vote_number>
       <vote_date>01-Feb</vote_date>
       <issue>H.J.Res. 38</issue>
