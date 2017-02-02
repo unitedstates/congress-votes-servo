@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00042</vote_number>
+      <vote_date>01-Feb</vote_date>
+      <issue>H.J.Res. 38</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H.J. Res. 38; A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
+    </vote>
+    <vote>
       <vote_number>00041</vote_number>
       <vote_date>01-Feb</vote_date>
       <issue>PN37</issue>

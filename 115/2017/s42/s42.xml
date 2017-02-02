@@ -2,23 +2,23 @@
   <congress>115</congress>
   <session>1</session>
   <congress_year>2017</congress_year>
-  <vote_number>41</vote_number>
-  <vote_date>February 1, 2017,  05:53 PM</vote_date>
-  <modify_date>February 1, 2017,  07:04 PM</modify_date>
-  <vote_question_text>On the Motion to Proceed PN37</vote_question_text>
-  <vote_document_text>Elisabeth Prince DeVos, of Michigan, to be Secretary of Education</vote_document_text>
-  <vote_result_text>Motion to Proceed Agreed to (55-42)</vote_result_text>
+  <vote_number>42</vote_number>
+  <vote_date>February 1, 2017,  06:24 PM</vote_date>
+  <modify_date>February 1, 2017,  07:08 PM</modify_date>
+  <vote_question_text>On the Motion to Proceed H.J.Res. 38</vote_question_text>
+  <vote_document_text>A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</vote_document_text>
+  <vote_result_text>Motion to Proceed Agreed to (56-42)</vote_result_text>
   <question>On the Motion to Proceed</question>
-  <vote_title>Motion to Proceed to Legislative Session</vote_title>
+  <vote_title>Motion to Proceed to H.J. Res. 38</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Motion to Proceed Agreed to</vote_result>
   <document>
     <document_congress>115</document_congress>
-    <document_type>PN</document_type>
-    <document_number>37</document_number>
-    <document_name>PN37</document_name>
-    <document_title>Elisabeth Prince DeVos, of Michigan, to be Secretary of Education</document_title>
-    <document_short_title/>
+    <document_type>H.J.Res.</document_type>
+    <document_number>38</document_number>
+    <document_name>H.J.Res. 38</document_name>
+    <document_title>A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</document_title>
+    <document_short_title>A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</document_short_title>
   </document>
   <amendment>
     <amendment_number/>
@@ -29,10 +29,10 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>55</yeas>
+    <yeas>56</yeas>
     <nays>42</nays>
     <present/>
-    <absent>3</absent>
+    <absent>2</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -792,7 +792,7 @@
       <first_name>Jefferson</first_name>
       <party>R</party>
       <state>AL</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S261</lis_member_id>
     </member>
     <member>
