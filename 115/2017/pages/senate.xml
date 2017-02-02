@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00049</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>PN26</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Legislative Session</title>
+    </vote>
+    <vote>
+      <vote_number>00048</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>PN26</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Executive Session to Consider the Nomination of Steven Mnuchin to be Secretary of the Treasury</title>
+    </vote>
+    <vote>
+      <vote_number>00047</vote_number>
+      <vote_date>02-Feb</vote_date>
+      <issue>PN33</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Legislative Session</title>
+    </vote>
+    <vote>
       <vote_number>00046</vote_number>
       <vote_date>02-Feb</vote_date>
       <issue>PN33</issue>
