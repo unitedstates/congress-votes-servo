@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00055</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>PN30</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Jeff Sessions, of Alabama, to be Attorney General</title>
+    </vote>
+    <vote>
+      <vote_number>00054</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>PN37</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Confirmation: Elisabeth Prince DeVos, of Michigan, to be Secretary of Education</title>
+    </vote>
+    <vote>
       <vote_number>00053</vote_number>
       <vote_date>06-Feb</vote_date>
       <issue>PN37</issue>
