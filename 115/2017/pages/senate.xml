@@ -1,631 +1,249 @@
-<?xml version="1.0" encoding="UTF-8"?><vote_summary>
-  <congress>115</congress>
-  <session>1</session>
-  <congress_year>2017</congress_year>
-  <votes>
-    <vote>
-      <vote_number>00052</vote_number>
-      <vote_date>03-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Elisabeth DeVos to be Secretary of Education</title>
-    </vote>
-    <vote>
-      <vote_number>00051</vote_number>
-      <vote_date>03-Feb</vote_date>
-      <issue>H.J.Res. 41</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>H.J.Res. 41; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to "Disclosure of Payments by Resource Extraction Issuers".</title>
-    </vote>
-    <vote>
-      <vote_number>00050</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>H.J.Res. 41</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H.J. Res. 41; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to "Disclosure of Payments by Resource Extraction Issuers".</title>
-    </vote>
-    <vote>
-      <vote_number>00049</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN26</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00048</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN26</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to Consider the Nomination of Steven Mnuchin to be Secretary of the Treasury</title>
-    </vote>
-    <vote>
-      <vote_number>00047</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN33</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00046</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN33</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to Consider the Nomination of Thomas Price to be Secretary of Health and Human Services</title>
-    </vote>
-    <vote>
-      <vote_number>00045</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00044</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>53</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to consider the Nomination of Jeff Sessions to be Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00043</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>H.J.Res. 38</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>H.J.Res. 38; A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
-    </vote>
-    <vote>
-      <vote_number>00042</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>H.J.Res. 38</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>42</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H.J. Res. 38; A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
-    </vote>
-    <vote>
-      <vote_number>00041</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>42</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00040</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to Consider Elisabeth DeVos to be Secretary of Education</title>
-    </vote>
-    <vote>
-      <vote_number>00039</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>44</nays>
-      </vote_tally>
-      <title>Shall the Journal Stand Approved to Date?</title>
-    </vote>
-    <vote>
-      <vote_number>00038</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>53</yeas>
-        <nays>44</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00037</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Motion to Table</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Motion to Table the Motion to Reconsider the Vote on Confirmation of Rex W. Tillerson</title>
-    </vote>
-    <vote>
-      <vote_number>00036</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Confirmation: Rex W. Tillerson, of Texas, to be Secretary of State</title>
-    </vote>
-    <vote>
-      <vote_number>00035</vote_number>
-      <vote_date>31-Jan</vote_date>
-      <issue>PN35</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>93</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Confirmation Elaine L. Chao, of Kentucky, to be Secretary of Transportation</title>
-    </vote>
-    <vote>
-      <vote_number>00034</vote_number>
-      <vote_date>30-Jan</vote_date>
-      <issue>PN25</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Rex W. Tillerson, of Texas, to be Secretary of State</title>
-    </vote>
-    <vote>
-      <vote_number>00033</vote_number>
-      <vote_date>24-Jan</vote_date>
-      <issue>PN51</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>96</yeas>
-        <nays>4</nays>
-      </vote_tally>
-      <title>Confirmation Nikki R. Haley, of South Carolina, to be Representative of the United States of America to the United Nations, in the Security Council and to the Sessions of the General Assembly</title>
-    </vote>
-    <vote>
-      <vote_number>00032</vote_number>
-      <vote_date>23-Jan</vote_date>
-      <issue>PN43</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>66</yeas>
-        <nays>32</nays>
-      </vote_tally>
-      <title>Confirmation: Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00031</vote_number>
-      <vote_date>20-Jan</vote_date>
-      <issue>PN43</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>89</yeas>
-        <nays>8</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00030</vote_number>
-      <vote_date>20-Jan</vote_date>
-      <issue>PN40</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>88</yeas>
-        <nays>11</nays>
-      </vote_tally>
-      <title>Confirmation: John F. Kelly, of VA, to be Secretary of Homeland Security</title>
-    </vote>
-    <vote>
-      <vote_number>00029</vote_number>
-      <vote_date>20-Jan</vote_date>
-      <issue>PN29</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>98</yeas>
-        <nays>1</nays>
-      </vote_tally>
-      <title>Confirmation: James N. Mattis, of WA, to be Secretary of Defense</title>
-    </vote>
-    <vote>
-      <vote_number>00028</vote_number>
-      <vote_date>17-Jan</vote_date>
-      <issue>H.R. 72</issue>
-      <question>On Passage of the Bill</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>99</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>H.R. 72; A bill to ensure the Government Accountability Office has adequate access to information.</title>
-    </vote>
-    <vote>
-      <vote_number>00027</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S. 84</issue>
-      <question>On Passage of the Bill</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>81</yeas>
-        <nays>17</nays>
-      </vote_tally>
-      <title>S. 84; A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.</title>
-    </vote>
-    <vote>
-      <vote_number>00026</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Concurrent Resolution</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>S. Con. Res. 3; A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.</title>
-    </vote>
-    <vote>
-      <vote_number>00025</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 86</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Brown Amdt. No. 86; To create a point of order against legislation that would undermine the historic coverage gains the United States has made in children's health, which have resulted in the lowest uninsured rate for children in the Nation's history.</title>
-    </vote>
-    <vote>
-      <vote_number>00024</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 180</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Hatch Amdt. No. 180; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with reforms that strengthen Medicaid and the Children's Health Insurance Program without prioritizing able-bodied adults over the disabled or children and lead to patient-centered step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans and their families by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections that Americans support.</title>
-    </vote>
-    <vote>
-      <vote_number>00023</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 82</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Gillibrand Amdt. No. 82; To create a point of order against legislation that makes women sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00022</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 184</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Fischer Amdt. No. 184; To establish a deficit-neutral reserve fund relating to strengthening Social Security or health care for women, which may include strengthening community health centers, and repealing and replacing Obamacare.</title>
-    </vote>
-    <vote>
-      <vote_number>00021</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 188</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Wyden Amdt. No. 188; To create a point of order against legislation that does not lower drug prices.</title>
-    </vote>
-    <vote>
-      <vote_number>00020</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Amendment <measure>S.Amdt. 178</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>46</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Klobuchar Amdt. No. 178; To establish a deficit-neutral reserve fund relating to lower prescription drug prices for Americans by importing drugs from Canada.</title>
-    </vote>
-    <vote>
-      <vote_number>00019</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 174</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Alexander Amdt. No. 174; To strengthen Social Security and Medicare without raiding them to pay for new government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to ensure that any importation does not increase risk to public health according to the Secretary of Health and Human Services.</title>
-    </vote>
-    <vote>
-      <vote_number>00018</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 83</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Menendez Amdt. No. 83; To create a point of order against legislation that would eliminate or reduce Federal funding to States under the Medicaid expansion.</title>
-    </vote>
-    <vote>
-      <vote_number>00017</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 179</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Hatch Amdt. No. 179; To establish a deficit-neutral reserve fund relating to reforming housing and Medicaid without prioritizing able-bodied adults over the disabled or raiding the Medicare Trust Funds to pay for new government programs, like Obamacare, which has failed Americans by increasing premiums and reducing affordable health care options.</title>
-    </vote>
-    <vote>
-      <vote_number>00016</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 181</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Barrasso Amdt. No. 181; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle class families, reduced access to high-quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing Obamacare with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans, including people with disabilities and chronic conditions, and their families, by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections, such as a ban on lifetime limits, that Americans support.</title>
-    </vote>
-    <vote>
-      <vote_number>00015</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 61</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Casey Amdt. No. 61; To create a point of order against legislation that would make people with disabilities and chronic conditions sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00014</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 104</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Tester Amdt. No. 104; To create a point of order against legislation that would limit veterans' ability to choose VA health care.</title>
-    </vote>
-    <vote>
-      <vote_number>00013</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 176</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Flake Amdt. No. 176; To establish a deficit-neutral reserve fund relating to enhancing health care and housing for veterans and their dependents by repealing Obamacare, facilitating medical facility leases, and prohibiting the Secretary of Veterans Affairs from employing individuals who have been convicted of a felony and medical personnel who have ever had their medical licenses or credentials revoked or suspended.</title>
-    </vote>
-    <vote>
-      <vote_number>00012</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 81</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive the CBA Re: Baldwin Amdt. No. 81; To create a point of order against legislation that makes young people sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00011</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 167</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Heller Amdt. No. 167; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all American's and their families by increasing competition, State flexibility and individual choice, and safeguarding consumer protections that Americans support.</title>
-    </vote>
-    <vote>
-      <vote_number>00010</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 64</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Manchin Amdt. No. 64; To create a point of order against legislation that would harm rural hospitals and health care providers.</title>
-    </vote>
-    <vote>
-      <vote_number>00009</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 173</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Barrasso Amdt. No. 173; To establish a deficit-neutral reserve fund relating to rural health and repealing and replacing Obamacare.</title>
-    </vote>
-    <vote>
-      <vote_number>00008</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 60</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: King Amdt. No. 60; To create a point of order against legislation that would reduce health insurance access and affordability for individuals based on their occupation.</title>
-    </vote>
-    <vote>
-      <vote_number>00007</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 13</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Nelson Amdt. No. 13; To create a point of order against legislation that would repeal health reforms that closed the prescription drug coverage gap under Medicare.</title>
-    </vote>
-    <vote>
-      <vote_number>00006</vote_number>
-      <vote_date>10-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 19</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Sanders Amdt. No. 19; To prevent the Senate from breaking Donald Trump's promise that "there will be no cuts to Social Security, Medicare, and Medicaid".</title>
-    </vote>
-    <vote>
-      <vote_number>00005</vote_number>
-      <vote_date>10-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 52</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>31</yeas>
-        <nays>67</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Flake Amdt. No. 52; To strengthen Social Security and Medicare without raiding it to pay for new Government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to return regulation of insurance to State governments.</title>
-    </vote>
-    <vote>
-      <vote_number>00004</vote_number>
-      <vote_date>09-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 20</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive CBA Re: Germaneness Re: Hirono Amdt. No. 20; To protect the Medicare and Medicaid programs.</title>
-    </vote>
-    <vote>
-      <vote_number>00003</vote_number>
-      <vote_date>09-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Amendment <measure>S.Amdt. 1</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>14</yeas>
-        <nays>83</nays>
-      </vote_tally>
-      <title>Paul Amdt. No. 1; In the nature of a substitute.</title>
-    </vote>
-    <vote>
-      <vote_number>00002</vote_number>
-      <vote_date>05-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 8</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Motion to Waive Section 305(b)(2) of the C.B.A. re: Kaine Amdt. No. 8; To prohibit legislation that makes America sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00001</vote_number>
-      <vote_date>04-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to S. Con. Res. 3; A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.</title>
-    </vote>
-  </votes>
-</vote_summary>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta name="object" content="file_not_found">
+        <meta name="version" content="7.1">
+        <meta name="path" content="/Senate.gov/pagelayout/general/one_item_and_teasers">
+        <meta name="date" content="Thursday, June 4, 2015">
+        <meta name="time" content="10:55:34 AM EST">
+        <meta name="keywords" content="">
+        <meta name="bucket" content="art">
+        <meta name="description" content="404 Error Page">
+        <script type="text/javascript">
+            <!--
+              function openwindow(url) {
+                  window.open(url);
+              }         
+      
+              //--></script>
+        <title>U.S. Senate: 404 Error Page</title>
+        <link href="/resources/style.css" type="text/css" rel="STYLESHEET">
+        <link href="/resources/sub_style.css" type="text/css" rel="STYLESHEET">
+        <link href="/resources/global.css" type="text/css" rel="STYLESHEET">
+        <link href="/resources/sub_style_1.css" type="text/css" rel="STYLESHEET">
+        <script type="text/JavaScript" language="JavaScript" src="/resources/roll_overs.js"></script><script type="text/JavaScript" language="JavaScript" src="/resources/global.js"></script>
+    </head>
+    <body>
+        <a class="offscreen" href="#skip">Skip Content</a>
+        <div style="text-align: center; marign: 0 auto;">
+            <img border="0" alt="" height="5" width="770" src="/resources/images/uss_bg_top.gif"></div>
+        <div id="wrapper">
+            <div id="mainWrapper">
+                <div style="overflow:hidden; position:relative;" id="container">
+                    <div id="sub_pageheader">
+                        <div id="sub_pageheader_left">
+                            <a href="/index.htm"><img border="0" alt="United States Senate" height="66" width="143" src="/resources/images/uss_sub_logo_01.gif" style="display:block"></a>
+                        </div>
+                        <div id="sub_pageheader_right">
+                            <form method="post" name="findSenators">
+                                <label for="findsenator"></label><select id="findsenator" name="stateName"><option value="/general/contact_information/senators_cfm.cfm">Find Your Senators</option><option value="/general/contact_information/senators_cfm.cfm?State=AL">Alabama</option><option value="/general/contact_information/senators_cfm.cfm?State=AK">Alaska</option><option value="/general/contact_information/senators_cfm.cfm?State=AZ">Arizona</option><option value="/general/contact_information/senators_cfm.cfm?State=AR">Arkansas</option><option value="/general/contact_information/senators_cfm.cfm?State=CA">California</option><option value="/general/contact_information/senators_cfm.cfm?State=CO">Colorado</option><option value="/general/contact_information/senators_cfm.cfm?State=CT">Connecticut</option><option value="/general/contact_information/senators_cfm.cfm?State=DE">Delaware</option><option value="/general/contact_information/senators_cfm.cfm?State=FL">Florida</option><option value="/general/contact_information/senators_cfm.cfm?State=GA">Georgia</option><option value="/general/contact_information/senators_cfm.cfm?State=HI">Hawaii</option><option value="/general/contact_information/senators_cfm.cfm?State=ID">Idaho</option><option value="/general/contact_information/senators_cfm.cfm?State=IL">Illinois</option><option value="/general/contact_information/senators_cfm.cfm?State=IN">Indiana</option><option value="/general/contact_information/senators_cfm.cfm?State=IA">Iowa</option><option value="/general/contact_information/senators_cfm.cfm?State=KS">Kansas</option><option value="/general/contact_information/senators_cfm.cfm?State=KY">Kentucky</option><option value="/general/contact_information/senators_cfm.cfm?State=LA">Louisiana</option><option value="/general/contact_information/senators_cfm.cfm?State=ME">Maine</option><option value="/general/contact_information/senators_cfm.cfm?State=MD">Maryland</option><option value="/general/contact_information/senators_cfm.cfm?State=MA">Massachusetts</option><option value="/general/contact_information/senators_cfm.cfm?State=MI">Michigan</option><option value="/general/contact_information/senators_cfm.cfm?State=MN">Minnesota</option><option value="/general/contact_information/senators_cfm.cfm?State=MS">Mississippi</option><option value="/general/contact_information/senators_cfm.cfm?State=MO">Missouri</option><option value="/general/contact_information/senators_cfm.cfm?State=MT">Montana</option><option value="/general/contact_information/senators_cfm.cfm?State=NE">Nebraska</option><option value="/general/contact_information/senators_cfm.cfm?State=NV">Nevada</option><option value="/general/contact_information/senators_cfm.cfm?State=NH">New Hampshire</option><option value="/general/contact_information/senators_cfm.cfm?State=NJ">New Jersey</option><option value="/general/contact_information/senators_cfm.cfm?State=NM">New Mexico</option><option value="/general/contact_information/senators_cfm.cfm?State=NY">New York</option><option value="/general/contact_information/senators_cfm.cfm?State=NC">North Carolina</option><option value="/general/contact_information/senators_cfm.cfm?State=ND">North Dakota</option><option value="/general/contact_information/senators_cfm.cfm?State=OH">Ohio</option><option value="/general/contact_information/senators_cfm.cfm?State=OK">Oklahoma</option><option value="/general/contact_information/senators_cfm.cfm?State=OR">Oregon</option><option value="/general/contact_information/senators_cfm.cfm?State=PA">Pennsylvania</option><option value="/general/contact_information/senators_cfm.cfm?State=RI">Rhode Island</option><option value="/general/contact_information/senators_cfm.cfm?State=SC">South Carolina</option><option value="/general/contact_information/senators_cfm.cfm?State=SD">South Dakota</option><option value="/general/contact_information/senators_cfm.cfm?State=TN">Tennessee</option><option value="/general/contact_information/senators_cfm.cfm?State=TX">Texas</option><option value="/general/contact_information/senators_cfm.cfm?State=UT">Utah</option><option value="/general/contact_information/senators_cfm.cfm?State=VT">Vermont</option><option value="/general/contact_information/senators_cfm.cfm?State=VA">Virginia</option><option value="/general/contact_information/senators_cfm.cfm?State=WA">Washington</option><option value="/general/contact_information/senators_cfm.cfm?State=WV">West Virginia</option><option value="/general/contact_information/senators_cfm.cfm?State=WI">Wisconsin</option><option value="/general/contact_information/senators_cfm.cfm?State=WY">Wyoming</option></select>&nbsp;<a href="#"><img align="absmiddle" alt="GO" src="/resources/images/uss_button_go.gif" onClick="location=findSenators.findsenator.options[findSenators.findsenator.selectedIndex].value" style="padding: 0px; border-style: none; link-style: none; border-thickness: 0px;"></a>
+                            </form>
+                             <div class="formruler"><img src="/resources/images/spacer.gif" width="1" height="1" alt="" border="0" /></div>    
+ <form name="search" action="/general/search/search_cfm.cfm" method="GET"><label for="search" /><input type="text" name="q" value="Search" id="search" class="searchBox" onfocus="this.value=''" /><input type="image" src="/resources/images/uss_button_go.gif" alt="GO" align="absmiddle" /><input type="hidden" name="site" value="default_collection" /><input type="hidden" name="num" value="10" /><INPUT type="hidden" name="filter" value="0" /></form>
+
+                        </div>
+                    </div>
+                    <!DOCTYPE div PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<div>
+    <ul class="topnav">
+        <li style="float:left; height:100%;">
+            <a href="/index.htm">
+                <img width="140" height="28" border="0" alt="United States Senate" src="/resources/images/uss_sub_logo_02.gif" />
+            </a>
+        </li>
+        <li class="topnav">
+            <a class="topnav" href="/senators/contact/">
+                <name>SENATORS</name>
+            </a>
+        </li>
+        <li class="topnav">
+            <a class="topnav" href="/committees/committees_home.htm">
+                <name>COMMITTEES</name>
+            </a>
+        </li>
+        <li class="topnav">
+            <a class="topnav" href="/legislative/legislative_home.htm">
+                <name>LEGISLATION &amp; RECORDS</name>
+            </a>
+        </li>
+        <li class="topnav">
+            <a class="topnav" href="/art/art_hist_home.htm">
+                <name>ART &amp; HISTORY</name>
+            </a>
+        </li>
+        <li class="topnav">
+            <a class="topnav" href="/visiting/visitors_home.htm">
+                <name>VISITORS</name>
+            </a>
+        </li>
+        <li class="topnav">
+            <a class="topnav" href="/reference/reference_home.htm">
+                <name>REFERENCE</name>
+            </a>
+        </li>
+    </ul>
+</div>
+
+                    <div style="float:left; width:100%; background:#f7edd2; overflow:hidden; position:relative;">
+                        <div style="float:left; width:100%; background-image:url('/resources/images/teaser_background_final.gif'); position:relative; right:-2%;">
+                            <div style="float:left; width:100%; background:#FFFFFF; position:relative; right:26%;">
+                                <div style="float:left; width:100%; background:#FFFFFF; position:relative; right:58%;">
+                                    <div style="float:left; width:18.4%; position:relative; overflow:hidden; left:82%;">
+                                        <div id="leftnav">
+                                            <div>
+                                                <a href="/index.htm"><img border="0" alt="United States Senate" height="39" width="140" src="/resources/images/uss_sub_logo_03.gif"></a>
+                                            </div>
+                                            
+
+                                            <div>
+                                                <img alt="" height="80" width="1" src="/resources/images/spacer.gif"></div>
+                                            <div>
+                                                <img border="0" alt="" height="23" width="140" src="/resources/images/uss_sub_leftnav_endcap.gif"></div>
+                                        </div>
+                                    </div>
+                                    <div tabindex="-1" id="skip" style="float:left; width:56.5%; position:relative; left:82%;">
+                                        <div style="float:left; padding-right:3px; padding-left:2px;">
+                                            <!-- BEGIN MAIN -->
+                                            <P align="center" class="contenttitle"><FONT size="+1">Requested Page Not Found (404).</FONT>
+<hr />
+                   
+
+<ul class="contenttext" style="margin-top: 0px; margin-left: 0px; padding-top: 0px; padding-left: 0 px;">
+<p>&#160;</p>
+<li><strong><label for="searchMain">Search Senate.gov:</label></strong> &#160;&#160;&#160;&#160;<form style="display: inline;" method="GET" action="http://www.senate.gov/general/search/search_cfm.cfm" name="searchMain">
+                                <input onfocus="this.value=''" style="width: 140px;" class="searchBox" id="search" value="Enter Search Term(s)" name="q" type="text" width="120">
+                                <input style="vertical-align: middle; margin-bottom: .25em;" alt="GO" src="http://www.senate.gov/resources/images/uss_button_go.gif" type="image">
+                                <input value="default_collection" name="site" type="hidden">
+                                <input value="10" name="num" type="hidden">
+                                <INPUT value="0" name="filter" type="hidden">
+                            </form>
+                            </li>
+                            <p>&#160;</p>
+                            <li><strong><label for="findsenatorbystate">Find Senators by State:</label></strong> &#160;&#160;&#160;&#160;<form style="display: inline;" method="post" name="findSenatorsSearch">
+                                <select style="width: 160px;" class="searchBox" id="findsenatorbystate" name="stateName"><option value="/general/contact_information/senators_cfm.cfm">--Select State--</option><option value="/general/contact_information/senators_cfm.cfm?State=AL">Alabama</option><option value="/general/contact_information/senators_cfm.cfm?State=AK">Alaska</option><option value="/general/contact_information/senators_cfm.cfm?State=AZ">Arizona</option><option value="/general/contact_information/senators_cfm.cfm?State=AR">Arkansas</option><option value="/general/contact_information/senators_cfm.cfm?State=CA">California</option><option value="/general/contact_information/senators_cfm.cfm?State=CO">Colorado</option><option value="/general/contact_information/senators_cfm.cfm?State=CT">Connecticut</option><option value="/general/contact_information/senators_cfm.cfm?State=DE">Delaware</option><option value="/general/contact_information/senators_cfm.cfm?State=FL">Florida</option><option value="/general/contact_information/senators_cfm.cfm?State=GA">Georgia</option><option value="/general/contact_information/senators_cfm.cfm?State=HI">Hawaii</option><option value="/general/contact_information/senators_cfm.cfm?State=ID">Idaho</option><option value="/general/contact_information/senators_cfm.cfm?State=IL">Illinois</option><option value="/general/contact_information/senators_cfm.cfm?State=IN">Indiana</option><option value="/general/contact_information/senators_cfm.cfm?State=IA">Iowa</option><option value="/general/contact_information/senators_cfm.cfm?State=KS">Kansas</option><option value="/general/contact_information/senators_cfm.cfm?State=KY">Kentucky</option><option value="/general/contact_information/senators_cfm.cfm?State=LA">Louisiana</option><option value="/general/contact_information/senators_cfm.cfm?State=ME">Maine</option><option value="/general/contact_information/senators_cfm.cfm?State=MD">Maryland</option><option value="/general/contact_information/senators_cfm.cfm?State=MA">Massachusetts</option><option value="/general/contact_information/senators_cfm.cfm?State=MI">Michigan</option><option value="/general/contact_information/senators_cfm.cfm?State=MN">Minnesota</option><option value="/general/contact_information/senators_cfm.cfm?State=MS">Mississippi</option><option value="/general/contact_information/senators_cfm.cfm?State=MO">Missouri</option><option value="/general/contact_information/senators_cfm.cfm?State=MT">Montana</option><option value="/general/contact_information/senators_cfm.cfm?State=NE">Nebraska</option><option value="/general/contact_information/senators_cfm.cfm?State=NV">Nevada</option><option value="/general/contact_information/senators_cfm.cfm?State=NH">New Hampshire</option><option value="/general/contact_information/senators_cfm.cfm?State=NJ">New Jersey</option><option value="/general/contact_information/senators_cfm.cfm?State=NM">New Mexico</option><option value="/general/contact_information/senators_cfm.cfm?State=NY">New York</option><option value="/general/contact_information/senators_cfm.cfm?State=NC">North Carolina</option><option value="/general/contact_information/senators_cfm.cfm?State=ND">North Dakota</option><option value="/general/contact_information/senators_cfm.cfm?State=OH">Ohio</option><option value="/general/contact_information/senators_cfm.cfm?State=OK">Oklahoma</option><option value="/general/contact_information/senators_cfm.cfm?State=OR">Oregon</option><option value="/general/contact_information/senators_cfm.cfm?State=PA">Pennsylvania</option><option value="/general/contact_information/senators_cfm.cfm?State=RI">Rhode Island</option><option value="/general/contact_information/senators_cfm.cfm?State=SC">South Carolina</option><option value="/general/contact_information/senators_cfm.cfm?State=SD">South Dakota</option><option value="/general/contact_information/senators_cfm.cfm?State=TN">Tennessee</option><option value="/general/contact_information/senators_cfm.cfm?State=TX">Texas</option><option value="/general/contact_information/senators_cfm.cfm?State=UT">Utah</option><option value="/general/contact_information/senators_cfm.cfm?State=VT">Vermont</option><option value="/general/contact_information/senators_cfm.cfm?State=VA">Virginia</option><option value="/general/contact_information/senators_cfm.cfm?State=WA">Washington</option><option value="/general/contact_information/senators_cfm.cfm?State=WV">West Virginia</option><option value="/general/contact_information/senators_cfm.cfm?State=WI">Wisconsin</option><option value="/general/contact_information/senators_cfm.cfm?State=WY">Wyoming</option></select> <a href="#"><img alt="GO" align="absmiddle" src="/resources/images/uss_button_go.gif" onClick="location=findSenators.findsenator.options[findSenatorsSearch.findsenatorbystate.selectedIndex].value" style="vertical-align: middle; margin-bottom: .25em; border-style: none; link-style: none; border-thickness: 0px;"></a>
+                            </form>
+                            </li>                            
+                            <p>&#160;</p>
+                            <li><strong>Contact:</strong> E-mail <a href="mailto:webmaster@sec.senate.gov">webmaster@sec.senate.gov</a> to report a broken link, ask technical questions, or provide feedback on <a href="www.senate.gov">www.senate.gov</a>.  For all other correspondence <a href="http://www.senate.gov/pagelayout/general/one_item_and_teasers/contacting.htm">contact your senators</a>. 
+                            <br />
+                            <br />
+                            <span class="caption"><strong>*NOTE:</strong> Please do not ask the webmaster to forward mail to senators' offices.</li>
+</ul>
+
+
+
+                                            <table width="430 px">
+                                                <tr>
+                                                    <td>&nbsp;</td>
+                                                </tr>
+                                            </table>
+                                            <!-- END MAIN -->
+                                        </div>
+                                    </div>
+                                    <div style="float:left; width:2%; position:relative; left:82%;"></div>
+                                    <div style="float:left; width:21%; position:relative; left:82%; padding-left:13px;">
+                                        <!-- BEGIN TEASERS -->
+                                        <!--****** VRD_SiteMap Version: 3.1 was generated at: Monday, December 29, 2014: 2:06 PM EST in folder: /Senate.gov/general/common/teaser **--><div style="padding-left:3px; padding-right:3px;">
+    <div class="teaserborder">
+        <div class="teasertitle">
+            <h1>
+                <span>Virtual Reference Desk </span>
+            </h1>
+        </div>
+        <div class="teasertext" align="left">
+            <p>Browse the site by topic with the <A href="/pagelayout/reference/b_three_sections_with_teasers/virtual.htm">Viritual Reference Desk</A>.</p>
+            <p>&nbsp;</p>
+        </div>
+    </div>
+</div>
+
+                                        <br>
+                                        <!--****** FAQs Version: 4.1 was generated at: Thursday, April 23, 2015: 9:06 AM EST in folder: /Senate.gov/general/common/teaser **--><div style="padding-left:3px; padding-right:3px;">
+    <div class="teaserborder">
+        <div class="teasertitle">
+            <h1>
+                <span>Related Links </span>
+            </h1>
+        </div>
+        <div class="teasertext" align="left">
+            <p>Fequently Asked Questions</p>
+            <p>
+                <a href="/general/common/faq/committees_faq.htm">Committees</a>
+            </p>
+            <p>
+                <a href="/pagelayout/reference/b_three_sections_with_teasers/howto.htm">Congressional Research</a>
+            </p>
+            <p>
+                <a href="/general/common/generic/NewCongress_faq.htm">New Congress</a>
+            </p>
+            <p>&nbsp;</p>
+        </div>
+    </div>
+</div>
+
+                                        <br>
+                                        <!-- END TEASERS -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="footer_navigation">
+                    <div id="footersection">
+                        <ul id="footer_nav">
+                            <li class="first"><a href="/senators/contact/">Senators</a></li>                    <li><a href="/committees/committees_home.htm">Committees</a></li>                    <li><a href="/legislative/legislative_home.htm">Legislation &amp; Records</a></li>                    <li><a href="/art/art_hist_home.htm">Art &amp; History</a></li>                    <li><a href="/visiting/visitors_home.htm">Visitors</a></li>                    <li><a href="/reference/reference_home.htm">Reference</a></li>	
+
+
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="text-align: center; marign: 0 auto;">
+            <img border="0" alt="" height="8" width="770" src="/resources/images/uss_bg_bottom.gif"></div>
+        <div id="footer_navigation_2">
+            <div id="footersection_2">
+                <ul id="footer_nav_2">
+                    <li class="first_2" style="vertical-align: middle;"><a title="BrowseAloud Support" href="/general/common/generic/browsealoud.htm"><IMG style="vertical-align: middle;" valign="bottom" border="0" SRC="/resources/graphic/browsaloud.gif" alt="BrowseAloud Support" /></a></li>
+<li><a href="/general/contacting.htm">Contact</a></li>
+<li><a href="/general/content_responsibility.htm">Content Responsibility</a></li>
+<li><a href="/usage/internetpolicy.htm">Usage Policy</a></li>
+<li><a href="/general/pdf_help.htm">PDF Help</a></li>
+<li><a href="/general/privacy.htm">Privacy Policy</a></li>
+<li><a href="/index.htm">www.senate.gov</a></li>
+
+<!-- Created: 12/12/2012 11:47:42 AM -->
+<script src="/wt_sdc/central_webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//sdc1.senate.gov/dcsu6dnnr5iyw688xq6v3nh5q_7l3g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.senate.gov"/></div>
+</noscript>
+
+
+
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
