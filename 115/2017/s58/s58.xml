@@ -4,14 +4,14 @@
   <congress_year>2017</congress_year>
   <vote_number>58</vote_number>
   <vote_date>February 7, 2017,  09:06 PM</vote_date>
-  <modify_date>February 7, 2017,  09:52 PM</modify_date>
+  <modify_date>February 7, 2017,  10:29 PM</modify_date>
   <vote_question_text>On the Motion (Shall the Senator be Permitted to Proceed in Order?)</vote_question_text>
   <vote_document_text>Jeff Sessions, of Alabama, to be Attorney General</vote_document_text>
-  <vote_result_text>Motion Agreed to (43-50)</vote_result_text>
+  <vote_result_text>Motion Rejected (43-50)</vote_result_text>
   <question>On the Motion</question>
   <vote_title>Shall the Senator be Permitted to Proceed in Order?</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Motion Agreed to</vote_result>
+  <vote_result>Motion Rejected</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
