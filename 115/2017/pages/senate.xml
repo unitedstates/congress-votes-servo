@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00058</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>PN30</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Shall the Senator be Permitted to Proceed in Order?</title>
+    </vote>
+    <vote>
+      <vote_number>00057</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>PN30</issue>
+      <question>On the Decision of the Chair</question>
+      <result>Sustained</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Shall the Decision of the Chair Stand as the Judgment of the Senate</title>
+    </vote>
+    <vote>
+      <vote_number>00056</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>PN30</issue>
+      <question>On the Motion for Attendance</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Instruct the Sgt-At-Arms to Request the Attendance of Absentee Senators</title>
+    </vote>
+    <vote>
       <vote_number>00055</vote_number>
       <vote_date>07-Feb</vote_date>
       <issue>PN30</issue>
