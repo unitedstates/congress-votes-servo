@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00062</vote_number>
+      <vote_date>10-Feb</vote_date>
+      <issue>PN26</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Steven T. Mnuchin, of California, to be Secretary of the Treasury.</title>
+    </vote>
+    <vote>
+      <vote_number>00061</vote_number>
+      <vote_date>10-Feb</vote_date>
+      <issue>PN33</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation Thomas Price, of Georgia, to be Secretary of Health and Human Services</title>
+    </vote>
+    <vote>
       <vote_number>00060</vote_number>
       <vote_date>08-Feb</vote_date>
       <issue>PN33</issue>
