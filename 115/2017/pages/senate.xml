@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00065</vote_number>
+      <vote_date>14-Feb</vote_date>
+      <issue>PN48</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Confirmation Linda E. McMahon, of Connecticut, to be Administrator of the Small Business Administration</title>
+    </vote>
+    <vote>
       <vote_number>00064</vote_number>
       <vote_date>13-Feb</vote_date>
       <issue>PN39</issue>
@@ -25,7 +37,7 @@
         <yeas>53</yeas>
         <nays>47</nays>
       </vote_tally>
-      <title>Confirmation: Steven T. Mnuchin, of California, to be Secretary of the Treasury</title>
+      <title>Confirmation Steven T. Mnuchin, of California, to be Secretary of the Treasury</title>
     </vote>
     <vote>
       <vote_number>00062</vote_number>
