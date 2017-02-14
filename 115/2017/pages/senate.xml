@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00064</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>PN39</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation David J. Shulkin, of Pennsylvania, to be Secretary of Veterans Affairs</title>
+    </vote>
+    <vote>
+      <vote_number>00063</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>PN26</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Steven T. Mnuchin, of California, to be Secretary of the Treasury</title>
+    </vote>
+    <vote>
       <vote_number>00062</vote_number>
       <vote_date>10-Feb</vote_date>
       <issue>PN26</issue>
