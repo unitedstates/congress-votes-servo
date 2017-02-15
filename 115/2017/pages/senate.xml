@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00067</vote_number>
+      <vote_date>15-Feb</vote_date>
+      <issue>PN54</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Mick Mulvaney to be Director of the Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00066</vote_number>
+      <vote_date>15-Feb</vote_date>
+      <issue>H.J.Res. 40</issue>
+      <question>On the Joint Resolution</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>H.J.Res. 40; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.</title>
+    </vote>
+    <vote>
       <vote_number>00065</vote_number>
       <vote_date>14-Feb</vote_date>
       <issue>PN48</issue>
