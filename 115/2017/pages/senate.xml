@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00069</vote_number>
+      <vote_date>16-Feb</vote_date>
+      <issue>PN44</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture re Nomination of Scott Pruitt, of Oklahoma, to be Administrator of the Environmental Protection Agency</title>
+    </vote>
+    <vote>
+      <vote_number>00068</vote_number>
+      <vote_date>16-Feb</vote_date>
+      <issue>PN54</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Confirmation Mick Mulvaney, of South Carolina, to be Director of the Office of Management and Budget</title>
+    </vote>
+    <vote>
       <vote_number>00067</vote_number>
       <vote_date>15-Feb</vote_date>
       <issue>PN54</issue>
