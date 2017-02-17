@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00072</vote_number>
+      <vote_date>17-Feb</vote_date>
+      <issue>PN32</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Wilbur L. Ross, Jr., of Florida, to be Secretary of Commerce</title>
+    </vote>
+    <vote>
       <vote_number>00071</vote_number>
       <vote_date>17-Feb</vote_date>
       <issue>PN44</issue>
