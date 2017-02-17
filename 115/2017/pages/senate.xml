@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00071</vote_number>
+      <vote_date>17-Feb</vote_date>
+      <issue>PN44</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation Scott Pruitt, of Oklahoma, to be Administrator of the Environmental Protection Agency</title>
+    </vote>
+    <vote>
+      <vote_number>00070</vote_number>
+      <vote_date>17-Feb</vote_date>
+      <issue>PN44</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Extend Debate Re: Pruitt Nomination</title>
+    </vote>
+    <vote>
       <vote_number>00069</vote_number>
       <vote_date>16-Feb</vote_date>
       <issue>PN44</issue>
