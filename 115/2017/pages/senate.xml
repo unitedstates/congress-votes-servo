@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00074</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>PN31</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Nomination of Ryan Zinke to be Secretary of the Interior</title>
+    </vote>
+    <vote>
+      <vote_number>00073</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>PN32</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>27</nays>
+      </vote_tally>
+      <title>Confirmation Wilbur L., Ross, Jr., of Florida, to be Secretary of Commerce</title>
+    </vote>
+    <vote>
       <vote_number>00072</vote_number>
       <vote_date>17-Feb</vote_date>
       <issue>PN32</issue>
