@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00076</vote_number>
+      <vote_date>01-Mar</vote_date>
+      <issue>PN34</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Ben Carson to be Secretary of Housing and Urban Development</title>
+    </vote>
+    <vote>
       <vote_number>00075</vote_number>
       <vote_date>01-Mar</vote_date>
       <issue>PN31</issue>
