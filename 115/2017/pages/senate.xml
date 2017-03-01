@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00075</vote_number>
+      <vote_date>01-Mar</vote_date>
+      <issue>PN31</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Confirmation Ryan Zinke, of Montana, to be Secretary of the Interior</title>
+    </vote>
+    <vote>
       <vote_number>00074</vote_number>
       <vote_date>27-Feb</vote_date>
       <issue>PN31</issue>
