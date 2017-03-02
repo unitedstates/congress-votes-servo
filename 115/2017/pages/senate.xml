@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00079</vote_number>
+      <vote_date>02-Mar</vote_date>
+      <issue>PN36</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Confirmation James Richard Perry, of Texas, to be Secretary of Energy</title>
+    </vote>
+    <vote>
       <vote_number>00078</vote_number>
       <vote_date>02-Mar</vote_date>
       <issue>PN36</issue>
