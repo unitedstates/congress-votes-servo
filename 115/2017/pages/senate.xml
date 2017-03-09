@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00084</vote_number>
+      <vote_date>09-Mar</vote_date>
+      <issue>H.J.Res. 57</issue>
+      <question>On the Joint Resolution</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>H.J. Res. 57; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965.</title>
+    </vote>
+    <vote>
       <vote_number>00083</vote_number>
       <vote_date>08-Mar</vote_date>
       <issue>H.J.Res. 58</issue>
