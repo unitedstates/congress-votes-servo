@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00085</vote_number>
+      <vote_date>09-Mar</vote_date>
+      <issue>PN49</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Seema Verma to be Administrator of the Centers for Medicare and Medicaid Services</title>
+    </vote>
+    <vote>
       <vote_number>00084</vote_number>
       <vote_date>09-Mar</vote_date>
       <issue>H.J.Res. 57</issue>
