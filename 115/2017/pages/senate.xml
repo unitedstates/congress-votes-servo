@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00088</vote_number>
+      <vote_date>15-Mar</vote_date>
+      <issue>PN41</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Daniel Coats, of Indiana, to be Director of National Intelligence</title>
+    </vote>
+    <vote>
       <vote_number>00087</vote_number>
       <vote_date>14-Mar</vote_date>
       <issue>H.J.Res. 42</issue>
