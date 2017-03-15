@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00090</vote_number>
+      <vote_date>15-Mar</vote_date>
+      <issue>PN87</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Confirmation Lt. Gen. Herbert R. McMaster, Jr. to be Lieutenant General</title>
+    </vote>
+    <vote>
+      <vote_number>00089</vote_number>
+      <vote_date>15-Mar</vote_date>
+      <issue>PN41</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation Daniel Coats, of Indiana, to be Director of National Intelligence</title>
+    </vote>
+    <vote>
       <vote_number>00088</vote_number>
       <vote_date>15-Mar</vote_date>
       <issue>PN41</issue>
