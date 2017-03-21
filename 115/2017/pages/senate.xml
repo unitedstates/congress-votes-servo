@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00091</vote_number>
+      <vote_date>21-Mar</vote_date>
+      <issue>PN85</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmations Charles R. Breyer, of California, and Danny C. Reeves, of Kentucky, to be Members of the United States Sentencing Commission</title>
+    </vote>
+    <vote>
       <vote_number>00090</vote_number>
       <vote_date>15-Mar</vote_date>
       <issue>PN87</issue>
