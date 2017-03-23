@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00096</vote_number>
+      <vote_date>23-Mar</vote_date>
+      <issue>PN53</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation David Friedman, of New York, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to Israel</title>
+    </vote>
+    <vote>
       <vote_number>00095</vote_number>
       <vote_date>23-Mar</vote_date>
       <issue>PN53</issue>
