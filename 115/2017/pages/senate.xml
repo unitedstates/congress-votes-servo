@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00098</vote_number>
+      <vote_date>28-Mar</vote_date>
+      <issue>Treaty Doc. 114-12</issue>
+      <question>On the Resolution of Ratification</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Resolution of Advice and Consent to Ratification (Treay Doc. 114-12); Protocol to the North Atlantic Treaty of 1949 on the Accession of Montenegro</title>
+    </vote>
+    <vote>
       <vote_number>00097</vote_number>
       <vote_date>27-Mar</vote_date>
       <issue>Treaty Doc. 114-12</issue>
