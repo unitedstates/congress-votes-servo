@@ -4,7 +4,7 @@
   <congress_year>2017</congress_year>
   <vote_number>97</vote_number>
   <vote_date>March 27, 2017,  05:36 PM</vote_date>
-  <modify_date>March 27, 2017,  06:14 PM</modify_date>
+  <modify_date>March 28, 2017,  10:46 AM</modify_date>
   <vote_question_text>On the Cloture Motion Treaty Doc. 114-12</vote_question_text>
   <vote_document_text>Protocol to the North Atlantic Treaty of 1949 on the Accession of Montenegro</vote_document_text>
   <vote_result_text>Cloture Motion Agreed to (97-2, 3/5 majority required)</vote_result_text>
@@ -306,7 +306,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S254</lis_member_id>
     </member>
     <member>
@@ -477,7 +477,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>GA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S305</lis_member_id>
     </member>
     <member>
