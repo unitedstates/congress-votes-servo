@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00102</vote_number>
+      <vote_date>03-Apr</vote_date>
+      <issue>S. 89</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>S. 89; A bill to amend title 46, United States Code, to exempt old vessels that only operate within inland waterways from the fire-retardant materials requirement if the owners of such vessels make annual structural alterations to at least 10 percent of the areas of the vessels that are not constructed of fire-retardant materials and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00101</vote_number>
       <vote_date>30-Mar</vote_date>
       <issue>H.J.Res. 43</issue>
