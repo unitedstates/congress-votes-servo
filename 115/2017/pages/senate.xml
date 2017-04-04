@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00103</vote_number>
+      <vote_date>04-Apr</vote_date>
+      <issue>PN59</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Confirmation Elaine C. Duke, of Virginia, to be Deputy Secretary of Homeland Security</title>
+    </vote>
+    <vote>
       <vote_number>00102</vote_number>
       <vote_date>03-Apr</vote_date>
       <issue>S. 89</issue>
