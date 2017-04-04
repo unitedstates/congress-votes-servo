@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00104</vote_number>
+      <vote_date>04-Apr</vote_date>
+      <issue>PN55</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Executive Session to Consider the Nomination of Neil Gorsuch</title>
+    </vote>
+    <vote>
       <vote_number>00103</vote_number>
       <vote_date>04-Apr</vote_date>
       <issue>PN59</issue>
