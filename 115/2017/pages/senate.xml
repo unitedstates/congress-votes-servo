@@ -4,6 +4,54 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00108</vote_number>
+      <vote_date>06-Apr</vote_date>
+      <issue>PN55</issue>
+      <question>On the Motion to Adjourn</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Schumer Motion to Adjourn Until 5:00 P.M.</title>
+    </vote>
+    <vote>
+      <vote_number>00107</vote_number>
+      <vote_date>06-Apr</vote_date>
+      <issue>PN55</issue>
+      <question>On the Motion to Postpone</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Postpone the Motion to Invoke Cloture, Upon Reconsideration, of the Nomination of Neil M. Gorsuch Until a Time Certain</title>
+    </vote>
+    <vote>
+      <vote_number>00106</vote_number>
+      <vote_date>06-Apr</vote_date>
+      <issue>PN55</issue>
+      <question>On the Motion to Reconsider</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Reconsider the Vote By Which the Motion to Invoke Cloture on the Nomination of Neil M. Gorsuch Was Not Invoked</title>
+    </vote>
+    <vote>
+      <vote_number>00105</vote_number>
+      <vote_date>06-Apr</vote_date>
+      <issue>PN55</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Neil M. Gorsuch, of Colorado, to be an Associate Justice of the Supreme Court of the United States</title>
+    </vote>
+    <vote>
       <vote_number>00104</vote_number>
       <vote_date>04-Apr</vote_date>
       <issue>PN55</issue>
