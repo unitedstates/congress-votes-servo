@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00111</vote_number>
+      <vote_date>07-Apr</vote_date>
+      <issue>PN55</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confrimation: Neil M. Gorsuch, of Colorado, to be an Associate Justice of the Supreme Court of the United States</title>
+    </vote>
+    <vote>
       <vote_number>00110</vote_number>
       <vote_date>06-Apr</vote_date>
       <issue>PN55</issue>
