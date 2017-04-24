@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00113</vote_number>
+      <vote_date>24-Apr</vote_date>
+      <issue>PN56</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Rod J. Rosenstein, of Maryland, to be Deputy Attorney General</title>
+    </vote>
+    <vote>
+      <vote_number>00112</vote_number>
+      <vote_date>24-Apr</vote_date>
+      <issue>PN90</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Confirmation Sonny Perdue, of Georgia, to be Secretary of Agriculture</title>
+    </vote>
+    <vote>
       <vote_number>00111</vote_number>
       <vote_date>07-Apr</vote_date>
       <issue>PN55</issue>
