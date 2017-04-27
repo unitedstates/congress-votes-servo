@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00116</vote_number>
+      <vote_date>27-Apr</vote_date>
+      <issue>PN88</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Confirmation R. Alexander Acosta, of Florida, to be Secretary of Labor</title>
+    </vote>
+    <vote>
       <vote_number>00115</vote_number>
       <vote_date>26-Apr</vote_date>
       <issue>PN88</issue>
