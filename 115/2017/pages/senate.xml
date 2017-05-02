@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00118</vote_number>
+      <vote_date>02-May</vote_date>
+      <issue>PN47</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Confirmation Jay Clayton, of New York, to be a Member of the Securities and Exchange Commission</title>
+    </vote>
+    <vote>
       <vote_number>00117</vote_number>
       <vote_date>01-May</vote_date>
       <issue>PN47</issue>
