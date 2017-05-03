@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00119</vote_number>
+      <vote_date>03-May</vote_date>
+      <issue>H.J.Res. 66</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the Consideration of H.J. Res. 66; A joint resolution disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.</title>
+    </vote>
+    <vote>
       <vote_number>00118</vote_number>
       <vote_date>02-May</vote_date>
       <issue>PN47</issue>
