@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00121</vote_number>
+      <vote_date>04-May</vote_date>
+      <issue>H.R. 244</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 244; To encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00120</vote_number>
       <vote_date>03-May</vote_date>
       <issue>H.J.Res. 66</issue>
