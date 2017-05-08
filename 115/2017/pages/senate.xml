@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00123</vote_number>
+      <vote_date>08-May</vote_date>
+      <issue>PN118</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture On the Nomination of Scott Gottlieb to be Commissioner of Food and Drugs</title>
+    </vote>
+    <vote>
+      <vote_number>00122</vote_number>
+      <vote_date>08-May</vote_date>
+      <issue>PN101</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>22</nays>
+      </vote_tally>
+      <title>Confirmation Heather Wilson, of South Dakota, to be Secretary of the Air Force</title>
+    </vote>
+    <vote>
       <vote_number>00121</vote_number>
       <vote_date>04-May</vote_date>
       <issue>H.R. 244</issue>
