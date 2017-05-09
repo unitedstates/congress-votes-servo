@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00124</vote_number>
+      <vote_date>09-May</vote_date>
+      <issue>PN118</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation Scott Gottlieb, of Connecticut, to be Commissioner of Food and Drugs, Department of Health and Human Services</title>
+    </vote>
+    <vote>
       <vote_number>00123</vote_number>
       <vote_date>08-May</vote_date>
       <issue>PN118</issue>
