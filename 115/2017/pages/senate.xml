@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00125</vote_number>
+      <vote_date>10-May</vote_date>
+      <issue>H.J.Res. 36</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H. J. Res. 36; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to "Waste Prevention, Production Subject to Royalties, and Resource Conservation".</title>
+    </vote>
+    <vote>
       <vote_number>00124</vote_number>
       <vote_date>09-May</vote_date>
       <issue>PN118</issue>
