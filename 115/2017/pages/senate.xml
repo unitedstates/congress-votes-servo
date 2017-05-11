@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00126</vote_number>
+      <vote_date>11-May</vote_date>
+      <issue>PN42</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Robert Lighthizer, of Florida, to be United States Trade Representative</title>
+    </vote>
+    <vote>
       <vote_number>00125</vote_number>
       <vote_date>10-May</vote_date>
       <issue>H.J.Res. 36</issue>
