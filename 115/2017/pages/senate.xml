@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00128</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>PN102</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Jeffrey A. Rosen to be Deputy Secretary of Transportation</title>
+    </vote>
+    <vote>
       <vote_number>00127</vote_number>
       <vote_date>11-May</vote_date>
       <issue>PN42</issue>
