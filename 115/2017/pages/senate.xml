@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00129</vote_number>
+      <vote_date>16-May</vote_date>
+      <issue>PN102</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation Jeffrey A. Rosen, of Virginia, to be Deputy Secretary of Transportation</title>
+    </vote>
+    <vote>
       <vote_number>00128</vote_number>
       <vote_date>15-May</vote_date>
       <issue>PN102</issue>
