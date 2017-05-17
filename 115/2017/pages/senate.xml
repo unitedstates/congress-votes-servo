@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00130</vote_number>
+      <vote_date>17-May</vote_date>
+      <issue>PN57</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Rachel L. Brand, of Iowa, to be Associate Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00129</vote_number>
       <vote_date>16-May</vote_date>
       <issue>PN102</issue>
