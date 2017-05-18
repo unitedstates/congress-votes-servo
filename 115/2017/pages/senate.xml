@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00131</vote_number>
+      <vote_date>18-May</vote_date>
+      <issue>PN57</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation: Rachel L. Brand, of Iowa, to be Associate Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00130</vote_number>
       <vote_date>17-May</vote_date>
       <issue>PN57</issue>
