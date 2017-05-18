@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00132</vote_number>
+      <vote_date>18-May</vote_date>
+      <issue>PN52</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Terry Branstad, of Iowa, to be Ambassador to the People's Republic of China </title>
+    </vote>
+    <vote>
       <vote_number>00131</vote_number>
       <vote_date>18-May</vote_date>
       <issue>PN57</issue>
