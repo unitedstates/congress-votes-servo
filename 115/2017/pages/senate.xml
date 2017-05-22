@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00133</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>PN52</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Confirmation Terry Branstad, of Iowa, to be Ambassador to the People's Republic of China</title>
+    </vote>
+    <vote>
       <vote_number>00132</vote_number>
       <vote_date>18-May</vote_date>
       <issue>PN52</issue>
