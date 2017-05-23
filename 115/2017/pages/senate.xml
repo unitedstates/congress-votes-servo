@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00134</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>PN350</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of John. J. Sullivan to be Deputy Secretary of State</title>
+    </vote>
+    <vote>
       <vote_number>00133</vote_number>
       <vote_date>22-May</vote_date>
       <issue>PN52</issue>
