@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00136</vote_number>
+      <vote_date>24-May</vote_date>
+      <issue>PN105</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Amul R. Thapar to be U.S. Circuit Judge</title>
+    </vote>
+    <vote>
+      <vote_number>00135</vote_number>
+      <vote_date>24-May</vote_date>
+      <issue>PN350</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Confirmation: John J. Sullivan, of Maryland, to be Deputy Seretary of State</title>
+    </vote>
+    <vote>
       <vote_number>00134</vote_number>
       <vote_date>23-May</vote_date>
       <issue>PN350</issue>
