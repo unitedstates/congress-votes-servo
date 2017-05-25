@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00137</vote_number>
+      <vote_date>25-May</vote_date>
+      <issue>PN105</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation Amul R. Thapar, of Kentucky, to be United States Circuit Judge</title>
+    </vote>
+    <vote>
       <vote_number>00136</vote_number>
       <vote_date>24-May</vote_date>
       <issue>PN105</issue>
