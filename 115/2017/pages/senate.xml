@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00138</vote_number>
+      <vote_date>05-Jun</vote_date>
+      <issue>S.Res. 176</issue>
+      <question>On the Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. Res. 176; A resolution commemorating the 50th anniversary of the reunification of Jerusalem.</title>
+    </vote>
+    <vote>
       <vote_number>00137</vote_number>
       <vote_date>25-May</vote_date>
       <issue>PN105</issue>
