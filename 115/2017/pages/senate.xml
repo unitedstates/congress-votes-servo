@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00139</vote_number>
+      <vote_date>06-Jun</vote_date>
+      <issue>PN104</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Courtney Elwood, of Virginia, to be General Counsel of the Central Intelligence Agency</title>
+    </vote>
+    <vote>
       <vote_number>00138</vote_number>
       <vote_date>05-Jun</vote_date>
       <issue>S.Res. 176</issue>
