@@ -4,10 +4,10 @@
   <congress_year>2017</congress_year>
   <vote_number>140</vote_number>
   <vote_date>June 7, 2017,  01:58 PM</vote_date>
-  <modify_date>June 7, 2017,  02:32 PM</modify_date>
+  <modify_date>June 7, 2017,  04:54 PM</modify_date>
   <vote_question_text>On the Cloture Motion S. 722</vote_question_text>
   <vote_document_text>A bill to impose sanctions with respect to Iran in relation to Iran's ballistic missile program, support for acts of international terrorism, and violations of human rights, and for other purposes.</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (92-7, 3/5 majority required)</vote_result_text>
+  <vote_result_text>Cloture Motion Agreed to (91-8, 3/5 majority required)</vote_result_text>
   <question>On the Cloture Motion</question>
   <vote_title>Motion to Invoke Cloture on the Motion to Proceed to S. 722</vote_title>
   <majority_requirement>3/5</majority_requirement>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>92</yeas>
-    <nays>7</nays>
+    <yeas>91</yeas>
+    <nays>8</nays>
     <present/>
     <absent>1</absent>
   </count>
@@ -324,7 +324,7 @@
       <first_name>Dianne</first_name>
       <party>D</party>
       <state>CA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S221</lis_member_id>
     </member>
     <member>
