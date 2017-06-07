@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00140</vote_number>
+      <vote_date>07-Jun</vote_date>
+      <issue>S. 722</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 722; A bill to impose sanctions with respect to Iran in relation to Iran's ballistic missile program, support for acts of international terrorism, and violations of human rights, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00139</vote_number>
       <vote_date>06-Jun</vote_date>
       <issue>PN104</issue>
