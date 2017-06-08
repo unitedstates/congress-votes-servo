@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00141</vote_number>
+      <vote_date>08-Jun</vote_date>
+      <issue>PN349</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Confirmation: Scott P. Brown, of New Hampshire, to be Ambassador to New Zealand and Ambassador to the Independent State of Samoa</title>
+    </vote>
+    <vote>
       <vote_number>00140</vote_number>
       <vote_date>07-Jun</vote_date>
       <issue>S. 722</issue>
