@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00143</vote_number>
+      <vote_date>13-Jun</vote_date>
+      <issue>S.J.Res. 42</issue>
+      <question>On the Motion to Discharge</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Motion to Discharge S. J. Res. 42; A joint resolution relating to the disapproval of the proposed export to the Government of the Kingdom of Saudi Arabia of certain defense articles.</title>
+    </vote>
+    <vote>
       <vote_number>00142</vote_number>
       <vote_date>12-Jun</vote_date>
       <issue>PN348</issue>
