@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00144</vote_number>
+      <vote_date>14-Jun</vote_date>
+      <issue>S. 722</issue>
+      <question>On the Amendment <measure>S.Amdt. 232</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Crapo Amdt. No. 232 As Modified; To impose sanctions with respect to the Russian Federation and to combat terrorism and illicit financing.</title>
+    </vote>
+    <vote>
       <vote_number>00143</vote_number>
       <vote_date>13-Jun</vote_date>
       <issue>S.J.Res. 42</issue>
