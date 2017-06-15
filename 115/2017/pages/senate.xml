@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00147</vote_number>
+      <vote_date>15-Jun</vote_date>
+      <issue>S. 722</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>S. 722 As Amended; An Act to Provide Congressional Review and to Counter Iranian and Russian Governments' Aggression.</title>
+    </vote>
+    <vote>
       <vote_number>00146</vote_number>
       <vote_date>15-Jun</vote_date>
       <issue>S. 722</issue>
@@ -85,7 +97,7 @@
         <yeas>91</yeas>
         <nays>8</nays>
       </vote_tally>
-      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 722; A bill to impose sanctions with respect to Iran in relation to Iran's ballistic missile program, support for acts of international terrorism, and violations of human rights, and for other purposes.</title>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 722; An Act to Provide Congressional Review and to Counter Iranian and Russian Governments' Aggression.</title>
     </vote>
     <vote>
       <vote_number>00139</vote_number>
