@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00146</vote_number>
+      <vote_date>15-Jun</vote_date>
+      <issue>S. 722</issue>
+      <question>On the Amendment <measure>S.Amdt. 240</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Graham Amdt. No. 240; To reaffirm the strategic importance of Article 5 of the North Atlantic Treaty to the member nations of the North Atlantic Treaty Organization and its contribution to maintaining stability throughout the world.</title>
+    </vote>
+    <vote>
+      <vote_number>00145</vote_number>
+      <vote_date>15-Jun</vote_date>
+      <issue>S. 722</issue>
+      <question>On the Amendment <measure>S.Amdt. 250</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Gardner Amdt. No. 250 As Modified; To provide an exception for activities of the National Aeronautics and Space Administration.</title>
+    </vote>
+    <vote>
       <vote_number>00144</vote_number>
       <vote_date>14-Jun</vote_date>
       <issue>S. 722</issue>
