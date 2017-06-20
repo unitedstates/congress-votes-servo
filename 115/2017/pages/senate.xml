@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00149</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>PN172</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Sigal Mandelker, of New York, to be Under Secretary for Terrorism and Financial Crimes</title>
+    </vote>
+    <vote>
+      <vote_number>00148</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>PN455</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Confirmation Brock Long, of North Carolina, to be Administrator of the Federal Emergency Management Agency</title>
+    </vote>
+    <vote>
       <vote_number>00147</vote_number>
       <vote_date>15-Jun</vote_date>
       <issue>S. 722</issue>
