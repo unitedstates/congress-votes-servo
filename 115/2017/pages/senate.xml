@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00151</vote_number>
+      <vote_date>21-Jun</vote_date>
+      <issue>PN366</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Marshall Billingslea to be Assistant Secretary for Terrorist Financing</title>
+    </vote>
+    <vote>
+      <vote_number>00150</vote_number>
+      <vote_date>21-Jun</vote_date>
+      <issue>PN172</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Confirmation Sigal Mandelker, of New York, to be Under Secretary for Terrorism and Financial Crimes</title>
+    </vote>
+    <vote>
       <vote_number>00149</vote_number>
       <vote_date>20-Jun</vote_date>
       <issue>PN172</issue>
