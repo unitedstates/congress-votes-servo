@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rollcall-vote PUBLIC "-//US Congress//DTDs/vote v1.0 20031119 //EN" "http://clerk.house.gov/evs/vote.dtd">
 <?xml-stylesheet type="text/xsl" href="http://clerk.house.gov/evs/vote.xsl"?>
 <rollcall-vote>
@@ -199,7 +199,6 @@
 <recorded-vote><legislator name-id="G000574" sort-field="Gallego" unaccented-name="Gallego" party="D" state="AZ" role="legislator">Gallego</legislator><vote>Nay</vote></recorded-vote>
 <recorded-vote><legislator name-id="G000559" sort-field="Garamendi" unaccented-name="Garamendi" party="D" state="CA" role="legislator">Garamendi</legislator><vote>Nay</vote></recorded-vote>
 <recorded-vote><legislator name-id="G000580" sort-field="Garrett" unaccented-name="Garrett" party="R" state="VA" role="legislator">Garrett</legislator><vote>Yea</vote></recorded-vote>
-<recorded-vote><legislator name-id="G000584" sort-field="Gianforte" unaccented-name="Gianforte" party="R" state="MT" role="legislator">Gianforte</legislator><vote>Not Voting</vote></recorded-vote>
 <recorded-vote><legislator name-id="G000563" sort-field="Gibbs" unaccented-name="Gibbs" party="R" state="OH" role="legislator">Gibbs</legislator><vote>Yea</vote></recorded-vote>
 <recorded-vote><legislator name-id="G000552" sort-field="Gohmert" unaccented-name="Gohmert" party="R" state="TX" role="legislator">Gohmert</legislator><vote>Yea</vote></recorded-vote>
 <recorded-vote><legislator name-id="G000581" sort-field="Gonzalez (TX)" unaccented-name="Gonzalez (TX)" party="D" state="TX" role="legislator">Gonzalez (TX)</legislator><vote>Nay</vote></recorded-vote>
