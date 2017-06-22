@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00153</vote_number>
+      <vote_date>22-Jun</vote_date>
+      <issue>PN561</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Kristine L. Svinicki, of Virginia, to be a Member of the Nuclear Regulatory Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00152</vote_number>
+      <vote_date>22-Jun</vote_date>
+      <issue>PN366</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Confirmation Marshall Billingslea, of Virginia, to be Assistant Secretary for Terrorist Financing</title>
+    </vote>
+    <vote>
       <vote_number>00151</vote_number>
       <vote_date>21-Jun</vote_date>
       <issue>PN366</issue>
