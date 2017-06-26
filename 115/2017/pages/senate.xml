@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00154</vote_number>
+      <vote_date>26-Jun</vote_date>
+      <issue>PN561</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>9</nays>
+      </vote_tally>
+      <title>Confirmation Kristine L. Svinicki, of Virginia, to be a Member of the Nuclear Regulatory Commission</title>
+    </vote>
+    <vote>
       <vote_number>00153</vote_number>
       <vote_date>22-Jun</vote_date>
       <issue>PN561</issue>
