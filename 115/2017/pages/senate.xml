@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00155</vote_number>
+      <vote_date>29-Jun</vote_date>
+      <issue>PN478</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Neomi Rao to be Administrator of the Office of Information and Regulatory Affairs</title>
+    </vote>
+    <vote>
       <vote_number>00154</vote_number>
       <vote_date>26-Jun</vote_date>
       <issue>PN561</issue>
