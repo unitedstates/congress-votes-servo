@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00159</vote_number>
+      <vote_date>12-Jul</vote_date>
+      <issue>PN117</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture William Fancis Haggerty to be Ambassador to Japan</title>
+    </vote>
+    <vote>
+      <vote_number>00158</vote_number>
+      <vote_date>12-Jul</vote_date>
+      <issue>PN373</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>100</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: David C. Nye, of Idaho, to be U.S. District Judge</title>
+    </vote>
+    <vote>
       <vote_number>00157</vote_number>
       <vote_date>10-Jul</vote_date>
       <issue>PN373</issue>
