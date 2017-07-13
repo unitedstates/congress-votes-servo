@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00160</vote_number>
+      <vote_date>13-Jul</vote_date>
+      <issue>PN117</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation: William Francis Hagerty IV, of Tennessee, to be Ambassador of the United States to Japan</title>
+    </vote>
+    <vote>
       <vote_number>00159</vote_number>
       <vote_date>12-Jul</vote_date>
       <issue>PN117</issue>
