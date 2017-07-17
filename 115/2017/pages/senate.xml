@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00161</vote_number>
+      <vote_date>17-Jul</vote_date>
+      <issue>PN583</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Patrick M. Shanahan to be Deputy Secretary of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00160</vote_number>
       <vote_date>13-Jul</vote_date>
       <issue>PN117</issue>
