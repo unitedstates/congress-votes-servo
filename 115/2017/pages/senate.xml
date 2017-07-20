@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00164</vote_number>
+      <vote_date>20-Jul</vote_date>
+      <issue>PN370</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation John Kenneth Bush, of Kentucky, to be U.S. Circuit Judge for the Sixth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00163</vote_number>
       <vote_date>19-Jul</vote_date>
       <issue>PN370</issue>
