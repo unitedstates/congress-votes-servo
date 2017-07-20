@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00165</vote_number>
+      <vote_date>20-Jul</vote_date>
+      <issue>PN365</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: David Bernhardt to be Deputy Secretary of the Interior</title>
+    </vote>
+    <vote>
       <vote_number>00164</vote_number>
       <vote_date>20-Jul</vote_date>
       <issue>PN370</issue>
