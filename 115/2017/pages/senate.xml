@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00167</vote_number>
+      <vote_date>25-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H.R. 1628; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
+    </vote>
+    <vote>
       <vote_number>00166</vote_number>
       <vote_date>24-Jul</vote_date>
       <issue>PN365</issue>
