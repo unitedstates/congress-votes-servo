@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00166</vote_number>
+      <vote_date>24-Jul</vote_date>
+      <issue>PN365</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation David Bernhardt, of Virginia, to be Deputy Secretary of the Interior</title>
+    </vote>
+    <vote>
       <vote_number>00165</vote_number>
       <vote_date>20-Jul</vote_date>
       <issue>PN365</issue>
