@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00170</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Donnelly Motion to Commit H.R. 1628 with Instructions; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
+    </vote>
+    <vote>
+      <vote_number>00169</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Amendment <measure>S.Amdt. 271</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 271; Of a perfecting nature.</title>
+    </vote>
+    <vote>
       <vote_number>00168</vote_number>
       <vote_date>25-Jul</vote_date>
       <issue>H.R. 1628</issue>
