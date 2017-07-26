@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00172</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Motion <measure>S.Amdt. 288</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>10</yeas>
+        <nays>90</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Heller Amdt. No. 288; To express the sense of the Senate that Medicaid expansion is a priority and that Obamacare must be improved.</title>
+    </vote>
+    <vote>
+      <vote_number>00171</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Casey Motion to Commit H.R. 1628 with Instructions; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
+    </vote>
+    <vote>
       <vote_number>00170</vote_number>
       <vote_date>26-Jul</vote_date>
       <issue>H.R. 1628</issue>
