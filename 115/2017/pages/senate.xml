@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00173</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Amendment <measure>S.Amdt. 340</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>0</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Daines Amdt. No. 340 As Modified; To provide for comprehensive health insurance coverage for all United States residents, improved health care delivery, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00172</vote_number>
       <vote_date>26-Jul</vote_date>
       <issue>H.R. 1628</issue>
