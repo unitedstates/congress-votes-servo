@@ -1,2071 +1,489 @@
-<?xml version="1.0" encoding="UTF-8"?><vote_summary>
-  <congress>115</congress>
-  <session>1</session>
-  <congress_year>2017</congress_year>
-  <votes>
-    <vote>
-      <vote_number>00172</vote_number>
-      <vote_date>26-Jul</vote_date>
-      <issue>H.R. 1628</issue>
-      <question>On the Motion <measure>S.Amdt. 288</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>10</yeas>
-        <nays>90</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Heller Amdt. No. 288; To express the sense of the Senate that Medicaid expansion is a priority and that Obamacare must be improved.</title>
-    </vote>
-    <vote>
-      <vote_number>00171</vote_number>
-      <vote_date>26-Jul</vote_date>
-      <issue>H.R. 1628</issue>
-      <question>On the Motion</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Casey Motion to Commit H.R. 1628 with Instructions; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
-    </vote>
-    <vote>
-      <vote_number>00170</vote_number>
-      <vote_date>26-Jul</vote_date>
-      <issue>H.R. 1628</issue>
-      <question>On the Motion</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Donnelly Motion to Commit H.R. 1628 with Instructions; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
-    </vote>
-    <vote>
-      <vote_number>00169</vote_number>
-      <vote_date>26-Jul</vote_date>
-      <issue>H.R. 1628</issue>
-      <question>On the Amendment <measure>S.Amdt. 271</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>45</yeas>
-        <nays>55</nays>
-      </vote_tally>
-      <title>Paul Amdt. No. 271; Of a perfecting nature.</title>
-    </vote>
-    <vote>
-      <vote_number>00168</vote_number>
-      <vote_date>25-Jul</vote_date>
-      <issue>H.R. 1628</issue>
-      <question>On the Motion <measure>S.Amdt. 270</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>43</yeas>
-        <nays>57</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 270; Of a perfecting nature.</title>
-    </vote>
-    <vote>
-      <vote_number>00167</vote_number>
-      <vote_date>25-Jul</vote_date>
-      <issue>H.R. 1628</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H.R. 1628; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
-    </vote>
-    <vote>
-      <vote_number>00166</vote_number>
-      <vote_date>24-Jul</vote_date>
-      <issue>PN365</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>53</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Confirmation David Bernhardt, of Virginia, to be Deputy Secretary of the Interior</title>
-    </vote>
-    <vote>
-      <vote_number>00165</vote_number>
-      <vote_date>20-Jul</vote_date>
-      <issue>PN365</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>39</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture: David Bernhardt to be Deputy Secretary of the Interior</title>
-    </vote>
-    <vote>
-      <vote_number>00164</vote_number>
-      <vote_date>20-Jul</vote_date>
-      <issue>PN370</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Confirmation John Kenneth Bush, of Kentucky, to be U.S. Circuit Judge for the Sixth Circuit</title>
-    </vote>
-    <vote>
-      <vote_number>00163</vote_number>
-      <vote_date>19-Jul</vote_date>
-      <issue>PN370</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of John Kenneth Bush, of Kentucky, to be United States Circuit Judge for the Sixth Circuit</title>
-    </vote>
-    <vote>
-      <vote_number>00162</vote_number>
-      <vote_date>18-Jul</vote_date>
-      <issue>PN583</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>92</yeas>
-        <nays>7</nays>
-      </vote_tally>
-      <title>Confirmation Patrick M. Shanahan, of Washington, to be Deputy Secretary of Defense</title>
-    </vote>
-    <vote>
-      <vote_number>00161</vote_number>
-      <vote_date>17-Jul</vote_date>
-      <issue>PN583</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>88</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture Re: Patrick M. Shanahan to be Deputy Secretary of Defense</title>
-    </vote>
-    <vote>
-      <vote_number>00160</vote_number>
-      <vote_date>13-Jul</vote_date>
-      <issue>PN117</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>86</yeas>
-        <nays>12</nays>
-      </vote_tally>
-      <title>Confirmation: William Francis Hagerty IV, of Tennessee, to be Ambassador of the United States to Japan</title>
-    </vote>
-    <vote>
-      <vote_number>00159</vote_number>
-      <vote_date>12-Jul</vote_date>
-      <issue>PN117</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>89</yeas>
-        <nays>11</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture William Francis Hagerty to be Ambassador to Japan</title>
-    </vote>
-    <vote>
-      <vote_number>00158</vote_number>
-      <vote_date>12-Jul</vote_date>
-      <issue>PN373</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>100</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>Confirmation: David C. Nye, of Idaho, to be U.S. District Judge</title>
-    </vote>
-    <vote>
-      <vote_number>00157</vote_number>
-      <vote_date>10-Jul</vote_date>
-      <issue>PN373</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>97</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture Re: David C. Nye to be United States District Judge</title>
-    </vote>
-    <vote>
-      <vote_number>00156</vote_number>
-      <vote_date>10-Jul</vote_date>
-      <issue>PN478</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>41</nays>
-      </vote_tally>
-      <title>Confirmation: Neomi Rao, of the District of Columbia, to be Administrator of the Office of Information and Regulatory Affairs</title>
-    </vote>
-    <vote>
-      <vote_number>00155</vote_number>
-      <vote_date>29-Jun</vote_date>
-      <issue>PN478</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>59</yeas>
-        <nays>36</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on Neomi Rao to be Administrator of the Office of Information and Regulatory Affairs</title>
-    </vote>
-    <vote>
-      <vote_number>00154</vote_number>
-      <vote_date>26-Jun</vote_date>
-      <issue>PN561</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>88</yeas>
-        <nays>9</nays>
-      </vote_tally>
-      <title>Confirmation Kristine L. Svinicki, of Virginia, to be a Member of the Nuclear Regulatory Commission</title>
-    </vote>
-    <vote>
-      <vote_number>00153</vote_number>
-      <vote_date>22-Jun</vote_date>
-      <issue>PN561</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>89</yeas>
-        <nays>10</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Kristine L. Svinicki, of Virginia, to be a Member of the Nuclear Regulatory Commission</title>
-    </vote>
-    <vote>
-      <vote_number>00152</vote_number>
-      <vote_date>22-Jun</vote_date>
-      <issue>PN366</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>65</yeas>
-        <nays>35</nays>
-      </vote_tally>
-      <title>Confirmation Marshall Billingslea, of Virginia, to be Assistant Secretary for Terrorist Financing</title>
-    </vote>
-    <vote>
-      <vote_number>00151</vote_number>
-      <vote_date>21-Jun</vote_date>
-      <issue>PN366</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>65</yeas>
-        <nays>34</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture Re: Marshall Billingslea to be Assistant Secretary for Terrorist Financing</title>
-    </vote>
-    <vote>
-      <vote_number>00150</vote_number>
-      <vote_date>21-Jun</vote_date>
-      <issue>PN172</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>96</yeas>
-        <nays>4</nays>
-      </vote_tally>
-      <title>Confirmation Sigal Mandelker, of New York, to be Under Secretary for Terrorism and Financial Crimes</title>
-    </vote>
-    <vote>
-      <vote_number>00149</vote_number>
-      <vote_date>20-Jun</vote_date>
-      <issue>PN172</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>94</yeas>
-        <nays>5</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on Sigal Mandelker, of New York, to be Under Secretary for Terrorism and Financial Crimes</title>
-    </vote>
-    <vote>
-      <vote_number>00148</vote_number>
-      <vote_date>20-Jun</vote_date>
-      <issue>PN455</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>95</yeas>
-        <nays>4</nays>
-      </vote_tally>
-      <title>Confirmation Brock Long, of North Carolina, to be Administrator of the Federal Emergency Management Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00147</vote_number>
-      <vote_date>15-Jun</vote_date>
-      <issue>S. 722</issue>
-      <question>On Passage of the Bill</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>98</yeas>
-        <nays>2</nays>
-      </vote_tally>
-      <title>S. 722 As Amended; An Act to Provide Congressional Review and to Counter Iranian and Russian Governments' Aggression.</title>
-    </vote>
-    <vote>
-      <vote_number>00146</vote_number>
-      <vote_date>15-Jun</vote_date>
-      <issue>S. 722</issue>
-      <question>On the Amendment <measure>S.Amdt. 240</measure></question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>100</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>Graham Amdt. No. 240; To reaffirm the strategic importance of Article 5 of the North Atlantic Treaty to the member nations of the North Atlantic Treaty Organization and its contribution to maintaining stability throughout the world.</title>
-    </vote>
-    <vote>
-      <vote_number>00145</vote_number>
-      <vote_date>15-Jun</vote_date>
-      <issue>S. 722</issue>
-      <question>On the Amendment <measure>S.Amdt. 250</measure></question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>94</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Gardner Amdt. No. 250 As Modified; To provide an exception for activities of the National Aeronautics and Space Administration.</title>
-    </vote>
-    <vote>
-      <vote_number>00144</vote_number>
-      <vote_date>14-Jun</vote_date>
-      <issue>S. 722</issue>
-      <question>On the Amendment <measure>S.Amdt. 232</measure></question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>97</yeas>
-        <nays>2</nays>
-      </vote_tally>
-      <title>Crapo Amdt. No. 232 As Modified; To impose sanctions with respect to the Russian Federation and to combat terrorism and illicit financing.</title>
-    </vote>
-    <vote>
-      <vote_number>00143</vote_number>
-      <vote_date>13-Jun</vote_date>
-      <issue>S.J.Res. 42</issue>
-      <question>On the Motion to Discharge</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>53</nays>
-      </vote_tally>
-      <title>Motion to Discharge S. J. Res. 42; A joint resolution relating to the disapproval of the proposed export to the Government of the Kingdom of Saudi Arabia of certain defense articles.</title>
-    </vote>
-    <vote>
-      <vote_number>00142</vote_number>
-      <vote_date>12-Jun</vote_date>
-      <issue>PN348</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>95</yeas>
-        <nays>1</nays>
-      </vote_tally>
-      <title>Confirmation Kenneth P. Rapuano, of Virginia, to be Assistant Secretary of Defense</title>
-    </vote>
-    <vote>
-      <vote_number>00141</vote_number>
-      <vote_date>08-Jun</vote_date>
-      <issue>PN349</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>94</yeas>
-        <nays>4</nays>
-      </vote_tally>
-      <title>Confirmation: Scott P. Brown, of New Hampshire, to be Ambassador to New Zealand and Ambassador to the Independent State of Samoa</title>
-    </vote>
-    <vote>
-      <vote_number>00140</vote_number>
-      <vote_date>07-Jun</vote_date>
-      <issue>S. 722</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>91</yeas>
-        <nays>8</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 722; An Act to Provide Congressional Review and to Counter Iranian and Russian Governments' Aggression.</title>
-    </vote>
-    <vote>
-      <vote_number>00139</vote_number>
-      <vote_date>06-Jun</vote_date>
-      <issue>PN104</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>67</yeas>
-        <nays>33</nays>
-      </vote_tally>
-      <title>Courtney Elwood, of Virginia, to be General Counsel of the Central Intelligence Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00138</vote_number>
-      <vote_date>05-Jun</vote_date>
-      <issue>S.Res. 176</issue>
-      <question>On the Resolution</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>90</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>S. Res. 176; A resolution commemorating the 50th anniversary of the reunification of Jerusalem.</title>
-    </vote>
-    <vote>
-      <vote_number>00137</vote_number>
-      <vote_date>25-May</vote_date>
-      <issue>PN105</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>44</nays>
-      </vote_tally>
-      <title>Confirmation Amul R. Thapar, of Kentucky, to be United States Circuit Judge</title>
-    </vote>
-    <vote>
-      <vote_number>00136</vote_number>
-      <vote_date>24-May</vote_date>
-      <issue>PN105</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Amul R. Thapar to be U.S. Circuit Judge</title>
-    </vote>
-    <vote>
-      <vote_number>00135</vote_number>
-      <vote_date>24-May</vote_date>
-      <issue>PN350</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>94</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Confirmation: John J. Sullivan, of Maryland, to be Deputy Seretary of State</title>
-    </vote>
-    <vote>
-      <vote_number>00134</vote_number>
-      <vote_date>23-May</vote_date>
-      <issue>PN350</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>93</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of John. J. Sullivan to be Deputy Secretary of State</title>
-    </vote>
-    <vote>
-      <vote_number>00133</vote_number>
-      <vote_date>22-May</vote_date>
-      <issue>PN52</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>82</yeas>
-        <nays>13</nays>
-      </vote_tally>
-      <title>Confirmation Terry Branstad, of Iowa, to be Ambassador to the People's Republic of China</title>
-    </vote>
-    <vote>
-      <vote_number>00132</vote_number>
-      <vote_date>18-May</vote_date>
-      <issue>PN52</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>86</yeas>
-        <nays>12</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Terry Branstad, of Iowa, to be Ambassador to the People's Republic of China </title>
-    </vote>
-    <vote>
-      <vote_number>00131</vote_number>
-      <vote_date>18-May</vote_date>
-      <issue>PN57</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Confirmation: Rachel L. Brand, of Iowa, to be Associate Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00130</vote_number>
-      <vote_date>17-May</vote_date>
-      <issue>PN57</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Rachel L. Brand, of Iowa, to be Associate Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00129</vote_number>
-      <vote_date>16-May</vote_date>
-      <issue>PN102</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>42</nays>
-      </vote_tally>
-      <title>Confirmation Jeffrey A. Rosen, of Virginia, to be Deputy Secretary of Transportation</title>
-    </vote>
-    <vote>
-      <vote_number>00128</vote_number>
-      <vote_date>15-May</vote_date>
-      <issue>PN102</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>42</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Jeffrey A. Rosen to be Deputy Secretary of Transportation</title>
-    </vote>
-    <vote>
-      <vote_number>00127</vote_number>
-      <vote_date>11-May</vote_date>
-      <issue>PN42</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>82</yeas>
-        <nays>14</nays>
-      </vote_tally>
-      <title>Confirmation Robert Lighthizer, of Florida, to be United States Trade Representative</title>
-    </vote>
-    <vote>
-      <vote_number>00126</vote_number>
-      <vote_date>11-May</vote_date>
-      <issue>PN42</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>81</yeas>
-        <nays>15</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Robert Lighthizer, of Florida, to be United States Trade Representative</title>
-    </vote>
-    <vote>
-      <vote_number>00125</vote_number>
-      <vote_date>10-May</vote_date>
-      <issue>H.J.Res. 36</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H. J. Res. 36; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to "Waste Prevention, Production Subject to Royalties, and Resource Conservation".</title>
-    </vote>
-    <vote>
-      <vote_number>00124</vote_number>
-      <vote_date>09-May</vote_date>
-      <issue>PN118</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>57</yeas>
-        <nays>42</nays>
-      </vote_tally>
-      <title>Confirmation Scott Gottlieb, of Connecticut, to be Commissioner of Food and Drugs, Department of Health and Human Services</title>
-    </vote>
-    <vote>
-      <vote_number>00123</vote_number>
-      <vote_date>08-May</vote_date>
-      <issue>PN118</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>57</yeas>
-        <nays>41</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture On the Nomination of Scott Gottlieb to be Commissioner of Food and Drugs</title>
-    </vote>
-    <vote>
-      <vote_number>00122</vote_number>
-      <vote_date>08-May</vote_date>
-      <issue>PN101</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>76</yeas>
-        <nays>22</nays>
-      </vote_tally>
-      <title>Confirmation Heather Wilson, of South Dakota, to be Secretary of the Air Force</title>
-    </vote>
-    <vote>
-      <vote_number>00121</vote_number>
-      <vote_date>04-May</vote_date>
-      <issue>H.R. 244</issue>
-      <question>On the Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>79</yeas>
-        <nays>18</nays>
-      </vote_tally>
-      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 244; To encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes.</title>
-    </vote>
-    <vote>
-      <vote_number>00120</vote_number>
-      <vote_date>03-May</vote_date>
-      <issue>H.J.Res. 66</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>H. J. Res. 66; A joint resolution disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.</title>
-    </vote>
-    <vote>
-      <vote_number>00119</vote_number>
-      <vote_date>03-May</vote_date>
-      <issue>H.J.Res. 66</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to the Consideration of H.J. Res. 66; A joint resolution disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.</title>
-    </vote>
-    <vote>
-      <vote_number>00118</vote_number>
-      <vote_date>02-May</vote_date>
-      <issue>PN47</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>61</yeas>
-        <nays>37</nays>
-      </vote_tally>
-      <title>Confirmation Jay Clayton, of New York, to be a Member of the Securities and Exchange Commission</title>
-    </vote>
-    <vote>
-      <vote_number>00117</vote_number>
-      <vote_date>01-May</vote_date>
-      <issue>PN47</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>60</yeas>
-        <nays>36</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Jay Clayton, of New York, to be a Member of the Securities and Exchange Commission</title>
-    </vote>
-    <vote>
-      <vote_number>00116</vote_number>
-      <vote_date>27-Apr</vote_date>
-      <issue>PN88</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>60</yeas>
-        <nays>38</nays>
-      </vote_tally>
-      <title>Confirmation R. Alexander Acosta, of Florida, to be Secretary of Labor</title>
-    </vote>
-    <vote>
-      <vote_number>00115</vote_number>
-      <vote_date>26-Apr</vote_date>
-      <issue>PN88</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>61</yeas>
-        <nays>39</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of R. Alexander Acosta, of Florida, to be Secretary of Labor</title>
-    </vote>
-    <vote>
-      <vote_number>00114</vote_number>
-      <vote_date>25-Apr</vote_date>
-      <issue>PN56</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>94</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Confirmation Rod J. Rosenstein, of Maryland, to be Deputy Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00113</vote_number>
-      <vote_date>24-Apr</vote_date>
-      <issue>PN56</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>92</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Rod J. Rosenstein, of Maryland, to be Deputy Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00112</vote_number>
-      <vote_date>24-Apr</vote_date>
-      <issue>PN90</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>87</yeas>
-        <nays>11</nays>
-      </vote_tally>
-      <title>Confirmation Sonny Perdue, of Georgia, to be Secretary of Agriculture</title>
-    </vote>
-    <vote>
-      <vote_number>00111</vote_number>
-      <vote_date>07-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>Confirmation Neil M. Gorsuch, of Colorado, to be an Associate Justice of the Supreme Court of the United States</title>
-    </vote>
-    <vote>
-      <vote_number>00110</vote_number>
-      <vote_date>06-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>Upon Reconsideration, Motion to Invoke Cloture on the Nomination of Neil M. Gorsuch of Colorado, to be an Associate Justice of the Supreme Court of the United States</title>
-    </vote>
-    <vote>
-      <vote_number>00109</vote_number>
-      <vote_date>06-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Decision of the Chair</question>
-      <result>Not Sustained</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Shall the Decision of the Chair Stand as the Judgment of the Senate?</title>
-    </vote>
-    <vote>
-      <vote_number>00108</vote_number>
-      <vote_date>06-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Motion to Adjourn</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Schumer Motion to Adjourn Until 5:00 P.M.</title>
-    </vote>
-    <vote>
-      <vote_number>00107</vote_number>
-      <vote_date>06-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Motion to Postpone</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Motion to Postpone the Motion to Invoke Cloture, Upon Reconsideration, of the Nomination of Neil M. Gorsuch Until a Time Certain</title>
-    </vote>
-    <vote>
-      <vote_number>00106</vote_number>
-      <vote_date>06-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Motion to Reconsider</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>Motion to Reconsider the Vote By Which the Motion to Invoke Cloture on the Nomination of Neil M. Gorsuch Was Not Invoked</title>
-    </vote>
-    <vote>
-      <vote_number>00105</vote_number>
-      <vote_date>06-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Cloture Motion</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Neil M. Gorsuch, of Colorado, to be an Associate Justice of the Supreme Court of the United States</title>
-    </vote>
-    <vote>
-      <vote_number>00104</vote_number>
-      <vote_date>04-Apr</vote_date>
-      <issue>PN55</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>44</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to Consider the Nomination of Neil Gorsuch</title>
-    </vote>
-    <vote>
-      <vote_number>00103</vote_number>
-      <vote_date>04-Apr</vote_date>
-      <issue>PN59</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>85</yeas>
-        <nays>14</nays>
-      </vote_tally>
-      <title>Confirmation Elaine C. Duke, of Virginia, to be Deputy Secretary of Homeland Security</title>
-    </vote>
-    <vote>
-      <vote_number>00102</vote_number>
-      <vote_date>03-Apr</vote_date>
-      <issue>S. 89</issue>
-      <question>On Passage of the Bill</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>85</yeas>
-        <nays>12</nays>
-      </vote_tally>
-      <title>S. 89; A bill to amend title 46, United States Code, to exempt old vessels that only operate within inland waterways from the fire-retardant materials requirement if the owners of such vessels make annual structural alterations to at least 10 percent of the areas of the vessels that are not constructed of fire-retardant materials and for other purposes.</title>
-    </vote>
-    <vote>
-      <vote_number>00101</vote_number>
-      <vote_date>30-Mar</vote_date>
-      <issue>H.J.Res. 43</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>H.J. Res. 43; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients.</title>
-    </vote>
-    <vote>
-      <vote_number>00100</vote_number>
-      <vote_date>30-Mar</vote_date>
-      <issue>H.J.Res. 43</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H.J. Res. 43; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients.</title>
-    </vote>
-    <vote>
-      <vote_number>00099</vote_number>
-      <vote_date>30-Mar</vote_date>
-      <issue>H.J.Res. 67</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>H.J. Res. 67; A joint resolution disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.</title>
-    </vote>
-    <vote>
-      <vote_number>00098</vote_number>
-      <vote_date>28-Mar</vote_date>
-      <issue>Treaty Doc. 114-12</issue>
-      <question>On the Resolution of Ratification</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>97</yeas>
-        <nays>2</nays>
-      </vote_tally>
-      <title>Resolution of Advice and Consent to Ratification (Treaty Doc. 114-12); Protocol to the North Atlantic Treaty of 1949 on the Accession of Montenegro</title>
-    </vote>
-    <vote>
-      <vote_number>00097</vote_number>
-      <vote_date>27-Mar</vote_date>
-      <issue>Treaty Doc. 114-12</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>97</yeas>
-        <nays>2</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on Treaty Doc. 114-12; Protocol to the North Atlantic Treaty of 1949 on the Accession of Montenegro</title>
-    </vote>
-    <vote>
-      <vote_number>00096</vote_number>
-      <vote_date>23-Mar</vote_date>
-      <issue>PN53</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Confirmation David Friedman, of New York, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to Israel</title>
-    </vote>
-    <vote>
-      <vote_number>00095</vote_number>
-      <vote_date>23-Mar</vote_date>
-      <issue>PN53</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture re Nomination of David Friedman to be Ambassador to Israel</title>
-    </vote>
-    <vote>
-      <vote_number>00094</vote_number>
-      <vote_date>23-Mar</vote_date>
-      <issue>S.J.Res. 34</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>S.J. Res. 34; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to "Protecting the Privacy of Customers of Broadband and Other Telecommunications Services".</title>
-    </vote>
-    <vote>
-      <vote_number>00093</vote_number>
-      <vote_date>22-Mar</vote_date>
-      <issue>H.J.Res. 83</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>H.J.Res. 83; A joint resolution disapproving the rule submitted by the Department of Labor relating to "Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness".</title>
-    </vote>
-    <vote>
-      <vote_number>00092</vote_number>
-      <vote_date>21-Mar</vote_date>
-      <issue>H.J.Res. 69</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>H.J. Res. 69; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to "Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska".</title>
-    </vote>
-    <vote>
-      <vote_number>00091</vote_number>
-      <vote_date>21-Mar</vote_date>
-      <issue>PN85</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>98</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>Confirmations Charles R. Breyer, of California, and Danny C. Reeves, of Kentucky, to be Members of the United States Sentencing Commission</title>
-    </vote>
-    <vote>
-      <vote_number>00090</vote_number>
-      <vote_date>15-Mar</vote_date>
-      <issue>PN87</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>86</yeas>
-        <nays>10</nays>
-      </vote_tally>
-      <title>Confirmation Lt. Gen. Herbert R. McMaster, Jr. to be Lieutenant General</title>
-    </vote>
-    <vote>
-      <vote_number>00089</vote_number>
-      <vote_date>15-Mar</vote_date>
-      <issue>PN41</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>85</yeas>
-        <nays>12</nays>
-      </vote_tally>
-      <title>Confirmation Daniel Coats, of Indiana, to be Director of National Intelligence</title>
-    </vote>
-    <vote>
-      <vote_number>00088</vote_number>
-      <vote_date>15-Mar</vote_date>
-      <issue>PN41</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>88</yeas>
-        <nays>11</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on Daniel Coats, of Indiana, to be Director of National Intelligence</title>
-    </vote>
-    <vote>
-      <vote_number>00087</vote_number>
-      <vote_date>14-Mar</vote_date>
-      <issue>H.J.Res. 42</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>H. J. Res. 42; A joint resolution disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.</title>
-    </vote>
-    <vote>
-      <vote_number>00086</vote_number>
-      <vote_date>13-Mar</vote_date>
-      <issue>PN49</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Confirmation Seema Verma, of Indiana, to be Administrator of the Centers for Medicare and Medicaid Services</title>
-    </vote>
-    <vote>
-      <vote_number>00085</vote_number>
-      <vote_date>09-Mar</vote_date>
-      <issue>PN49</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>44</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Seema Verma to be Administrator of the Centers for Medicare and Medicaid Services</title>
-    </vote>
-    <vote>
-      <vote_number>00084</vote_number>
-      <vote_date>09-Mar</vote_date>
-      <issue>H.J.Res. 57</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>H.J. Res. 57; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965.</title>
-    </vote>
-    <vote>
-      <vote_number>00083</vote_number>
-      <vote_date>08-Mar</vote_date>
-      <issue>H.J.Res. 58</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>59</yeas>
-        <nays>40</nays>
-      </vote_tally>
-      <title>H. J. Res. 58; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.</title>
-    </vote>
-    <vote>
-      <vote_number>00082</vote_number>
-      <vote_date>07-Mar</vote_date>
-      <issue>H.J.Res. 44</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>H.J. Res. 44; A joint resolution disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976.</title>
-    </vote>
-    <vote>
-      <vote_number>00081</vote_number>
-      <vote_date>06-Mar</vote_date>
-      <issue>H.J.Res. 37</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>H. J. Res. 37; A joint resolution disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.</title>
-    </vote>
-    <vote>
-      <vote_number>00080</vote_number>
-      <vote_date>02-Mar</vote_date>
-      <issue>H.J.Res. 37</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H. J. Res. 37; A joint resolution disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.</title>
-    </vote>
-    <vote>
-      <vote_number>00079</vote_number>
-      <vote_date>02-Mar</vote_date>
-      <issue>PN36</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>62</yeas>
-        <nays>37</nays>
-      </vote_tally>
-      <title>Confirmation James Richard Perry, of Texas, to be Secretary of Energy</title>
-    </vote>
-    <vote>
-      <vote_number>00078</vote_number>
-      <vote_date>02-Mar</vote_date>
-      <issue>PN36</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>62</yeas>
-        <nays>37</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture Re: James Richard Perry to be Secretary of Energy</title>
-    </vote>
-    <vote>
-      <vote_number>00077</vote_number>
-      <vote_date>02-Mar</vote_date>
-      <issue>PN34</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>58</yeas>
-        <nays>41</nays>
-      </vote_tally>
-      <title>Confirmation Benjamin S. Carson, Sr., of Florida, to be Secretary of Housing and Urban Development</title>
-    </vote>
-    <vote>
-      <vote_number>00076</vote_number>
-      <vote_date>01-Mar</vote_date>
-      <issue>PN34</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>62</yeas>
-        <nays>37</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Ben Carson to be Secretary of Housing and Urban Development</title>
-    </vote>
-    <vote>
-      <vote_number>00075</vote_number>
-      <vote_date>01-Mar</vote_date>
-      <issue>PN31</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>68</yeas>
-        <nays>31</nays>
-      </vote_tally>
-      <title>Confirmation Ryan Zinke, of Montana, to be Secretary of the Interior</title>
-    </vote>
-    <vote>
-      <vote_number>00074</vote_number>
-      <vote_date>27-Feb</vote_date>
-      <issue>PN31</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>67</yeas>
-        <nays>31</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture Re: Nomination of Ryan Zinke to be Secretary of the Interior</title>
-    </vote>
-    <vote>
-      <vote_number>00073</vote_number>
-      <vote_date>27-Feb</vote_date>
-      <issue>PN32</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>72</yeas>
-        <nays>27</nays>
-      </vote_tally>
-      <title>Confirmation Wilbur L. Ross, Jr., of Florida, to be Secretary of Commerce</title>
-    </vote>
-    <vote>
-      <vote_number>00072</vote_number>
-      <vote_date>17-Feb</vote_date>
-      <issue>PN32</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>66</yeas>
-        <nays>31</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on Wilbur L. Ross, Jr., of Florida, to be Secretary of Commerce</title>
-    </vote>
-    <vote>
-      <vote_number>00071</vote_number>
-      <vote_date>17-Feb</vote_date>
-      <issue>PN44</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Confirmation Scott Pruitt, of Oklahoma, to be Administrator of the Environmental Protection Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00070</vote_number>
-      <vote_date>17-Feb</vote_date>
-      <issue>PN44</issue>
-      <question>On the Motion</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Extend Debate Re: Pruitt Nomination</title>
-    </vote>
-    <vote>
-      <vote_number>00069</vote_number>
-      <vote_date>16-Feb</vote_date>
-      <issue>PN44</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture re: Nomination of Scott Pruitt, of Oklahoma, to be Administrator of the Environmental Protection Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00068</vote_number>
-      <vote_date>16-Feb</vote_date>
-      <issue>PN54</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Confirmation Mick Mulvaney, of South Carolina, to be Director of the Office of Management and Budget</title>
-    </vote>
-    <vote>
-      <vote_number>00067</vote_number>
-      <vote_date>15-Feb</vote_date>
-      <issue>PN54</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture: Mick Mulvaney to be Director of the Office of Management and Budget</title>
-    </vote>
-    <vote>
-      <vote_number>00066</vote_number>
-      <vote_date>15-Feb</vote_date>
-      <issue>H.J.Res. 40</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>57</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>H.J.Res. 40; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.</title>
-    </vote>
-    <vote>
-      <vote_number>00065</vote_number>
-      <vote_date>14-Feb</vote_date>
-      <issue>PN48</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>81</yeas>
-        <nays>19</nays>
-      </vote_tally>
-      <title>Confirmation Linda E. McMahon, of Connecticut, to be Administrator of the Small Business Administration</title>
-    </vote>
-    <vote>
-      <vote_number>00064</vote_number>
-      <vote_date>13-Feb</vote_date>
-      <issue>PN39</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>100</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>Confirmation David J. Shulkin, of Pennsylvania, to be Secretary of Veterans Affairs</title>
-    </vote>
-    <vote>
-      <vote_number>00063</vote_number>
-      <vote_date>13-Feb</vote_date>
-      <issue>PN26</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>53</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Confirmation Steven T. Mnuchin, of California, to be Secretary of the Treasury</title>
-    </vote>
-    <vote>
-      <vote_number>00062</vote_number>
-      <vote_date>10-Feb</vote_date>
-      <issue>PN26</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>53</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Steven T. Mnuchin, of California, to be Secretary of the Treasury</title>
-    </vote>
-    <vote>
-      <vote_number>00061</vote_number>
-      <vote_date>10-Feb</vote_date>
-      <issue>PN33</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Confirmation Thomas Price, of Georgia, to be Secretary of Health and Human Services</title>
-    </vote>
-    <vote>
-      <vote_number>00060</vote_number>
-      <vote_date>08-Feb</vote_date>
-      <issue>PN33</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture Re: Nomination of Tom Price to be Secretary of Health and Human Services</title>
-    </vote>
-    <vote>
-      <vote_number>00059</vote_number>
-      <vote_date>08-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Confirmation Jeff Sessions, of Alabama, to be Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00058</vote_number>
-      <vote_date>07-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Motion</question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>43</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Shall the Senator be Permitted to Proceed in Order?</title>
-    </vote>
-    <vote>
-      <vote_number>00057</vote_number>
-      <vote_date>07-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Decision of the Chair</question>
-      <result>Sustained</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Shall the Decision of the Chair Stand as the Judgment of the Senate?</title>
-    </vote>
-    <vote>
-      <vote_number>00056</vote_number>
-      <vote_date>07-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Motion for Attendance</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>88</yeas>
-        <nays>3</nays>
-      </vote_tally>
-      <title>Motion to Instruct the Sgt-At-Arms to Request the Attendance of Absentee Senators</title>
-    </vote>
-    <vote>
-      <vote_number>00055</vote_number>
-      <vote_date>07-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Jeff Sessions, of Alabama, to be Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00054</vote_number>
-      <vote_date>07-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Confirmation Elisabeth Prince DeVos, of Michigan, to be Secretary of Education</title>
-    </vote>
-    <vote>
-      <vote_number>00053</vote_number>
-      <vote_date>06-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Motion for Attendance</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>91</yeas>
-        <nays>4</nays>
-      </vote_tally>
-      <title>Motion to Instruct the Sgt-At-Arms to Request the Attendance of Absentee Senators</title>
-    </vote>
-    <vote>
-      <vote_number>00052</vote_number>
-      <vote_date>03-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Elisabeth DeVos to be Secretary of Education</title>
-    </vote>
-    <vote>
-      <vote_number>00051</vote_number>
-      <vote_date>03-Feb</vote_date>
-      <issue>H.J.Res. 41</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>H.J.Res. 41; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to "Disclosure of Payments by Resource Extraction Issuers".</title>
-    </vote>
-    <vote>
-      <vote_number>00050</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>H.J.Res. 41</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H.J. Res. 41; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to "Disclosure of Payments by Resource Extraction Issuers".</title>
-    </vote>
-    <vote>
-      <vote_number>00049</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN26</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00048</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN26</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to Consider the Nomination of Steven Mnuchin to be Secretary of the Treasury</title>
-    </vote>
-    <vote>
-      <vote_number>00047</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN33</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00046</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN33</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to Consider the Nomination of Thomas Price to be Secretary of Health and Human Services</title>
-    </vote>
-    <vote>
-      <vote_number>00045</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00044</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>PN30</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>53</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to consider the Nomination of Jeff Sessions to be Attorney General</title>
-    </vote>
-    <vote>
-      <vote_number>00043</vote_number>
-      <vote_date>02-Feb</vote_date>
-      <issue>H.J.Res. 38</issue>
-      <question>On the Joint Resolution</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>45</nays>
-      </vote_tally>
-      <title>H.J.Res. 38; A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
-    </vote>
-    <vote>
-      <vote_number>00042</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>H.J.Res. 38</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>42</nays>
-      </vote_tally>
-      <title>Motion to Proceed to H.J. Res. 38; A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.</title>
-    </vote>
-    <vote>
-      <vote_number>00041</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>42</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00040</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN37</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Executive Session to Consider Elisabeth DeVos to be Secretary of Education</title>
-    </vote>
-    <vote>
-      <vote_number>00039</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>54</yeas>
-        <nays>44</nays>
-      </vote_tally>
-      <title>Shall the Journal Stand Approved to Date?</title>
-    </vote>
-    <vote>
-      <vote_number>00038</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>53</yeas>
-        <nays>44</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Legislative Session</title>
-    </vote>
-    <vote>
-      <vote_number>00037</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Motion to Table</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>55</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Motion to Table the Motion to Reconsider the Vote on Confirmation of Rex W. Tillerson</title>
-    </vote>
-    <vote>
-      <vote_number>00036</vote_number>
-      <vote_date>01-Feb</vote_date>
-      <issue>PN25</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Confirmation Rex W. Tillerson, of Texas, to be Secretary of State</title>
-    </vote>
-    <vote>
-      <vote_number>00035</vote_number>
-      <vote_date>31-Jan</vote_date>
-      <issue>PN35</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>93</yeas>
-        <nays>6</nays>
-      </vote_tally>
-      <title>Confirmation Elaine L. Chao, of Kentucky, to be Secretary of Transportation</title>
-    </vote>
-    <vote>
-      <vote_number>00034</vote_number>
-      <vote_date>30-Jan</vote_date>
-      <issue>PN25</issue>
-      <question>On the Cloture Motion</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>56</yeas>
-        <nays>43</nays>
-      </vote_tally>
-      <title>Motion to Invoke Cloture on the Nomination of Rex W. Tillerson, of Texas, to be Secretary of State</title>
-    </vote>
-    <vote>
-      <vote_number>00033</vote_number>
-      <vote_date>24-Jan</vote_date>
-      <issue>PN51</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>96</yeas>
-        <nays>4</nays>
-      </vote_tally>
-      <title>Confirmation Nikki R. Haley, of South Carolina, to be Representative of the United States of America to the United Nations, in the Security Council and to the Sessions of the General Assembly</title>
-    </vote>
-    <vote>
-      <vote_number>00032</vote_number>
-      <vote_date>23-Jan</vote_date>
-      <issue>PN43</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>66</yeas>
-        <nays>32</nays>
-      </vote_tally>
-      <title>Confirmation Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00031</vote_number>
-      <vote_date>20-Jan</vote_date>
-      <issue>PN43</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>89</yeas>
-        <nays>8</nays>
-      </vote_tally>
-      <title>Motion to Proceed to Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency</title>
-    </vote>
-    <vote>
-      <vote_number>00030</vote_number>
-      <vote_date>20-Jan</vote_date>
-      <issue>PN40</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>88</yeas>
-        <nays>11</nays>
-      </vote_tally>
-      <title>Confirmation John F. Kelly, of Virginia, to be Secretary of Homeland Security</title>
-    </vote>
-    <vote>
-      <vote_number>00029</vote_number>
-      <vote_date>20-Jan</vote_date>
-      <issue>PN29</issue>
-      <question>On the Nomination</question>
-      <result>Confirmed</result>
-      <vote_tally>
-        <yeas>98</yeas>
-        <nays>1</nays>
-      </vote_tally>
-      <title>Confirmation James N. Mattis, of Washington, to be Secretary of Defense</title>
-    </vote>
-    <vote>
-      <vote_number>00028</vote_number>
-      <vote_date>17-Jan</vote_date>
-      <issue>H.R. 72</issue>
-      <question>On Passage of the Bill</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>99</yeas>
-        <nays>0</nays>
-      </vote_tally>
-      <title>H.R. 72; A bill to ensure the Government Accountability Office has adequate access to information.</title>
-    </vote>
-    <vote>
-      <vote_number>00027</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S. 84</issue>
-      <question>On Passage of the Bill</question>
-      <result>Passed</result>
-      <vote_tally>
-        <yeas>81</yeas>
-        <nays>17</nays>
-      </vote_tally>
-      <title>S. 84; A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.</title>
-    </vote>
-    <vote>
-      <vote_number>00026</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Concurrent Resolution</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>S. Con. Res. 3; A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.</title>
-    </vote>
-    <vote>
-      <vote_number>00025</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 86</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Brown Amdt. No. 86; To create a point of order against legislation that would undermine the historic coverage gains the United States has made in children's health, which have resulted in the lowest uninsured rate for children in the Nation's history.</title>
-    </vote>
-    <vote>
-      <vote_number>00024</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 180</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Hatch Amdt. No. 180; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with reforms that strengthen Medicaid and the Children's Health Insurance Program without prioritizing able-bodied adults over the disabled or children and lead to patient-centered step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans and their families by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections that Americans support.</title>
-    </vote>
-    <vote>
-      <vote_number>00023</vote_number>
-      <vote_date>12-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 82</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Gillibrand Amdt. No. 82; To create a point of order against legislation that makes women sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00022</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 184</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>52</yeas>
-        <nays>46</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Fischer Amdt. No. 184; To establish a deficit-neutral reserve fund relating to strengthening Social Security or health care for women, which may include strengthening community health centers, and repealing and replacing Obamacare.</title>
-    </vote>
-    <vote>
-      <vote_number>00021</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 188</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Wyden Amdt. No. 188; To create a point of order against legislation that does not lower drug prices.</title>
-    </vote>
-    <vote>
-      <vote_number>00020</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Amendment <measure>S.Amdt. 178</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>46</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Klobuchar Amdt. No. 178; To establish a deficit-neutral reserve fund relating to lower prescription drug prices for Americans by importing drugs from Canada.</title>
-    </vote>
-    <vote>
-      <vote_number>00019</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 174</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Alexander Amdt. No. 174; To strengthen Social Security and Medicare without raiding them to pay for new government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to ensure that any importation does not increase risk to public health according to the Secretary of Health and Human Services.</title>
-    </vote>
-    <vote>
-      <vote_number>00018</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 83</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Menendez Amdt. No. 83; To create a point of order against legislation that would eliminate or reduce Federal funding to States under the Medicaid expansion.</title>
-    </vote>
-    <vote>
-      <vote_number>00017</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 179</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Hatch Amdt. No. 179; To establish a deficit-neutral reserve fund relating to reforming housing and Medicaid without prioritizing able-bodied adults over the disabled or raiding the Medicare Trust Funds to pay for new government programs, like Obamacare, which has failed Americans by increasing premiums and reducing affordable health care options.</title>
-    </vote>
-    <vote>
-      <vote_number>00016</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 181</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Barrasso Amdt. No. 181; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle class families, reduced access to high-quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing Obamacare with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all Americans, including people with disabilities and chronic conditions, and their families, by increasing competition, State flexibility, and individual choice, and safe-guarding consumer protections, such as a ban on lifetime limits, that Americans support.</title>
-    </vote>
-    <vote>
-      <vote_number>00015</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 61</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Casey Amdt. No. 61; To create a point of order against legislation that would make people with disabilities and chronic conditions sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00014</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 104</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Tester Amdt. No. 104; To create a point of order against legislation that would limit veterans' ability to choose VA health care.</title>
-    </vote>
-    <vote>
-      <vote_number>00013</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 176</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>50</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Flake Amdt. No. 176; To establish a deficit-neutral reserve fund relating to enhancing health care and housing for veterans and their dependents by repealing Obamacare, facilitating medical facility leases, and prohibiting the Secretary of Veterans Affairs from employing individuals who have been convicted of a felony and medical personnel who have ever had their medical licenses or credentials revoked or suspended.</title>
-    </vote>
-    <vote>
-      <vote_number>00012</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 81</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive the CBA Re: Baldwin Amdt. No. 81; To create a point of order against legislation that makes young people sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00011</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 167</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Heller Amdt. No. 167; To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality care, created disincentives for work, and caused tens of thousands of Americans to lose coverage they had and liked, and replacing it with patient-centered, step-by-step health reforms that provide access to quality, affordable private health care coverage for all American's and their families by increasing competition, State flexibility and individual choice, and safeguarding consumer protections that Americans support.</title>
-    </vote>
-    <vote>
-      <vote_number>00010</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 64</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive the C.B.A. Re: Manchin Amdt. No. 64; To create a point of order against legislation that would harm rural hospitals and health care providers.</title>
-    </vote>
-    <vote>
-      <vote_number>00009</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 173</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Barrasso Amdt. No. 173; To establish a deficit-neutral reserve fund relating to rural health and repealing and replacing Obamacare.</title>
-    </vote>
-    <vote>
-      <vote_number>00008</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 60</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>50</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: King Amdt. No. 60; To create a point of order against legislation that would reduce health insurance access and affordability for individuals based on their occupation.</title>
-    </vote>
-    <vote>
-      <vote_number>00007</vote_number>
-      <vote_date>11-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 13</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>47</yeas>
-        <nays>51</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Nelson Amdt. No. 13; To create a point of order against legislation that would repeal health reforms that closed the prescription drug coverage gap under Medicare.</title>
-    </vote>
-    <vote>
-      <vote_number>00006</vote_number>
-      <vote_date>10-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 19</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>49</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Sanders Amdt. No. 19; To prevent the Senate from breaking Donald Trump's promise that "there will be no cuts to Social Security, Medicare, and Medicaid".</title>
-    </vote>
-    <vote>
-      <vote_number>00005</vote_number>
-      <vote_date>10-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 52</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>31</yeas>
-        <nays>67</nays>
-      </vote_tally>
-      <title>Motion to Waive All Applicable Budgetary Discipline Re: Flake Amdt. No. 52; To strengthen Social Security and Medicare without raiding it to pay for new Government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, to reform Medicaid without prioritizing able-bodied adults over the disabled, and to return regulation of insurance to State governments.</title>
-    </vote>
-    <vote>
-      <vote_number>00004</vote_number>
-      <vote_date>09-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 20</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>49</yeas>
-        <nays>47</nays>
-      </vote_tally>
-      <title>Motion to Waive CBA Re: Germaneness Re: Hirono Amdt. No. 20; To protect the Medicare and Medicaid programs.</title>
-    </vote>
-    <vote>
-      <vote_number>00003</vote_number>
-      <vote_date>09-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Amendment <measure>S.Amdt. 1</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>14</yeas>
-        <nays>83</nays>
-      </vote_tally>
-      <title>Paul Amdt. No. 1; In the nature of a substitute.</title>
-    </vote>
-    <vote>
-      <vote_number>00002</vote_number>
-      <vote_date>05-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion <measure>S.Amdt. 8</measure></question>
-      <result>Rejected</result>
-      <vote_tally>
-        <yeas>48</yeas>
-        <nays>52</nays>
-      </vote_tally>
-      <title>Motion to Waive Section 305(b)(2) of the C.B.A. re: Kaine Amdt. No. 8; To prohibit legislation that makes America sick again.</title>
-    </vote>
-    <vote>
-      <vote_number>00001</vote_number>
-      <vote_date>04-Jan</vote_date>
-      <issue>S.Con.Res. 3</issue>
-      <question>On the Motion to Proceed</question>
-      <result>Agreed to</result>
-      <vote_tally>
-        <yeas>51</yeas>
-        <nays>48</nays>
-      </vote_tally>
-      <title>Motion to Proceed to S. Con. Res. 3; A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.</title>
-    </vote>
-  </votes>
-</vote_summary>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- [if lt IE 7]> <html class="ie6 oldie"> <![endif] -->
+<!-- [if IE 7]>    <html class="ie7 oldie"> <![endif] -->
+<!-- [if IE 8]>    <html class="ie8 oldie"> <![endif] -->
+<!-- [if gt IE 8]> <! --><html class="">
+    <!-- <![endif] -->
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta charset="UTF-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta name="object" content="file_not_found">
+        <meta name="version" content="7.1">
+        <meta name="path" content="/Senate.gov/pagelayout/general/one_item_and_teasers">
+        <meta name="date" content="Thursday, January 19, 2017">
+        <meta name="time" content="9:56:09 AM EST">
+        <meta name="keywords" content="">
+        <meta name="bucket" content="art">
+        <meta name="description" content="404 Error Page">
+        <title>U.S. Senate: 404 Error Page</title>
+        <link type="image/x-icon" href="/resources/images/us_sen.ico" rel="shortcut icon">
+        <link type="text/css" rel="stylesheet" href="/resources/styles/boilerplate.css">
+        <link type="text/css" rel="stylesheet" href="/resources/styles/main.css">
+        <link type="text/css" rel="stylesheet" href="/resources/styles/nav_menu.css">
+        <link type="text/css" rel="stylesheet" href="/resources/styles/skdslider.css">
+        <link type="text/css" rel="stylesheet" href="/resources/fonts/gFonts.css?family=Source+Sans+Pro:400,300,600,700,300italic,400italic,600italic,700italic">
+        <link type="text/css" rel="stylesheet" href="/resources/fonts/gFonts.css?family=Source+Serif+Pro:400,600,700">
+        <link type="text/css" rel="stylesheet" href="/resources/fonts/gFonts.css?family=Libre+Baskerville:400,400italic,700">
+        <link href="/resources/fonts/css/font-awesome.min.css" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="/resources/styles/print.css">
+        <link type="text/css" rel="stylesheet" href="/resources/styles/content.css">
+        <!-- [if lt IE 9]> <script src="/resources/scripts/html5shiv.js"></script> <![endif] --> 
+  
+<script type="text/javascript">
+
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+
+</script>
+    <script type="text/javascript">
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script><script src="/resources/scripts/jquery-1.11.3.min.js"></script><script src="/resources/scripts/skdslider.min.js"></script><script src="/resources/scripts/main.js"></script><script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery('#slider').skdslider({delay:5000, animationSpeed: 2000,showNextPrev:true,showPlayButton:true,autoSlide:true,animationType:'fading'});
+				
+			jQuery('#responsive').change(function(){
+			  $('#responsive_wrapper').width(jQuery(this).val());
+			  $(window).trigger('resize');
+			});
+			
+		});
+</script><script src="/resources/scripts/floor_status.js"></script>
+    </head>
+    <body onload="myFunction()">
+        <header class="mobilehead clearfix">
+            <div id="top-header">
+        <div id="find-sen" class="row">
+          <div id="flag" class="fluid "><img src="/resources/images/usFlag.png" alt="U.S. Flag" /></div>
+          <div id="sen-dropdown-container" class="fluid ">
+          <form name="findSenators" method="post">
+            <label for="findsenator" />
+            <select name="stateName" class="arrow" id="findsenator" onChange="MM_jumpMenu('parent',this,0)">
+              <option value="/general/contact_information/senators_cfm.cfm">Find Your Senators</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AL">Alabama</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AK">Alaska</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AZ">Arizona</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AR">Arkansas</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=CA">California</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=CO">Colorado</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=CT">Connecticut</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=DE">Delaware</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=FL">Florida</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=GA">Georgia</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=HI">Hawaii</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=ID">Idaho</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=IL">Illinois</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=IN">Indiana</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=IA">Iowa</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=KS">Kansas</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=KY">Kentucky</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=LA">Louisiana</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=ME">Maine</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MD">Maryland</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MA">Massachusetts</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MI">Michigan</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MN">Minnesota</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MS">Mississippi</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MO">Missouri</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MT">Montana</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NE">Nebraska</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NV">Nevada</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NH">New Hampshire</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NJ">New Jersey</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NM">New Mexico</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NY">New York</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NC">North Carolina</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=ND">North Dakota</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=OH">Ohio</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=OK">Oklahoma</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=OR">Oregon</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=PA">Pennsylvania</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=RI">Rhode Island</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=SC">South Carolina</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=SD">South Dakota</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=TN">Tennessee</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=TX">Texas</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=UT">Utah</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=VT">Vermont</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=VA">Virginia</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WA">Washington</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WV">West Virginia</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WI">Wisconsin</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WY">Wyoming</option>
+            </select>
+          </form>
+        </div>
+          <div id="watch" class="fluid">
+			<div class="fluid watch_text"><span class="fa fa-video-camera"></span>&nbsp;&nbsp;<a id="floorlink" target="_blank"><span id="contentdata"></span></a></div>
+          </div>
+          </div>
+        </div>
+      </div>
+	  
+	  <div id="main-header">
+<div class="row">
+
+<div id="logo">
+	<a href="/index.htm"><img src="/resources/images/senate_logo.png" alt="United States Senate Logo" border="0"/></a>
+</div>
+
+ <div id="search-elements" class="fluid "> 
+	<form name="search" id="search" action="/general/search/search_cfm.cfm" method="GET">
+          <label for="search"><span class="fa fa-search" onClick="document.getElementById('search').submit();"></span></label>
+	  <input type="text" name="q" value="Search" id="search" onfocus="this.value=''" />
+	  <input type="hidden" name="site" value="default_collection" />
+	  <input type="hidden" name="num" value="10" />
+	  <INPUT type="hidden" name="filter" value="0" />
+	</form>
+  </div>
+
+</div>
+</div>
+
+
+
+            <div class="nav">
+                <div id="nav-head-bg"></div>
+                <div class="row">
+                    <nav class="fluid " id="main-nav">
+                        <label class="toggle" for="drop">MENU<span class="fa fa-bars"></span></label><input id="drop" type="checkbox">
+                        <ul class="menu">
+                            <li class="senatorsmenu">
+                                <label class="plus-minus mobile-plus" for="drop-1"></label><a href="/senators/contact/">
+      SENATORS</a>
+                                <input type="checkbox" id="drop-1"/>
+  <ul class="senatorsmenusub">
+	<li><a href="/senators/states.htm">States</a></li>
+	  <li><a href="/senators/leadership.htm">Leadership</a></li>
+  </ul>
+                            </li>
+                            <li class="committeesmenu">
+                                <label class="plus-minus mobile-plus" for="drop-2"></label><a href="/committees/committees_home.htm">
+      COMMITTEES</a>
+                                <input type="checkbox" id="drop-2"/>
+  <ul class="committeesmenusub">
+	<li><a href="/committees/membership.htm">Membership</a></li>
+	  <li><a href="/general/committee_assignments/assignments.htm">Assignments</a></li>
+	  <li><a href="/committees/committee_hearings.htm">Hearings &amp; Meetings</a></li>
+  </ul>
+                            </li>
+                            <li class="legislationmenu">
+                                <label class="plus-minus mobile-plus" for="drop-3"></label><a href="/legislative/legislative_home.htm">
+    LEGISLATION &amp; RECORDS</a>
+                                <input type="checkbox" id="drop-3"/>
+	<ul class="legislationmenusub">
+		<li><a href="/legislative/votes.htm">Votes</a></li>
+	  <li><a href="/legislative/nominations.htm">Nominations</a></li>
+	  <li><a href="/legislative/calendars.htm">Calendars &amp; Schedules</a></li>
+	  <li><a href="/legislative/congrecord.htm">Congressional Record</a></li>
+	  <li><a href="/legislative/treaties.htm">Treaties</a></li>
+	  <li><a href="/legislative/bills.htm">Bills &amp; Resolutions</a></li>
+	  <li><a href="/legislative/appropsbills.htm">Appropriations Bills</a></li>
+	  <li><a href="/legislative/process.htm">Legislative Process</a></li>
+	  <li><a href="/legislative/lobbyingdisc.htm#lobbyingdisc=lda">Public Disclosure</a></li>
+	  <li>
+	  <label for="drop-35" class="plus-minus mobile-plus"> </label>
+			  <a class="drop-link" href="/legislative/active_leg_page.htm">Active Legislation</a>
+			  <input type="checkbox" id="drop-35"/>
+				<ul class="tertiary-menu">
+					<li><a href="/legislative/active_leg_114.htm">114th Congress</a></li>
+					<li><a href="/legislative/active_leg_113.htm">113th Congress</a></li>
+					<li><a href="/legislative/active_leg_112.htm">112th Congress</a></li>
+					<li><a href="/legislative/active_leg_111.htm">111th Congress</a></li>
+					<li><a href="/legislative/active_leg_110.htm">110th Congress</a></li>
+					<li><a href="/legislative/active_leg_109.htm">109th Congress</a></li>
+					<li><a href="/legislative/active_leg_108.htm">108th Congress</a></li>
+					<li><a href="/legislative/active_leg_107.htm">107th Congress</a></li>
+					<li><a href="/legislative/active_leg_106.htm">106th Congress</a></li>
+					<li><a href="/legislative/active_leg_105.htm">105th Congress</a></li>
+					<li><a href="/legislative/active_leg_104.htm">104th Congress</a></li>
+				</ul>
+	  </li>
+	</ul>
+                            </li>
+                            <li class="artmenu">
+                                <label class="plus-minus mobile-plus" for="drop-4"></label><a href="/art/art_hist_home.htm">
+    ART &amp; HISTORY</a>
+                                <input type="checkbox" id="drop-4"/>
+    	<ul class="artmenusub">
+        	<li>
+            <label for="drop-44" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/people.htm">People</a>
+                  <input type="checkbox" id="drop-44"/>
+                  <ul class="tertiary-menu">
+                  	<li><a href="/history/officers.htm">Officers &amp; Staff</a></li>
+        			<li><a href="/history/leader.htm">Party Leadership</a></li>
+        			<li><a href="/history/senators.htm">Senators</a></li>
+        			<li><a href="/history/featured_biographies.htm">Featured Biographies</a></li>
+                  </ul>
+            
+            </li>
+            <li> 
+                  <label for="drop-45" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/origins.htm">Institution</a>
+                  <input type="checkbox" id="drop-45"/>
+                  	<ul class="tertiary-menu">
+                    <li><a href="/history/instdev.htm">Origins &amp; Development</a></li>
+                    <li><a href="/history/powers.htm">Powers &amp; Procedures</a></li>
+                    <li><a href="/history/chronology.htm#chronology=y1787_1800">Chronology</a></li>
+                    <li><a href="/history/partydiv.htm">Party Division</a></li>
+                  	</ul>
+                    
+            </li>
+            <li>
+            <label for="drop-46" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/essays.htm">Senate Stories</a>
+                  <input type="checkbox" id="drop-46"/>
+                  	<ul class="tertiary-menu">
+                    	<li><a href="/history/1787.htm">1787-1800</a></li>
+        				<li><a href="/history/1801.htm">1801-1850</a></li>
+        				<li><a href="/history/1851.htm">1851-1877</a></li>
+        				<li><a href="/history/1878.htm">1878-1920</a></li>
+        				<li><a href="/history/1921.htm">1921-1940</a></li>
+        				<li><a href="/history/1941.htm">1941-1963</a></li>
+        				<li><a href="/history/1964.htm">1964-present</a></li>
+                    </ul>
+            </li>
+			<li>
+          	<label for="drop-47" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/oralhistory.htm">Oral History Project</a>
+                  <input type="checkbox" id="drop-47"/>
+                  	<ul class="tertiary-menu">
+                    	<li><a href="/history/OralHistoryList.htm">List of Interviews</a></li>
+                    </ul>
+          </li>
+          <li><a href="/art/exhibits.htm">Special Features</a></li>
+		  <li><a href="/art/paintings.htm">Paintings</a></li>
+		  <li><a href="/art/sculpture.htm">Sculpture</a></li>
+		  <li><a href="/art/graphicarts.htm">Prints, Drawings &amp; Photographs</a></li>
+          <li><a href="/art/collections.htm">Furniture & Decorative Art</a></li>
+          <li><a href="/art/ephemera.htm">Ephemera & Historical Objects</a></li>
+          
+      	</ul>
+                            </li>
+                            <li class="referencemenu">
+                                <label class="plus-minus mobile-plus" for="drop-5"></label><a href="/reference/reference_home.htm">
+    REFERENCE</a>
+                                <input type="checkbox" id="drop-5"/>
+	<ul class="referencemenusub">
+		<li><a href="/reference/virtual.htm">Virtual Reference Desk</a></li>
+	  <li><a href="/reference/stats_and_lists.htm">Statistics &amp; Lists</a></li>
+	  <li><a href="/reference/biblio.htm">Bibliographies</a></li>
+	  <li><a href="/reference/howto.htm">How To...</a></li>
+          <li><a href="/reference/glossary.htm">Glossary</a></li>
+	  <li><a href="/reference/org_chart.htm">Senate Organization</a></li>
+	  <li><a href="/civics/constitution_item/constitution.htm">The Constitution</a></li>
+	  <li><a href="/visiting/procurement.htm">Procurement</a></li>
+	  <li>
+	  <label for="drop-55" class="plus-minus mobile-plus"> </label>
+			  <a class="drop-link" href="/visiting/employment.htm">Employment &amp; Internships</a>
+			  <input type="checkbox" id="drop-55"/>
+				<ul class="tertiary-menu">
+					<li><a href="/visiting/po.htm">Placement Office</a></li>
+					<li><a href="/employment/saa/positions.htm">Sergeant at Arms</a></li>
+					<li><a href="/employment/SOS_HR/positions_sos.htm">Secretary of the Senate</a></li>
+				</ul>
+	  </li>
+	  <li><a href="/visiting/index.htm">Visiting</a></li>
+	</ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div id="watch_mobile" class="fluid  watch_text"><span class="fa fa-video-camera"></span>&nbsp;&nbsp;<a id="floorlink_mobile" target="_blank"><span id="contentdata_mobile"></span></a></div>
+        <main class="gridContainer clearfix">
+            <div class="fluid" id="secondary_col2">
+                <section class="fluid " id="art_history_header">
+                    <h1>404 Error Page</h1>
+                    <div id="h1_action_icons" class="fluid"><a href="javascript:if(window.print)window.print()"><i class="fa fa-print"></i></a>
+    <!--<a href="index.html"><i class="fa fa-share"></i></a>-->
+</div>
+                    <hr class="fluid">
+                </section>
+                <!--
+      BEGIN MAIN
+    -->
+                <P align="center" class="contenttitle"><FONT size="+1">Requested Page Not Found (404).</FONT>
+<hr />
+                   
+
+<ul class="contenttext" style="margin-top: 0px; margin-left: 0px; padding-top: 0px; padding-left: 0 px;">
+<p>&#160;</p>
+<li><strong><label for="searchMain">Search Senate.gov:</label></strong> &#160;&#160;&#160;&#160;<form style="display: inline;" method="GET" action="http://www.senate.gov/general/search/search_cfm.cfm" name="searchMain">
+                                <input onfocus="this.value=''" style="width: 140px;" class="searchBox" id="search3" value="Enter Search Term(s)" name="q" type="text" width="120">
+                                <input style="vertical-align: middle; margin-bottom: .25em;" alt="GO" src="http://www.senate.gov/resources/images/uss_button_go.gif" type="image">
+                                <input value="default_collection" name="site" type="hidden">
+                                <input value="10" name="num" type="hidden">
+                                <INPUT value="0" name="filter" type="hidden">
+                            </form>
+                            </li>
+                            <p>&#160;</p>
+                            <li><strong><label for="findsenatorbystate">Find Senators by State:</label></strong> &#160;&#160;&#160;&#160;<form style="display: inline;" method="post" name="findSenatorsSearch">
+                                <select style="width: 160px;" class="searchBox" id="findsenatorbystate" name="stateName"><option value="/general/contact_information/senators_cfm.cfm">--Select State--</option><option value="/general/contact_information/senators_cfm.cfm?State=AL">Alabama</option><option value="/general/contact_information/senators_cfm.cfm?State=AK">Alaska</option><option value="/general/contact_information/senators_cfm.cfm?State=AZ">Arizona</option><option value="/general/contact_information/senators_cfm.cfm?State=AR">Arkansas</option><option value="/general/contact_information/senators_cfm.cfm?State=CA">California</option><option value="/general/contact_information/senators_cfm.cfm?State=CO">Colorado</option><option value="/general/contact_information/senators_cfm.cfm?State=CT">Connecticut</option><option value="/general/contact_information/senators_cfm.cfm?State=DE">Delaware</option><option value="/general/contact_information/senators_cfm.cfm?State=FL">Florida</option><option value="/general/contact_information/senators_cfm.cfm?State=GA">Georgia</option><option value="/general/contact_information/senators_cfm.cfm?State=HI">Hawaii</option><option value="/general/contact_information/senators_cfm.cfm?State=ID">Idaho</option><option value="/general/contact_information/senators_cfm.cfm?State=IL">Illinois</option><option value="/general/contact_information/senators_cfm.cfm?State=IN">Indiana</option><option value="/general/contact_information/senators_cfm.cfm?State=IA">Iowa</option><option value="/general/contact_information/senators_cfm.cfm?State=KS">Kansas</option><option value="/general/contact_information/senators_cfm.cfm?State=KY">Kentucky</option><option value="/general/contact_information/senators_cfm.cfm?State=LA">Louisiana</option><option value="/general/contact_information/senators_cfm.cfm?State=ME">Maine</option><option value="/general/contact_information/senators_cfm.cfm?State=MD">Maryland</option><option value="/general/contact_information/senators_cfm.cfm?State=MA">Massachusetts</option><option value="/general/contact_information/senators_cfm.cfm?State=MI">Michigan</option><option value="/general/contact_information/senators_cfm.cfm?State=MN">Minnesota</option><option value="/general/contact_information/senators_cfm.cfm?State=MS">Mississippi</option><option value="/general/contact_information/senators_cfm.cfm?State=MO">Missouri</option><option value="/general/contact_information/senators_cfm.cfm?State=MT">Montana</option><option value="/general/contact_information/senators_cfm.cfm?State=NE">Nebraska</option><option value="/general/contact_information/senators_cfm.cfm?State=NV">Nevada</option><option value="/general/contact_information/senators_cfm.cfm?State=NH">New Hampshire</option><option value="/general/contact_information/senators_cfm.cfm?State=NJ">New Jersey</option><option value="/general/contact_information/senators_cfm.cfm?State=NM">New Mexico</option><option value="/general/contact_information/senators_cfm.cfm?State=NY">New York</option><option value="/general/contact_information/senators_cfm.cfm?State=NC">North Carolina</option><option value="/general/contact_information/senators_cfm.cfm?State=ND">North Dakota</option><option value="/general/contact_information/senators_cfm.cfm?State=OH">Ohio</option><option value="/general/contact_information/senators_cfm.cfm?State=OK">Oklahoma</option><option value="/general/contact_information/senators_cfm.cfm?State=OR">Oregon</option><option value="/general/contact_information/senators_cfm.cfm?State=PA">Pennsylvania</option><option value="/general/contact_information/senators_cfm.cfm?State=RI">Rhode Island</option><option value="/general/contact_information/senators_cfm.cfm?State=SC">South Carolina</option><option value="/general/contact_information/senators_cfm.cfm?State=SD">South Dakota</option><option value="/general/contact_information/senators_cfm.cfm?State=TN">Tennessee</option><option value="/general/contact_information/senators_cfm.cfm?State=TX">Texas</option><option value="/general/contact_information/senators_cfm.cfm?State=UT">Utah</option><option value="/general/contact_information/senators_cfm.cfm?State=VT">Vermont</option><option value="/general/contact_information/senators_cfm.cfm?State=VA">Virginia</option><option value="/general/contact_information/senators_cfm.cfm?State=WA">Washington</option><option value="/general/contact_information/senators_cfm.cfm?State=WV">West Virginia</option><option value="/general/contact_information/senators_cfm.cfm?State=WI">Wisconsin</option><option value="/general/contact_information/senators_cfm.cfm?State=WY">Wyoming</option></select> <a href="#"><img alt="GO" align="absmiddle" src="/resources/images/uss_button_go.gif" onClick="location=findSenators.findsenator.options[findSenatorsSearch.findsenatorbystate.selectedIndex].value" style="vertical-align: middle; margin-bottom: .25em; border-style: none; link-style: none; border-thickness: 0px;"></a>
+                            </form>
+                            </li>                            
+                            <p>&#160;</p>
+                            <li><strong>Contact:</strong> E-mail <a href="mailto:webmaster@sec.senate.gov">webmaster@sec.senate.gov</a> to report a broken link, ask technical questions, or provide feedback on <a href="www.senate.gov">www.senate.gov</a>.  For all other correspondence <a href="http://www.senate.gov/pagelayout/general/one_item_and_teasers/contacting.htm">contact your senators</a>. 
+                            <br />
+                            <br />
+                            <span class="caption"><strong>*NOTE:</strong> Please do not ask the webmaster to forward mail to senators' offices.</li>
+</ul>
+
+
+
+                <table width="100%">
+                    <tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                </table>
+                <!--
+      END MAIN
+    -->
+            </div>
+            <div class="fluid" id="secondary_col1">
+                
+
+                <!--
+            BEGIN TEASERS
+          -->
+                <!--****** VRD_SiteMap Version: 4.1 was generated at: Friday, March 3, 2017: 2:45 PM EST in folder: /Senate.gov/general/common/teaser **--><aside class="fluid sidebar_link_container">
+    <div class="fluid content_column_container">
+        <h3>Virtual Reference Desk </h3>
+        <span style="padding-top:5px" class="teasertext">
+            <p>Browse the site by topic with the <A href="/pagelayout/reference/b_three_sections_with_teasers/virtual.htm">Virtual Reference Desk</A>.</p>
+            <p>&nbsp;</p>
+        </span>
+    </div>
+</aside>
+
+                <br>
+                <!--****** FAQs Version: 6.1 was generated at: Thursday, June 8, 2017: 10:11 AM EDT in folder: /Senate.gov/general/common/teaser **--><aside class="fluid sidebar_link_container">
+    <div class="fluid content_column_container">
+        <h3>Related Links </h3>
+        <span style="padding-top:5px" class="teasertext">
+            <p>Frequently Asked Questions</p>
+            <p>
+                <a href="/general/common/faq/committees_faq.htm">Committees</a>
+            </p>
+            <p>
+                <a href="/pagelayout/reference/b_three_sections_with_teasers/howto.htm">Congressional Research</a>
+            </p>
+            <p>
+                <a href="/general/common/generic/NewCongress_faq.htm">New Congress</a>
+            </p>
+            <p>&nbsp;</p>
+        </span>
+    </div>
+</aside>
+
+                <br>
+                <!--
+            END TEASERS
+          -->
+            </div>
+            <div id="social_background_white" class="fluid ">
+	<div id="logo_social_footer_center" class="fluid ">
+      <div id="footer_logo" class="fluid "><a href="/index.htm"><img src="/resources/images/senate_logo_footer.png" alt="Senate Logo"/></a></div>
+     </div>
+</div>
+        </main>
+        <footer id="footer" class="fluid gridContainer clearfix">
+      <div id="footer_menu_center">
+      
+      <div id="footer_menu_senators" >
+      	<h3><a href="/senators/contact/">SENATORS</a></h3>
+        <ul class="fluid fluidList footer_links">
+          <li><a href="/senators/states.htm">States</a></li>
+          <li><a href="/senators/leadership.htm">Leadership</a></li>
+          </ul>
+          
+         <div id="footer_menu_committees" >
+         <h3  style="padding-top: 75px;"><a href="/committees/committees_home.htm">COMMITTEES</a></h3>
+         <ul class="fluid fluidList footer_links">
+          <li><a href="/committees/membership.htm">Membership</a></li>
+          <li><a href="/general/committee_assignments/assignments.htm">Assignments</a></li>
+          <li><a href="/committees/committee_hearings.htm">Hearings &amp; Meetings</a></li>
+          </ul></div>
+          </div>
+          
+      <div id="footer_menu_legislation" >
+      <h3><a href="/legislative/legislative_home.htm">LEGISLATION &amp; <br>
+RECORDS</a></h3>
+        <ul class="fluid fluidList footer_links">
+          <li><a href="/legislative/votes.htm">Votes</a></li>
+          <li><a href="/legislative/nominations.htm">Nominations</a></li>
+          <li><a href="/legislative/calendars.htm">Calendars &amp; Schedules</a></li>
+          <li><a href="/legislative/congrecord.htm">Congressional Record</a></li>
+          <li><a href="/legislative/treaties.htm">Treaties</a></li>
+          <li><a href="/legislative/bills.htm">Bills &amp; Resolutions</a></li>
+          <li><a href="/legislative/appropsbills.htm">Appropriations Bills</a></li>
+          <li><a href="/legislative/process.htm">Legislative Process</a></li>
+          <li><a href="/legislative/lobbyingdisc.htm#lobbyingdisc=lda">Public Disclosure</a></li>
+          <li><a href="/legislative/active_leg_page.htm">Active Legislation</a></li>
+          </ul></div>
+          
+      <div id="footer_menu_art" >
+      <h3><a href="/art/art_hist_home.htm">ART &amp; HISTORY</a></h3>
+        <ul class="fluid fluidList footer_links">
+          <li><a href="/history/people.htm">People</a></li>
+          <li><a href="/history/origins.htm">Institution</a></li>
+          <li><a href="/history/essays.htm">Senate Stories</a></li>
+		  <li><a href="/history/oralhistory.htm">Oral History Project</a></li>
+          <li><a href="/art/exhibits.htm">Special Features</a></li>
+          <li><a href="/art/paintings.htm">Paintings</a></li>
+          <li><a href="/art/sculpture.htm">Sculpture</a></li>
+          <li><a href="/art/graphicarts.htm">Prints, Drawings &amp; Photographs</a></li>
+		  <li><a href="/art/collections.htm">Furniture & Decorative Art</a></li>
+          <li><a href="/art/ephemera.htm">Ephemera & Historical Objects</a></li>
+          
+          </ul></div>
+          
+      <div id="footer_menu_reference" >
+      <h3><a href="/reference/reference_home.htm">REFERENCE</a></h3>
+        <ul class="fluid fluidList footer_links">
+          <li><a href="/reference/virtual.htm">Virtual Reference Desk</a></li>
+          <li><a href="/reference/stats_and_lists.htm">Statistics &amp; Lists</a></li>
+          <li><a href="/reference/biblio.htm">Bibliographies</a></li>
+          <li><a href="/reference/howto.htm">How To...</a></li>
+          <li><a href="/reference/glossary.htm">Glossary</a></li>
+          <li><a href="/reference/org_chart.htm">Senate Organization</a></li>
+          <li><a href="/civics/constitution_item/constitution.htm">The Constitution</a></li>
+          <li><a href="/visiting/procurement.htm">Procurement</a></li>
+          <li><a href="/visiting/employment.htm">Employment &amp; Internships</a></li>
+          <li><a href="/visiting/index.htm">Visiting</a></li>
+          </ul></div>
+	 </div>
+     
+     <div id="footer_legal" class="fluid " >
+          <p><span class="speaker legal"><a href="/general/common/generic/browsealoud.htm">BrowseAloud</a></span> &nbsp; | &nbsp; 
+          <a href="/general/contacting.htm">Contact</a> &nbsp; | &nbsp; 
+          <a href="/general/content_responsibility.htm">Content Responsibility</a> &nbsp; | &nbsp; 
+          <a href="/usage/internetpolicy.htm">Usage Policy</a> &nbsp; | &nbsp; 
+          <a href="/general/pdf_help.htm">PDF Help</a> &nbsp; | &nbsp; 
+          <a href="/general/privacy.htm">Privacy Policy</a> &nbsp; | &nbsp; 
+          <a href="/index.htm">www.senate.gov</a>
+          </p>
+          </div>
+     </footer>
+     
+     
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<script src="/wt_sdc/central_webtrends.load.js" type="text/javascript"></script>
+
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs222dj3ow9ji0ne9ojbcbng_3b8p/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.0&amp;dcssip=www.senate.gov"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+    </body>
+</html>
