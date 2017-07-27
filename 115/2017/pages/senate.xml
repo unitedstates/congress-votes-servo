@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00175</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>H.R. 3364</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>H.R. 3364; A bill to provide congressional review and to counter aggression by the Governments of Iran, the Russian Federation, and North Korea, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00174</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Motion <measure>S.Amdt. 389</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Strange Amdt. No. 389; To provide for premium assistance for low-income individuals.</title>
+    </vote>
+    <vote>
       <vote_number>00173</vote_number>
       <vote_date>27-Jul</vote_date>
       <issue>H.R. 1628</issue>
