@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00179</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Amendment <measure>S.Amdt. 667</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>McConnell Amdt. No. 667; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00178</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Murray Motion to Commit H.R. 1628 to the Committee on Health, Education, Labor and Pensions, with Instructions; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
+    </vote>
+    <vote>
       <vote_number>00177</vote_number>
       <vote_date>27-Jul</vote_date>
       <issue>H.R. 1628</issue>
