@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00177</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Amendment <measure>S.Amdt. 502</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Heller Amdt. No. 502; To strike the sunset of the repeal of the tax on employee health insurance premiums and health plan benefits.</title>
+    </vote>
+    <vote>
+      <vote_number>00176</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>H.R. 1628</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Schumer Motion to Commit H.R. 1628 with Instructions; A bill to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.</title>
+    </vote>
+    <vote>
       <vote_number>00175</vote_number>
       <vote_date>27-Jul</vote_date>
       <issue>H.R. 3364</issue>
