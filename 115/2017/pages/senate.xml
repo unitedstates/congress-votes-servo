@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00180</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>PN372</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Kevin Christopher Newsom, of Alabama, to be U.S. Circuit Judge</title>
+    </vote>
+    <vote>
       <vote_number>00179</vote_number>
       <vote_date>28-Jul</vote_date>
       <issue>H.R. 1628</issue>
