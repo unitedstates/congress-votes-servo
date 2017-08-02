@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00183</vote_number>
+      <vote_date>02-Aug</vote_date>
+      <issue>PN681</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Marvin Kaplan to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
       <vote_number>00182</vote_number>
       <vote_date>01-Aug</vote_date>
       <issue>PN372</issue>
