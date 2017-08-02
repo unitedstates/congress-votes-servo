@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00182</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>PN372</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Confirmation Kevin Christopher Newsom, of Alabama, to be U.S. Circuit Judge for the Eleventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00181</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>PN696</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Confirmation Christopher A. Wray, of Georgia, to be Director of the Federal Bureau of Investigation</title>
+    </vote>
+    <vote>
       <vote_number>00180</vote_number>
       <vote_date>31-Jul</vote_date>
       <issue>PN372</issue>
