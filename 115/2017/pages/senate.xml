@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00186</vote_number>
+      <vote_date>03-Aug</vote_date>
+      <issue>PN459</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Confirmation Dan Brouillette, of Texas, to be Deputy Secretary of Energy</title>
+    </vote>
+    <vote>
+      <vote_number>00185</vote_number>
+      <vote_date>03-Aug</vote_date>
+      <issue>H.R. 2430</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Re: Motion or Proceed to Consideration of H.R. 2430; A bill to amend the Federal Food, Drug, and Cosmetic Act to revise and extend the user-fee programs for prescription drugs, medical devices, generic drugs, and biosimilar biological products, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00184</vote_number>
       <vote_date>02-Aug</vote_date>
       <issue>PN681</issue>
