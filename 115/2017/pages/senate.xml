@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00192</vote_number>
+      <vote_date>07-Sep</vote_date>
+      <issue>H.R. 601</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amdt. to the Senate Amdt. with an Amdt. No. 808 to H.R. 601; A bill to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00191</vote_number>
       <vote_date>07-Sep</vote_date>
       <issue>H.R. 601</issue>

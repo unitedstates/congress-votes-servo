@@ -2,16 +2,16 @@
   <congress>115</congress>
   <session>1</session>
   <congress_year>2017</congress_year>
-  <vote_number>190</vote_number>
-  <vote_date>September 7, 2017,  01:11 PM</vote_date>
-  <modify_date>September 7, 2017,  03:24 PM</modify_date>
-  <vote_question_text>On the Motion to Table H.R. 601</vote_question_text>
+  <vote_number>192</vote_number>
+  <vote_date>September 7, 2017,  02:23 PM</vote_date>
+  <modify_date>September 7, 2017,  03:00 PM</modify_date>
+  <vote_question_text>On the Motion (Motion to Concur in the House Amdt. to the Senate Amdt. with an Amdt. No. 808 to H.R. 601)</vote_question_text>
   <vote_document_text>A bill to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.</vote_document_text>
-  <vote_result_text>Motion to Table Agreed to (72-25)</vote_result_text>
-  <question>On the Motion to Table</question>
-  <vote_title>Motion to Table McConnell Motion to Refer H.R. 601 to the Committee on Appropriations with Instructions</vote_title>
+  <vote_result_text>Motion Agreed to (80-17)</vote_result_text>
+  <question>On the Motion</question>
+  <vote_title>Motion to Concur in the House Amdt. to the Senate Amdt. with an Amdt. No. 808 to H.R. 601</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Motion to Table Agreed to</vote_result>
+  <vote_result>Motion Agreed to</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>H.R.</document_type>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>72</yeas>
-    <nays>25</nays>
+    <yeas>80</yeas>
+    <nays>17</nays>
     <present/>
     <absent>3</absent>
   </count>
@@ -63,7 +63,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>WY</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S317</lis_member_id>
     </member>
     <member>
@@ -360,7 +360,7 @@
       <first_name>Cory</first_name>
       <party>R</party>
       <state>CO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S377</lis_member_id>
     </member>
     <member>
@@ -378,7 +378,7 @@
       <first_name>Lindsey</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S293</lis_member_id>
     </member>
     <member>
@@ -414,7 +414,7 @@
       <first_name>Orrin</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S118</lis_member_id>
     </member>
     <member>
@@ -441,7 +441,7 @@
       <first_name>Dean</first_name>
       <party>R</party>
       <state>NV</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S352</lis_member_id>
     </member>
     <member>
@@ -468,7 +468,7 @@
       <first_name>Jim</first_name>
       <party>R</party>
       <state>OK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S236</lis_member_id>
     </member>
     <member>
@@ -504,7 +504,7 @@
       <first_name>John</first_name>
       <party>R</party>
       <state>LA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S389</lis_member_id>
     </member>
     <member>
@@ -675,7 +675,7 @@
       <first_name>David</first_name>
       <party>R</party>
       <state>GA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S379</lis_member_id>
     </member>
     <member>
@@ -693,7 +693,7 @@
       <first_name>Rob</first_name>
       <party>R</party>
       <state>OH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S349</lis_member_id>
     </member>
     <member>
@@ -819,7 +819,7 @@
       <first_name>Luther</first_name>
       <party>R</party>
       <state>AL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S392</lis_member_id>
     </member>
     <member>
