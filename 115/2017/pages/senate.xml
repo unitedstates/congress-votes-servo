@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00191</vote_number>
+      <vote_date>07-Sep</vote_date>
+      <issue>H.R. 601</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amdt. to the Senate Amdt. with an Amdt. No. 808 to H.R. 601; A bill to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00190</vote_number>
+      <vote_date>07-Sep</vote_date>
+      <issue>H.R. 601</issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Motion to Table McConnell Motion to Refer H.R. 601 to the Committee on Appropriations with Instructions; A bill to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00189</vote_number>
+      <vote_date>07-Sep</vote_date>
+      <issue>H.R. 601</issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Refer H.R. 601 to the Committee on Appropriations with Instructions to Report Back Forthwith with Amdt. No. 816; A bill to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00188</vote_number>
       <vote_date>05-Sep</vote_date>
       <issue>PN588</issue>
