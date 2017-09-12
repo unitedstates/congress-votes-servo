@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00194</vote_number>
+      <vote_date>12-Sep</vote_date>
+      <issue>PN457</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Confirmation Kevin Allen Hasset, of Massachusetts, to be Chairman of the Council of Economic Advisers</title>
+    </vote>
+    <vote>
       <vote_number>00193</vote_number>
       <vote_date>11-Sep</vote_date>
       <issue>H.R. 2810</issue>
