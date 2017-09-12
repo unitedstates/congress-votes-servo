@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00193</vote_number>
+      <vote_date>11-Sep</vote_date>
+      <issue>H.R. 2810</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to the Consideration of H.R. 2810; To authorize appropriations for fiscal year 2018 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00192</vote_number>
       <vote_date>07-Sep</vote_date>
       <issue>H.R. 601</issue>
