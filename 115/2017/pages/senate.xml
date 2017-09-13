@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00195</vote_number>
+      <vote_date>13-Sep</vote_date>
+      <issue>H.R. 2810</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 871</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Table Paul Amdt. No. 871; To repeal the Authorization for Use of Military Force and the Authorization for Use of Military Force Against Iraq Resolution of 2002.</title>
+    </vote>
+    <vote>
       <vote_number>00194</vote_number>
       <vote_date>12-Sep</vote_date>
       <issue>PN457</issue>
