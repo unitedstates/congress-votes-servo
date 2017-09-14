@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00196</vote_number>
+      <vote_date>14-Sep</vote_date>
+      <issue>PN363</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Confirmation Pamela Hughes Patenaude, of New Hampshire, to be Deputy Secretary of Housing and Urban Development.</title>
+    </vote>
+    <vote>
       <vote_number>00195</vote_number>
       <vote_date>13-Sep</vote_date>
       <issue>H.R. 2810</issue>
