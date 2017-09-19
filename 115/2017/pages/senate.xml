@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00200</vote_number>
+      <vote_date>19-Sep</vote_date>
+      <issue>PN299</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Noel J. Francisco, of the District of Columbia, to be Solicitor General of the United States</title>
+    </vote>
+    <vote>
       <vote_number>00199</vote_number>
       <vote_date>18-Sep</vote_date>
       <issue>H.R. 2810</issue>
