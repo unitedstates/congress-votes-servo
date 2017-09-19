@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00202</vote_number>
+      <vote_date>19-Sep</vote_date>
+      <issue>PN725</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of William J. Emanuel, of California, to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
       <vote_number>00201</vote_number>
       <vote_date>19-Sep</vote_date>
       <issue>PN299</issue>
