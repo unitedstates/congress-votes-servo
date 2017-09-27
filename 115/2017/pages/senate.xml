@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00204</vote_number>
+      <vote_date>27-Sep</vote_date>
+      <issue>PN173</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Confirmation Heath P. Tarbert, of Maryland, to be an Assistant Secretary of the Treasury</title>
+    </vote>
+    <vote>
       <vote_number>00203</vote_number>
       <vote_date>25-Sep</vote_date>
       <issue>PN725</issue>
