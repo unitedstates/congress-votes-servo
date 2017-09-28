@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00206</vote_number>
+      <vote_date>28-Sep</vote_date>
+      <issue>PN586</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Ralph R. Erickson to be U.S. Circuit Judge for the Eight Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00205</vote_number>
       <vote_date>27-Sep</vote_date>
       <issue>PN249</issue>
