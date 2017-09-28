@@ -2,16 +2,16 @@
   <congress>115</congress>
   <session>1</session>
   <congress_year>2017</congress_year>
-  <vote_number>206</vote_number>
-  <vote_date>September 28, 2017,  10:46 AM</vote_date>
-  <modify_date>September 28, 2017,  12:58 PM</modify_date>
-  <vote_question_text>On the Cloture Motion PN586</vote_question_text>
+  <vote_number>207</vote_number>
+  <vote_date>September 28, 2017,  12:16 PM</vote_date>
+  <modify_date>September 28, 2017,  12:57 PM</modify_date>
+  <vote_question_text>On the Nomination PN586</vote_question_text>
   <vote_document_text>Ralph R. Erickson, of North Dakota, to be United States Circuit Judge for the Eighth Circuit</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (95-1)</vote_result_text>
-  <question>On the Cloture Motion</question>
-  <vote_title>Motion to Invoke Cloture on the Nomination of Ralph R. Erickson to be United States Circuit Judge for the Eight Circuit</vote_title>
+  <vote_result_text>Nomination Confirmed (95-1)</vote_result_text>
+  <question>On the Nomination</question>
+  <vote_title>Confirmation: Ralph R. Erickson, of North Dakota, to be United States Circuit Judge for the Eight Circuit</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Cloture Motion Agreed to</vote_result>
+  <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
@@ -351,7 +351,7 @@
       <first_name>Al</first_name>
       <party>D</party>
       <state>MN</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S332</lis_member_id>
     </member>
     <member>
@@ -855,7 +855,7 @@
       <first_name>Thomas</first_name>
       <party>R</party>
       <state>NC</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S384</lis_member_id>
     </member>
     <member>
