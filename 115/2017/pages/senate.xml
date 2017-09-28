@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00208</vote_number>
+      <vote_date>28-Sep</vote_date>
+      <issue>PN89</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Ajit Varadaraj Pai to be a Member of the Federal Communications Commission </title>
+    </vote>
+    <vote>
       <vote_number>00207</vote_number>
       <vote_date>28-Sep</vote_date>
       <issue>PN586</issue>
