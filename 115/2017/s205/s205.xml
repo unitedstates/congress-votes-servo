@@ -2,22 +2,22 @@
   <congress>115</congress>
   <session>1</session>
   <congress_year>2017</congress_year>
-  <vote_number>204</vote_number>
-  <vote_date>September 27, 2017,  04:31 PM</vote_date>
-  <modify_date>September 27, 2017,  05:52 PM</modify_date>
-  <vote_question_text>On the Nomination PN173</vote_question_text>
-  <vote_document_text>Heath P. Tarbert, of Maryland, to be an Assistant Secretary of the Treasury</vote_document_text>
-  <vote_result_text>Nomination Confirmed (87-8)</vote_result_text>
+  <vote_number>205</vote_number>
+  <vote_date>September 27, 2017,  05:02 PM</vote_date>
+  <modify_date>September 27, 2017,  05:45 PM</modify_date>
+  <vote_question_text>On the Nomination PN249</vote_question_text>
+  <vote_document_text>Makan Delrahim, of California, to be an Assistant Attorney General</vote_document_text>
+  <vote_result_text>Nomination Confirmed (73-21)</vote_result_text>
   <question>On the Nomination</question>
-  <vote_title>Confirmation Heath P. Tarbert, of Maryland, to be an Assistant Secretary of the Treasury</vote_title>
+  <vote_title>Confirmation Makan Delrahim, of California, to be an Assistant Attorney General</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
-    <document_number>173</document_number>
-    <document_name>PN173</document_name>
-    <document_title>Heath P. Tarbert, of Maryland, to be an Assistant Secretary of the Treasury</document_title>
+    <document_number>249</document_number>
+    <document_name>PN249</document_name>
+    <document_title>Makan Delrahim, of California, to be an Assistant Attorney General</document_title>
     <document_short_title/>
   </document>
   <amendment>
@@ -29,10 +29,10 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>87</yeas>
-    <nays>8</nays>
+    <yeas>73</yeas>
+    <nays>21</nays>
     <present/>
-    <absent>5</absent>
+    <absent>6</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -54,7 +54,7 @@
       <first_name>Tammy</first_name>
       <party>D</party>
       <state>WI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S354</lis_member_id>
     </member>
     <member>
@@ -99,7 +99,7 @@
       <first_name>Cory</first_name>
       <party>D</party>
       <state>NJ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S370</lis_member_id>
     </member>
     <member>
@@ -135,7 +135,7 @@
       <first_name>Maria</first_name>
       <party>D</party>
       <state>WA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S275</lis_member_id>
     </member>
     <member>
@@ -234,7 +234,7 @@
       <first_name>Catherine</first_name>
       <party>D</party>
       <state>NV</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S385</lis_member_id>
     </member>
     <member>
@@ -288,7 +288,7 @@
       <first_name>Tammy</first_name>
       <party>D</party>
       <state>IL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S386</lis_member_id>
     </member>
     <member>
@@ -405,7 +405,7 @@
       <first_name>Maggie</first_name>
       <party>D</party>
       <state>NH</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S388</lis_member_id>
     </member>
     <member>
@@ -423,7 +423,7 @@
       <first_name>Martin</first_name>
       <party>D</party>
       <state>NM</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S359</lis_member_id>
     </member>
     <member>
@@ -450,7 +450,7 @@
       <first_name>Mazie</first_name>
       <party>D</party>
       <state>HI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S361</lis_member_id>
     </member>
     <member>
@@ -495,7 +495,7 @@
       <first_name>Timothy</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S362</lis_member_id>
     </member>
     <member>
@@ -639,7 +639,7 @@
       <first_name>Christopher</first_name>
       <party>D</party>
       <state>CT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S364</lis_member_id>
     </member>
     <member>
@@ -648,7 +648,7 @@
       <first_name>Patty</first_name>
       <party>D</party>
       <state>WA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S229</lis_member_id>
     </member>
     <member>
@@ -774,7 +774,7 @@
       <first_name>Charles</first_name>
       <party>D</party>
       <state>NY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S270</lis_member_id>
     </member>
     <member>
@@ -873,7 +873,7 @@
       <first_name>Tom</first_name>
       <party>D</party>
       <state>NM</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S326</lis_member_id>
     </member>
     <member>
@@ -882,7 +882,7 @@
       <first_name>Chris</first_name>
       <party>D</party>
       <state>MD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S390</lis_member_id>
     </member>
     <member>
@@ -909,7 +909,7 @@
       <first_name>Sheldon</first_name>
       <party>D</party>
       <state>RI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S316</lis_member_id>
     </member>
     <member>
@@ -927,7 +927,7 @@
       <first_name>Ron</first_name>
       <party>D</party>
       <state>OR</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S247</lis_member_id>
     </member>
     <member>
