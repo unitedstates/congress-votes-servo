@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00210</vote_number>
+      <vote_date>04-Oct</vote_date>
+      <issue>PN248</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Eric D. Hargan to be Deputy Secretary of Health and Human Services</title>
+    </vote>
+    <vote>
       <vote_number>00209</vote_number>
       <vote_date>02-Oct</vote_date>
       <issue>PN89</issue>
