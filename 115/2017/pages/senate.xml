@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00212</vote_number>
+      <vote_date>04-Oct</vote_date>
+      <issue>PN734</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture re: Randal Quarles to be a Member of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
+      <vote_number>00211</vote_number>
+      <vote_date>04-Oct</vote_date>
+      <issue>PN248</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Confirmation Eric D. Hargan, of Illinois, to be Deputy Secretary of Health and Human Services</title>
+    </vote>
+    <vote>
       <vote_number>00210</vote_number>
       <vote_date>04-Oct</vote_date>
       <issue>PN248</issue>
