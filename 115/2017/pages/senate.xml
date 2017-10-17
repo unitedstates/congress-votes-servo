@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00219</vote_number>
+      <vote_date>17-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H. Con. Res. 71; A concurrent resolution establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.</title>
+    </vote>
+    <vote>
+      <vote_number>00218</vote_number>
+      <vote_date>17-Oct</vote_date>
+      <issue>PN362</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Confirmation David Joel Trachtenberg, of Virginia, to be a Principal Deputy Under Secretary of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00217</vote_number>
       <vote_date>16-Oct</vote_date>
       <issue>PN523</issue>
