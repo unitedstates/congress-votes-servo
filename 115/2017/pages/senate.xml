@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00217</vote_number>
+      <vote_date>16-Oct</vote_date>
+      <issue>PN523</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Confirmation Callista L. Gingrich, of Virginia, to be Ambassador of the U.S. to the Holy See</title>
+    </vote>
+    <vote>
       <vote_number>00216</vote_number>
       <vote_date>05-Oct</vote_date>
       <issue>PN523</issue>
