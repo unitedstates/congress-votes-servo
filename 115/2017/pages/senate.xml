@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00224</vote_number>
+      <vote_date>18-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Motion <measure>S.Amdt. 1120</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Waive Section 305(b)(2) of the C.B.A. Re: Sanders Amdt. No. 1120; To ensure that there are no tax cuts for the top 1 percent of Americans.</title>
+    </vote>
+    <vote>
       <vote_number>00223</vote_number>
       <vote_date>18-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
