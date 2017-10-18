@@ -4,6 +4,54 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00223</vote_number>
+      <vote_date>18-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1146</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Heller Amdt. No. 1146; To provide tax relief to American families with children to provide them with more money in their paychecks to make ends meet.</title>
+    </vote>
+    <vote>
+      <vote_number>00222</vote_number>
+      <vote_date>18-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1150</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Nelson Amdt. No. 1150; To provide additional resources to restore the $473,000,000,000 in cuts to Medicare paid for by closing special interest tax loopholes.</title>
+    </vote>
+    <vote>
+      <vote_number>00221</vote_number>
+      <vote_date>18-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1119</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 1119; To provide additional resources to restore the $1,000,000,000,000 in cuts to Medicaid paid for by reducing the tax breaks for the wealthy.</title>
+    </vote>
+    <vote>
+      <vote_number>00220</vote_number>
+      <vote_date>18-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1144</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>9</nays>
+      </vote_tally>
+      <title>Hatch Amdt. No. 1144; To establish a deficit-neutral reserve fund relating to protecting Medicare and Medicaid.</title>
+    </vote>
+    <vote>
       <vote_number>00219</vote_number>
       <vote_date>17-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
