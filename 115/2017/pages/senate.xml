@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00229</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1178</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Flake Amdt. No. 1178; To make the American tax system simpler and fairer.</title>
+    </vote>
+    <vote>
       <vote_number>00228</vote_number>
       <vote_date>19-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
@@ -25,7 +37,7 @@
         <yeas>47</yeas>
         <nays>52</nays>
       </vote_tally>
-      <title>Motion to Waive Section 305 (b)(2) of the C.B.A Re: Cantwell Amdt. No. 1141; To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxes at the state or local level.</title>
+      <title>Motion to Waive Section 305 (b)(2) of the C.B.A Re: Cantwell Amdt. No. 1141; To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.</title>
     </vote>
     <vote>
       <vote_number>00226</vote_number>
