@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00230</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1139</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Baldwin Amdt. No. 1139; To prohibit reconciliation legislation that would increase the deficit or reduce a surplus.</title>
+    </vote>
+    <vote>
       <vote_number>00229</vote_number>
       <vote_date>19-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
