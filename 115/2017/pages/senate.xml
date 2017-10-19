@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00231</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Motion <measure>S.Amdt. 1228</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Waive Section 305 (b)(2) of the C.B.A. Re: Heitkamp Amdt. No. 1228; To create a point of order against legislation that would increase taxes on taxpayers whose annual income is below $250,000.</title>
+    </vote>
+    <vote>
       <vote_number>00230</vote_number>
       <vote_date>19-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
