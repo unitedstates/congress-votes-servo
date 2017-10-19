@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00228</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1138</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Warner Amdt. No. 1138; To strike the Senate pay-as-you-go exemption for tax cut reconciliation legislation and the exception to rules preventing any legislation from increasing the deficit over the short-term.</title>
+    </vote>
+    <vote>
       <vote_number>00227</vote_number>
       <vote_date>19-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
