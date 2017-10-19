@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00226</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1393</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Capito Amdt. No. 1393; To help provide tax relief to middle-class Americans by reducing deductibility, for Federal tax purposes, of federal deductions, such as the state and local tax deduction which disproportionally favors high-income individuals.</title>
+    </vote>
+    <vote>
+      <vote_number>00225</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1302</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Wyden Amdt. No. 1302; To strike the reconciliation instructions relating to tax reform.</title>
+    </vote>
+    <vote>
       <vote_number>00224</vote_number>
       <vote_date>18-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
