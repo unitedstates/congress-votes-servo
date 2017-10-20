@@ -4,6 +4,90 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00238</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1277</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>33</yeas>
+        <nays>66</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 1277; To provide for reconciliation instructions to the relevant committees for the purpose of repealing and replacing the Patient Protection and Affordable Care Act.</title>
+    </vote>
+    <vote>
+      <vote_number>00237</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1430</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>32</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 1430; To expand the deficit-neutral reserve fund relating to the repeal of provisions of title I of the Patient Protection and Affordable Care Act.</title>
+    </vote>
+    <vote>
+      <vote_number>00236</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1298</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>5</yeas>
+        <nays>95</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 1298; To reduce discretionary spending by $43,000,000,000.</title>
+    </vote>
+    <vote>
+      <vote_number>00235</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1249</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Kaine Amdt. No. 1249; To modify section 4111 to reinstate and strengthen a prohibition on voting on legislation without a Congressional Budget Office score.</title>
+    </vote>
+    <vote>
+      <vote_number>00234</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Motion <measure>S.Amdt. 1375</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Waive Sec. 305(b)(2) of the C.B.A. Re: Cardin Amdt. No. 1375; To create a point of order against legislation that includes deficit-financed tax cuts.</title>
+    </vote>
+    <vote>
+      <vote_number>00233</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1296</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>4</yeas>
+        <nays>94</nays>
+      </vote_tally>
+      <title>Paul Amdt No. 1296; To modify reconciliation instructions to reduce the deficit.</title>
+    </vote>
+    <vote>
+      <vote_number>00232</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1378</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Brown Amdt. No. 1378; To establish a deficit-neutral reserve fund relating to providing tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers.</title>
+    </vote>
+    <vote>
       <vote_number>00231</vote_number>
       <vote_date>19-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
@@ -61,7 +145,7 @@
         <yeas>47</yeas>
         <nays>52</nays>
       </vote_tally>
-      <title>Motion to Waive Section 305 (b)(2) of the C.B.A Re: Cantwell Amdt. No. 1141; To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.</title>
+      <title>Motion to Waive Section 305(b)(2) of the C.B.A. Re: Cantwell Amdt. No. 1141; To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.</title>
     </vote>
     <vote>
       <vote_number>00226</vote_number>

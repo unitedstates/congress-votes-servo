@@ -2,16 +2,16 @@
   <congress>115</congress>
   <session>1</session>
   <congress_year>2017</congress_year>
-  <vote_number>227</vote_number>
-  <vote_date>October 19, 2017,  12:41 PM</vote_date>
-  <modify_date>October 19, 2017,  06:34 PM</modify_date>
-  <vote_question_text>On the Motion (Motion to Waive Section 305(b)(2) of the C.B.A. Re: Cantwell Amdt. No. 1141)</vote_question_text>
-  <vote_document_text>To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.</vote_document_text>
-  <vote_result_text>Motion Rejected (47-52, 3/5 majority required)</vote_result_text>
-  <question>On the Motion</question>
-  <vote_title>Motion to Waive Section 305(b)(2) of the C.B.A. Re: Cantwell Amdt. No. 1141</vote_title>
-  <majority_requirement>3/5</majority_requirement>
-  <vote_result>Motion Rejected</vote_result>
+  <vote_number>232</vote_number>
+  <vote_date>October 19, 2017,  04:32 PM</vote_date>
+  <modify_date>October 19, 2017,  05:48 PM</modify_date>
+  <vote_question_text>On the Amendment S.Amdt. 1378 to S.Amdt. 1116 to H.Con.Res. 71 (No short title on file)</vote_question_text>
+  <vote_document_text>To establish a deficit-neutral reserve fund relating to providing tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers.</vote_document_text>
+  <vote_result_text>Amendment Rejected (47-51)</vote_result_text>
+  <question>On the Amendment</question>
+  <vote_title>Brown Amdt. No. 1378</vote_title>
+  <majority_requirement>1/2</majority_requirement>
+  <vote_result>Amendment Rejected</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type/>
@@ -21,18 +21,18 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 1141</amendment_number>
+    <amendment_number>S.Amdt. 1378</amendment_number>
     <amendment_to_amendment_number>S.Amdt. 1116</amendment_to_amendment_number>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>H.Con.Res. 71</amendment_to_document_number>
     <amendment_to_document_short_title>No short title on file</amendment_to_document_short_title>
-    <amendment_purpose>To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.</amendment_purpose>
+    <amendment_purpose>To establish a deficit-neutral reserve fund relating to providing tax benefits to patriot employers that invest in American jobs and provide fair pay and benefits to workers.</amendment_purpose>
   </amendment>
   <count>
     <yeas>47</yeas>
-    <nays>52</nays>
+    <nays>51</nays>
     <present/>
-    <absent>1</absent>
+    <absent>2</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -189,7 +189,7 @@
       <first_name>Thad</first_name>
       <party>R</party>
       <state>MS</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S136</lis_member_id>
     </member>
     <member>

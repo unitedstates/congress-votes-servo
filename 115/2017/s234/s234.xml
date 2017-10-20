@@ -2,14 +2,14 @@
   <congress>115</congress>
   <session>1</session>
   <congress_year>2017</congress_year>
-  <vote_number>227</vote_number>
-  <vote_date>October 19, 2017,  12:41 PM</vote_date>
-  <modify_date>October 19, 2017,  06:34 PM</modify_date>
-  <vote_question_text>On the Motion (Motion to Waive Section 305(b)(2) of the C.B.A. Re: Cantwell Amdt. No. 1141)</vote_question_text>
-  <vote_document_text>To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.</vote_document_text>
+  <vote_number>234</vote_number>
+  <vote_date>October 19, 2017,  05:20 PM</vote_date>
+  <modify_date>October 19, 2017,  06:33 PM</modify_date>
+  <vote_question_text>On the Motion (Motion to Waive Sec. 305(b)(2) of the C.B.A. Re: Cardin Amdt. No. 1375)</vote_question_text>
+  <vote_document_text>To create a point of order against legislation that includes deficit-financed tax cuts.</vote_document_text>
   <vote_result_text>Motion Rejected (47-52, 3/5 majority required)</vote_result_text>
   <question>On the Motion</question>
-  <vote_title>Motion to Waive Section 305(b)(2) of the C.B.A. Re: Cantwell Amdt. No. 1141</vote_title>
+  <vote_title>Motion to Waive Sec. 305(b)(2) of the C.B.A. Re: Cardin Amdt. No. 1375</vote_title>
   <majority_requirement>3/5</majority_requirement>
   <vote_result>Motion Rejected</vote_result>
   <document>
@@ -21,12 +21,12 @@
     <document_short_title/>
   </document>
   <amendment>
-    <amendment_number>S.Amdt. 1141</amendment_number>
+    <amendment_number>S.Amdt. 1375</amendment_number>
     <amendment_to_amendment_number>S.Amdt. 1116</amendment_to_amendment_number>
     <amendment_to_amendment_to_amendment_number/>
     <amendment_to_document_number>H.Con.Res. 71</amendment_to_document_number>
     <amendment_to_document_short_title>No short title on file</amendment_to_document_short_title>
-    <amendment_purpose>To create a point of order against legislation that would raise taxes on middle class families by double-taxing income already taxed at the state or local level.</amendment_purpose>
+    <amendment_purpose>To create a point of order against legislation that includes deficit-financed tax cuts.</amendment_purpose>
   </amendment>
   <count>
     <yeas>47</yeas>
