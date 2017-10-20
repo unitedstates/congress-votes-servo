@@ -4,6 +4,90 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00245</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Concurrent Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>H. Con. Res. 71 As Amended; A concurrent resolution establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.</title>
+    </vote>
+    <vote>
+      <vote_number>00244</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1561</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Enzi Amdt. No. 1561; To provide other enforcement provisions related to the House of Representatives.</title>
+    </vote>
+    <vote>
+      <vote_number>00243</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1301</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Cantwell Amdt. No. 1301; To strike the reconciliation instructions for the Committee on Energy and Natural Resources of the Senate to prevent oil and gas development within the Arctic National Wildlife Refuge.</title>
+    </vote>
+    <vote>
+      <vote_number>00242</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1429</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 1429; To establish a spending-neutral reserve fund relating to prohibiting Federal regulation of entirely intrastate species under the Endangered Species Act of 1973.</title>
+    </vote>
+    <vote>
+      <vote_number>00241</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1404</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>7</yeas>
+        <nays>93</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 1404; To ensure that all Americans receive a tax cut, keeping more of their hard earned money, and enjoy the benefit of tax reform.</title>
+    </vote>
+    <vote>
+      <vote_number>00240</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1428</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 1428; To modify a deficit neutral reserve fund relating to public land and the environment to address making payments under the payments in lieu of taxes program equivalent to the property tax revenue that would be due to a State or local government if the State or local government owned the land.</title>
+    </vote>
+    <vote>
+      <vote_number>00239</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.Con.Res. 71</issue>
+      <question>On the Amendment <measure>S.Amdt. 1553</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Udall Amdt. No. 1553; To establish a deficit-neutral reserve fund relating to the provision of full, permanent, and mandatory funding for the payment in lieu of taxes program.</title>
+    </vote>
+    <vote>
       <vote_number>00238</vote_number>
       <vote_date>19-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
