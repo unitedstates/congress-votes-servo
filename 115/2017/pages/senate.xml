@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00246</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue>H.R. 2266</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Motion to Concur in the House Amdt. to the Senate Amdt. to H.R. 2266; A bill to amend title 28 of the United States Code to authorize the appointment of additional bankruptcy judges; and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00245</vote_number>
       <vote_date>19-Oct</vote_date>
       <issue>H.Con.Res. 71</issue>
