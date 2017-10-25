@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00248</vote_number>
+      <vote_date>24-Oct</vote_date>
+      <issue>H.R. 2266</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 2266; A bill to amend title 28 of the United States Code to authorize the appointment of additional bankruptcy judges; and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00247</vote_number>
       <vote_date>24-Oct</vote_date>
       <issue>H.R. 2266</issue>
