@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00252</vote_number>
+      <vote_date>26-Oct</vote_date>
+      <issue>PN589</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Trevor N. McFadden, of Virginia, to be United States District Judge for the District of Columbia</title>
+    </vote>
+    <vote>
+      <vote_number>00251</vote_number>
+      <vote_date>26-Oct</vote_date>
+      <issue>PN374</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Confirmation: Scott L. Palk, of Oklahoma, to be United States District Judge for the Western District of Oklahoma</title>
+    </vote>
+    <vote>
       <vote_number>00250</vote_number>
       <vote_date>25-Oct</vote_date>
       <issue>PN374</issue>
