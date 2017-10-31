@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00254</vote_number>
+      <vote_date>30-Oct</vote_date>
+      <issue>PN369</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Amy Coney Barrett, of Indiana, to be U.S. Circuit Judge for the Seventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00253</vote_number>
+      <vote_date>30-Oct</vote_date>
+      <issue>PN589</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Confirmation Trevor N. McFadden, of Virginia to be U.S. District Judge for the District of Columbia</title>
+    </vote>
+    <vote>
       <vote_number>00252</vote_number>
       <vote_date>26-Oct</vote_date>
       <issue>PN589</issue>
