@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00255</vote_number>
+      <vote_date>31-Oct</vote_date>
+      <issue>PN369</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation Amy Coney Barrett, of Indiana, to be U.S. Circuit Judge for the Seventh Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00254</vote_number>
       <vote_date>30-Oct</vote_date>
       <issue>PN369</issue>
@@ -49,7 +61,7 @@
         <yeas>79</yeas>
         <nays>16</nays>
       </vote_tally>
-      <title>Confirmation: Scott L. Palk, of Oklahoma, to be United States District Judge for the Western District of Oklahoma</title>
+      <title>Confirmation Scott L. Palk, of Oklahoma, to be United States District Judge for the Western District of Oklahoma</title>
     </vote>
     <vote>
       <vote_number>00250</vote_number>
