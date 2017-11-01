@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00258</vote_number>
+      <vote_date>01-Nov</vote_date>
+      <issue>PN585</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Allison H. Eid, of Colorado, to be U.S. Circuit Judge for the Tenth Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00257</vote_number>
+      <vote_date>01-Nov</vote_date>
+      <issue>PN371</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Confirmation Joan Louise Larsen, of Michigan, to be U.S. Circuit Judge for the Sixth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00256</vote_number>
       <vote_date>31-Oct</vote_date>
       <issue>PN371</issue>
