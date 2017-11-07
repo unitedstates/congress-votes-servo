@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00262</vote_number>
+      <vote_date>07-Nov</vote_date>
+      <issue>PN669</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Confirmation John H. Gibson II, of Texas, to be Deputy Chief Management Officer of the Department of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00261</vote_number>
       <vote_date>02-Nov</vote_date>
       <issue>PN679</issue>
