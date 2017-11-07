@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00263</vote_number>
+      <vote_date>07-Nov</vote_date>
+      <issue>PN58</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Steven Andrew Engel to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00262</vote_number>
       <vote_date>07-Nov</vote_date>
       <issue>PN669</issue>
