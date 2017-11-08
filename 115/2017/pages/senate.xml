@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00267</vote_number>
+      <vote_date>08-Nov</vote_date>
+      <issue>PN994</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: William L. Wehrum to be an Assistant Administrator of the Environmental Protection Agency</title>
+    </vote>
+    <vote>
+      <vote_number>00266</vote_number>
+      <vote_date>08-Nov</vote_date>
+      <issue>PN1025</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confrimation Peter B. Robb, of Vermont, to be Gener Counsel of the National Labor Relations Board</title>
+    </vote>
+    <vote>
       <vote_number>00265</vote_number>
       <vote_date>07-Nov</vote_date>
       <issue>PN1025</issue>
