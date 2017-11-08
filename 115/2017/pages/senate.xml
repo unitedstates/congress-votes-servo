@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00265</vote_number>
+      <vote_date>07-Nov</vote_date>
+      <issue>PN1025</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Peter B. Robb, of Vermont, to be General Counsel of the National Labor Relations Board</title>
+    </vote>
+    <vote>
+      <vote_number>00264</vote_number>
+      <vote_date>07-Nov</vote_date>
+      <issue>PN58</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation Steven Andrew Engel, of D.C., to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00263</vote_number>
       <vote_date>07-Nov</vote_date>
       <issue>PN58</issue>
