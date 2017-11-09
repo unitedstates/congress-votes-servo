@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00268</vote_number>
+      <vote_date>09-Nov</vote_date>
+      <issue>PN994</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation William L. Wehrum, of Delaware, to be an Assistant Administrator of the Environmental Protection Agency</title>
+    </vote>
+    <vote>
       <vote_number>00267</vote_number>
       <vote_date>08-Nov</vote_date>
       <issue>PN994</issue>
