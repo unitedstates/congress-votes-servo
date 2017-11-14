@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00273</vote_number>
+      <vote_date>14-Nov</vote_date>
+      <issue>PN919</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: David G. Zatezalo, of West Virginia, to be Assistant Secretary of Labor for Mine Safety and Health</title>
+    </vote>
+    <vote>
+      <vote_number>00272</vote_number>
+      <vote_date>14-Nov</vote_date>
+      <issue>PN558</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation Steven Gill Bradbury, of Virginia, to be General Counsel of the Department of Transportation</title>
+    </vote>
+    <vote>
       <vote_number>00271</vote_number>
       <vote_date>13-Nov</vote_date>
       <issue>PN558</issue>
