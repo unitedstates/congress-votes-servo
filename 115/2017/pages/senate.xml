@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00271</vote_number>
+      <vote_date>13-Nov</vote_date>
+      <issue>PN558</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Steven Gill Bradbury to be General Counsel of the Department of Transportation</title>
+    </vote>
+    <vote>
+      <vote_number>00270</vote_number>
+      <vote_date>13-Nov</vote_date>
+      <issue>PN458</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Confirmation Derek Kan, of California, to be Under Secretary of Transportation</title>
+    </vote>
+    <vote>
       <vote_number>00269</vote_number>
       <vote_date>09-Nov</vote_date>
       <issue>PN458</issue>
