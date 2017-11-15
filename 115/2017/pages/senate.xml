@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00276</vote_number>
+      <vote_date>15-Nov</vote_date>
+      <issue>PN556</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Joseph Otting to be Comptroller of the Currency</title>
+    </vote>
+    <vote>
+      <vote_number>00275</vote_number>
+      <vote_date>15-Nov</vote_date>
+      <issue>PN919</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation David G. Zatezalo, of West Virginia, to be Assistant Secretary of Labor for Mine Safety and Health</title>
+    </vote>
+    <vote>
+      <vote_number>00274</vote_number>
+      <vote_date>15-Nov</vote_date>
+      <issue>PN811</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Confirmation: Mark T. Esper, of Virginia, to be Secretary of the Army</title>
+    </vote>
+    <vote>
       <vote_number>00273</vote_number>
       <vote_date>14-Nov</vote_date>
       <issue>PN919</issue>
