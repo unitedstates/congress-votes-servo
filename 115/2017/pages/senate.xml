@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00279</vote_number>
+      <vote_date>16-Nov</vote_date>
+      <issue>PN587</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Dabney Langhorne Friedrich, of California, to be U.S. District Judge for the District of Columbia</title>
+    </vote>
+    <vote>
+      <vote_number>00278</vote_number>
+      <vote_date>16-Nov</vote_date>
+      <issue>PN875</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Donald C. Coggins Jr. to be U.S. District Judge for the District of South Carolina</title>
+    </vote>
+    <vote>
+      <vote_number>00277</vote_number>
+      <vote_date>16-Nov</vote_date>
+      <issue>PN556</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation Joseph Otting, of Nevada, to be Comptroller of the Currency</title>
+    </vote>
+    <vote>
       <vote_number>00276</vote_number>
       <vote_date>15-Nov</vote_date>
       <issue>PN556</issue>
