@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00282</vote_number>
+      <vote_date>27-Nov</vote_date>
+      <issue>PN999</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Gregory G. Katsas, of Virginia, to be United States Circuit Judge for the District of Columbia Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00281</vote_number>
+      <vote_date>27-Nov</vote_date>
+      <issue>PN587</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Confirmation Dabney Langhorne Friedrich, of California, to be United States District Judge for the District of Columbia</title>
+    </vote>
+    <vote>
       <vote_number>00280</vote_number>
       <vote_date>16-Nov</vote_date>
       <issue>PN875</issue>
