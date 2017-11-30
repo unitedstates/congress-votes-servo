@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00288</vote_number>
+      <vote_date>30-Nov</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>King Motion to Commit H.R. 1 to the Committee on Finance; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00287</vote_number>
       <vote_date>30-Nov</vote_date>
       <issue>H.R. 1</issue>
