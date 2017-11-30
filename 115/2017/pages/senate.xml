@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00284</vote_number>
+      <vote_date>29-Nov</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H.R. 1; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00283</vote_number>
       <vote_date>28-Nov</vote_date>
       <issue>PN999</issue>
