@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00285</vote_number>
+      <vote_date>29-Nov</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Wyden Motion to Commit H.R. 1 to the Committee on Finance ; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00284</vote_number>
       <vote_date>29-Nov</vote_date>
       <issue>H.R. 1</issue>
