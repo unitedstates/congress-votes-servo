@@ -2,14 +2,14 @@
   <congress>115</congress>
   <session>1</session>
   <congress_year>2017</congress_year>
-  <vote_number>288</vote_number>
-  <vote_date>November 30, 2017,  04:31 PM</vote_date>
-  <modify_date>November 30, 2017,  05:48 PM</modify_date>
-  <vote_question_text>On the Motion (King Motion to Commit H.R. 1 to the Committee on Finance)</vote_question_text>
+  <vote_number>289</vote_number>
+  <vote_date>November 30, 2017,  07:01 PM</vote_date>
+  <modify_date>November 30, 2017,  07:41 PM</modify_date>
+  <vote_question_text>On the Motion (Stabenow Motion to Commit H.R. 1 to the Committee on Finance)</vote_question_text>
   <vote_document_text>To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</vote_document_text>
-  <vote_result_text>Motion Rejected (48-52)</vote_result_text>
+  <vote_result_text>Motion Rejected (45-55)</vote_result_text>
   <question>On the Motion</question>
-  <vote_title>King Motion to Commit H.R. 1 to the Committee on Finance</vote_title>
+  <vote_title>Stabenow Motion to Commit H.R. 1 to the Committee on Finance</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Motion Rejected</vote_result>
   <document>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>48</yeas>
-    <nays>52</nays>
+    <yeas>45</yeas>
+    <nays>55</nays>
     <present/>
     <absent/>
   </count>
@@ -279,7 +279,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>IN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S356</lis_member_id>
     </member>
     <member>
@@ -432,7 +432,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -558,7 +558,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>WV</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S338</lis_member_id>
     </member>
     <member>
