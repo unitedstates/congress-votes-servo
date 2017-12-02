@@ -4,6 +4,114 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00303</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>H.R. 1 As Amended; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
+      <vote_number>00302</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Amendment <measure>S.Amdt. 1856</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Merkley Amdt. No. 1856; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00301</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion <measure>S.Amdt. 1717</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Waive the CBA Re: Cantwell Amdt. No. 1717; To strike title II.</title>
+    </vote>
+    <vote>
+      <vote_number>00300</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>38</yeas>
+        <nays>61</nays>
+      </vote_tally>
+      <title>Manchin Motion to Commit H.R. 1 to the Committee on Finance; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
+      <vote_number>00299</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion <measure>S.Amdt. 1846</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>34</yeas>
+        <nays>65</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Re: Kaine Amdt. No. 1846; To provide middle class tax relief.</title>
+    </vote>
+    <vote>
+      <vote_number>00298</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Amendment <measure>S.Amdt. 1852</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Cruz Amdt. No. 1852; To allow limited 529 account funds to be used for elementary and secondary education, including homeschool.</title>
+    </vote>
+    <vote>
+      <vote_number>00297</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Menendez Motion to Commit H.R. 1 to the Committee on Finance; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
+      <vote_number>00296</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion <measure>S.Amdt. 1850</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>29</yeas>
+        <nays>71</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Re: Rubio Amdt. No. 1850; To increase the refundability of the child tax credit, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00295</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion <measure>S.Amdt. 1854</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Re: Brown Amdt. No. 1854; To amend the Internal Revenue Code of 1986 to increase the Child Tax Credit, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00294</vote_number>
       <vote_date>01-Dec</vote_date>
       <issue>H.R. 1</issue>
