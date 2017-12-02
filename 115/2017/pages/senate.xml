@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00294</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion <measure>S.Amdt. 1720</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Re: Sanders Amdt. No. 1720; To create a point of order against legislation that cuts Social Security, Medicare, or Medicaid benefits.</title>
+    </vote>
+    <vote>
+      <vote_number>00293</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion to Adjourn</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Schumer Motion to Adjourn Until Noon Monday; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00292</vote_number>
       <vote_date>01-Dec</vote_date>
       <issue>H.R. 1</issue>
