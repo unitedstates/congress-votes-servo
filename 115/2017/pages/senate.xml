@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00305</vote_number>
+      <vote_date>05-Dec</vote_date>
+      <issue>PN1095</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Confirmation Kirstjen Nielsen, of Virginia, to be Secretary of Homeland Security</title>
+    </vote>
+    <vote>
       <vote_number>00304</vote_number>
       <vote_date>04-Dec</vote_date>
       <issue>PN1095</issue>
