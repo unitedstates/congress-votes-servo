@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00304</vote_number>
+      <vote_date>04-Dec</vote_date>
+      <issue>PN1095</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Kirstjen Nielsen, of Virginia, to be Secretary of Homeland Security</title>
+    </vote>
+    <vote>
       <vote_number>00303</vote_number>
       <vote_date>02-Dec</vote_date>
       <issue>H.R. 1</issue>
