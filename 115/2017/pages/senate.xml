@@ -4,6 +4,42 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00308</vote_number>
+      <vote_date>06-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Stabenow Motion to Instruct Conferees Re: H.R. 1; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
+      <vote_number>00307</vote_number>
+      <vote_date>06-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>King Motion to Instruct Conferees Re: H.R. 1; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
+      <vote_number>00306</vote_number>
+      <vote_date>06-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Insist on the Senate Amdt. to H.R. 1, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00305</vote_number>
       <vote_date>05-Dec</vote_date>
       <issue>PN1095</issue>
