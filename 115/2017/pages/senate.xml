@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00310</vote_number>
+      <vote_date>07-Dec</vote_date>
+      <issue>PN814</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Confirmation Joseph Balash, of Alaska, to be an Assistant Secretary of the Interior</title>
+    </vote>
+    <vote>
       <vote_number>00309</vote_number>
       <vote_date>06-Dec</vote_date>
       <issue>H.R. 1</issue>
