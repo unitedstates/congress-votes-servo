@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00312</vote_number>
+      <vote_date>11-Dec</vote_date>
+      <issue>PN878</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Leonard Steven Grasz to be U.S. Circuit Judge for the Eighth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00311</vote_number>
       <vote_date>07-Dec</vote_date>
       <issue>H.J.Res. 123</issue>
