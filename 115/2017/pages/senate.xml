@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00319</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>PN555</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Confirmation Owen West, of Connecticut, to be an Assistant Secretary of Defense</title>
+    </vote>
+    <vote>
+      <vote_number>00318</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>PN514</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Confirmation J. Paul Compton, Jr., of Alabama, to be General Counsel of the Department of Housing and Urban Development</title>
+    </vote>
+    <vote>
       <vote_number>00317</vote_number>
       <vote_date>14-Dec</vote_date>
       <issue>PN1108</issue>
