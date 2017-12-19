@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00320</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN914</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Confirmation Jennifer Gilliam Newstead, of New York, to be Legal Adviser of the Department of State</title>
+    </vote>
+    <vote>
       <vote_number>00319</vote_number>
       <vote_date>18-Dec</vote_date>
       <issue>PN555</issue>
