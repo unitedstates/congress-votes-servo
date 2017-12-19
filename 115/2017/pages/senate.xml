@@ -4,6 +4,18 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00321</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the Conference Report to Accompany H.R. 1; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00320</vote_number>
       <vote_date>19-Dec</vote_date>
       <issue>PN914</issue>
@@ -13,7 +25,7 @@
         <yeas>88</yeas>
         <nays>11</nays>
       </vote_tally>
-      <title>Confirmation Jennifer Gilliam Newstead, of New York, to be Legal Adviser of the Department of State</title>
+      <title>Confirmation Jennifer Gillian Newstead, of New York, to be Legal Adviser of the Department of State</title>
     </vote>
     <vote>
       <vote_number>00319</vote_number>
