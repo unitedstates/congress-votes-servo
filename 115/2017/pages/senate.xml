@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00323</vote_number>
+      <vote_date>20-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Recede from the Senate Amendment to H.R. 1 and Concur with Further Amendment; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
+      <vote_number>00322</vote_number>
+      <vote_date>20-Dec</vote_date>
+      <issue>H.R. 1</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budget Resolutions Re: The Conference Report to Accompany H.R. 1  ; To provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00321</vote_number>
       <vote_date>19-Dec</vote_date>
       <issue>H.R. 1</issue>
