@@ -4,6 +4,30 @@
   <congress_year>2017</congress_year>
   <votes>
     <vote>
+      <vote_number>00325</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>H.R. 1370</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1370; A bill to amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department of Homeland Security-wide guidance and develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00324</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>H.R. 1370</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: The Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1370; A bill to amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to issue Department of Homeland Security-wide guidance and develop training programs as part of the Department of Homeland Security Blue Campaign, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00323</vote_number>
       <vote_date>20-Dec</vote_date>
       <issue>H.R. 1</issue>
