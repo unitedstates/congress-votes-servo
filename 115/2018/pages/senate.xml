@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00004</vote_number>
+      <vote_date>09-Jan</vote_date>
+      <issue>PN752</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Thomas Lee Robinson Parker to be U.S. District Judge for the Western District of Tennessee</title>
+    </vote>
+    <vote>
+      <vote_number>00003</vote_number>
+      <vote_date>09-Jan</vote_date>
+      <issue>PN748</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation William L. Campbell, Jr., of Tennessee, to be U.S. District Judge for the Middle District of Tennessee</title>
+    </vote>
+    <vote>
       <vote_number>00002</vote_number>
       <vote_date>08-Jan</vote_date>
       <issue>PN748</issue>
