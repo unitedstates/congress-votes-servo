@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00008</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>PN1015</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Walter David Counts, III, of Texas, to be United States District Judge for the Western District of Texas.</title>
+    </vote>
+    <vote>
+      <vote_number>00007</vote_number>
+      <vote_date>11-Jan</vote_date>
+      <issue>PN747</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Michael Lawrence Brown, of Georgia, to be United States District Judge for the Northern District of Georgia</title>
+    </vote>
+    <vote>
       <vote_number>00006</vote_number>
       <vote_date>10-Jan</vote_date>
       <issue>PN747</issue>
