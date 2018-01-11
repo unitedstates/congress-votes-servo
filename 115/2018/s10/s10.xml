@@ -4,10 +4,10 @@
   <congress_year>2018</congress_year>
   <vote_number>10</vote_number>
   <vote_date>January 11, 2018,  02:08 PM</vote_date>
-  <modify_date>January 11, 2018,  02:37 PM</modify_date>
+  <modify_date>January 11, 2018,  03:37 PM</modify_date>
   <vote_question_text>On the Motion to Proceed S. 139</vote_question_text>
   <vote_document_text>A bill to implement the use of Rapid DNA instruments to inform decisions about pretrial release or detention and their conditions, to solve and prevent violent crimes and other crimes, to exonerate the innocent, to prevent DNA analysis backlogs, and for other purposes.</vote_document_text>
-  <vote_result_text>Motion to Proceed Agreed to (69-26)</vote_result_text>
+  <vote_result_text>Motion to Proceed Agreed to (68-27)</vote_result_text>
   <question>On the Motion to Proceed</question>
   <vote_title>Motion to Proceed to the House Message to Accompany S. 139</vote_title>
   <majority_requirement>1/2</majority_requirement>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>69</yeas>
-    <nays>26</nays>
+    <yeas>68</yeas>
+    <nays>27</nays>
     <present/>
     <absent>5</absent>
   </count>
@@ -270,7 +270,7 @@
       <first_name>Steve</first_name>
       <party>R</party>
       <state>MT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S375</lis_member_id>
     </member>
     <member>
