@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00011</vote_number>
+      <vote_date>16-Jan</vote_date>
+      <issue>S. 139</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Concur in the House Amdt. to S. 139; A bill to implement the use of Rapid DNA instruments to inform decisions about pretrial release or detention and their conditions, to solve and prevent violent crimes and other crimes, to exonerate the innocent, to prevent DNA analysis backlogs, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00010</vote_number>
       <vote_date>11-Jan</vote_date>
       <issue>S. 139</issue>
