@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00013</vote_number>
+      <vote_date>18-Jan</vote_date>
+      <issue>H.R. 195</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the House Message to Accompany H.R. 195; A bill to amend title 44, United States Code, to restrict the distribution of free printed copies of the Federal Register to Members of Congress and other officers and employees of the United States, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00012</vote_number>
       <vote_date>18-Jan</vote_date>
       <issue>S. 139</issue>
