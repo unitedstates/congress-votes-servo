@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00015</vote_number>
+      <vote_date>20-Jan</vote_date>
+      <issue>H.R. 195</issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Refer H.R. 195 to the Committee on Appropriations with Instructions; A bill to amend title 44, United States Code, to restrict the distribution of free printed copies of the Federal Register to Members of Congress and other officers and employees of the United States, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00014</vote_number>
+      <vote_date>19-Jan</vote_date>
+      <issue>H.R. 195</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: House Amendment to the Senate Amendment to H.R. 195; A bill to amend title 44, United States Code, to restrict the distribution of free printed copies of the Federal Register to Members of Congress and other officers and employees of the United States, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00013</vote_number>
       <vote_date>18-Jan</vote_date>
       <issue>H.R. 195</issue>
