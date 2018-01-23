@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00019</vote_number>
+      <vote_date>23-Jan</vote_date>
+      <issue>PN1353</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation Jerome H. Powell, of Maryland, to be Chairman of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
       <vote_number>00018</vote_number>
       <vote_date>23-Jan</vote_date>
       <issue>PN1353</issue>
