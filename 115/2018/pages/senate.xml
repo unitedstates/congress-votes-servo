@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00018</vote_number>
+      <vote_date>23-Jan</vote_date>
+      <issue>PN1353</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Jerome H. Powell, to be Chairman of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
       <vote_number>00017</vote_number>
       <vote_date>22-Jan</vote_date>
       <issue>H.R. 195</issue>
