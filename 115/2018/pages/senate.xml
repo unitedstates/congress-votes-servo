@@ -4,14 +4,26 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00020</vote_number>
+      <vote_date>23-Jan</vote_date>
+      <issue>PN1371</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Alex Michael Azar to be Secretary of Health and Human Services</title>
+    </vote>
+    <vote>
       <vote_number>00019</vote_number>
       <vote_date>23-Jan</vote_date>
       <issue>PN1353</issue>
       <question>On the Nomination</question>
       <result>Confirmed</result>
       <vote_tally>
-        <yeas>85</yeas>
-        <nays>12</nays>
+        <yeas>84</yeas>
+        <nays>13</nays>
       </vote_tally>
       <title>Confirmation Jerome H. Powell, of Maryland, to be Chairman of the Board of Governors of the Federal Reserve System</title>
     </vote>
