@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00022</vote_number>
+      <vote_date>24-Jan</vote_date>
+      <issue>PN1341</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Samuel Dale Brownback to be Ambassador at Large for International Religious Freedom</title>
+    </vote>
+    <vote>
+      <vote_number>00021</vote_number>
+      <vote_date>24-Jan</vote_date>
+      <issue>PN1371</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation Alex Michael Azar II, of Indiana, to be Secretary of Health and Human Services</title>
+    </vote>
+    <vote>
       <vote_number>00020</vote_number>
       <vote_date>23-Jan</vote_date>
       <issue>PN1371</issue>
