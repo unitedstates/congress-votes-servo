@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00024</vote_number>
+      <vote_date>25-Jan</vote_date>
+      <issue>PN1079</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Confirmation R. D. James, of Missouri, to be an Assistant Secretary of the Army</title>
+    </vote>
+    <vote>
       <vote_number>00023</vote_number>
       <vote_date>24-Jan</vote_date>
       <issue>PN1341</issue>
