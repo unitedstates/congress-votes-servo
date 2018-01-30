@@ -2,23 +2,23 @@
   <congress>115</congress>
   <session>2</session>
   <congress_year>2018</congress_year>
-  <vote_number>25</vote_number>
-  <vote_date>January 29, 2018,  05:50 PM</vote_date>
-  <modify_date>January 30, 2018,  02:57 PM</modify_date>
-  <vote_question_text>On Cloture on the Motion to Proceed S. 2311</vote_question_text>
-  <vote_document_text>A bill to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</vote_document_text>
-  <vote_result_text>Cloture on the Motion to Proceed Rejected (51-46, 3/5 majority required)</vote_result_text>
-  <question>On Cloture on the Motion to Proceed</question>
-  <vote_title>Motion to Invoke Cloture on the Motion to Proceed to the Consideration of S. 2311</vote_title>
-  <majority_requirement>3/5</majority_requirement>
-  <vote_result>Cloture on the Motion to Proceed Rejected</vote_result>
+  <vote_number>27</vote_number>
+  <vote_date>January 30, 2018,  02:15 PM</vote_date>
+  <modify_date>January 30, 2018,  02:54 PM</modify_date>
+  <vote_question_text>On the Nomination PN1423</vote_question_text>
+  <vote_document_text>David Ryan Stras, of Minnesota, to be United States Circuit Judge for the Eighth Circuit</vote_document_text>
+  <vote_result_text>Nomination Confirmed (56-42)</vote_result_text>
+  <question>On the Nomination</question>
+  <vote_title>Confirmation: David Ryan Stras, of Minnesota, to be U.S. Circuit Judge for the Eighth Circuit</vote_title>
+  <majority_requirement>1/2</majority_requirement>
+  <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
-    <document_type>S.</document_type>
-    <document_number>2311</document_number>
-    <document_name>S. 2311</document_name>
-    <document_title>A bill to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</document_title>
-    <document_short_title>Pain-Capable Unborn Child Protection Act</document_short_title>
+    <document_type>PN</document_type>
+    <document_number>1423</document_number>
+    <document_name>PN1423</document_name>
+    <document_title>David Ryan Stras, of Minnesota, to be United States Circuit Judge for the Eighth Circuit</document_title>
+    <document_short_title/>
   </document>
   <amendment>
     <amendment_number/>
@@ -29,10 +29,10 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>51</yeas>
-    <nays>46</nays>
+    <yeas>56</yeas>
+    <nays>42</nays>
     <present/>
-    <absent>3</absent>
+    <absent>2</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -54,7 +54,7 @@
       <first_name>Tammy</first_name>
       <party>D</party>
       <state>WI</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S354</lis_member_id>
     </member>
     <member>
@@ -144,7 +144,7 @@
       <first_name>Shelley</first_name>
       <party>R</party>
       <state>WV</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S372</lis_member_id>
     </member>
     <member>
@@ -171,7 +171,7 @@
       <first_name>Bob</first_name>
       <party>D</party>
       <state>PA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S309</lis_member_id>
     </member>
     <member>
@@ -198,7 +198,7 @@
       <first_name>Susan</first_name>
       <party>R</party>
       <state>ME</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S252</lis_member_id>
     </member>
     <member>
@@ -423,7 +423,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -486,7 +486,7 @@
       <first_name>Doug</first_name>
       <party>D</party>
       <state>AL</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S393</lis_member_id>
     </member>
     <member>
@@ -522,7 +522,7 @@
       <first_name>Amy</first_name>
       <party>D</party>
       <state>MN</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S311</lis_member_id>
     </member>
     <member>
@@ -585,7 +585,7 @@
       <first_name>Claire</first_name>
       <party>D</party>
       <state>MO</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S312</lis_member_id>
     </member>
     <member>
@@ -630,7 +630,7 @@
       <first_name>Lisa</first_name>
       <party>R</party>
       <state>AK</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S288</lis_member_id>
     </member>
     <member>
@@ -657,7 +657,7 @@
       <first_name>Bill</first_name>
       <party>D</party>
       <state>FL</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S282</lis_member_id>
     </member>
     <member>
@@ -891,7 +891,7 @@
       <first_name>Mark</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S327</lis_member_id>
     </member>
     <member>
