@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00026</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>PN1423</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: David Ryan Stras to be U.S. Circuit Judge for the Eighth Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00025</vote_number>
+      <vote_date>29-Jan</vote_date>
+      <issue>S. 2311</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to the Consideration of S. 2311; A bill to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00024</vote_number>
       <vote_date>25-Jan</vote_date>
       <issue>PN1079</issue>
