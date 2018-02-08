@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00029</vote_number>
+      <vote_date>08-Feb</vote_date>
+      <issue>H.R. 695</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 695; To amend the National Child Protection Act of 1993 to establish a voluntary national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00028</vote_number>
       <vote_date>05-Feb</vote_date>
       <issue>PN927</issue>
