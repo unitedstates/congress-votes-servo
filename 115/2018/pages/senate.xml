@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00031</vote_number>
+      <vote_date>09-Feb</vote_date>
+      <issue>H.R. 1892</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>71</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1892 with an Amendment (SA 1930); A bill to amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.</title>
+    </vote>
+    <vote>
+      <vote_number>00030</vote_number>
+      <vote_date>09-Feb</vote_date>
+      <issue>H.R. 1892</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Motion to Concur in the House Amdt. to the Senate Amdt. to H.R. 1892 with an Amendment (SA 1930); A bill to amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.</title>
+    </vote>
+    <vote>
       <vote_number>00029</vote_number>
       <vote_date>08-Feb</vote_date>
       <issue>H.R. 695</issue>
