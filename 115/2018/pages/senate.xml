@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00032</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>H.R. 2579</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to the Consideration of H.R. 2579; A bill to amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage.</title>
+    </vote>
+    <vote>
       <vote_number>00031</vote_number>
       <vote_date>09-Feb</vote_date>
       <issue>H.R. 1892</issue>
