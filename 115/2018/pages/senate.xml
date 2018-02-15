@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00034</vote_number>
+      <vote_date>15-Feb</vote_date>
+      <issue>H.R. 2579</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 1948</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 1948; To ensure that State and local law enforcement may cooperate with Federal officials to protect our communities from violent criminals and suspected terrorists who are illegally present in the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00033</vote_number>
+      <vote_date>15-Feb</vote_date>
+      <issue>H.R. 2579</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 1955</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 1955; To provide relief from removal and adjustment of status of certain individuals who are long-term United States residents and who entered the United States before reaching the age of 18, improve border security, foster United States engagement in Central America, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00032</vote_number>
       <vote_date>12-Feb</vote_date>
       <issue>H.R. 2579</issue>
