@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00036</vote_number>
+      <vote_date>15-Feb</vote_date>
+      <issue>H.R. 2579</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 1959</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>60</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 1959; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00035</vote_number>
       <vote_date>15-Feb</vote_date>
       <issue>H.R. 2579</issue>
