@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00039</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>PN367</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Russell Vought to be Deputy Director of the Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00038</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>PN1404</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Confirmation: Elizabeth L. Branch, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00037</vote_number>
       <vote_date>26-Feb</vote_date>
       <issue>PN1404</issue>
