@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00037</vote_number>
+      <vote_date>26-Feb</vote_date>
+      <issue>PN1404</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>22</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Elizabeth L. Branch, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00036</vote_number>
       <vote_date>15-Feb</vote_date>
       <issue>H.R. 2579</issue>
