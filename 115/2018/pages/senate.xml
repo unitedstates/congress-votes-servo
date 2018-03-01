@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00041</vote_number>
+      <vote_date>28-Feb</vote_date>
+      <issue>PN884</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on A. Marvin Quattlebaum, Jr., of South Carolina, to be U.S. District Judge for the District of South Carolina</title>
+    </vote>
+    <vote>
       <vote_number>00040</vote_number>
       <vote_date>28-Feb</vote_date>
       <issue>PN367</issue>
