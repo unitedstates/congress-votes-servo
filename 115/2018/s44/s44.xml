@@ -2,22 +2,22 @@
   <congress>115</congress>
   <session>2</session>
   <congress_year>2018</congress_year>
-  <vote_number>43</vote_number>
-  <vote_date>March 1, 2018,  12:25 PM</vote_date>
-  <modify_date>March 1, 2018,  12:49 PM</modify_date>
-  <vote_question_text>On the Cloture Motion PN992</vote_question_text>
-  <vote_document_text>Karen Gren Scholer, of Texas, to be United States District Judge for the Northern District of Texas</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (96-1)</vote_result_text>
+  <vote_number>44</vote_number>
+  <vote_date>March 1, 2018,  12:44 PM</vote_date>
+  <modify_date>March 1, 2018,  01:11 PM</modify_date>
+  <vote_question_text>On the Cloture Motion PN755</vote_question_text>
+  <vote_document_text>Tilman Eugene Self III, of Georgia, to be United States District Judge for the Middle District of Georgia</vote_document_text>
+  <vote_result_text>Cloture Motion Agreed to (85-12)</vote_result_text>
   <question>On the Cloture Motion</question>
-  <vote_title>Motion to Invoke Cloture Re: Karen Gren Scholer to be U.S. District Judge for the Northern District of Texas</vote_title>
+  <vote_title>Motion to Invoke Cloture Re: Tilman Eugene Self III to be U.S. District Judge for the Middle District of Georgia</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Cloture Motion Agreed to</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
-    <document_number>992</document_number>
-    <document_name>PN992</document_name>
-    <document_title>Karen Gren Scholer, of Texas, to be United States District Judge for the Northern District of Texas</document_title>
+    <document_number>755</document_number>
+    <document_name>PN755</document_name>
+    <document_title>Tilman Eugene Self III, of Georgia, to be United States District Judge for the Middle District of Georgia</document_title>
     <document_short_title/>
   </document>
   <amendment>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>96</yeas>
-    <nays>1</nays>
+    <yeas>85</yeas>
+    <nays>12</nays>
     <present/>
     <absent>3</absent>
   </count>
@@ -99,7 +99,7 @@
       <first_name>Cory</first_name>
       <party>D</party>
       <state>NJ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S370</lis_member_id>
     </member>
     <member>
@@ -360,7 +360,7 @@
       <first_name>Kirsten</first_name>
       <party>D</party>
       <state>NY</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S331</lis_member_id>
     </member>
     <member>
@@ -387,7 +387,7 @@
       <first_name>Kamala</first_name>
       <party>D</party>
       <state>CA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S387</lis_member_id>
     </member>
     <member>
@@ -567,7 +567,7 @@
       <first_name>Edward</first_name>
       <party>D</party>
       <state>MA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S369</lis_member_id>
     </member>
     <member>
@@ -603,7 +603,7 @@
       <first_name>Robert</first_name>
       <party>D</party>
       <state>NJ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S306</lis_member_id>
     </member>
     <member>
@@ -612,7 +612,7 @@
       <first_name>Jeff</first_name>
       <party>D</party>
       <state>OR</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S322</lis_member_id>
     </member>
     <member>
@@ -684,7 +684,7 @@
       <first_name>Gary</first_name>
       <party>D</party>
       <state>MI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S380</lis_member_id>
     </member>
     <member>
@@ -747,7 +747,7 @@
       <first_name>Bernie</first_name>
       <party>I</party>
       <state>VT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S313</lis_member_id>
     </member>
     <member>
@@ -765,7 +765,7 @@
       <first_name>Brian</first_name>
       <party>D</party>
       <state>HI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S353</lis_member_id>
     </member>
     <member>
@@ -819,7 +819,7 @@
       <first_name>Debbie</first_name>
       <party>D</party>
       <state>MI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S284</lis_member_id>
     </member>
     <member>
@@ -900,7 +900,7 @@
       <first_name>Elizabeth</first_name>
       <party>D</party>
       <state>MA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S366</lis_member_id>
     </member>
     <member>

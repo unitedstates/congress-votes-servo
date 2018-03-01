@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00044</vote_number>
+      <vote_date>01-Mar</vote_date>
+      <issue>PN755</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Tilman Eugene Self III to be U.S. District Judge for the Middle District of Georgia</title>
+    </vote>
+    <vote>
       <vote_number>00043</vote_number>
       <vote_date>01-Mar</vote_date>
       <issue>PN992</issue>
