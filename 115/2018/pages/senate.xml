@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00045</vote_number>
+      <vote_date>01-Mar</vote_date>
+      <issue>PN876</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Terry A. Doughty to be U.S. District Judge for the Western District of Louisiana </title>
+    </vote>
+    <vote>
       <vote_number>00044</vote_number>
       <vote_date>01-Mar</vote_date>
       <issue>PN755</issue>
@@ -61,7 +73,7 @@
         <yeas>49</yeas>
         <nays>49</nays>
       </vote_tally>
-      <title>Confirmation: Russell Vought, of Virginia, to be Deputy Director of the Office of Management and Budget </title>
+      <title>Confirmation Russell Vought, of Virginia, to be Deputy Director of the Office of Management and Budget </title>
     </vote>
     <vote>
       <vote_number>00039</vote_number>
