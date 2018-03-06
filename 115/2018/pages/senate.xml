@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00047</vote_number>
+      <vote_date>05-Mar</vote_date>
+      <issue>PN755</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Confirmation Tilman Eugene Self III, of Georgia, to be U.S. District Judge for the Middle District of Georgia</title>
+    </vote>
+    <vote>
+      <vote_number>00046</vote_number>
+      <vote_date>05-Mar</vote_date>
+      <issue>PN992</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Karen Green Scholer, of Texas, to be U.S. District Judge for the Northern District of Texas</title>
+    </vote>
+    <vote>
       <vote_number>00045</vote_number>
       <vote_date>01-Mar</vote_date>
       <issue>PN876</issue>
