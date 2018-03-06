@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00049</vote_number>
+      <vote_date>06-Mar</vote_date>
+      <issue>PN876</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Terry A. Doughty, of Louisiana, to be U.S. District Judge for the Western District of Louisiana</title>
+    </vote>
+    <vote>
+      <vote_number>00048</vote_number>
+      <vote_date>06-Mar</vote_date>
+      <issue>S. 2155</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 2155; A bill to promote economic growth, provide tailored regulatory relief, and enhance consumer protections, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00047</vote_number>
       <vote_date>05-Mar</vote_date>
       <issue>PN755</issue>
