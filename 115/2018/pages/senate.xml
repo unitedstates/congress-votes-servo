@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00050</vote_number>
+      <vote_date>12-Mar</vote_date>
+      <issue>S. 2155</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 2151</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Crapo Amendment No. 2151, As Modified; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00049</vote_number>
       <vote_date>06-Mar</vote_date>
       <issue>PN876</issue>
