@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00052</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S. 2155</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S. 2155; A bill to promote economic growth, provide tailored regulatory relief, and enhance consumer protections, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00051</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S. 2155</issue>
+      <question>On the Amendment <measure>S.Amdt. 2151</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Crapo Amdt. No. 2151 As Modified; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00050</vote_number>
       <vote_date>12-Mar</vote_date>
       <issue>S. 2155</issue>
