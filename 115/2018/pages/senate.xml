@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00057</vote_number>
+      <vote_date>19-Mar</vote_date>
+      <issue>H.R. 1865</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 1865; A bill to amend the Communications Act of 1934 to clarify that section 230 of such Act does not prohibit the enforcement against providers and users of interactive computer services of Federal and State criminal and civil law relating to sexual exploitation of children or sex trafficking, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00056</vote_number>
+      <vote_date>19-Mar</vote_date>
+      <issue>PN1373</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Confirmation Kevin K. McAleenan, of Hawaii, to be Commissioner of U.S. Customs and Border Protection</title>
+    </vote>
+    <vote>
       <vote_number>00055</vote_number>
       <vote_date>14-Mar</vote_date>
       <issue>PN1373</issue>
