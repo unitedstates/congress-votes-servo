@@ -4,14 +4,14 @@
   <congress_year>2018</congress_year>
   <vote_number>57</vote_number>
   <vote_date>March 19, 2018,  06:06 PM</vote_date>
-  <modify_date>March 19, 2018,  06:32 PM</modify_date>
-  <vote_question_text>On the Cloture Motion H.R. 1865</vote_question_text>
+  <modify_date>March 20, 2018,  02:14 PM</modify_date>
+  <vote_question_text>On Cloture on the Motion to Proceed H.R. 1865</vote_question_text>
   <vote_document_text>A bill to amend the Communications Act of 1934 to clarify that section 230 of such Act does not prohibit the enforcement against providers and users of interactive computer services of Federal and State criminal and civil law relating to sexual exploitation of children or sex trafficking, and for other purposes.</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (94-2, 3/5 majority required)</vote_result_text>
-  <question>On the Cloture Motion</question>
+  <vote_result_text>Cloture on the Motion to Proceed Agreed to (94-2, 3/5 majority required)</vote_result_text>
+  <question>On Cloture on the Motion to Proceed</question>
   <vote_title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 1865</vote_title>
   <majority_requirement>3/5</majority_requirement>
-  <vote_result>Cloture Motion Agreed to</vote_result>
+  <vote_result>Cloture on the Motion to Proceed Agreed to</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>H.R.</document_type>
