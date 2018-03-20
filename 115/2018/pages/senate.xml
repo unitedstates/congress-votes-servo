@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00058</vote_number>
+      <vote_date>20-Mar</vote_date>
+      <issue>S.J.Res. 54</issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Discharge S. J. Res. 54; A joint resolution to direct the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress.</title>
+    </vote>
+    <vote>
       <vote_number>00057</vote_number>
       <vote_date>19-Mar</vote_date>
       <issue>H.R. 1865</issue>
