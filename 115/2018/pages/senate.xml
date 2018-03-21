@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00060</vote_number>
+      <vote_date>21-Mar</vote_date>
+      <issue>H.R. 1865</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>H.R. 1865; A bill to amend the Communications Act of 1934 to clarify that section 230 of such Act does not prohibit the enforcement against providers and users of interactive computer services of Federal and State criminal and civil law relating to sexual exploitation of children or sex trafficking, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00059</vote_number>
+      <vote_date>21-Mar</vote_date>
+      <issue>H.R. 1865</issue>
+      <question>On the Motion <measure>S.Amdt. 2213</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>21</yeas>
+        <nays>78</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Wyden Amdt. No. 2213; To provide additional funding to the Department of Justice to combat the online facilitation of sex trafficking.</title>
+    </vote>
+    <vote>
       <vote_number>00058</vote_number>
       <vote_date>20-Mar</vote_date>
       <issue>S.J.Res. 54</issue>
