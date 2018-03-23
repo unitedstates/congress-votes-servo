@@ -4,6 +4,42 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00063</vote_number>
+      <vote_date>23-Mar</vote_date>
+      <issue>H.R. 1625</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625; A bill to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00062</vote_number>
+      <vote_date>23-Mar</vote_date>
+      <issue>H.R. 1625</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625; A bill to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00061</vote_number>
+      <vote_date>22-Mar</vote_date>
+      <issue>H.R. 1625</issue>
+      <question>On the Motion for Attendance</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Instruct the Sergeant-at-Arms to Request the Presence of Absentee Senators; A bill to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00060</vote_number>
       <vote_date>21-Mar</vote_date>
       <issue>H.R. 1865</issue>
