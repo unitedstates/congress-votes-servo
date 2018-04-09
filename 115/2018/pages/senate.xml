@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00064</vote_number>
+      <vote_date>09-Apr</vote_date>
+      <issue>PN596</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Claria Horn Boom, of Kentucky, to be U.S. District Judge for the Eastern and Western Districts of Kentucky</title>
+    </vote>
+    <vote>
       <vote_number>00063</vote_number>
       <vote_date>23-Mar</vote_date>
       <issue>H.R. 1625</issue>
@@ -13,7 +25,7 @@
         <yeas>65</yeas>
         <nays>32</nays>
       </vote_tally>
-      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625; A bill to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.</title>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625; Making appropriations for the fiscal year ending September 30, 2018, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00062</vote_number>
@@ -25,7 +37,7 @@
         <yeas>67</yeas>
         <nays>30</nays>
       </vote_tally>
-      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625; A bill to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.</title>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to H.R. 1625; Making appropriations for the fiscal year ending September 30, 2018, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00061</vote_number>
@@ -37,7 +49,7 @@
         <yeas>91</yeas>
         <nays>6</nays>
       </vote_tally>
-      <title>Motion to Instruct the Sergeant-at-Arms to Request the Presence of Absentee Senators; A bill to amend the State Department Basic Authorities Act of 1956 to include severe forms of trafficking in persons within the definition of transnational organized crime for purposes of the rewards program of the Department of State, and for other purposes.</title>
+      <title>Motion to Instruct the Sergeant-at-Arms to Request the Presence of Absentee Senators; Making appropriations for the fiscal year ending September 30, 2018, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00060</vote_number>
