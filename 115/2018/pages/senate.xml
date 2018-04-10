@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00066</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>PN1443</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: John F. Ring to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
       <vote_number>00065</vote_number>
       <vote_date>10-Apr</vote_date>
       <issue>PN596</issue>
@@ -13,7 +25,7 @@
         <yeas>96</yeas>
         <nays>1</nays>
       </vote_tally>
-      <title>Confirmation: Claria Horn Boom, of Kentucky, to be U.S. District Judge for the Eastern and Western Districts of Kentucky</title>
+      <title>Confirmation Claria Horn Boom, of Kentucky, to be U.S. District Judge for the Eastern and Western Districts of Kentucky</title>
     </vote>
     <vote>
       <vote_number>00064</vote_number>
@@ -337,7 +349,7 @@
         <yeas>73</yeas>
         <nays>23</nays>
       </vote_tally>
-      <title>Confirmation: Elizabeth L. Branch, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit</title>
+      <title>Confirmation Elizabeth L. Branch, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit</title>
     </vote>
     <vote>
       <vote_number>00037</vote_number>
