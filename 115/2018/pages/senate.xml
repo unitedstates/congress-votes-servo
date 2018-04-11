@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00068</vote_number>
+      <vote_date>11-Apr</vote_date>
+      <issue>PN1395</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Patrick Pizzella, to be Deputy Secretary of Labor</title>
+    </vote>
+    <vote>
+      <vote_number>00067</vote_number>
+      <vote_date>11-Apr</vote_date>
+      <issue>PN1443</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Confirmation John F. Ring, of the District of Columbia, to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
       <vote_number>00066</vote_number>
       <vote_date>10-Apr</vote_date>
       <issue>PN1443</issue>
