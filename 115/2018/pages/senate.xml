@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00070</vote_number>
+      <vote_date>12-Apr</vote_date>
+      <issue>PN1426</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Andrew Wheeler to be Deputy Administrator of the Environmental Protection Agency</title>
+    </vote>
+    <vote>
+      <vote_number>00069</vote_number>
+      <vote_date>12-Apr</vote_date>
+      <issue>PN1395</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Confirmation: Patrick Pizzella, of Virginia, to be Deputy Secretary of Labor</title>
+    </vote>
+    <vote>
       <vote_number>00068</vote_number>
       <vote_date>11-Apr</vote_date>
       <issue>PN1395</issue>
