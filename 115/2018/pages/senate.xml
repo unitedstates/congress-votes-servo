@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00072</vote_number>
+      <vote_date>12-Apr</vote_date>
+      <issue>PN988</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on John W. Broomes, of Kansas, to be U.S. District Judge for the District of Kansas </title>
+    </vote>
+    <vote>
+      <vote_number>00071</vote_number>
+      <vote_date>12-Apr</vote_date>
+      <issue>PN1426</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation Andrew Wheeler, of Virginia, to be Deputy Administrator of the Environmental Protection Agency</title>
+    </vote>
+    <vote>
       <vote_number>00070</vote_number>
       <vote_date>12-Apr</vote_date>
       <issue>PN1426</issue>
