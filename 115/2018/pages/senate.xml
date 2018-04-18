@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00077</vote_number>
+      <vote_date>18-Apr</vote_date>
+      <issue>S. 140</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 140 with an Amendment; A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund.</title>
+    </vote>
+    <vote>
+      <vote_number>00076</vote_number>
+      <vote_date>18-Apr</vote_date>
+      <issue>S.J.Res. 57</issue>
+      <question>On the Joint Resolution</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>S. J. Res. 57; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to "Indirect Auto Lending and Compliance with the Equal Credit Opportunity Act".</title>
+    </vote>
+    <vote>
       <vote_number>00075</vote_number>
       <vote_date>17-Apr</vote_date>
       <issue>S.J.Res. 57</issue>
