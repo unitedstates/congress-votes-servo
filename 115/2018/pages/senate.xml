@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00079</vote_number>
+      <vote_date>18-Apr</vote_date>
+      <issue>PN568</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation Carlos G. Muniz, of Florida, to be General Counsel, Department of Education</title>
+    </vote>
+    <vote>
       <vote_number>00078</vote_number>
       <vote_date>18-Apr</vote_date>
       <issue>PN1359</issue>
