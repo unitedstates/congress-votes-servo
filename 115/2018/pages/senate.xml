@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00080</vote_number>
+      <vote_date>19-Apr</vote_date>
+      <issue>PN1359</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Confirmation James Bridenstine, of Oklahoma, to be Administrator of the National Aeronautics and Space Administration</title>
+    </vote>
+    <vote>
       <vote_number>00079</vote_number>
       <vote_date>18-Apr</vote_date>
       <issue>PN568</issue>
