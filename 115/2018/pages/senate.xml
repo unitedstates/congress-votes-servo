@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00082</vote_number>
+      <vote_date>24-Apr</vote_date>
+      <issue>PN1410</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation Stuart Kyle Duncan, of Louisiana, to be United States Circuit Judge for the Fifth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00081</vote_number>
       <vote_date>23-Apr</vote_date>
       <issue>PN1410</issue>
