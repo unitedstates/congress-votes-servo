@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00084</vote_number>
+      <vote_date>26-Apr</vote_date>
+      <issue>PN1761</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation Mike Pompeo, of Kansas, to be Secretary of State</title>
+    </vote>
+    <vote>
+      <vote_number>00083</vote_number>
+      <vote_date>26-Apr</vote_date>
+      <issue>PN1761</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Mike Pompeo, of Kansas, to be Secretary of State</title>
+    </vote>
+    <vote>
       <vote_number>00082</vote_number>
       <vote_date>24-Apr</vote_date>
       <issue>PN1410</issue>
@@ -721,7 +745,7 @@
         <yeas>49</yeas>
         <nays>49</nays>
       </vote_tally>
-      <title>Confirmation Samuel Dale Brownback, of Kansas, to be Ambassasador at Large for International Religious Freedom</title>
+      <title>Confirmation Samuel Dale Brownback, of Kansas, to be Ambassador at Large for International Religious Freedom</title>
     </vote>
     <vote>
       <vote_number>00022</vote_number>
