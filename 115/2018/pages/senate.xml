@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00085</vote_number>
+      <vote_date>26-Apr</vote_date>
+      <issue>PN1383</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation Richard Grenell, of California, to be Ambassador to the Federal Republic of Germany</title>
+    </vote>
+    <vote>
       <vote_number>00084</vote_number>
       <vote_date>26-Apr</vote_date>
       <issue>PN1761</issue>
