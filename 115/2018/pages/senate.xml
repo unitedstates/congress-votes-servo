@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00086</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>PN1411</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Kurt D. Engelhardt, of Louisiana, to be U.S. Circuit Judge for the Fifth Circuit.</title>
+    </vote>
+    <vote>
       <vote_number>00085</vote_number>
       <vote_date>26-Apr</vote_date>
       <issue>PN1383</issue>
