@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00088</vote_number>
+      <vote_date>09-May</vote_date>
+      <issue>PN1405</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Michael B. Brennan, to be U.S. Circuit Judge for the Seventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00087</vote_number>
+      <vote_date>09-May</vote_date>
+      <issue>PN1411</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Confirmation Kurt D. Engelhardt, of Louisiana, to be U.S. Circuit Judge for the Fifth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00086</vote_number>
       <vote_date>07-May</vote_date>
       <issue>PN1411</issue>
