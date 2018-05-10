@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00091</vote_number>
+      <vote_date>10-May</vote_date>
+      <issue>PN1526</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on John B. Nalbandian, of Kentucky, to be U.S. Circuit Judge for the Sixth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00090</vote_number>
       <vote_date>10-May</vote_date>
       <issue>PN1330</issue>
@@ -13,7 +25,7 @@
         <yeas>71</yeas>
         <nays>24</nays>
       </vote_tally>
-      <title>Motion to Invoke Cloture Joel M. Carson III to be U.S. Circuit Judge for the Tenth Circuit</title>
+      <title>Motion to Invoke Cloture on Joel M. Carson III to be U.S. Circuit Judge for the Tenth Circuit</title>
     </vote>
     <vote>
       <vote_number>00089</vote_number>
