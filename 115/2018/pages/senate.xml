@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00093</vote_number>
+      <vote_date>14-May</vote_date>
+      <issue>PN1648</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Amy J. St. Eve, of Illinois, to be U.S. Circuit Judge for the Seventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00092</vote_number>
+      <vote_date>14-May</vote_date>
+      <issue>PN1647</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Michael Y. Scudder, of Illinois, to be U.S. Circuit Judge for the Seventh Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00091</vote_number>
       <vote_date>10-May</vote_date>
       <issue>PN1526</issue>
