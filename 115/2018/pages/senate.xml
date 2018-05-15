@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00095</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>PN1526</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation John B. Nalbandian, of Kentucky, to be U.S. Circuit Judge for the Sixth Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00094</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>PN1330</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Confirmation Joel M. Carson III, of New Mexico, to be U.S. Circuit Judge for the Tenth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00093</vote_number>
       <vote_date>14-May</vote_date>
       <issue>PN1648</issue>
