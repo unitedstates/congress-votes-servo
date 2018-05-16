@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00098</vote_number>
+      <vote_date>16-May</vote_date>
+      <issue>PN1397</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Confirmation Mitchell Zais, of South Carolina, to be Deputy Secretary of Education</title>
+    </vote>
+    <vote>
+      <vote_number>00097</vote_number>
+      <vote_date>16-May</vote_date>
+      <issue>S.J.Res. 52</issue>
+      <question>On the Joint Resolution</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>S. J. Res. 52; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to "Restoring Internet Freedom".</title>
+    </vote>
+    <vote>
       <vote_number>00096</vote_number>
       <vote_date>16-May</vote_date>
       <issue>S.J.Res. 52</issue>
