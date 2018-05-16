@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00096</vote_number>
+      <vote_date>16-May</vote_date>
+      <issue>S.J.Res. 52</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Proceed to S. J. Res. 52; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to "Restoring Internet Freedom".</title>
+    </vote>
+    <vote>
       <vote_number>00095</vote_number>
       <vote_date>15-May</vote_date>
       <issue>PN1526</issue>
