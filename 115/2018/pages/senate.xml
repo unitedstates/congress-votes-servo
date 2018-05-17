@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00099</vote_number>
+      <vote_date>17-May</vote_date>
+      <issue>S.Con.Res. 36</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>21</yeas>
+        <nays>76</nays>
+      </vote_tally>
+      <title>Motion to Proceed to S. Con. Res. 36; A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2019 and setting forth the appropriate budgetary levels for fiscal years 2020 through 2028.</title>
+    </vote>
+    <vote>
       <vote_number>00098</vote_number>
       <vote_date>16-May</vote_date>
       <issue>PN1397</issue>
