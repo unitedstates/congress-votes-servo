@@ -2,16 +2,16 @@
   <congress>115</congress>
   <session>2</session>
   <congress_year>2018</congress_year>
-  <vote_number>100</vote_number>
-  <vote_date>May 17, 2018,  02:56 PM</vote_date>
-  <modify_date>May 17, 2018,  04:10 PM</modify_date>
-  <vote_question_text>On the Cloture Motion PN1857</vote_question_text>
+  <vote_number>101</vote_number>
+  <vote_date>May 17, 2018,  03:23 PM</vote_date>
+  <modify_date>May 17, 2018,  04:07 PM</modify_date>
+  <vote_question_text>On the Nomination PN1857</vote_question_text>
   <vote_document_text>Gina Haspel, of Kentucky, to be Director of the Central Intelligence Agency</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (54-44)</vote_result_text>
-  <question>On the Cloture Motion</question>
-  <vote_title>Motion to Invoke Cloture: Gina Haspel to be Director of the Central Intelligence Agency</vote_title>
+  <vote_result_text>Nomination Confirmed (54-45)</vote_result_text>
+  <question>On the Nomination</question>
+  <vote_title>Confirmation Gina Haspel, of Kentucky, to be Director of the Central Intelligence Agency</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Cloture Motion Agreed to</vote_result>
+  <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
@@ -30,9 +30,9 @@
   </amendment>
   <count>
     <yeas>54</yeas>
-    <nays>44</nays>
+    <nays>45</nays>
     <present/>
-    <absent>2</absent>
+    <absent>1</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -333,7 +333,7 @@
       <first_name>Jeff</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S358</lis_member_id>
     </member>
     <member>
@@ -936,7 +936,7 @@
       <first_name>Todd</first_name>
       <party>R</party>
       <state>IN</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S391</lis_member_id>
     </member>
   </members>

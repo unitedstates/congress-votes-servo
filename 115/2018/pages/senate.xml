@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00101</vote_number>
+      <vote_date>17-May</vote_date>
+      <issue>PN1857</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation Gina Haspel, of Kentucky, to be Director of the Central Intelligence Agency</title>
+    </vote>
+    <vote>
       <vote_number>00100</vote_number>
       <vote_date>17-May</vote_date>
       <issue>PN1857</issue>
