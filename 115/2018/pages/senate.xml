@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00102</vote_number>
+      <vote_date>21-May</vote_date>
+      <issue>PN1358</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Dana Baiocco to be a Commissioner of the Consumer Product Safety Commission</title>
+    </vote>
+    <vote>
       <vote_number>00101</vote_number>
       <vote_date>17-May</vote_date>
       <issue>PN1857</issue>
