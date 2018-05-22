@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00104</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>S. 2372</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Motion to Concur in the House Amendment to S. 2372; A bill to amend title 38, United States Code, to provide outer burial receptacles for remains buried in National Parks, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00103</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>PN1358</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation Dana Baiocco, of Ohio, to be a Commissioner of the Consumer Product Safety Commission</title>
+    </vote>
+    <vote>
       <vote_number>00102</vote_number>
       <vote_date>21-May</vote_date>
       <issue>PN1358</issue>
