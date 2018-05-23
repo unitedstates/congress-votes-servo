@@ -4,6 +4,54 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00108</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>PN1516</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Jelena McWilliams, of Ohio, to be a Member of the Board of Directors of the FDIC</title>
+    </vote>
+    <vote>
+      <vote_number>00107</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>PN1351</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Jelena McWilliams, of Ohio, to be Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation</title>
+    </vote>
+    <vote>
+      <vote_number>00106</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>S. 2372</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to S. 2372; A bill to amend title 38, United States Code, to provide outer burial receptacles for remains buried in National Parks, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00105</vote_number>
+      <vote_date>23-May</vote_date>
+      <issue>PN1352</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Confirmation Brian D. Montgomery, of Texas, to be an Assistant Secretary of Housing and Urban Development</title>
+    </vote>
+    <vote>
       <vote_number>00104</vote_number>
       <vote_date>22-May</vote_date>
       <issue>S. 2372</issue>
