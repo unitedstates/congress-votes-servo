@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00111</vote_number>
+      <vote_date>24-May</vote_date>
+      <issue>PN1382</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation James Randolph Evans, of Georgia, to be Ambassador of the United States of America to Luxembourg</title>
+    </vote>
+    <vote>
       <vote_number>00110</vote_number>
       <vote_date>24-May</vote_date>
       <issue>PN1382</issue>
