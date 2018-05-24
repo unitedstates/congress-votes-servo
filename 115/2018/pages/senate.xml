@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00110</vote_number>
+      <vote_date>24-May</vote_date>
+      <issue>PN1382</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: James Randolph Evans to be Ambassador of the United States to Luxembourg</title>
+    </vote>
+    <vote>
+      <vote_number>00109</vote_number>
+      <vote_date>24-May</vote_date>
+      <issue>PN1351</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Confirmation Jelena McWilliams, of Ohio, to be Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation</title>
+    </vote>
+    <vote>
       <vote_number>00108</vote_number>
       <vote_date>23-May</vote_date>
       <issue>PN1516</issue>
