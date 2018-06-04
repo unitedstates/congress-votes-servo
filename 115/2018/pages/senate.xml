@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00112</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>PN886</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Robert Earl Wier, of Kentucky, to be U.S. District Judge for the Eastern District of Kentucky</title>
+    </vote>
+    <vote>
       <vote_number>00111</vote_number>
       <vote_date>24-May</vote_date>
       <issue>PN1382</issue>
