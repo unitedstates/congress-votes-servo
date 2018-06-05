@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00114</vote_number>
+      <vote_date>05-Jun</vote_date>
+      <issue>PN991</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Fernando Rodriguez, Jr., of Texas, to be U.S. District Judge for the Southern District of Texas</title>
+    </vote>
+    <vote>
+      <vote_number>00113</vote_number>
+      <vote_date>05-Jun</vote_date>
+      <issue>PN886</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Robert Earl Wier, of Kentucky, to be U.S. District Judge for the Eastern District of Kentucky</title>
+    </vote>
+    <vote>
       <vote_number>00112</vote_number>
       <vote_date>04-Jun</vote_date>
       <issue>PN886</issue>
