@@ -4,6 +4,30 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00116</vote_number>
+      <vote_date>05-Jun</vote_date>
+      <issue>PN1400</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Nomination of Annemarie Carney Axon, of Alabama, to be U.S. District Judge for the Northern District of Alabama</title>
+    </vote>
+    <vote>
+      <vote_number>00115</vote_number>
+      <vote_date>05-Jun</vote_date>
+      <issue>PN991</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Fernando Rodriguez, Jr., of Texas, to the United States District Judge for the Southern District of Texas</title>
+    </vote>
+    <vote>
       <vote_number>00114</vote_number>
       <vote_date>05-Jun</vote_date>
       <issue>PN991</issue>
