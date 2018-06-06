@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00117</vote_number>
+      <vote_date>06-Jun</vote_date>
+      <issue>PN1400</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Confirmation: Annemarie Carney Axon, of Alabama, to be U.S. District Judge for the Northern District of Alabama</title>
+    </vote>
+    <vote>
       <vote_number>00116</vote_number>
       <vote_date>05-Jun</vote_date>
       <issue>PN1400</issue>
