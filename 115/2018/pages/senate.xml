@@ -4,6 +4,18 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00118</vote_number>
+      <vote_date>07-Jun</vote_date>
+      <issue>PN1393</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation: Kenneth L. Marcus, of Virginia, to be Assistant Secretary for Civil Rights, Department of Education</title>
+    </vote>
+    <vote>
       <vote_number>00117</vote_number>
       <vote_date>06-Jun</vote_date>
       <issue>PN1400</issue>
