@@ -4,14 +4,14 @@
   <congress_year>2018</congress_year>
   <vote_number>119</vote_number>
   <vote_date>June 7, 2018,  01:45 PM</vote_date>
-  <modify_date>June 7, 2018,  02:29 PM</modify_date>
-  <vote_question_text>On the Cloture Motion H.R. 5515</vote_question_text>
+  <modify_date>June 7, 2018,  05:45 PM</modify_date>
+  <vote_question_text>On Cloture on the Motion to Proceed H.R. 5515</vote_question_text>
   <vote_document_text>To authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (92-4, 3/5 majority required)</vote_result_text>
-  <question>On the Cloture Motion</question>
+  <vote_result_text>Cloture on the Motion to Proceed Agreed to (92-4, 3/5 majority required)</vote_result_text>
+  <question>On Cloture on the Motion to Proceed</question>
   <vote_title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 5515</vote_title>
   <majority_requirement>3/5</majority_requirement>
-  <vote_result>Cloture Motion Agreed to</vote_result>
+  <vote_result>Cloture on the Motion to Proceed Agreed to</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>H.R.</document_type>
