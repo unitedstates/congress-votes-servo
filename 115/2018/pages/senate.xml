@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00122</vote_number>
+      <vote_date>13-Jun</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 2366</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>30</yeas>
+        <nays>68</nays>
+      </vote_tally>
+      <title>Motion to Table Lee Amdt. No. 2366; To clarify that an authorization to use military force, a declaration of war, or any similar authority does not authorize the detention without charge or trial of a citizen or lawful permanent resident of the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00121</vote_number>
+      <vote_date>13-Jun</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 2842</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Table Reed Amdt. No. 2842; To require the authorization of appropriation of amounts for the development of new or modified nuclear weapons.</title>
+    </vote>
+    <vote>
       <vote_number>00120</vote_number>
       <vote_date>11-Jun</vote_date>
       <issue>H.R. 5515</issue>
