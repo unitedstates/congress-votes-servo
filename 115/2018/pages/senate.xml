@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00123</vote_number>
+      <vote_date>14-Jun</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Cloture Motion
+        <measure>S.Amdt. 2700</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>35</yeas>
+        <nays>62</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 2700 to Amdt. No. 2282 As Modified to H.R. 5515; To require congressional review of certain regulations issued by the Committee on Foreign Investment in the United States.</title>
+    </vote>
+    <vote>
       <vote_number>00122</vote_number>
       <vote_date>13-Jun</vote_date>
       <issue>H.R. 5515</issue>
