@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00126</vote_number>
+      <vote_date>14-Jun</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: H.R. 5515, As Amended; To authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00125</vote_number>
+      <vote_date>14-Jun</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2885</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Reed Amdt. No. 2885; To improve the amendment.</title>
+    </vote>
+    <vote>
       <vote_number>00124</vote_number>
       <vote_date>14-Jun</vote_date>
       <issue>H.R. 5515</issue>
