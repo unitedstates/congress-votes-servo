@@ -4,6 +4,45 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00129</vote_number>
+      <vote_date>18-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 5895; A bill making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00128</vote_number>
+      <vote_date>18-Jun</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>H.R. 5515 As Amended; To authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00127</vote_number>
+      <vote_date>18-Jun</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Motion
+        <measure>S.Amdt. 2282</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Waive Section 4106(b)(1) H. Con. Res. 71 Re: Amdt. No. 2282, As Modified and Amended; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00126</vote_number>
       <vote_date>14-Jun</vote_date>
       <issue>H.R. 5515</issue>
