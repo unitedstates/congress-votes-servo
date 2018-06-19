@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00131</vote_number>
+      <vote_date>19-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2920</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Carper Amdt. No. 2920; To direct the Secretary of the Army to submit a report on the status of returning to non-Federal project sponsors excess non-Federal funds.</title>
+    </vote>
+    <vote>
+      <vote_number>00130</vote_number>
+      <vote_date>19-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2914</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Gardner Amdt. No. 2914; To express the sense of the Senate regarding the need for funding for innovative scientific research.</title>
+    </vote>
+    <vote>
       <vote_number>00129</vote_number>
       <vote_date>18-Jun</vote_date>
       <issue>H.R. 5895</issue>
