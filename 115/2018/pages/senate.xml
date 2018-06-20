@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00134</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 3</issue>
+      <question>On the Motion to Discharge
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Discharge H.R. 3; A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on May 8, 2018, in accordance with title X of the Congressional Budget and Impoundment Control Act 1974.</title>
+    </vote>
+    <vote>
       <vote_number>00133</vote_number>
       <vote_date>20-Jun</vote_date>
       <issue>H.R. 5895</issue>
