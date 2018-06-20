@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00133</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2985</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Baldwin Amdt. No. 2985; To set aside funds for cooperative agreements and laboratory support to accelerate the domestic production of Molybdenum-99.</title>
+    </vote>
+    <vote>
+      <vote_number>00132</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2943</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>9</nays>
+      </vote_tally>
+      <title>Crapo Amdt. No. 2943 As Modified; To increase funds for a nuclear demonstration program.</title>
+    </vote>
+    <vote>
       <vote_number>00131</vote_number>
       <vote_date>19-Jun</vote_date>
       <issue>H.R. 5895</issue>
