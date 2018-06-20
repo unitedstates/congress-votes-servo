@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00136</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2971</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Tester Amdt. No. 2971; To prevent the denial of access to records and documents by various inspectors general.</title>
+    </vote>
+    <vote>
+      <vote_number>00135</vote_number>
+      <vote_date>20-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2926</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Young Amdt. No. 2926; To require the Secretary of Veterans Affairs to conduct a study on the effectiveness of the Veterans Crisis Line.</title>
+    </vote>
+    <vote>
       <vote_number>00134</vote_number>
       <vote_date>20-Jun</vote_date>
       <issue>H.R. 3</issue>
