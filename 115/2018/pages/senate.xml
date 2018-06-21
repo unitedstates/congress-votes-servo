@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00138</vote_number>
+      <vote_date>21-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 3021</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Motion to Table Lee Amdt. No. 3021 As Modified; To terminate a rule relating to the definition of "waters of the United States".</title>
+    </vote>
+    <vote>
       <vote_number>00137</vote_number>
       <vote_date>21-Jun</vote_date>
       <issue>H.R. 5895</issue>
