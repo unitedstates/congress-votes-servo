@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00137</vote_number>
+      <vote_date>21-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2983</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Bennet Amdt. No. 2983; To increase employment for members of the Armed Forces in emerging industries.</title>
+    </vote>
+    <vote>
       <vote_number>00136</vote_number>
       <vote_date>20-Jun</vote_date>
       <issue>H.R. 5895</issue>
