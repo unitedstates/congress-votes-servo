@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00140</vote_number>
+      <vote_date>25-Jun</vote_date>
+      <issue>H.R. 2</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 2; A bill to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2023, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00139</vote_number>
+      <vote_date>25-Jun</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>H.R. 5895 As Amended; A bill making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00138</vote_number>
       <vote_date>21-Jun</vote_date>
       <issue>H.R. 5895</issue>
