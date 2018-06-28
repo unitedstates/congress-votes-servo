@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00141</vote_number>
+      <vote_date>28-Jun</vote_date>
+      <issue>H.R. 2</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 3383</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Motion to Table Kennedy Amdt. No. 3383; To provide for certain work requirements for able-bodied adults without dependents and to require State agencies to operate a work activation program for eligible participants in the supplemental nutrition assistance program.</title>
+    </vote>
+    <vote>
       <vote_number>00140</vote_number>
       <vote_date>25-Jun</vote_date>
       <issue>H.R. 2</issue>
