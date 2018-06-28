@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00142</vote_number>
+      <vote_date>28-Jun</vote_date>
+      <issue>H.R. 2</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3074</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>38</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 3074; No Statement of Purpose on File.</title>
+    </vote>
+    <vote>
       <vote_number>00141</vote_number>
       <vote_date>28-Jun</vote_date>
       <issue>H.R. 2</issue>
