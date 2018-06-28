@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00143</vote_number>
+      <vote_date>28-Jun</vote_date>
+      <issue>H.R. 2</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>H.R. 2, As Amended; A bill to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2023, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00142</vote_number>
       <vote_date>28-Jun</vote_date>
       <issue>H.R. 2</issue>
@@ -14,7 +27,7 @@
         <yeas>38</yeas>
         <nays>57</nays>
       </vote_tally>
-      <title>Lee Amdt. No. 3074; No Statement of Purpose on File.</title>
+      <title>Lee Amdt. No. 3074; To prohibit certain practices relating to certain commodity promotion programs and require greater transparency by those programs.</title>
     </vote>
     <vote>
       <vote_number>00141</vote_number>
