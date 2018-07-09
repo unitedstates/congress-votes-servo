@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00144</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>PN1642</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Mark Jeremy Bennett, of Hawaii, to be U.S. Circuit Judge for the Ninth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00143</vote_number>
       <vote_date>28-Jun</vote_date>
       <issue>H.R. 2</issue>
