@@ -4,6 +4,45 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00149</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Reed Motion to Instruct Conferees Re: H.R. 5515; To authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00148</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Cornyn Motion to Instruct Conferees Re: H.R. 5515; To authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00147</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Motion to Insist on the Senate Amendment to H.R. 5515, Agree to the Request for Conference, and Authorize the Chair to Appoint Conferees; To authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00146</vote_number>
       <vote_date>10-Jul</vote_date>
       <issue>PN1402</issue>
