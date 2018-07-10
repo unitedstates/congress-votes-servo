@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00146</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>PN1402</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Brian Benczkowski, of Virginia, to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
+      <vote_number>00145</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>PN1642</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>27</nays>
+      </vote_tally>
+      <title>Confirmation: Mark Jeremy Bennett, of Hawaii, to be United States Circuit Judge for the Ninth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00144</vote_number>
       <vote_date>09-Jul</vote_date>
       <issue>PN1642</issue>
