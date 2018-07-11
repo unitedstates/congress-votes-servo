@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00152</vote_number>
+      <vote_date>11-Jul</vote_date>
+      <issue>PN1402</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Confirmation: Brian Allen Benczkowski, of Virginia, to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00151</vote_number>
       <vote_date>11-Jul</vote_date>
       <issue>H.R. 5895</issue>
