@@ -4,10 +4,10 @@
   <congress_year>2018</congress_year>
   <vote_number>150</vote_number>
   <vote_date>July 11, 2018,  12:03 PM</vote_date>
-  <modify_date>July 11, 2018,  12:50 PM</modify_date>
+  <modify_date>July 11, 2018,  06:00 PM</modify_date>
   <vote_question_text>On the Motion (Cassidy Motion to Instruct Conferees Re: H.R. 5895)</vote_question_text>
   <vote_document_text>A bill making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2019, and for other purposes.</vote_document_text>
-  <vote_result_text>Motion Agreed to (95-4)</vote_result_text>
+  <vote_result_text>Motion Agreed to (94-5)</vote_result_text>
   <question>On the Motion</question>
   <vote_title>Cassidy Motion to Instruct Conferees Re: H.R. 5895</vote_title>
   <majority_requirement>1/2</majority_requirement>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>95</yeas>
-    <nays>4</nays>
+    <yeas>94</yeas>
+    <nays>5</nays>
     <present/>
     <absent>1</absent>
   </count>
@@ -549,7 +549,7 @@
       <first_name>Mike</first_name>
       <party>R</party>
       <state>UT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S346</lis_member_id>
     </member>
     <member>
