@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00153</vote_number>
+      <vote_date>11-Jul</vote_date>
+      <issue>PN1438</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Paul C. Ney, Jr.,  to be General Counsel of the Department of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00152</vote_number>
       <vote_date>11-Jul</vote_date>
       <issue>PN1402</issue>
