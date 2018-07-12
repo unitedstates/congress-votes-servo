@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00154</vote_number>
+      <vote_date>12-Jul</vote_date>
+      <issue>PN1438</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Paul C. Ney, of Tennessee, to be General Counsel of the Department of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00153</vote_number>
       <vote_date>11-Jul</vote_date>
       <issue>PN1438</issue>
