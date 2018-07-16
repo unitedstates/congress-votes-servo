@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00155</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>PN1955</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Scott Stump, of Colorado, to be Assistant Secretary for Career, Technical, and Adult Education, Department of Education</title>
+    </vote>
+    <vote>
       <vote_number>00154</vote_number>
       <vote_date>12-Jul</vote_date>
       <issue>PN1438</issue>
