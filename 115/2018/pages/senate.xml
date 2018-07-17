@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00157</vote_number>
+      <vote_date>17-Jul</vote_date>
+      <issue>PN1354</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Randal Quarles to be a Member of the Board of Governors, Federal Reserve System</title>
+    </vote>
+    <vote>
       <vote_number>00156</vote_number>
       <vote_date>17-Jul</vote_date>
       <issue>PN1391</issue>
