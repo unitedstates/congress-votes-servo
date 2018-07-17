@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00156</vote_number>
+      <vote_date>17-Jul</vote_date>
+      <issue>PN1391</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Confirmation James Blew, of California, to be an Assistant Secretary for Planning, Evaluation, and Policy Development, Department of Education</title>
+    </vote>
+    <vote>
       <vote_number>00155</vote_number>
       <vote_date>16-Jul</vote_date>
       <issue>PN1955</issue>
