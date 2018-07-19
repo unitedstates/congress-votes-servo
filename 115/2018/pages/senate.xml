@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00162</vote_number>
+      <vote_date>19-Jul</vote_date>
+      <issue>S.Res. 584</issue>
+      <question>On the Resolution
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. Res. 584; A resolution expressing the sense of the Senate against the making available of current and former diplomats, officials, and members of the Armed Forces of the United States for questioning by the government of Vladimir Putin.</title>
+    </vote>
+    <vote>
       <vote_number>00161</vote_number>
       <vote_date>18-Jul</vote_date>
       <issue>PN1403</issue>
