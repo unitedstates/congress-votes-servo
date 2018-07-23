@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00163</vote_number>
+      <vote_date>23-Jul</vote_date>
+      <issue>PN2179</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>9</nays>
+      </vote_tally>
+      <title>Confirmation: Robert L. Wilkie, of North Carolina, to be Secretary of Veterans Affairs</title>
+    </vote>
+    <vote>
       <vote_number>00162</vote_number>
       <vote_date>19-Jul</vote_date>
       <issue>S.Res. 584</issue>
