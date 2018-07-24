@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00165</vote_number>
+      <vote_date>24-Jul</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3422</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Durbin Amdt. No. 3422; To require the Inspector General to update an audit report concerning on-time performance of Amtrak.</title>
+    </vote>
+    <vote>
+      <vote_number>00164</vote_number>
+      <vote_date>24-Jul</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3405</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Heller Amdt. No. 3405; To increase the amount available for a Community Volunteer Income Tax Assistance matching grants program for tax return preparation assistance.</title>
+    </vote>
+    <vote>
       <vote_number>00163</vote_number>
       <vote_date>23-Jul</vote_date>
       <issue>PN2179</issue>
