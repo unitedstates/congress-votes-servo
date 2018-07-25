@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00171</vote_number>
+      <vote_date>25-Jul</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3543</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>25</yeas>
+        <nays>74</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 3543; To reduce the amounts appropriated to comply with the spending limits under the Budget Control Act of 2011.</title>
+    </vote>
+    <vote>
+      <vote_number>00170</vote_number>
+      <vote_date>25-Jul</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3553</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Manchin Amdt. No. 3553; To make an amount available for the Office of Terrorism and Financial Intelligence of the Department of the Treasury to investigate the illicit trade of synthetic opioids originating from the People's Republic of China.</title>
+    </vote>
+    <vote>
       <vote_number>00169</vote_number>
       <vote_date>25-Jul</vote_date>
       <issue>H.R. 6147</issue>
