@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00167</vote_number>
+      <vote_date>24-Jul</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3430</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Kennedy Amdt. No. 3430; To provide amounts for inspection of foreign seafood manufacturers and field examinations of imported seafood.</title>
+    </vote>
+    <vote>
+      <vote_number>00166</vote_number>
+      <vote_date>24-Jul</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3407</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Schatz Amdt. No. 3407; To provide for a report on facilities of the Department of the Interior damaged by certain volcanic eruptions.</title>
+    </vote>
+    <vote>
       <vote_number>00165</vote_number>
       <vote_date>24-Jul</vote_date>
       <issue>H.R. 6147</issue>
