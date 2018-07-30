@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00172</vote_number>
+      <vote_date>30-Jul</vote_date>
+      <issue>PN1808</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Britt Cagle Grant to be U.S. Circuit Judge for the Eleventh Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00171</vote_number>
       <vote_date>25-Jul</vote_date>
       <issue>H.R. 6147</issue>
