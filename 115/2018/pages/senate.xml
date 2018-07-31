@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00173</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>S. 1182</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendments to S. 1182; An act to extend the National Flood Insurance Program, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00172</vote_number>
       <vote_date>30-Jul</vote_date>
       <issue>PN1808</issue>
