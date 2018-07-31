@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00175</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Cloture Motion
+        <measure>S.Amdt. 3399</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Amdt. No. 3399 to H.R. 6147; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00174</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>PN1808</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation: Britt Cagle Grant, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00173</vote_number>
       <vote_date>31-Jul</vote_date>
       <issue>S. 1182</issue>
