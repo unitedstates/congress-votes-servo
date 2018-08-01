@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00180</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>H.R. 6147, As Amended; A bill making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00179</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 3402</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Table Cruz Amdt. No. 3402; To prohibit the use of funds to carry out the District of Columbia's health insurance individual mandate.</title>
+    </vote>
+    <vote>
       <vote_number>00178</vote_number>
       <vote_date>01-Aug</vote_date>
       <issue>H.R. 6147</issue>
