@@ -4,6 +4,45 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00178</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3524</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Baldwin Amdt. No. 3524; To appropriate funds to carry out programs relating to the innovation, process improvement, and marketing of dairy products.</title>
+    </vote>
+    <vote>
+      <vote_number>00177</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3522</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>14</yeas>
+        <nays>84</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 3522; To prohibit the use of funds to enforce standards of identity with respect to certain food.</title>
+    </vote>
+    <vote>
+      <vote_number>00176</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>H.R. 6147</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3464</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Leahy Amdt. No. 3464; To provide for election security grants.</title>
+    </vote>
+    <vote>
       <vote_number>00175</vote_number>
       <vote_date>31-Jul</vote_date>
       <issue>H.R. 6147</issue>
