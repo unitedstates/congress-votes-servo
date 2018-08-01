@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00181</vote_number>
+      <vote_date>01-Aug</vote_date>
+      <issue>H.R. 5515</issue>
+      <question>On the Conference Report
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 5515; To authorize appropriations for fiscal year 2019 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00180</vote_number>
       <vote_date>01-Aug</vote_date>
       <issue>H.R. 6147</issue>
