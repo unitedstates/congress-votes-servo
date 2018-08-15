@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00182</vote_number>
+      <vote_date>15-Aug</vote_date>
+      <issue>PN1895</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: A. Marvin Quattlebaum, Jr. to be U.S. Circuit Judge for the Fourth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00181</vote_number>
       <vote_date>01-Aug</vote_date>
       <issue>H.R. 5515</issue>
