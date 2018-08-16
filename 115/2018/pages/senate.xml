@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00183</vote_number>
+      <vote_date>16-Aug</vote_date>
+      <issue>PN1895</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Confirmation A. Marvin Quattlebaum, Jr., of South Carolina, to be U.S. Circuit Judge for the Fourth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00182</vote_number>
       <vote_date>15-Aug</vote_date>
       <issue>PN1895</issue>
