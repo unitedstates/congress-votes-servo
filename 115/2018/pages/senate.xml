@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00184</vote_number>
+      <vote_date>16-Aug</vote_date>
+      <issue>PN1897</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Julius Ness Richardson, of South Carolina, to be U.S. Circuit Court Judge for the Fourth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00183</vote_number>
       <vote_date>16-Aug</vote_date>
       <issue>PN1895</issue>
