@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00187</vote_number>
+      <vote_date>20-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3706</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Fischer Amdt. No. 3706; To appropriate an additional $10,000,000 for Operation and Maintenance, Defense-Wide for POW/MIA identification within the Defense Personnel Accounting Agency, and to provide an offset.</title>
+    </vote>
+    <vote>
+      <vote_number>00186</vote_number>
+      <vote_date>20-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3705</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Menendez Amdt. No. 3705; To provide funding for the Firefighter Cancer Registry Act of 2018.</title>
+    </vote>
+    <vote>
       <vote_number>00185</vote_number>
       <vote_date>16-Aug</vote_date>
       <issue>PN1897</issue>
