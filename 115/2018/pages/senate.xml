@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00189</vote_number>
+      <vote_date>21-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3703</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Kennedy Amdt. No. 3703; To increase funding for the National Suicide Prevention Lifeline.</title>
+    </vote>
+    <vote>
+      <vote_number>00188</vote_number>
+      <vote_date>21-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3773</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Nelson Amdt. No. 3773; To require a Comptroller General of the United States report on the implementation of the Military Health System Genesis electronic health record.</title>
+    </vote>
+    <vote>
       <vote_number>00187</vote_number>
       <vote_date>20-Aug</vote_date>
       <issue>H.R. 6157</issue>
