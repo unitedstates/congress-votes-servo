@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00190</vote_number>
+      <vote_date>23-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Cloture Motion
+        <measure>S.Amdt. 3695</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Amdt. No. 3695 to H. R. 6157; In the nature of a substitute.</title>
+    </vote>
+    <vote>
       <vote_number>00189</vote_number>
       <vote_date>21-Aug</vote_date>
       <issue>H.R. 6157</issue>
