@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00192</vote_number>
+      <vote_date>23-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Motion
+        <measure>S.Amdt. 3695</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Shelby Amdt. No. 3695; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00191</vote_number>
+      <vote_date>23-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 3967</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 3967; To prohibit Federal funds being made available to a prohibited entity.</title>
+    </vote>
+    <vote>
       <vote_number>00190</vote_number>
       <vote_date>23-Aug</vote_date>
       <issue>H.R. 6157</issue>
