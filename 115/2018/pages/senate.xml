@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00193</vote_number>
+      <vote_date>23-Aug</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>H. R. 6157 As Amended; A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00192</vote_number>
       <vote_date>23-Aug</vote_date>
       <issue>H.R. 6157</issue>
