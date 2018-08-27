@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00194</vote_number>
+      <vote_date>27-Aug</vote_date>
+      <issue>PN602</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Lynn A. Johnson to be Assistant Secretary for Family Support, Department of Health and Human Services</title>
+    </vote>
+    <vote>
       <vote_number>00193</vote_number>
       <vote_date>23-Aug</vote_date>
       <issue>H.R. 6157</issue>
