@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><roll_call_vote>
-
   <congress>115</congress>
   <session>2</session>
   <congress_year>2018</congress_year>
-  <vote_number>196</vote_number>
-  <vote_date>August 28, 2018,  11:14 AM</vote_date>
-  <modify_date>August 28, 2018,  11:46 AM</modify_date>
-  <vote_question_text>On the Cloture Motion PN1861</vote_question_text>
-  <vote_document_text>Richard Clarida, of Connecticut, to be Vice Chairman of the Board of Governors of the Federal Reserve System for a term of four years</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (69-26)</vote_result_text>
-  <question>On the Cloture Motion</question>
-  <vote_title>Motion to Invoke Cloture: Richard Clarida to be Vice Chairman of the Board of Governors of the Federal Reserve System</vote_title>
+  <vote_number>200</vote_number>
+  <vote_date>August 28, 2018,  04:55 PM</vote_date>
+  <modify_date>August 28, 2018,  05:21 PM</modify_date>
+  <vote_question_text>On the Nomination PN1413</vote_question_text>
+  <vote_document_text>Charles Barnes Goodwin, of Oklahoma, to be United States District Judge for the Western District of Oklahoma</vote_document_text>
+  <vote_result_text>Nomination Confirmed (52-42)</vote_result_text>
+  <question>On the Nomination</question>
+  <vote_title>Confirmation Charles Barnes Goodwin, of Oklahoma, to be U.S. District Judge for the Western District of Oklahoma</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Cloture Motion Agreed to</vote_result>
+  <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
-    <document_number>1861</document_number>
-    <document_name>PN1861</document_name>
-    <document_title>Richard Clarida, of Connecticut, to be Vice Chairman of the Board of Governors of the Federal Reserve System for a term of four years</document_title>
+    <document_number>1413</document_number>
+    <document_name>PN1413</document_name>
+    <document_title>Charles Barnes Goodwin, of Oklahoma, to be United States District Judge for the Western District of Oklahoma</document_title>
     <document_short_title/>
   </document>
   <amendment>
@@ -30,10 +29,10 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>69</yeas>
-    <nays>26</nays>
+    <yeas>52</yeas>
+    <nays>42</nays>
     <present/>
-    <absent>4</absent>
+    <absent>5</absent>
   </count>
   <tie_breaker>
     <by_whom/>
@@ -73,7 +72,7 @@
       <first_name>Michael</first_name>
       <party>D</party>
       <state>CO</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S330</lis_member_id>
     </member>
     <member>
@@ -82,7 +81,7 @@
       <first_name>Richard</first_name>
       <party>D</party>
       <state>CT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S341</lis_member_id>
     </member>
     <member>
@@ -154,7 +153,7 @@
       <first_name>Ben</first_name>
       <party>D</party>
       <state>MD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S308</lis_member_id>
     </member>
     <member>
@@ -163,7 +162,7 @@
       <first_name>Thomas</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S277</lis_member_id>
     </member>
     <member>
@@ -172,7 +171,7 @@
       <first_name>Bob</first_name>
       <party>D</party>
       <state>PA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S309</lis_member_id>
     </member>
     <member>
@@ -199,7 +198,7 @@
       <first_name>Christopher</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S337</lis_member_id>
     </member>
     <member>
@@ -334,7 +333,7 @@
       <first_name>Jeff</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S358</lis_member_id>
     </member>
     <member>
@@ -361,7 +360,7 @@
       <first_name>Lindsey</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S293</lis_member_id>
     </member>
     <member>
@@ -415,7 +414,7 @@
       <first_name>Heidi</first_name>
       <party>D</party>
       <state>ND</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S360</lis_member_id>
     </member>
     <member>
@@ -487,7 +486,7 @@
       <first_name>Doug</first_name>
       <party>D</party>
       <state>AL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S393</lis_member_id>
     </member>
     <member>
@@ -496,7 +495,7 @@
       <first_name>Timothy</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S362</lis_member_id>
     </member>
     <member>
@@ -559,7 +558,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>WV</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S338</lis_member_id>
     </member>
     <member>
@@ -631,7 +630,7 @@
       <first_name>Christopher</first_name>
       <party>D</party>
       <state>CT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S364</lis_member_id>
     </member>
     <member>
@@ -649,7 +648,7 @@
       <first_name>Bill</first_name>
       <party>D</party>
       <state>FL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S282</lis_member_id>
     </member>
     <member>
@@ -658,7 +657,7 @@
       <first_name>Rand</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S348</lis_member_id>
     </member>
     <member>
@@ -676,7 +675,7 @@
       <first_name>Gary</first_name>
       <party>D</party>
       <state>MI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S380</lis_member_id>
     </member>
     <member>
@@ -694,7 +693,7 @@
       <first_name>John</first_name>
       <party>D</party>
       <state>RI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S259</lis_member_id>
     </member>
     <member>
@@ -784,7 +783,7 @@
       <first_name>Jeanne</first_name>
       <party>D</party>
       <state>NH</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S324</lis_member_id>
     </member>
     <member>
@@ -874,7 +873,7 @@
       <first_name>Chris</first_name>
       <party>D</party>
       <state>MD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S390</lis_member_id>
     </member>
     <member>
@@ -883,7 +882,7 @@
       <first_name>Mark</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S327</lis_member_id>
     </member>
     <member>

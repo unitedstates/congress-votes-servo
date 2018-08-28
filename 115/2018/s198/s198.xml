@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><roll_call_vote>
-
   <congress>115</congress>
   <session>2</session>
   <congress_year>2018</congress_year>
-  <vote_number>196</vote_number>
-  <vote_date>August 28, 2018,  11:14 AM</vote_date>
-  <modify_date>August 28, 2018,  11:46 AM</modify_date>
-  <vote_question_text>On the Cloture Motion PN1861</vote_question_text>
-  <vote_document_text>Richard Clarida, of Connecticut, to be Vice Chairman of the Board of Governors of the Federal Reserve System for a term of four years</vote_document_text>
-  <vote_result_text>Cloture Motion Agreed to (69-26)</vote_result_text>
-  <question>On the Cloture Motion</question>
-  <vote_title>Motion to Invoke Cloture: Richard Clarida to be Vice Chairman of the Board of Governors of the Federal Reserve System</vote_title>
+  <vote_number>198</vote_number>
+  <vote_date>August 28, 2018,  04:21 PM</vote_date>
+  <modify_date>August 28, 2018,  04:46 PM</modify_date>
+  <vote_question_text>On the Nomination PN1414</vote_question_text>
+  <vote_document_text>Joseph H. Hunt, of Maryland, to be an Assistant Attorney General</vote_document_text>
+  <vote_result_text>Nomination Confirmed (72-23)</vote_result_text>
+  <question>On the Nomination</question>
+  <vote_title>Confirmation Joseph H. Hunt, of Maryland, to be an Assistant Attorney General</vote_title>
   <majority_requirement>1/2</majority_requirement>
-  <vote_result>Cloture Motion Agreed to</vote_result>
+  <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
-    <document_number>1861</document_number>
-    <document_name>PN1861</document_name>
-    <document_title>Richard Clarida, of Connecticut, to be Vice Chairman of the Board of Governors of the Federal Reserve System for a term of four years</document_title>
+    <document_number>1414</document_number>
+    <document_name>PN1414</document_name>
+    <document_title>Joseph H. Hunt, of Maryland, to be an Assistant Attorney General</document_title>
     <document_short_title/>
   </document>
   <amendment>
@@ -30,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>69</yeas>
-    <nays>26</nays>
+    <yeas>72</yeas>
+    <nays>23</nays>
     <present/>
     <absent>4</absent>
   </count>
@@ -55,7 +54,7 @@
       <first_name>Tammy</first_name>
       <party>D</party>
       <state>WI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S354</lis_member_id>
     </member>
     <member>
@@ -82,7 +81,7 @@
       <first_name>Richard</first_name>
       <party>D</party>
       <state>CT</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S341</lis_member_id>
     </member>
     <member>
@@ -136,7 +135,7 @@
       <first_name>Maria</first_name>
       <party>D</party>
       <state>WA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S275</lis_member_id>
     </member>
     <member>
@@ -163,7 +162,7 @@
       <first_name>Thomas</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S277</lis_member_id>
     </member>
     <member>
@@ -172,7 +171,7 @@
       <first_name>Bob</first_name>
       <party>D</party>
       <state>PA</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S309</lis_member_id>
     </member>
     <member>
@@ -316,7 +315,7 @@
       <first_name>Dianne</first_name>
       <party>D</party>
       <state>CA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S221</lis_member_id>
     </member>
     <member>
@@ -334,7 +333,7 @@
       <first_name>Jeff</first_name>
       <party>R</party>
       <state>AZ</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Not Voting</vote_cast>
       <lis_member_id>S358</lis_member_id>
     </member>
     <member>
@@ -361,7 +360,7 @@
       <first_name>Lindsey</first_name>
       <party>R</party>
       <state>SC</state>
-      <vote_cast>Not Voting</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S293</lis_member_id>
     </member>
     <member>
@@ -433,7 +432,7 @@
       <first_name>Mazie</first_name>
       <party>D</party>
       <state>HI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S361</lis_member_id>
     </member>
     <member>
@@ -514,7 +513,7 @@
       <first_name>Angus</first_name>
       <party>I</party>
       <state>ME</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S363</lis_member_id>
     </member>
     <member>
@@ -640,7 +639,7 @@
       <first_name>Patty</first_name>
       <party>D</party>
       <state>WA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S229</lis_member_id>
     </member>
     <member>
@@ -658,7 +657,7 @@
       <first_name>Rand</first_name>
       <party>R</party>
       <state>KY</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S348</lis_member_id>
     </member>
     <member>
@@ -694,7 +693,7 @@
       <first_name>John</first_name>
       <party>D</party>
       <state>RI</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S259</lis_member_id>
     </member>
     <member>
@@ -874,7 +873,7 @@
       <first_name>Chris</first_name>
       <party>D</party>
       <state>MD</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S390</lis_member_id>
     </member>
     <member>
@@ -901,7 +900,7 @@
       <first_name>Sheldon</first_name>
       <party>D</party>
       <state>RI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S316</lis_member_id>
     </member>
     <member>

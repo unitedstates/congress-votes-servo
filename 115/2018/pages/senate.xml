@@ -4,6 +4,45 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00200</vote_number>
+      <vote_date>28-Aug</vote_date>
+      <issue>PN1413</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation Charles Barnes Goodwin, of Oklahoma, to be U.S. District Judge for the Western District of Oklahoma</title>
+    </vote>
+    <vote>
+      <vote_number>00199</vote_number>
+      <vote_date>28-Aug</vote_date>
+      <issue>PN1398</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>20</nays>
+      </vote_tally>
+      <title>Confirmation: Isabel Marie Keenan Patelunas, of Pennsylvania, to be Assistant Secretary for Intelligence and Analysis</title>
+    </vote>
+    <vote>
+      <vote_number>00198</vote_number>
+      <vote_date>28-Aug</vote_date>
+      <issue>PN1414</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Confirmation Joseph H. Hunt, of Maryland, to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00197</vote_number>
       <vote_date>28-Aug</vote_date>
       <issue>PN1861</issue>
