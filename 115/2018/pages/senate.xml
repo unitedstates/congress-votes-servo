@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00196</vote_number>
+      <vote_date>28-Aug</vote_date>
+      <issue>PN1861</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Richard Clarida to be Vice Chairman of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
+      <vote_number>00195</vote_number>
+      <vote_date>28-Aug</vote_date>
+      <issue>PN602</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Confirmation: Lynn A. Johnson, of Colorado, to be Assistant Secretary for Family Support</title>
+    </vote>
+    <vote>
       <vote_number>00194</vote_number>
       <vote_date>27-Aug</vote_date>
       <issue>PN602</issue>
