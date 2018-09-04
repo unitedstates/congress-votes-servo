@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00201</vote_number>
+      <vote_date>04-Sep</vote_date>
+      <issue>PN2047</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Elad L. Roisman to be a Member of the Securities and Exchange Commission</title>
+    </vote>
+    <vote>
       <vote_number>00200</vote_number>
       <vote_date>28-Aug</vote_date>
       <issue>PN1413</issue>
