@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00204</vote_number>
+      <vote_date>06-Sep</vote_date>
+      <issue>PN1650</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation: Charles J. Williams, of Iowa, to be U.S. District Judge for the Northern District of Iowa</title>
+    </vote>
+    <vote>
       <vote_number>00203</vote_number>
       <vote_date>06-Sep</vote_date>
       <issue>PN1525</issue>
