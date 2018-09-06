@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00203</vote_number>
+      <vote_date>06-Sep</vote_date>
+      <issue>PN1525</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Confirmation: Dominic W. Lanza, of Arizona, to be U.S. District Judge for the District of Arizona</title>
+    </vote>
+    <vote>
       <vote_number>00202</vote_number>
       <vote_date>05-Sep</vote_date>
       <issue>PN2047</issue>
