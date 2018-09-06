@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00202</vote_number>
+      <vote_date>05-Sep</vote_date>
+      <issue>PN2047</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Confirmation: Elad L. Roisman, of Maine, to be a Member of the Securities and Exchange Commission</title>
+    </vote>
+    <vote>
       <vote_number>00201</vote_number>
       <vote_date>04-Sep</vote_date>
       <issue>PN2047</issue>
