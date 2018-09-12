@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00206</vote_number>
+      <vote_date>12-Sep</vote_date>
+      <issue>PN1620</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Confirmation Charles P. Rettig, of California, to be Commissioner of Internal Revenue, Department of the Treasury</title>
+    </vote>
+    <vote>
+      <vote_number>00205</vote_number>
+      <vote_date>12-Sep</vote_date>
+      <issue>PN1620</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>63</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Charles P. Rettig to be Commissioner of Internal Revenue, Department of the Treasury</title>
+    </vote>
+    <vote>
       <vote_number>00204</vote_number>
       <vote_date>06-Sep</vote_date>
       <issue>PN1650</issue>
@@ -14,7 +40,7 @@
         <yeas>79</yeas>
         <nays>12</nays>
       </vote_tally>
-      <title>Confirmation: Charles J. Williams, of Iowa, to be U.S. District Judge for the Northern District of Iowa</title>
+      <title>Confirmation Charles J. Williams, of Iowa, to be U.S. District Judge for the Northern District of Iowa</title>
     </vote>
     <vote>
       <vote_number>00203</vote_number>
@@ -27,7 +53,7 @@
         <yeas>60</yeas>
         <nays>35</nays>
       </vote_tally>
-      <title>Confirmation: Dominic W. Lanza, of Arizona, to be U.S. District Judge for the District of Arizona</title>
+      <title>Confirmation Dominic W. Lanza, of Arizona, to be U.S. District Judge for the District of Arizona</title>
     </vote>
     <vote>
       <vote_number>00202</vote_number>
@@ -40,7 +66,7 @@
         <yeas>85</yeas>
         <nays>14</nays>
       </vote_tally>
-      <title>Confirmation: Elad L. Roisman, of Maine, to be a Member of the Securities and Exchange Commission</title>
+      <title>Confirmation Elad L. Roisman, of Maine, to be a Member of the Securities and Exchange Commission</title>
     </vote>
     <vote>
       <vote_number>00201</vote_number>
@@ -79,7 +105,7 @@
         <yeas>75</yeas>
         <nays>20</nays>
       </vote_tally>
-      <title>Confirmation: Isabel Marie Keenan Patelunas, of Pennsylvania, to be Assistant Secretary for Intelligence and Analysis</title>
+      <title>Confirmation Isabel Marie Keenan Patelunas, of Pennsylvania, to be Assistant Secretary for Intelligence and Analysis</title>
     </vote>
     <vote>
       <vote_number>00198</vote_number>
@@ -131,7 +157,7 @@
         <yeas>67</yeas>
         <nays>28</nays>
       </vote_tally>
-      <title>Confirmation: Lynn A. Johnson, of Colorado, to be Assistant Secretary for Family Support</title>
+      <title>Confirmation Lynn A. Johnson, of Colorado, to be Assistant Secretary for Family Support</title>
     </vote>
     <vote>
       <vote_number>00194</vote_number>
@@ -404,7 +430,7 @@
         <yeas>52</yeas>
         <nays>46</nays>
       </vote_tally>
-      <title>Confirmation: Britt Cagle Grant, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit</title>
+      <title>Confirmation Britt Cagle Grant, of Georgia, to be U.S. Circuit Judge for the Eleventh Circuit</title>
     </vote>
     <vote>
       <vote_number>00173</vote_number>
@@ -781,7 +807,7 @@
         <yeas>72</yeas>
         <nays>27</nays>
       </vote_tally>
-      <title>Confirmation: Mark Jeremy Bennett, of Hawaii, to be United States Circuit Judge for the Ninth Circuit</title>
+      <title>Confirmation Mark Jeremy Bennett, of Hawaii, to be United States Circuit Judge for the Ninth Circuit</title>
     </vote>
     <vote>
       <vote_number>00144</vote_number>
@@ -1769,7 +1795,7 @@
         <yeas>50</yeas>
         <nays>48</nays>
       </vote_tally>
-      <title>Confirmation: Patrick Pizzella, of Virginia, to be Deputy Secretary of Labor</title>
+      <title>Confirmation Patrick Pizzella, of Virginia, to be Deputy Secretary of Labor</title>
     </vote>
     <vote>
       <vote_number>00068</vote_number>
