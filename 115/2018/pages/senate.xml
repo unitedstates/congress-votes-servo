@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00207</vote_number>
+      <vote_date>12-Sep</vote_date>
+      <issue>H.R. 5895</issue>
+      <question>On the Conference Report
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 5895; A bill making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00206</vote_number>
       <vote_date>12-Sep</vote_date>
       <issue>PN1620</issue>
