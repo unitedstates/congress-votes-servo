@@ -4,6 +4,45 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00210</vote_number>
+      <vote_date>17-Sep</vote_date>
+      <issue>H.R. 6</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>H. R. 6 As Amended; A bill to provide for opioid use disorder prevention, recovery, and treatment, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00209</vote_number>
+      <vote_date>17-Sep</vote_date>
+      <issue>S. 2554</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>S. 2554 As Amended; A bill to ensure that health insurance issuers and group health plans do not prohibit pharmacy providers from providing certain information to enrollees.</title>
+    </vote>
+    <vote>
+      <vote_number>00208</vote_number>
+      <vote_date>17-Sep</vote_date>
+      <issue>S. 2554</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 4011</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>11</yeas>
+        <nays>89</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 4011; To limit application of the gag clause to self-insured group health plans.</title>
+    </vote>
+    <vote>
       <vote_number>00207</vote_number>
       <vote_date>12-Sep</vote_date>
       <issue>H.R. 5895</issue>
