@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00212</vote_number>
+      <vote_date>18-Sep</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Conference Report
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 6157; A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00211</vote_number>
+      <vote_date>18-Sep</vote_date>
+      <issue>H.R. 6157</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Conference Report to Accompany H.R. 6157; A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00210</vote_number>
       <vote_date>17-Sep</vote_date>
       <issue>H.R. 6</issue>
