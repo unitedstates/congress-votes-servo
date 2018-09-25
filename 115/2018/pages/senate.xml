@@ -4,6 +4,40 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00214</vote_number>
+      <vote_date>24-Sep</vote_date>
+      <issue>PN2048</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Peter A. Feldman to be a Commisioner, Consumer Product Safety Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00213</vote_number>
+      <vote_date>24-Sep</vote_date>
+      <en_bloc>
+        <matter>
+          <issue>PN1448</issue>
+          <question>On the Nomination</question>
+          <result>Confirmed</result>
+        </matter>
+        <matter>
+          <issue>PN1447</issue>
+          <question>On the Nomination</question>
+          <result>Confirmed</result>
+        </matter>
+      </en_bloc>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Confirmation Jackie Wolcott, of Virginia, to be Representative of the United States of America to the International Atomic Energy Agency and to the Vienna Office of the United Nations</title>
+    </vote>
+    <vote>
       <vote_number>00212</vote_number>
       <vote_date>18-Sep</vote_date>
       <issue>H.R. 6157</issue>
