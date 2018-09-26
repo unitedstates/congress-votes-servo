@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00217</vote_number>
+      <vote_date>26-Sep</vote_date>
+      <issue>PN2073</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Confirmation Peter A. Feldman, of the District of Columbia, to be a Commissioner, Consumer Product Safety Commission</title>
+    </vote>
+    <vote>
       <vote_number>00216</vote_number>
       <vote_date>25-Sep</vote_date>
       <issue>PN2073</issue>
