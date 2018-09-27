@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00218</vote_number>
+      <vote_date>27-Sep</vote_date>
+      <issue>PN1677</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Confirmation: Lisa Porter, of Virgina, to be a Deputy Under Secretary of Defense</title>
+    </vote>
+    <vote>
       <vote_number>00217</vote_number>
       <vote_date>26-Sep</vote_date>
       <issue>PN2073</issue>
