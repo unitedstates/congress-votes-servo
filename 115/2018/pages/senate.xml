@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00221</vote_number>
+      <vote_date>03-Oct</vote_date>
+      <issue>H.R. 6</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 6; A bill to provide for opioid use disorder prevention, recovery, and treatment, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00220</vote_number>
       <vote_date>03-Oct</vote_date>
       <issue>H.R. 302</issue>
