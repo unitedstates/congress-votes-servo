@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00220</vote_number>
+      <vote_date>03-Oct</vote_date>
+      <issue>H.R. 302</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 302; A bill to provide protections for certain sports medicine professionals who provide certain medical services in a secondary State.</title>
+    </vote>
+    <vote>
       <vote_number>00219</vote_number>
       <vote_date>01-Oct</vote_date>
       <issue>H.R. 302</issue>
