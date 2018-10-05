@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00222</vote_number>
+      <vote_date>05-Oct</vote_date>
+      <issue>PN2259</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Brett M. Kavanaugh to be an Associate Justice of the Supreme Court of the United States</title>
+    </vote>
+    <vote>
       <vote_number>00221</vote_number>
       <vote_date>03-Oct</vote_date>
       <issue>H.R. 6</issue>
