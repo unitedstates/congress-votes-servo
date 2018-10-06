@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00223</vote_number>
+      <vote_date>06-Oct</vote_date>
+      <issue>PN2259</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Confirmation Brett M. Kavanaugh, of Maryland, to be an Associate Justice of the Supreme Court of the United States</title>
+    </vote>
+    <vote>
       <vote_number>00222</vote_number>
       <vote_date>05-Oct</vote_date>
       <issue>PN2259</issue>
