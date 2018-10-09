@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00224</vote_number>
+      <vote_date>09-Oct</vote_date>
+      <issue>S. 3021</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Concur in the House Amdts to S. 3021; To provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, to provide for water pollution control activities, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00223</vote_number>
       <vote_date>06-Oct</vote_date>
       <issue>PN2259</issue>
