@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00227</vote_number>
+      <vote_date>10-Oct</vote_date>
+      <issue>PN1407</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Jeffery Bossert Clark to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00226</vote_number>
       <vote_date>10-Oct</vote_date>
       <issue>S.J.Res. 63</issue>
