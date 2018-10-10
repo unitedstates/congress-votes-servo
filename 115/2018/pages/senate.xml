@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00226</vote_number>
+      <vote_date>10-Oct</vote_date>
+      <issue>S.J.Res. 63</issue>
+      <question>On the Joint Resolution
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>S.J. Res. 63; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Secretary of the Treasury, Secretary of Labor, and Secretary of Health and Human Services relating to "Short-Term, Limited Duration Insurance".</title>
+    </vote>
+    <vote>
+      <vote_number>00225</vote_number>
+      <vote_date>10-Oct</vote_date>
+      <issue>S. 3021</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendments to S. 3021; An Act to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, to provide for water pollution control activities, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00224</vote_number>
       <vote_date>09-Oct</vote_date>
       <issue>S. 3021</issue>
@@ -14,7 +40,7 @@
         <yeas>96</yeas>
         <nays>3</nays>
       </vote_tally>
-      <title>Motion to Invoke Cloture: Motion to Concur in the House Amendments to S. 3021; To provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, to provide for water pollution control activities, and for other purposes.</title>
+      <title>Motion to Invoke Cloture: Motion to Concur in the House Amendments to S. 3021; An Act to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, to provide for water pollution control activities, and for other purposes.</title>
     </vote>
     <vote>
       <vote_number>00223</vote_number>
