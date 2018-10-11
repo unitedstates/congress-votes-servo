@@ -4,6 +4,45 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00230</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1409</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Eric S. Dreiband, of Maryland, to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
+      <vote_number>00229</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1409</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Eric S. Dreiband, to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
+      <vote_number>00228</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1407</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation Jeffrey Bossert Clark, of Virginia, to be an Assistant Attorney General</title>
+    </vote>
+    <vote>
       <vote_number>00227</vote_number>
       <vote_date>10-Oct</vote_date>
       <issue>PN1407</issue>
