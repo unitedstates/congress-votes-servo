@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00232</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1964</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation Ryan Douglas Nelson, of Idaho, to be U.S. Circuit Judge for the Ninth Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00231</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1843</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation David James Porter, of Pennsylvania, to be U.S. Circuit Judge for the Third Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00230</vote_number>
       <vote_date>11-Oct</vote_date>
       <issue>PN1409</issue>
