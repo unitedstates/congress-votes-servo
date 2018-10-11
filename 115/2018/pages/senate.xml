@@ -4,6 +4,58 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00236</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1415</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: Michael Joseph Juneau, of Louisiana, to be U.S. District Judge for the Western District of Louisiana</title>
+    </vote>
+    <vote>
+      <vote_number>00235</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1406</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Confirmation: Liles Clifton Burke, of Alabama, to be U.S. District Judge for the Northern District of Alabama</title>
+    </vote>
+    <vote>
+      <vote_number>00234</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1420</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: William M. Ray II, of Georgia, to be U.S. District Judge for the Northern District of Georgia</title>
+    </vote>
+    <vote>
+      <vote_number>00233</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1900</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Confirmation: Richard J. Sullivan, of New York, to be U.S. District Judge for the Second Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00232</vote_number>
       <vote_date>11-Oct</vote_date>
       <issue>PN1964</issue>
