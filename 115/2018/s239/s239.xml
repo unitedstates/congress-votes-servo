@@ -2,22 +2,22 @@
   <congress>115</congress>
   <session>2</session>
   <congress_year>2018</congress_year>
-  <vote_number>236</vote_number>
-  <vote_date>October 11, 2018,  06:19 PM</vote_date>
-  <modify_date>October 11, 2018,  09:04 PM</modify_date>
-  <vote_question_text>On the Nomination PN1415</vote_question_text>
-  <vote_document_text>Michael Joseph Juneau, of Louisiana, to be United States District Judge for the Western District of Louisiana</vote_document_text>
-  <vote_result_text>Nomination Confirmed (54-41)</vote_result_text>
+  <vote_number>239</vote_number>
+  <vote_date>October 11, 2018,  07:01 PM</vote_date>
+  <modify_date>October 11, 2018,  09:08 PM</modify_date>
+  <vote_question_text>On the Nomination PN1644</vote_question_text>
+  <vote_document_text>Thomas S. Kleeh, of West Virginia, to be United States District Judge for the Northern District of West Virginia</vote_document_text>
+  <vote_result_text>Nomination Confirmed (65-30)</vote_result_text>
   <question>On the Nomination</question>
-  <vote_title>Confirmation Michael Joseph Juneau, of Louisiana, to be U.S. District Judge for the Western District of Louisiana</vote_title>
+  <vote_title>Confirmation Thomas S. Kleeh, of West Virginia, to be U.S. District Judge for the Northern District of West Virginia</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
-    <document_number>1415</document_number>
-    <document_name>PN1415</document_name>
-    <document_title>Michael Joseph Juneau, of Louisiana, to be United States District Judge for the Western District of Louisiana</document_title>
+    <document_number>1644</document_number>
+    <document_name>PN1644</document_name>
+    <document_title>Thomas S. Kleeh, of West Virginia, to be United States District Judge for the Northern District of West Virginia</document_title>
     <document_short_title/>
   </document>
   <amendment>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>54</yeas>
-    <nays>41</nays>
+    <yeas>65</yeas>
+    <nays>30</nays>
     <present/>
     <absent>5</absent>
   </count>
@@ -162,7 +162,7 @@
       <first_name>Thomas</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S277</lis_member_id>
     </member>
     <member>
@@ -198,7 +198,7 @@
       <first_name>Christopher</first_name>
       <party>D</party>
       <state>DE</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S337</lis_member_id>
     </member>
     <member>
@@ -387,7 +387,7 @@
       <first_name>Maggie</first_name>
       <party>D</party>
       <state>NH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S388</lis_member_id>
     </member>
     <member>
@@ -513,7 +513,7 @@
       <first_name>Angus</first_name>
       <party>I</party>
       <state>ME</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S363</lis_member_id>
     </member>
     <member>
@@ -549,7 +549,7 @@
       <first_name>Patrick</first_name>
       <party>D</party>
       <state>VT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S057</lis_member_id>
     </member>
     <member>
@@ -639,7 +639,7 @@
       <first_name>Christopher</first_name>
       <party>D</party>
       <state>CT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S364</lis_member_id>
     </member>
     <member>
@@ -702,7 +702,7 @@
       <first_name>John</first_name>
       <party>D</party>
       <state>RI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S259</lis_member_id>
     </member>
     <member>
@@ -792,7 +792,7 @@
       <first_name>Jeanne</first_name>
       <party>D</party>
       <state>NH</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S324</lis_member_id>
     </member>
     <member>
@@ -837,7 +837,7 @@
       <first_name>Jon</first_name>
       <party>D</party>
       <state>MT</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S314</lis_member_id>
     </member>
     <member>
@@ -891,7 +891,7 @@
       <first_name>Mark</first_name>
       <party>D</party>
       <state>VA</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S327</lis_member_id>
     </member>
     <member>
@@ -909,7 +909,7 @@
       <first_name>Sheldon</first_name>
       <party>D</party>
       <state>RI</state>
-      <vote_cast>Nay</vote_cast>
+      <vote_cast>Yea</vote_cast>
       <lis_member_id>S316</lis_member_id>
     </member>
     <member>

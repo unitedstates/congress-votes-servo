@@ -4,6 +4,45 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00239</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1644</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Confirmation Thomas S. Kleeh, of West Virginia, to be U.S. District Judge for the Northern District of West Virginia</title>
+    </vote>
+    <vote>
+      <vote_number>00238</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1421</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation Eli Jeremy Richardson, of Tennessee, to be U.S. District Judge for the Middle District of Tennessee</title>
+    </vote>
+    <vote>
+      <vote_number>00237</vote_number>
+      <vote_date>11-Oct</vote_date>
+      <issue>PN1419</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation Mark Saalfield Norris, Sr., of Tennessee, to be U.S. District Judge for the Western District of Tennessee</title>
+    </vote>
+    <vote>
       <vote_number>00236</vote_number>
       <vote_date>11-Oct</vote_date>
       <issue>PN1415</issue>
@@ -14,7 +53,7 @@
         <yeas>54</yeas>
         <nays>41</nays>
       </vote_tally>
-      <title>Confirmation: Michael Joseph Juneau, of Louisiana, to be U.S. District Judge for the Western District of Louisiana</title>
+      <title>Confirmation Michael Joseph Juneau, of Louisiana, to be U.S. District Judge for the Western District of Louisiana</title>
     </vote>
     <vote>
       <vote_number>00235</vote_number>
@@ -27,7 +66,7 @@
         <yeas>55</yeas>
         <nays>40</nays>
       </vote_tally>
-      <title>Confirmation: Liles Clifton Burke, of Alabama, to be U.S. District Judge for the Northern District of Alabama</title>
+      <title>Confirmation Liles Clifton Burke, of Alabama, to be U.S. District Judge for the Northern District of Alabama</title>
     </vote>
     <vote>
       <vote_number>00234</vote_number>
@@ -40,7 +79,7 @@
         <yeas>54</yeas>
         <nays>41</nays>
       </vote_tally>
-      <title>Confirmation: William M. Ray II, of Georgia, to be U.S. District Judge for the Northern District of Georgia</title>
+      <title>Confirmation William M. Ray II, of Georgia, to be U.S. District Judge for the Northern District of Georgia</title>
     </vote>
     <vote>
       <vote_number>00233</vote_number>
@@ -53,7 +92,7 @@
         <yeas>79</yeas>
         <nays>16</nays>
       </vote_tally>
-      <title>Confirmation: Richard J. Sullivan, of New York, to be U.S. District Judge for the Second Circuit</title>
+      <title>Confirmation Richard J. Sullivan, of New York, to be U.S. District Judge for the Second Circuit</title>
     </vote>
     <vote>
       <vote_number>00232</vote_number>
@@ -92,7 +131,7 @@
         <yeas>50</yeas>
         <nays>47</nays>
       </vote_tally>
-      <title>Confirmation: Eric S. Dreiband, of Maryland, to be an Assistant Attorney General</title>
+      <title>Confirmation Eric S. Dreiband, of Maryland, to be an Assistant Attorney General</title>
     </vote>
     <vote>
       <vote_number>00229</vote_number>

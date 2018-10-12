@@ -2,22 +2,22 @@
   <congress>115</congress>
   <session>2</session>
   <congress_year>2018</congress_year>
-  <vote_number>236</vote_number>
-  <vote_date>October 11, 2018,  06:19 PM</vote_date>
-  <modify_date>October 11, 2018,  09:04 PM</modify_date>
-  <vote_question_text>On the Nomination PN1415</vote_question_text>
-  <vote_document_text>Michael Joseph Juneau, of Louisiana, to be United States District Judge for the Western District of Louisiana</vote_document_text>
-  <vote_result_text>Nomination Confirmed (54-41)</vote_result_text>
+  <vote_number>238</vote_number>
+  <vote_date>October 11, 2018,  06:48 PM</vote_date>
+  <modify_date>October 11, 2018,  09:06 PM</modify_date>
+  <vote_question_text>On the Nomination PN1421</vote_question_text>
+  <vote_document_text>Eli Jeremy Richardson, of Tennessee, to be United States District Judge for the Middle District of Tennessee</vote_document_text>
+  <vote_result_text>Nomination Confirmed (52-43)</vote_result_text>
   <question>On the Nomination</question>
-  <vote_title>Confirmation Michael Joseph Juneau, of Louisiana, to be U.S. District Judge for the Western District of Louisiana</vote_title>
+  <vote_title>Confirmation Eli Jeremy Richardson, of Tennessee, to be U.S. District Judge for the Middle District of Tennessee</vote_title>
   <majority_requirement>1/2</majority_requirement>
   <vote_result>Nomination Confirmed</vote_result>
   <document>
     <document_congress>115</document_congress>
     <document_type>PN</document_type>
-    <document_number>1415</document_number>
-    <document_name>PN1415</document_name>
-    <document_title>Michael Joseph Juneau, of Louisiana, to be United States District Judge for the Western District of Louisiana</document_title>
+    <document_number>1421</document_number>
+    <document_name>PN1421</document_name>
+    <document_title>Eli Jeremy Richardson, of Tennessee, to be United States District Judge for the Middle District of Tennessee</document_title>
     <document_short_title/>
   </document>
   <amendment>
@@ -29,8 +29,8 @@
     <amendment_purpose>No Statement of Purpose on File.</amendment_purpose>
   </amendment>
   <count>
-    <yeas>54</yeas>
-    <nays>41</nays>
+    <yeas>52</yeas>
+    <nays>43</nays>
     <present/>
     <absent>5</absent>
   </count>
@@ -270,7 +270,7 @@
       <first_name>Joe</first_name>
       <party>D</party>
       <state>IN</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S356</lis_member_id>
     </member>
     <member>
@@ -486,7 +486,7 @@
       <first_name>Doug</first_name>
       <party>D</party>
       <state>AL</state>
-      <vote_cast>Yea</vote_cast>
+      <vote_cast>Nay</vote_cast>
       <lis_member_id>S393</lis_member_id>
     </member>
     <member>
