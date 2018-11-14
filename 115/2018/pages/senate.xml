@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00242</vote_number>
+      <vote_date>14-Nov</vote_date>
+      <issue>PN1860</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>63</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Michelle Bowman, of Kansas, to be a Member of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
+      <vote_number>00241</vote_number>
+      <vote_date>14-Nov</vote_date>
+      <issue>S. 140</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to S. 140 with an Amendment (SA 4054); A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund.</title>
+    </vote>
+    <vote>
       <vote_number>00240</vote_number>
       <vote_date>13-Nov</vote_date>
       <issue>S. 140</issue>
