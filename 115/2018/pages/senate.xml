@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00244</vote_number>
+      <vote_date>15-Nov</vote_date>
+      <issue>PN1860</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Confirmation Michelle Bowman, of Kansas, to be a Member of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
       <vote_number>00243</vote_number>
       <vote_date>15-Nov</vote_date>
       <issue>S.J.Res. 65</issue>
