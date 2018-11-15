@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00243</vote_number>
+      <vote_date>15-Nov</vote_date>
+      <issue>S.J.Res. 65</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Discharge S.J. Res. 65; A joint resolution relating to the disapproval of the proposed export to the Government of the Kingdom of Bahrain of certain defense articles and services.</title>
+    </vote>
+    <vote>
       <vote_number>00242</vote_number>
       <vote_date>14-Nov</vote_date>
       <issue>PN1860</issue>
