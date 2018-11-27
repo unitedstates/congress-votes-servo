@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00245</vote_number>
+      <vote_date>26-Nov</vote_date>
+      <issue>PN889</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Stephen Alexander Vaden, of Tennessee, to be General Counsel of the Department of Agriculture</title>
+    </vote>
+    <vote>
       <vote_number>00244</vote_number>
       <vote_date>15-Nov</vote_date>
       <issue>PN1860</issue>
