@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00247</vote_number>
+      <vote_date>27-Nov</vote_date>
+      <issue>PN2049</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Karen Dunn Kelley, of Pennsylvania, to be Deputy Secretary of Commerce</title>
+    </vote>
+    <vote>
+      <vote_number>00246</vote_number>
+      <vote_date>27-Nov</vote_date>
+      <issue>PN889</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation Stephen Alexander Vaden, of Tennessee, to be General Counsel of the Department of Agriculture</title>
+    </vote>
+    <vote>
       <vote_number>00245</vote_number>
       <vote_date>26-Nov</vote_date>
       <issue>PN889</issue>
