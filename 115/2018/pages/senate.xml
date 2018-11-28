@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00249</vote_number>
+      <vote_date>28-Nov</vote_date>
+      <issue>PN1412</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Thomas Alvin Farr, of North Carolina, to be U.S. District Judge for the Eastern District of North Carolina</title>
+    </vote>
+    <vote>
       <vote_number>00248</vote_number>
       <vote_date>28-Nov</vote_date>
       <issue>PN2049</issue>
