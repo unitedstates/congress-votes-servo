@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00248</vote_number>
+      <vote_date>28-Nov</vote_date>
+      <issue>PN2049</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Confirmation Karen Dunn Kelley, of Pennsylvania, to be Deputy Secretary of Commerce</title>
+    </vote>
+    <vote>
       <vote_number>00247</vote_number>
       <vote_date>27-Nov</vote_date>
       <issue>PN2049</issue>
