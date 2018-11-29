@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00252</vote_number>
+      <vote_date>29-Nov</vote_date>
+      <issue>PN2170</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Kathleen Laura Kraninger to be Director, Bureau of Consumer Financial Protection</title>
+    </vote>
+    <vote>
       <vote_number>00251</vote_number>
       <vote_date>29-Nov</vote_date>
       <issue>PN2117</issue>
