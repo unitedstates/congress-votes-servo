@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00253</vote_number>
+      <vote_date>05-Dec</vote_date>
+      <issue>PN2556</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Bernard L. McNamee, of Virginia, to be a Member of the Federal Energy Regulatory Commission</title>
+    </vote>
+    <vote>
       <vote_number>00252</vote_number>
       <vote_date>29-Nov</vote_date>
       <issue>PN2170</issue>
