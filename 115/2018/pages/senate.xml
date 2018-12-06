@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00255</vote_number>
+      <vote_date>06-Dec</vote_date>
+      <issue>PN2170</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Confirmation Kathleen Laura Kraninger, of Ohio, to be Director of the Bureau of Consumer Financial Protection</title>
+    </vote>
+    <vote>
       <vote_number>00254</vote_number>
       <vote_date>06-Dec</vote_date>
       <issue>PN2556</issue>
