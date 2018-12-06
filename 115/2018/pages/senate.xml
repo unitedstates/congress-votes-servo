@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00254</vote_number>
+      <vote_date>06-Dec</vote_date>
+      <issue>PN2556</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Confirmation Bernard L. McNamee, of Virginia, to be a Member of the Federal Energy Regulatory Commission</title>
+    </vote>
+    <vote>
       <vote_number>00253</vote_number>
       <vote_date>05-Dec</vote_date>
       <issue>PN2556</issue>
