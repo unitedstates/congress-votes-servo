@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00258</vote_number>
+      <vote_date>11-Dec</vote_date>
+      <issue>PN2117</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Confirmation Jonathan A. Kobes, of South Dakota, to be U.S. Circuit Judge for the Eighth Circuit</title>
+    </vote>
+    <vote>
       <vote_number>00257</vote_number>
       <vote_date>11-Dec</vote_date>
       <issue>PN1803</issue>
