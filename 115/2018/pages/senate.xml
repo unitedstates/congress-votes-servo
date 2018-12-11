@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00257</vote_number>
+      <vote_date>11-Dec</vote_date>
+      <issue>PN1803</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation: Justin George Muzinich, of New York, to be Deputy Secretary of the Treasury</title>
+    </vote>
+    <vote>
       <vote_number>00256</vote_number>
       <vote_date>10-Dec</vote_date>
       <issue>PN1803</issue>
