@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00259</vote_number>
+      <vote_date>11-Dec</vote_date>
+      <issue>H.R. 2</issue>
+      <question>On the Conference Report
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 2; A bill to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2023, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00258</vote_number>
       <vote_date>11-Dec</vote_date>
       <issue>PN2117</issue>
