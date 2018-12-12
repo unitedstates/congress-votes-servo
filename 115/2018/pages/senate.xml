@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00262</vote_number>
+      <vote_date>12-Dec</vote_date>
+      <issue>S.J.Res. 54</issue>
+      <question>On the Point of Order
+         </question>
+      <result>Well Taken</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Is the Underlying Point of Order Well Taken that Amendments Under Section 50 U.S.C. 1546a be Germane to the Underlying Joint Resolution; A joint resolution to direct the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress.</title>
+    </vote>
+    <vote>
+      <vote_number>00261</vote_number>
+      <vote_date>12-Dec</vote_date>
+      <issue>S.J.Res. 54</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Proceed S.J. Res. 54; A joint resolution to direct the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress.</title>
+    </vote>
+    <vote>
       <vote_number>00260</vote_number>
       <vote_date>12-Dec</vote_date>
       <issue>S.J.Res. 64</issue>
