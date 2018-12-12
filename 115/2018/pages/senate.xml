@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00260</vote_number>
+      <vote_date>12-Dec</vote_date>
+      <issue>S.J.Res. 64</issue>
+      <question>On the Joint Resolution
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>S.J. Res. 64; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Treasury relating to "Returns by Exempt Organizations and Returns by Certain Non-Exempt Organizations".</title>
+    </vote>
+    <vote>
       <vote_number>00259</vote_number>
       <vote_date>11-Dec</vote_date>
       <issue>H.R. 2</issue>
