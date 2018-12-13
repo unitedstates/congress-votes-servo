@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00266</vote_number>
+      <vote_date>13-Dec</vote_date>
+      <issue>S.J.Res. 54</issue>
+      <question>On the Joint Resolution
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>S.J. Res. 54, As Amended; A joint resolution to direct the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress.</title>
+    </vote>
+    <vote>
+      <vote_number>00265</vote_number>
+      <vote_date>13-Dec</vote_date>
+      <issue>S.J.Res. 54</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 4098</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>54</nays>
+      </vote_tally>
+      <title>Cotton Amdt. No. 4098; To clarify that the requirement to remove United States Armed Forces does not apply to forces engaged in operations to support efforts to disrupt Houthi attacks against locations outside of Yemen, such as ballistic missile attacks, unmanned aerial vehicle attacks, maritime attacks against United States or international vessels, or terrorist attacks against civilian targets.</title>
+    </vote>
+    <vote>
       <vote_number>00264</vote_number>
       <vote_date>13-Dec</vote_date>
       <issue>S.J.Res. 54</issue>
