@@ -4,6 +4,32 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00264</vote_number>
+      <vote_date>13-Dec</vote_date>
+      <issue>S.J.Res. 54</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 4096</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 4096 As Modified; To provide that nothing in the joint resolution shall be construed to influence or disrupt any military operations and cooperation with Israel.</title>
+    </vote>
+    <vote>
+      <vote_number>00263</vote_number>
+      <vote_date>13-Dec</vote_date>
+      <issue>S.J.Res. 54</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 4080</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Young Amdt. No. 4080; To clarify that this resolution prohibits United States Armed Forces from refueling non-United States aircraft conducting missions as part of the ongoing civil war in Yemen.</title>
+    </vote>
+    <vote>
       <vote_number>00262</vote_number>
       <vote_date>12-Dec</vote_date>
       <issue>S.J.Res. 54</issue>
