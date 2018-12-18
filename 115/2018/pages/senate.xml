@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00267</vote_number>
+      <vote_date>17-Dec</vote_date>
+      <issue>S. 756</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 756 with an Amendment; A bill to reauthorize and amend the Marine Debris Act to promote international action to reduce marine debris, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00266</vote_number>
       <vote_date>13-Dec</vote_date>
       <issue>S.J.Res. 54</issue>
