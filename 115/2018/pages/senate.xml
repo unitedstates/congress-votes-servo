@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00272</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN2209</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re: Joseph Maguire to be Director of the National Counterterrorism Center, Office of the Director of National Intelligence</title>
+    </vote>
+    <vote>
       <vote_number>00271</vote_number>
       <vote_date>18-Dec</vote_date>
       <issue>S. 756</issue>
