@@ -4,6 +4,58 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00271</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>S. 756</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment with an Amendment; A bill to reauthorize and amend the Marine Debris Act to promote international action to reduce marine debris, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00270</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>S. 756</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 4109</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>37</yeas>
+        <nays>62</nays>
+      </vote_tally>
+      <title>Kennedy Amendment #4109 Division III; To require the Director of the Bureau of Prisons to notify each victim of the offense for which the prisoner is imprisoned the date on which the prisoner will be released.</title>
+    </vote>
+    <vote>
+      <vote_number>00269</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>S. 756</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 4109</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>33</yeas>
+        <nays>66</nays>
+      </vote_tally>
+      <title>Kennedy Amendment #4109 Division II; To require the Director of the Bureau of Prisons to notify each victim of the offense for which the prisoner is imprisoned the date on which the prisoner will be released.</title>
+    </vote>
+    <vote>
+      <vote_number>00268</vote_number>
+      <vote_date>18-Dec</vote_date>
+      <issue>S. 756</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 4109</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>32</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Kennedy Amendmeny #4109 Divison I; To require the Director of the Bureau of Prisons to notify each victim of the offense for which the prisoner is imprisoned the date on which the prisoner will be released.</title>
+    </vote>
+    <vote>
       <vote_number>00267</vote_number>
       <vote_date>17-Dec</vote_date>
       <issue>S. 756</issue>
