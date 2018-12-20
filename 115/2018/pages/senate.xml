@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00273</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>H.R. 695</issue>
+      <question>On the Motion for Attendance
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>71</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion to Instruct the Sergeant at Arms to Request the Attendance of Absentee Senators; To amend the National Child Protection Act of 1993 to establish a voluntary national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00272</vote_number>
       <vote_date>19-Dec</vote_date>
       <issue>PN2209</issue>
