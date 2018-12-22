@@ -4,6 +4,19 @@
   <congress_year>2018</congress_year>
   <votes>
     <vote>
+      <vote_number>00274</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>H.R. 695</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the House Message to Accompany H.R. 695; To amend the National Child Protection Act of 1993 to establish a voluntary national criminal history background check system and criminal history review program for certain individuals who, related to their employment, have access to children, the elderly, or individuals with disabilities, and for other purposes.</title>
+    </vote>
+    <vote>
       <vote_number>00273</vote_number>
       <vote_date>19-Dec</vote_date>
       <issue>H.R. 695</issue>
